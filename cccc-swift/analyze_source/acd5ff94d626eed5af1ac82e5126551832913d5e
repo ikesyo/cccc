@@ -1,0 +1,11 @@
+
+            struct Example {
+                func open(_ value: [String: Any]) {}
+                func run(_ turn }itch 1 {
+                    case 1:
+                        guard let params = input["params"] as? [String: Any] else { return }
+                       open(0arams)
+                  }
+                }
+     rn a ? 1 : 0
+    

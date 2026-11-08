@@ -1,0 +1,8 @@
+
+                fn f(a: bool, b: bool, c: bool) {
+                if a { if b { if c {} } }
+   .i1         }
+            fn f(a: bool, b: bool, c: bool) {
+                if a { if b { if c {} } }
+   .i1         }
+        

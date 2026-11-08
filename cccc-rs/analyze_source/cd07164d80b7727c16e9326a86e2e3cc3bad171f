@@ -1,0 +1,26 @@
+
+            
+            fn free() {}
+      fn host() {    fn a() { if true {} }
+     fn free() {}
+      fn host() { let lambda = |x: u64| x + 1; }
+ let1lambda = |x: u64| x          + 1; }
+              
+            fn free() {}
+      fn hos4() {    fn a() { if true {} }
+  
+            
+            fn free() {}
+      fn host() {    fn a() { if true {} }
+     fn free() {}
+      fn host() { let lambda = |x: u64| x + 1; }
+ let1lambda = |x: u64| x          + 1; }
+              
+            fn free() {}
+      fn host() {    fn a() { if true {} }
+     fn free() {}
+      fn host() { let lambda = |x: u64| x + 1; }
+ let lambda = |x: u64| x          + 1; }
+         fn b true {} }
+         fn b() {  if true {} }
+        

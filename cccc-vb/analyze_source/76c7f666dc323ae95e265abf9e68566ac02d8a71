@@ -1,0 +1,13 @@
+
+ublic Class C
+    <DllImport("user32.dll")>
+    Publichandled Function Run(<Out> ByRef a As Integer(),H()
+ DoWork()
+       ext.StringBuilder()
+        Dim e =A New Integ_r() {2, If(x, 2, 3)}
+    0 Step 2
+       Do
+    Loop  While
+    For i = 0 To 1
+        Fo End Function
+End Class

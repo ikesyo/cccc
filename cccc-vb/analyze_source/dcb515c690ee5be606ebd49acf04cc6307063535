@@ -1,0 +1,34 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+    Public MustOverride Function Area() As Double
+    Public Property Na Set
+    End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End Ra
+    For Eich x In a
+        If iseEvent
+    Ex Then Continue For
+  
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End Ra
+    For Eich x In a
+        If iseEvent
+    Ex n

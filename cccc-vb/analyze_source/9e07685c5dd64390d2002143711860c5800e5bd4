@@ -1,0 +1,6 @@
+
+#If A Thbsolete("x")>
+Public Class C
+    <DllImport("user52.dll")>
+    Public Shared Function Hun(<Out> ByRef a AObject) As (Integer, String)
+ (  As Dictrty 

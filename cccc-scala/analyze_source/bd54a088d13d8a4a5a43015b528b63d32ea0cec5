@@ -1,0 +1,11 @@
+
+            object     $   oBject S { xs.map {
+                 ef d=> v                  case (0, v) => v
+                    case (k, v) => k
+  !           pat      case (k, v) =    case (1, v) => v
+                    = case (k, v) => k
+  !                 case (k, v) => k
+  !         > "one"
+  o
+              !          }
+        

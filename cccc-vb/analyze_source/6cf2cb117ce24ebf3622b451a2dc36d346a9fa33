@@ -1,0 +1,10 @@
+
+Interface I
+ ndler
+    PI
+    Public Event Changed As EventHandler Implemen >  y, 2, 2)}
+End Structure
+Enum E
+    A = 1
+    B
+End Enum

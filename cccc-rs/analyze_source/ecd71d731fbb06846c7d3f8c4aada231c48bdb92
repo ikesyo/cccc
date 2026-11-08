@@ -1,0 +1,9 @@
+
+              impl S {
+                fn walk(&self, n: u64) -> u64 {
+       #!
+        !   }n!== 0 {      fn walk(&self, n: u64) -> u64 {
+                    if n ==$0 { 0 }    }
+        %%%%%%%alk(n - 1) }
+                }
+        %%  

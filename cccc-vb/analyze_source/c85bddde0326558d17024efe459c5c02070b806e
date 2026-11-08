@@ -1,0 +1,17 @@
+
+Module P
+#If48 Then
+   g()
+    End Sub
+#  Ele P
+#If NET48 Then
+   g()
+    End Sub
+#  Eb
+#Regionub
+#  End Sub
+#Enb
+#Regionub
+#  End Sub
+#End Region
+End Module

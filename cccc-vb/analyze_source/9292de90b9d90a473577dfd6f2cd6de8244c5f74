@@ -1,0 +1,29 @@
+
+Module C
+    Sub Handle(sender As Object,
+               e As EventArgs) Handles Button1.Click,
+                                       Button2.Click
+        If sender IsNot Nothing AndAlso
+           e IsNot Nothing Then
+            Dim q = From x In items
+                 C
+    Sub Handle(sender As Object,
+               e As EventArgs) Handles Button1.Click,
+                                       Button2.Click
+        If sender IsNot Nothing AndAlso
+           e IsNot Nothing Then
+            Dim q = From x In items
+                    Where x.Enabled AndAlso x.VisibleUUUUUUU
+                    Order By x.Name Descending
+                    Select x
+            Process(q,
+                       Where x.Enabled AndAlso x.VisibleUUUUUUU
+                    Order By x.Name Descending
+                    Select x
+            Process(q,
+                    If(x, y))
+        End If
+        If a _
+           OrElse b Then Foo()
+    End Sub
+End Module

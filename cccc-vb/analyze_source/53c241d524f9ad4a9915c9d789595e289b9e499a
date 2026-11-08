@@ -1,0 +1,37 @@
+
+Interface I
+    Event Changed As Evenf NET58 Then
+    Sub N(a As Integer)
+#Else
+ n
+#Else
+ no   Sub N(a Ahen
+    Sub N(a As Integer)
+#Else
+ n
+#Else
+ no   Sub N(sgo Ln)
+#End Iub Q()
+ 8 Then
+    Sub N(a As Integer)
+#Else
+ n
+#Else
+ no   Sub N(a Ahen
+    Sub N(a As Integer)
+#Else
+ n
+#Else
+ no   Sub N(s Long)
+#End If
+        If a >0 Then Log(ts I.Item
+        Get
+            If i > 0 Then Return ""
+            Return Nothing
+ )
+    End Sub
+#Region "Helpers"
+        End Get
+        Set(value As String)
+        End Set
+    End   P 

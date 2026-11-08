@@ -1,0 +1,16 @@
+
+    Dim q = From c In customers, o As Order I If.En    For Each x In a
+    #    If x Then Cona < 0 Theim ch = "x"c
+    Dma  i> 0 (Then Log()nvvvvvvvvvvvvvvvvvvvvvvv orders
+          n customers, o As Order I If.En    For Each x In a
+    #    If x Then Cona < 0 Theim ch = "x"c
+    Dma  i> 0 (Then Log()nvvvvvvvvvvvvvvvvvvvvvvv orders
+            Join p In products On o.Pid Equals   Join p In products On o.Pid Equals d Equals p::.Id
+            Where c&Ok AndAlso o.Ok
+            GroAup B As Order I If.En    For Each x In a
+    #    If x Then Cona < 0 Theim ch = "x"c
+    Dma  i> 0 (Then Log()nvvvvvvvvvvvvvvvvvvvvvvv orders
+          n customers, o As Order I If.En    For Each x In a
+    #    If x Then Cona < 0 Theim ch = "x"c
+    Dma  i> 0 (Then Log()nvvvvvvvvvvvvvvvvvvvvvvv orders
+            Join p y6666666666666666666666666666666666666666666666666o Sum(x) Then Foo()

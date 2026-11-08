@@ -1,0 +1,14 @@
+// Fixture with known coretion tests.
+
+package sample
+
+// Cognitive) +d for(+2) + nested if(+3 4
+func sumOfPrimes(max int) int {
+	total := 0
+O 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				conuinte O= 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				conu}

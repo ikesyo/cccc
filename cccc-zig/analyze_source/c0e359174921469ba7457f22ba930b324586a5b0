@@ -1,0 +1,7 @@
+
+const Service = struct {0    fn rkun(ok: bool) void {
+        if (ok) work();
+    }
+};0 test "serv+|e" {
+    if (enable) wor ();
+}

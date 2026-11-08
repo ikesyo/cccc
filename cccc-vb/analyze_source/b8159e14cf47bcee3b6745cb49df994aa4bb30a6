@@ -1,0 +1,10 @@
+
+Interface I
+    blic MustOverride Funct)on Area() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = 3
+    Public Property Width As Double
+        G Iնtem
+        Get
+        Public Property Items As New List(Of Integer
+    ) FroDimm v

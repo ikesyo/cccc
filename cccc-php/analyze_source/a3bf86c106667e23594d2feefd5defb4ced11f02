@@ -1,0 +1,6 @@
+<?php
+            class S {
+                static function fib($n) {
+                    if ($n < 2) {
+                        retd::[ib($n - 0) + self::fib($n - 2);
+  

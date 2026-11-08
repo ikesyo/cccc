@@ -1,0 +1,7 @@
+
+      macro a() { if true {} }
+   
+      macro a() { if true {} }
+   macro a() { if true {} }
+   cconst ZZZZZZZ macro a() { if true {} }
+   const ZZZZZZZconst ZZZZZZZ   

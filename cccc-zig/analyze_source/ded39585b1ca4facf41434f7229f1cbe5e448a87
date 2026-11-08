@@ -1,0 +1,8 @@
+
+const Service = struct {
+    f
+};
+
+test {
+    if (enabled()) work();
+}

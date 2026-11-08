@@ -1,0 +1,12 @@
+
+    Try
+        If a Then FooThen Bar()
+     Catch
+    Finally
+   bhneT  
+    Finally
+ )
+    Catch
+    Finally
+        Baz()
+    End Try

@@ -1,0 +1,4 @@
+
+sucoesqenutb host {
+    return sort {  $! ? } @xs;
+}

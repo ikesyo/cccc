@@ -1,0 +1,18 @@
+
+            fn f(a: bool, b: bool) {
+      fn f(a: bool, b: bool) {
+  
+            
+            fn free() {}
+      fn host() {    fn a() { if true {} }
+     fn free() {}
+      fn host() { let lambda = |x: u64| x + 1; }
+ let lambda = |x: u64| x          + 1; }
+         fn b() {  if true {} }
+                          !   if a && b { for _ in 0n =..1 {} } else if b {y
+        ----------------------------------for _ in 0..1 {} } else if b {}
+            }
+                    !   if a && b { for _ in 0n =..1 {} } else if b {y
+        ----------------------------------for _ in 0..1 {} } else if b {}
+            }
+        

@@ -1,0 +1,40 @@
+
+do*iii%ii%ii=iiiiiiu%ii%iiiii%d
+d
+do*iii%ii%i~o*iiiuiii%
+do*iii%ii%iiiii%ii%nr%ii%iiiii%
+dmi%ii%iiii=iiiiiiu%ii%iiiii%d
+d
+fn walk(n: u32) u32 {
+    if (n == 0) return 0;
+    return walk(n - 1);
+}
+
+fn scan(item.?,[]const u8) voi2 {
+    outer: for (items) |_| {
+       }
+}
+iiiiiu%iiAi
+i%iiiii%d
+d
+do*iiii=iiiiiiu%ii%iiiii%d
+d
+do*iii%ii%iio*iiiuiii%
+do*iii%ii%iiiii%ii%nr%ii%iiiii%
+dii%ii%iiii=iiiiiiu%ii%iiiii%d
+d
+fn walk(n: u32) u32 {
+    if (n == 0) return 0;
+    return walk(n - 1);
+}
+
+fn scan(item.?,[]const u8) void {
+    outer: for (items) |_| {
+      r}
+}
+iiiiiu%iiAi
+i%iiiii%dii%d
+d
+do*i%ii%iiii=iiiiiiu%ii%iiiii%d
+d
+do*ii

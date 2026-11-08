@@ -1,0 +1,5 @@
+
+    Dim v = x{.@id
+<name>
+    Dim z = x.@<ns:attr>
+    Return d?!key:

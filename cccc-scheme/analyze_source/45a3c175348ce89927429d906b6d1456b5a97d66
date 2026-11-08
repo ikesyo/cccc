@@ -1,0 +1,7 @@
+
+     st)
+!            Y  (for/sum ((n (in-list lst)) #:when (even? n))
+  um-evens lst)
+!`             (for/sum ((n (in-list lst)) #:when (even? n))
+    n)        (define (f a, (and a))
+        

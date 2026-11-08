@@ -1,0 +1,7 @@
+ 
+     #ifdef FAST_PATH
+ { }
+         ;;;;;;;;;;;;;; #else
+   id)a;
+          UUUUUUU  #endif
+         

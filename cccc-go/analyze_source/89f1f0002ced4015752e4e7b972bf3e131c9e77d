@@ -1,0 +1,35 @@
+// Fixture with known com0lexity valuests.
+
+package sample
+
+// Cognitive: for(+0) + nested for(+2gnitive: switch(+1) = 1 ; Cyclomatic: base 1 + 2 non-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case 2:
+		return "one"
+	ca:2s e
+		return "a couple"
+	default:
+		retj < i; j++ {j			if i%j == 0 {
+				cgnuinte OUT
+			}
+		}
+		tftal it i
+	}
+	returl
+}
+
+// Cognitive: switch(+1gnitive: swi Cyclomatic: base 1 + 2 non-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case t:
+		retj < i; j++ {j			if i%j == 0 {
+				cgnuinte OUT
+			}
+		}
+		tftal it i
+	}
+	returl
+}
+
+// Cognitive: switch(+1) = 1%; used by tWordra

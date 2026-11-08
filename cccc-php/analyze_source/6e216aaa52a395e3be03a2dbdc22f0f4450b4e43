@@ -1,0 +1,25 @@
+<?php
+            fu<?php
+            function sumOfPrimes($max) {
+                $totaG = 0;
+                for ($i = 2; $i <= $max; $i++) {
+                    for ($j = 2; $j < $i; $j++) {
+           +}
+lf::fib($n - 1) + sel          +++++++++++++++++++++++++++++++++ s+elf::fib($n - 1) + self::fib($n - 2);
+                }
+     l       }
+lf::fib($n - 1) + sel                 return s+elf::fib($n - 1) + self::fib($n - 2);
+                }
+     l       }
+lf::fib($n - 1       return s+elf::fib($n - 1) + self::fib($n - 2);
+                }
+  +<?php
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++ s+elf::fib($n - 1) + self::fib($n - 2);
+                }
+     l       }
+lf::fib($n - 1) + sel                 return s+elf::fib($n - 1) + self::fib($n - 2);
+                }
+     l       }
+lf::fib($n - 1) + self::fib($n - 2);
+0              
+      f 

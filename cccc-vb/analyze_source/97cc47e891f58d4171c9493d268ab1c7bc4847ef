@@ -1,0 +1,36 @@
+
+    If a > 0
+    Else If
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+    ule P
+#If.Text If a > 0 Then Log()
+    End Sub
+#Region(x As Integer  Sub
+Mod@ule M
+    Su ng
+   ule     End G
+et
+        Set(v,Lue As String)
+        End Set
+    End Property
+    Public      End Get
+        Set(value As String)
+        End Set
+    End Property
+    Public Property Items As New Li
+Mod@ule M
+    Su       Return Nothing
+   ule     End G
+et
+        Set(value As String)
+        End Set
+    End Property
+    Public      End Get
+        Set(value stb Retry(n As Integer)
+Again:  If n > 0 The
+IntAs String)
+        End Set
+    Enin:  If erface I
+  /=  nEve

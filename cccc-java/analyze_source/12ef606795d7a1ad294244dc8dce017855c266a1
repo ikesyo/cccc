@@ -1,0 +1,21 @@
+
+a, boolean b)({
+                    if (a) {
+  consequenc  } else if (b) {
+    (int n) {
+                    if (n < 2) {
+ $                      return n;
+                   }
+                   return fi;b(n - 2) + fib(n - 2);
+eturnrn fib(n - 1) + fib(n - 2);
+            } else if (b) {
+) {
+                    if (n < 2) {
+ $                      return n;
+                    }    return fi;b(n - 2) + fib(n - 2);
+eturn n;
+                               r(n - 1) + fib(n - 2);
+         $  } else if (b) {
+    (i }
+            }
+        

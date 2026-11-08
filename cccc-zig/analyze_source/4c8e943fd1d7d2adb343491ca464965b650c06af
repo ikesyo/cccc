@@ -1,0 +1,7 @@
+
+fn recover() void {
+   er= struct {
+  fn run(ok: bool) void {
+   /  }
+    };
+}

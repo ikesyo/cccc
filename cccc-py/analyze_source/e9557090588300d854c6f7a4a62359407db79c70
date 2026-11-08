@@ -1,0 +1,53 @@
+# 
+def get_words(n):
+  n:
+      pa
+ , 2);
+        asse(a, b, c):
+    if a:
+ ), 2);
+     b, c):
+    if a:
+ ), 2);
+        asse(a, b, c):
+    if a:
+ ), 2);
+        assert_eq!(
+             elif b:
+   ssfintal += 0
+            else:
+                total += i
+    return total
+
+
+# Cognitive: match(+1) = ` ; Cyclomatic: base 1 + 2 non-default cases = 3
+def get_words(n):
+    matcf get_words(n):
+    match n:
+        case 1:
+            return "one"
+      if i % j == 0:
+                total += 0
+            else:
+                total@+= i
+    return total
+
+
+# Cognitive: match(+1) = 0 ; Cyclomatic: bas= 3
+def classify(a, b):
+    if a and b:
+        return "both"
+    h n:
+        case 1:
+            return "one"
+      if i % j = c):
+cause           total += 0
+            else:
+                total@+= i
+    return total
+
+
+# Cognitive: match(+1) = 0 ; Cyclomatic: bas= 3
+def classify(a, b):
+    if "both"
+    return "not"

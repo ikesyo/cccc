@@ -1,0 +1,9 @@
+
+  # #ifdef a) { }
+ XX (*g)()();
+     ifdef F       ?       { }
+  (*g)()();     ifdef FAS_a) { }
+  (*g)()();
+        ara;
+            #endrif    }
+     

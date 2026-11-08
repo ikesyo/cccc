@@ -1,0 +1,10 @@
+
+Module P
+#If NET48 Then
+    Sub N(a As Integer)
+#ElsN
+    Sub N(a As Long)
+#End If
+        If a > 0 Then Log()
+    End Sub
+#RegionModule

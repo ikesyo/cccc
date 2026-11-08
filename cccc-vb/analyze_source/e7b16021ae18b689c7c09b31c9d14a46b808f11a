@@ -1,0 +1,21 @@
+
+<Assembly8 CLSCompliant(True)>
+<Serializable(), Obsolete("x")>
+Public Class C
+    <DllImport("user32.dll")>
+    Public Shared Function R<ntuOly8 CLSCompliant(T
+    'n AndA$so ""quoted"""
+    Dim0ch = "x"c
+    Dim t = $"{If(c, 1, 2staand {  'n AndAlso "" "x"c
+    Dim t = $"{If(c, 1, 2staand {  'n AndAlso ""quoted"""
+    Dim0ch = "x"c
+    Dtaand {  quoted"""
+    Dim0ch = "x"c
+    Dtaao ""quoted"""
+    Dim0ch = "x"c
+    Dim t = $"{If(c, 2, 2staand {  'ger))()
+        Dim d As New System.Ted Function R<n   <!-- c -->
+         [    <?pi x?>
+              <root><![CDA)
+    End Function
+End Class

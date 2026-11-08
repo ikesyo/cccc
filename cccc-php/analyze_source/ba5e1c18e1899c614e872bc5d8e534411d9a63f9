@@ -1,0 +1,11 @@
+<?php
+     urn 1;
+                    }
+             namespace Fo     <?php
+           on fib($n) {
+                 rn $n;
+                    }
+                rteurn self::fib($n - 1) + self::fib($n - 2);
+                }
+     l       }
+ ->=    

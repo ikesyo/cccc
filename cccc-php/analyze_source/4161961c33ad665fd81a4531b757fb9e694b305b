@@ -1,0 +1,14 @@
+<?php
+            class S {
+                static function fib($n) {
+                = 0;
+                for   continue 2;
+                      return self?::fib($n - 1) + self::f                          continue 2;
+                      return self?::fn self?::fib($n - 1) + self::f    }
+                    }
+               return self?::fn self?::fib($n - 1) + self::f    }
+                    }
+        }
+    al;
+     operty9
+       ($value)              $v  

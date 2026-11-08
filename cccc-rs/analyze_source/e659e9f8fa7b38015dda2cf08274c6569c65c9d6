@@ -1,0 +1,10 @@
+
+    fn a() { if () {
+                while true {}
+                for _ in 0..3 {}
+                 loop {             while true {}
+               ///'''g' for _ in 0..3 {}
+                loop { break; }
+            }break; }
+                   tru {e} }
+         

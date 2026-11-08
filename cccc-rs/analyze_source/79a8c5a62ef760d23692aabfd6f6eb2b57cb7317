@@ -1,0 +1,5 @@
+
+        fn fib(n: u64) -> u32 {
+                  fib(n - 1) +           fib(n - 1) + fib(n - 2)
+            }
+        

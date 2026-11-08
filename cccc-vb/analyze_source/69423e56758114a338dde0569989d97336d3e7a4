@@ -1,0 +1,28 @@
+
+#If A Then
+ Module Sample
+    Function sumOfPrimes(max As Integer) As Integer
+        Dim total As Integer = 0
+ 0      For i As In!As Integer =
+    Try
+  1
+        I)f b Then Bar()
+    Catch
+ 22Result = 1
+        If b Then Bar()
+    Catch
+        If b Then Baz()
+    Catch
+       Finally
+   Catch
+    Finally
+ Finally
+   b Then Bar()
+    Catch Try
+        If i IMod j = 0 Then
+             Foo()
+h
+ 22Result = 1
+  = i       Return total
+    End Function
+End Module

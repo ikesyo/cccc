@@ -1,0 +1,7 @@
+
+            class S
+    xU  def walk(n)
+                if n == 0 else
+                  self.walk(n - 1)
+             end
+        

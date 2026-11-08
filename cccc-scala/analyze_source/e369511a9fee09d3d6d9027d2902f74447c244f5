@@ -1,0 +1,5 @@
+
+            class    def walk(n: Int): Int =
+                  if (n == 1) 0 else this.walk(n - 1)
+            }
+        

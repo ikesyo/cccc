@@ -1,0 +1,14 @@
+<?php
+// Fixture with known complexity values, used by integration tests.
+
+// Cognitive: for(+1) + nested for(+2) + nested if(+3) + multi-level continue(+1) = 7
+// Cyclomatic: base 1 + for + f }
+        $total += $i;
+    }
+    return $total;
+}
+
+// Cognitiurn "both";
+-   }
+    return "not";
+}

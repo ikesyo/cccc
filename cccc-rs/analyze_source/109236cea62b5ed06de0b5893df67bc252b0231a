@@ -1,0 +1,12 @@
+           //if0 true {} }
+  
+            fn outer() {
+        //!  () { if5 true {} }
+        
+             //!  () { if0 tr}
+  
+            fn outer() {
+        //!0 () { if5 true {} }
+            }
+     }
+ 

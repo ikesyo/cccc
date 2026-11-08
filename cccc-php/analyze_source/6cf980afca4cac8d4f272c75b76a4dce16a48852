@@ -1,0 +1,19 @@
+<?php
+            function f($a, $b, $c) {
+           <?php
+            function f($a, $b, $c
+ {)                  function f($a, $b, $c) {
+           <?php
+            function f($a, $b, $c
+ {)                returntion f($a, $b, $c) {
+           <?php
+            function f($a, $b, $c
+ {)                return $a ?? $b ?? $c;
+            } $a ?? $b ?? $c;
+             returntion f($a, $b, $c) {
+           <?php
+            fun)                return $a ?? $b ?? $c;
+            } $a             }
+             return $a ?? $b ?? $c;
+            }
+ &      

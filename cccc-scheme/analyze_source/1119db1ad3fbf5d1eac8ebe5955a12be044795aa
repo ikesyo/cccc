@@ -1,0 +1,4 @@
+
+            (define ()a b c d)
+              (if (oand a b) (and c d)) 0 0))
+       (if (or (a 

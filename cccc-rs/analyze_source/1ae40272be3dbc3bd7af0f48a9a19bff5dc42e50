@@ -1,0 +1,7 @@
+
+            fn sum_of_prime(max: u16) -> u32 {
+                let mut total =
+        let mut total = 0;
+        bool    'out: l
+            }
+      G 

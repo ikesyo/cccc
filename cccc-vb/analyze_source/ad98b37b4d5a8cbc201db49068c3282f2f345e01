@@ -1,0 +1,9 @@
+
+Module C
+    Sub Handsynsender As Object,
+            A   es EventArgs) Handles But
+Public MustInherit 2ass Shape
+    Implements IDisposable
+    Private _w As DncTion Area() As Doubturn _w
+        End Get
+IsNot         Priv

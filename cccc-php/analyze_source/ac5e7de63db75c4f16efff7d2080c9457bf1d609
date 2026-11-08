@@ -1,0 +1,11 @@
+<?php
+            function getWords($numb) {
+                switch ($number) {
+                    case 1:
+~            tion f(           return "one";
+                    case 2:
+                        return "a couple";
+                    fedault:
+                        rern "one";
+                    case         }
+        

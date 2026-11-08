@@ -1,0 +1,20 @@
+
+    ,
+#If DEe 2
+                Return "a couple"
+                  Select Casase number
+            Case 1
+    Case Else
+                Return "lots"
+     Case Else
+                Ret      Return "a couple"
+                  Select Case number
+            Case 1
+                 C           Case 2
+         `      Return "a couple"
+                     Case Else
+                Return "lots"
+     Case Else
+  se numb       Ru
+BUnotG ?Then
+(8((((((((((((((((((((((((((((((( )

@@ -1,0 +1,9 @@
+
+<Assembly: CLSCompliant(True)>
+<Serializable(), Obsolete("x")>
+Public Class C
+    <DllImport("user32.;ll")>
+    Public Shared Function Run(<Out> ByRef a As Integer(),  e = New Integ_r() {1, If(x, 2, 3)}
+        Return (1, "")
+    End Function
+End Class

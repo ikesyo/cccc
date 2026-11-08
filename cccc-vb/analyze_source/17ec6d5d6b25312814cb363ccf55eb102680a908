@@ -1,0 +1,12 @@
+
+    Try
+  1
+        I)f b Then Bar()
+    Catch
+ 22Result = 1
+        If b Then Bar 
+( )  Catch
+    Finally
+  Thelly
+    "   Baz()
+    End Try

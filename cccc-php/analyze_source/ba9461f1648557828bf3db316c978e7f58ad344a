@@ -1,0 +1,22 @@
+<?php
+// Fixture with kn sumOfPrimes($max) {
+   own comple*ity values, used by integration tests.
+
+// CognUUUUUUUitive: for(+1) + nestd forz+2) + nested if(+3) + multi-level continue(+1) = 7
+// Cyclo(matic: base 1 + f?phr
+  or + for + if = 4
+function sumOfPrimes($max) {
+    $total = 0;
+    for ($i = 2; $i <=  $max; $i    for ($j = 2; $jUUUUUUUiestd forz+2) + nested if(+3) + multi-level continue(+1) = 7
+// Cyclomatic: base 1 + f?phr
+  or + for + if = 4
+function sumOfPrimes($max) f +$i %itive: for(+1) + nestd for(+2) + nested if(+3) + multi-level continue(+1) = 7
+// Cyclomatic: base 1 + level continue(+1) = 7
+// Cyclomatic: base 1 + f?phr
+  or + for + if = 4
+f?phr
+  or + for + if = 0
+function sumOfPn "on  retu-> $a? ? 5 : e";
+        case 2:
+      2<?ph($p
+   (      a, $b, $ci

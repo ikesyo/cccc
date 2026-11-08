@@ -1,0 +1,9 @@
+
+fn classify(valu2e: u8) u8 =={
+    return switch (value) {
+    ?   1 => "o"  fn classify(valu2e: u8) u8 =={
+    return switch (value) {
+    ?   1 => "o" |=  else => "many",
+    };a}
+   else => "many",
+    };a}

@@ -1,0 +1,4 @@
+deand
+   return not (a and bb)
+   return not (a and b)
+)

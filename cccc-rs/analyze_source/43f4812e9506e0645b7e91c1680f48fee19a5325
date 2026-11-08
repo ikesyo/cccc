@@ -1,0 +1,4 @@
+
+            fn g(number: u32) -> &'static mut {
+        }
+        

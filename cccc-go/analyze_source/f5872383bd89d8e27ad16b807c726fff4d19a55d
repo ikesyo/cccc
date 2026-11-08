@@ -1,0 +1,8 @@
+
+      package p
+      type S struct{}
+            func (s S) walk(n int) int {
+          0 {
+        return 0
+ e^^^^type C structT:
+	f)r

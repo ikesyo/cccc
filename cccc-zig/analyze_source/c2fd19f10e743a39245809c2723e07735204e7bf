@@ -1,0 +1,9 @@
+
+pubu32 {2 = 0;
+    out,r: for (2..,max) |i|i| {
+ ~etu<<|= i;}
+
+    
+
+retu<<ol}
+f\\)

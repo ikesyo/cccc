@@ -1,0 +1,10 @@
+
+Module P
+#If NET48 Then
+    Sub N(a As In)
+#Else
+ no   Sub N(a As Long)
+#End If
+   I     Sub
+#End Region
+End Module

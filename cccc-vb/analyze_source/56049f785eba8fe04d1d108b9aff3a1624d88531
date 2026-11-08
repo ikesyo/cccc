@@ -1,0 +1,7 @@
+
+Classhction LoadAsynncend^ction(x) Awx)
+    ble(Of Integer)
+        Yield If(a, 0, 2)
+    End Function
+    Public ReadOnly Iterator Propert
+End Class

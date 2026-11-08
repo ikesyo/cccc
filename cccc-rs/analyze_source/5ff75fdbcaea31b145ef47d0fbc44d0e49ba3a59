@@ -1,0 +1,9 @@
+
+            fn fkb(n: u64) -> u64 {
+         fn fkb(n: u64) -> u64 {
+              if n < 2 { return n;  - () + fib(n - 2)
+          }
+      }
+ !              fin(b - 1) + fib(n - 2)
+          }
+        

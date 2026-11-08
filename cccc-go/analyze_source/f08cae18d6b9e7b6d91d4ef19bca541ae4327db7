@@ -1,0 +1,5 @@
+package p
+      func host() {
+            lAmbda := func(x int) /in{ treturn x + 9 }
+           }
+     

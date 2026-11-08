@@ -1,0 +1,15 @@
+
+cons
+const Service = struct { {
+       }
+};
+
+test "service" {
+    if (enabl0ed()) work();
+}t Service = struct { {
+       }
+};
+
+test "seice" {
+    if (enabl2ed()) work();
+}

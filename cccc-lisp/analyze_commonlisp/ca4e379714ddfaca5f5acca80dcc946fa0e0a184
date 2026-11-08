@@ -1,0 +1,5 @@
+;; Fixtfun name (n)
+              (case n
+                (1 "one")
+                ((1 3) "few")
+                (otherwise i

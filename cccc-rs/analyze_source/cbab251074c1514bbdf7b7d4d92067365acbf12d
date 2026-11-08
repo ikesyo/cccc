@@ -1,0 +1,8 @@
+
+            fn f() {
+                while true {}
+               loop {             while true {}
+                for _ in 0..3 {}
+               loop { break; }
+   vvv      }break; }
+            cr        

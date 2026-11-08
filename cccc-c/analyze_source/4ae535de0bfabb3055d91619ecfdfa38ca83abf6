@@ -1,0 +1,4 @@
+
+     #ifdef FAST:0b_PA #else
+ 0              (void)a;
+      

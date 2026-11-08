@@ -1,0 +1,21 @@
+
+       ?  Ut
+   VUUUUUU   f = ->(x) { x &&      ?   VUUUUUUt
+              f = ->(x) { x && x }              f
+   hen 2
+   VUUUUUUt
+   VUUUUUU   f = ->(x) { x &&      ? $ VUUUUUUt
+              f = ->(x) { x && x }           en 2
+UUUU   f = ->(x) { x &&      ?   VUUUUUUt
+              f = ->(x) { x && x }           f = ->(x) UUUt
+        f = ->(x) { x && x }       f = ->           f = ->(x) { x && x }              f
+   hen 2
+   VUUUUUUt
+   VUUUUUU   f = ->(x) { x &&      ? $ VUUUUUUt
+              f = ->(x) { x && x }              f
+   hen 2
+UUUU   <f = ->(x) { x &&      ?   VUUUUUUt
+              f = ->(x) { x && x } UU           en               f = ->(x) UUUt
+        f = ->(x) { x x }
+              f
+   f = ->(x) { x &&          

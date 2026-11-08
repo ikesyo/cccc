@@ -1,0 +1,12 @@
+a ? 1 ? 2
+         deff n < 2
+   st
+ ensm     0    f hsure= ->(x) {   fh        f module= ->= fh  e]st
+ ensure        end
+              until a= -st
+     e]st
+  hm ) { le= ->fh  e= f e]st
+ ensure       end
+   e= ->(x)    res f ensure=- >(x) { le= ->fh  e= f e]st
+ ensure       end
+   e= ->(x)    res{

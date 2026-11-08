@@ -1,0 +1,17 @@
+
+[     safe [th]
+          (try
+        (     (defn safe [th]
+              (try
+             (try
+        (   , ()
+           ~@@@@@!@(try
+                      [th]
+              (try
+                (thunk)
+                e           (try
+        (     (defn safe [th]
+              (try
+             (try
+  ()
+        

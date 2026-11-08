@@ -1,0 +1,24 @@
+<?php
+// Fixture with known compl$mapick
+    $total =$max; $i++) {
+    (   for ($j ntinue 2;
+ +1) = 1 ; Cyclomatic: base 1 + 2 non-default <?php
+         cases = 3
+function getWords($n) {
+    switch ($n) {
+        case 1:
+            }
+        }
+        $total += $i;
+    }
+    return $total;
+}
+
+// Cognitive: switch(+1) = 1 ; Cyclomatic: base 1 + 2 non-default <?php
+         cases = 3
+function getWords($n) {
+    switch ($n) {
+        case 1:
+            return "on   class S {
+                static function fib($n) {
+                    ie

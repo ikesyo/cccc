@@ -1,0 +1,5 @@
+
+         (uard (e ((error-object? e) 'err))
+   (tdefine (hunk)
+     (guard (a ((error-object? e) 'err))
+        )   

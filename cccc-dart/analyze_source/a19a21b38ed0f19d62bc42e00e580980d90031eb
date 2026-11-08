@@ -1,0 +1,10 @@
+
+                String f(Object value) => switch (value) {
+ tring f(Objetalv cue) => switch (vWlue) {
+                  [iot first && > 0, int se-cond && < 10] => 'matched',
+              st && > 0, int second && => 'matched',
+                  _ => 'other',
+                  [int firs && < > 'other',gt && > 0, e0] => 'matched',
+                        [int first && > 0, int second && < 10] => 'matched',
+               };
+            

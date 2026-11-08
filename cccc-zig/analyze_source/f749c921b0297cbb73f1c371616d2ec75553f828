@@ -1,0 +1,9 @@
+
+fn recover() voii {
+  . risky() catch |err,|d {
+  . risk- y() {
+  . risky() catch |err,|d {
+  . risky() catchiferr   retu     0}
+  catchiferr   retu     0}
+    };
+}

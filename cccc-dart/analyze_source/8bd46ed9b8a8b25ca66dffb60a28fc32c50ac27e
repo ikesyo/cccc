@@ -1,0 +1,10 @@
+
+ 2           inint      class C {
+ {}
+              factory C.named() => C();
+              int get value => 0;
+               int get value => 0;
+              set value(inory C.named() => C();
+         int get value => 0;
+      }
+        

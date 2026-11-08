@@ -1,0 +1,13 @@
+<?php
+            class S {
+                static function fib($n) {
+             !   !  if ($n < 3->{
+                 continue 2;
+                         for ($i =return self::fib($n - 1) + self::f    }
+                 #   }
+                          }                                  for ($i =return self::fib($n - 1) + self::f Z  }
+                       }  
+                     }
+- 2);
+             function f($a, $b, urn    $total;
+       

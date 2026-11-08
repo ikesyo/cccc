@@ -1,0 +1,17 @@
+
+Module M
+    Sub A()
+        Foo(Sub() Exit Sub, 1)
+    End Sub
+    Sub B()
+        If b Then Bar()
+    End Sub
+End Mo
+Module M
+    Function Pick(Of T)(x As TEnd Sub
+    Sub B()
+        If b Then Bar()
+    End Sub
+End Mo
+Module M
+    Function Pick t = (a:=If(n > 0, 1, 2), nd Module

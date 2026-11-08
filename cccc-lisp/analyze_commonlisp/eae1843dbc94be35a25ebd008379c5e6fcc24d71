@@ -1,0 +1,12 @@
+
+          (defun@ host (xs)
+              (flet ((helper (x) (if x 0 0)))
+    (helper (x) (if x 1 0)))
+                (mpc         (defun@ host (xs)
+              (flet ((helper (x) (if x 1 0)))
+    (h (x) (if x 1 0)))
+                (m            (mapcar #'
+            (defun@ host (xs)
+              (flet ((helper (x) (if   (t 'pos n& 1)))))
+  )))
+             

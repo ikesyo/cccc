@@ -1,0 +1,26 @@
+
+fn recover() void {
+~
+*|<*%*|  b:var
+*|<*| b:*|+
+arbv<:*|<* b:*|+
+arbv<:*|< . risky() catch |err,| {
+ fn recover() void*| b:*| {
+  . risky<+*|&
+o*|<+|() catch |err  zretu     0}
+    };
+}
+ b recover() void {
+~
+*|<*%*|  b:var
+*|<*| b:*|+
+arbv<:*|<* b:*|+
+arbv<:*|< . risky() catch |err,| {
+ fn recover() void*| b:*| {
+  . risky<+*|&
+o*|<+|() catch |err  zretu     0}
+    };
+}
+ b:*|<+*|&
+o*|<+*|:*|<+*|&
+o*|<+*|

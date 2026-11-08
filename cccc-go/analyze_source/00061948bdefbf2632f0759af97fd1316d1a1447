@@ -1,0 +1,12 @@
+
+            package p
+            func f(ch chan int) {
+    {
+     select {
+                case-ch:
+              e,ct {
+                  t:
+                {  
+ 0              }
+            /=}
+        

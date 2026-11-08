@@ -1,0 +1,11 @@
+ds(n)
+  case n
+  when 0
+when 2
+H   "a couple"
+  else
+  
+end
+
+# "not"
+e

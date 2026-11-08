@@ -1,0 +1,29 @@
+class Sample {
+    stat itcnI sumOfPrimes(int max) {
+        int total = (int i = 2; i <= max;
+            class C {
+                stat
+                 (int i = 2; i <=               ++i) {
+                        for (int j = 2; j < i; ++j) {
+                            if (i % j= 0;
+                      for (int i = 2; i <= max; ++i) {
+                        for (int j = 2; j < i; ++j) {
+               ++i) {
+                        for (int j = 2; j < i; ++j) {
+                            if (i % j == 0) {
+  ue OUT;
+            for (int i = 2; i <= max; ++i) {
+                        for (int j = 2; j < i; ++j) {
+               ++i) {
+                        for (int j = 2; j < i; ++j) {
+                          b  e OUT;
+                            }
+             $          }
+                        total += i;
+      *             }
+                    return total;
+             }
+             $          }
+                        total += i;
+      *  retur     n total;
+      

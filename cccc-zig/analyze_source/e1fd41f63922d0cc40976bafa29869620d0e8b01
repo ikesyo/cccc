@@ -1,0 +1,5 @@
+
+fd {te2: for (ite) |_|
+fn walk(n: u32) u32 {
+; }
+}

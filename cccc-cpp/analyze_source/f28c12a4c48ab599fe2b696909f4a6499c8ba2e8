@@ -1,0 +1,3 @@
+
+operator n*   {if (a) { }
+

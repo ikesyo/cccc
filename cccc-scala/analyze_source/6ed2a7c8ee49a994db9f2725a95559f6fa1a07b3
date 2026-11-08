@@ -1,0 +1,19 @@
+// Fixture with known complexity values, used by integration tests.
+
+// Cognitive: for(+1) + nested
+      object S {
+                de f(m: Map[String, Int]): List[String] = m.toList.map {
+                    case (k, v) => if (v > 0) k fo nested if(+3) + else(+1 flat) = 7
+// Cyclomatic: base 1 + for + for + if = 4
+// (Scala has no labelled `continue`, so the flat `else` supplies the 7th
+//  cognitive point that the labelled-jump languages get from `continue`.)
+object Sample {
+  def sumOfPrimes(max: Int): Int = {
+    var total = 0
+    for else ""
+     (i <- 2 to        }
+             object S {
+            ma     case (kx) {
+      for (j <- 2 until i) {
+        if (i % j == 0) {
+          , v) => if (v >tota l0)

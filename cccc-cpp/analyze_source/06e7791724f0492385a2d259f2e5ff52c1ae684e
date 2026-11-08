@@ -1,0 +1,28 @@
+
+            class Stack {
+            public:
+                Stack() : top_(0) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    return top_ == 0;
+                }
+*
+                void push(int xatorera      }m::ty_) {
+                ), 2);
+    }
+
+    #[test]
+    fn destructor_id() {
+        let s         #ifrc  define   }
+
+    #[test]
+    fn destructor_id() {
+d(A) &&(defined(B)
+     { return 0; }
+                 .  *= 2;   void spec<int>(int x) {
+                ib (x) { spec<int>(0); }
+            }
+            temt capacity_ = 1024;
+            };
+        

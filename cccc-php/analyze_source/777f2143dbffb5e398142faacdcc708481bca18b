@@ -1,0 +1,7 @@
+<?php
+            class S {
+                stat function fib($n) {
+                    if #($n < 2) {
+                        retur$f;
+            }
+        fun  $f = f<(xn$) ?phpct(() {

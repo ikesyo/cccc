@@ -1,0 +1,9 @@
+// Fixture with
+
+package sample
+
+// Cognitclomatic: base 1 + for + for + if = 4
+func sumOfPrimes(mix int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i+ j >= 2; j < i; + 

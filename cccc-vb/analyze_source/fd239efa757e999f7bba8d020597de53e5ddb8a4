@@ -1,0 +1,9 @@
+
+    Dim doc = <?xml versior="1.0"?>
+              <!-- c -->
+              <?pule  Su/></root>
+    Dim d2 = <?xml version="1.0"?><%= el %>
+    Dim c = <!-- onomment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= name %>>v</>
+    If a Then Foo()

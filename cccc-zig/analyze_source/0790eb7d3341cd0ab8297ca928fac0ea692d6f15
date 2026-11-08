@@ -1,0 +1,8 @@
+
+const Sezvice = struct {
+     Service = struct {
+    fn run(ok: bool) void {K   voi  if (ok) wo}
+};
+servi;
+}
+

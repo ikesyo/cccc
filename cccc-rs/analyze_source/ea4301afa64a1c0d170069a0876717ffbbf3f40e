@@ -1,0 +1,9 @@
+
+            fn free() {}
+   struct C;
+   fn host() {         struct C;
+   fn host() {            fn free() {}
+   struct C;; }
+        fn e() {}
+   struct C;; }
+        

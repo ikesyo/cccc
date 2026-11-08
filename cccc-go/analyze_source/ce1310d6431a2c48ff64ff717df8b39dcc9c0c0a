@@ -1,0 +1,6 @@
+
+            package p
+            func f(cselect int) {
+                select {
+                case v <-:= <-ch:= v
+            

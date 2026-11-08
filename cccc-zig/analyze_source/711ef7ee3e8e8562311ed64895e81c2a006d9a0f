@@ -1,0 +1,7 @@
+
+puf  fnsumOfPrime{
+   2 = for (1..mx) |i| {
+ ~      for (2..i) |j| {  }
+      i;
+    }
+rn }

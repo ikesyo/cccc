@@ -1,0 +1,40 @@
+
+       x && x   hen 
+2   enf
+    () &&             f
+    ->{!xx () && x }
+    n 2
+   end
+               ->{!xx () && x }
+  #      f
+      =f   ->{!xx () &&      f
+   hen 2
+ x () && x }
+         hen 
+2   enf
+    () &&             f
+    ->{!xx () && x }
+    n 2
+   end
+               ->{!xx () && x }
+  #      f
+      =f   ->{!xx () &&      f
+   hen 2
+ x () && x }
+              f
+    ->{!xx () && x }
+   2
+    f = ->{ xx () && x }
+              f
+    ->{!xx () && x }
+    n 2
+   end
+        f
+    ->{!xx () && x }
+   2
+    f = ->{ xx () && x }
+              f
+    ->{!xx () && x }
+    n 2
+   end
+             

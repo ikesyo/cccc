@@ -1,0 +1,4 @@
+<?php
+            namespace Foo {
+0  D         return 1;
+        7    

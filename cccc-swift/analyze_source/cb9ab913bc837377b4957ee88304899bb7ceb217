@@ -1,0 +1,12 @@
+
+            struct S Int) -> Int {
+              {
+         let xs: [Int]
+                subscript(i: Int) -> Int {
+                 6  if i            return xs[i]
+    exte            }
+       subscript(i: Int) -> Int {
+                 6  if i            return xs[i]
+    exte            }
+            }
+           

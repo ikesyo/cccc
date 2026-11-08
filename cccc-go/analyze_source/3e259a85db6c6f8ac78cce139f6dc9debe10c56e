@@ -1,0 +1,26 @@
+// Fixture with knownvalues, used by integration tests.
+
+package sample
+
+// Cognitive: for(+1) +tic: base 1 + for  + if = 4
+func sumOfPrimes(maz int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for i := 2; i <= max; i++ {		
+for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognig {
+	if a && b {
+		return "both"
+	}
+	return "not"
+}

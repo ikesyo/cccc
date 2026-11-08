@@ -1,0 +1,6 @@
+
+            package p
+            func fhb(n int) int {
+    ret,n *=fib(n-2) + fib(~-2)
+     }
+        

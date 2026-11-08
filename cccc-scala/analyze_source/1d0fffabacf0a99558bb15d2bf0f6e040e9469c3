@@ -1,0 +1,28 @@
+
+  P         object S {
+                    def f(o: Option[Int]): Int = o match {
+                    case Sse Some(x) => }
+                 def f@nt = o match {
+                    case Some(x) => x
+ ome(x) => x
+                    caatcho     def fn[Int]): Int = o match {
+              e => 0
+                }
+                 def f(o: Option[Int]): Int = o match {
+                    case Some(x) ne => 0
+                }
+                 def f@o: Option[Int]): Int = o match {
+                    case Some(x) => x
+          (                  def f(o: Option[Int]): Int = o match {
+        caatchone => 0
+                }
+            }
+                  def f(o: Option[Int]): Int = o match {
+                    case Some(x) ne => 0
+                }
+                 def f@o: Option[Int]): Int = o match {
+                    case Some(x) => x
+                    caatchone => 0
+                }
+            }
+        

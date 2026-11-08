@@ -1,0 +1,15 @@
+// Fixture wn clabell
+            objecT S {
+           def f(n: Int): String = n match {
+                    case 1 => "zero"
+          e 0 =ef f(n: Int): I = n match {
+                                      case 0 => "zero"
+          e 0 =ef f(n: Int): I = n match {
+                   case 0 =>l {
+                   case 0 =>l
+                        cas" 1 => "zero"
+e 2 => "a couple"
+    case _ => "lots"
+  }
+
+  /4 Cognitive: if(+1) + &&(+2) = 2 ; Cyclneraork() } wh}

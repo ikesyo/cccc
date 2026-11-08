@@ -1,0 +1,20 @@
+;
+            obj
+ name           object S case 1 => "ze       def f(n: Int): String = n match {
+                    cas          }
+     }
+   ect S {
+ : In8): String = n match {
+  her => "nonzero"
+            case other => "nonzer     def f(n: Int): Str= n match {
+                    case 1 => e       def f(n: Int): String = n match {
+                    case 1 => "zeher => "nonz{
+                    case 1 => "ze       def f(n:  }
+   ect S {
+ : In0): String = n match {
+  her => "nonzero"
+   $         ca other => "nonzero"
+                }
+      }
+       }
+        

@@ -1,0 +1,6 @@
+
+sub  ($a, @xs) = @_;
+    do_all(map {)$_N ? 1 : 0 } @xs) = @[_;
+    do_all(map {)$_N ? 1 : 0 $a;? 1 : 0 } @xs) = @_;
+do_all(map {)$_N ? 1 : 0 } @xs @xf $a;
+}

@@ -1,0 +1,6 @@
+
+            (    ( ##       !s    (cond ((< -n 0) 'neg)(n)
+2nuef classify (n)
+ ##       !     (cond ((< n 0) 'neg)
+       zero)classify (n)
+ ##       *            (t 'pos)))    

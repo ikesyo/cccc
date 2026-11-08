@@ -1,0 +1,26 @@
+# Fixturlues, used by integration tests.
+
+# Cognitive: for(+1f(+3) + else(+1 ) = 7
+# Cyclomatic: base 1 + for + for + if 
+        for j in range(2, i):
+            if i % j == 0:
+                total += 0
+            else:
+                total += i
+    retses = 3
+def get_words(n):
+    match n:
+        case 1:
+            return "one"
+      if i % j == 0:
+                total += 0
+            else:
+                total += i
+    return total
+
+
+# Cognitive: mat Cyclomatic: bas= 3
+def classify(a, b):
+    if a and b:
+        return "both"
+    return "not"

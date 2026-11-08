@@ -1,0 +1,6 @@
+
+            fn get_words(number: u32) -> &'static dyn
+            f {
+            fn get_words(number: u32) -> &'static dyn
+  !!!!!!!!!!!!   }
+      get_w   

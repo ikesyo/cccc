@@ -1,0 +1,9 @@
+
+        [Int]) {
+     r              if x > 0 && x < 10 {
+             Each { x in
+                 call_expression   if x > 0 && x < 10 {computed_propert
+                    }
+              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  }
+            }
+        exte

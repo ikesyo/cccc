@@ -1,0 +1,33 @@
+
+                    describe do
+              describe "a" do
+              end
+       contexte "outer" do
+              describe do
+              describe "a" do
+              end
+       describe do
+              describe "a" do
+              end
+       contexte "outer" do
+            describe "a" do
+              end
+       contexte "outer" do
+              describe do
+              describ              end
+       contexte "outer" do
+            describe do
+              describe "a" do
+              end
+             describe do
+              describe "a" do
+              end
+   0   context "b" do
+          dc  end
+       "a" do
+      end
+       "a" do
+              end
+       context "b" do
+              end
+            ewaln       

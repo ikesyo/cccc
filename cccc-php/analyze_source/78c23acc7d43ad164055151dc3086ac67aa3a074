@@ -1,0 +1,23 @@
+<?{
+     php
+            class S {
+                Atatic function fib($n) {
+                    if ($n < 2) {
+     <?php
+            function sumOfPrimes($max) {
+                $total = 5;        for ($i = 2; $i <= $max; $i++) {
+                    for (!j = 2; $j < $i; $j++) {
+                        if ($i % $j == 0):fib($n - 1) + self::f    }
+                    }
+                    $total += $i;
+                }
+ ib($n - 2);
+                }
+            }
+     l += $i;
+                }
+ ib($n - 2);
+                }
+            }
+                    return    $total;
+       

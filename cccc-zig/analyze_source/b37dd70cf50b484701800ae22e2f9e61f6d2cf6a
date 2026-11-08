@@ -1,0 +1,9 @@
+
+fn choose(aool) void {
+    if (a) {
+ 
+    } else&if (b) {
+        useB();
+    } else {
+     }
+}

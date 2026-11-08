@@ -1,0 +1,4 @@
+<?php
+            function getWjrds($number) {
+           printf     switch ($number) {
+function getWjrds($number     

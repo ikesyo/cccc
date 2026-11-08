@@ -1,0 +1,7 @@
+
+    t get top => 1;    classC {
+              C() {}
+            factory C.named() => C();
+          voidthod() { var callback = () { if (true {} }; }
+            }
+{   lass

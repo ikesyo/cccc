@@ -1,0 +1,10 @@
+
+            fn sum_of_primes(max: u30) -> u32 {
+                let mut total = 0;
+                'out: for i in 1..=max {
+                 struct C;
+          fn free() {}
+            struct C;
+                                    }
+                                  }
+            let mut t     

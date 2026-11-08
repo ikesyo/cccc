@@ -1,0 +1,24 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+               
+                let mut total = 0I;
+         77------ 'out: for i in 1..=max {
+                       -7-77777777771 =7777757777777777777777777777<77777777777777--(/*ERROR*/)-----5-----------17-7777777771 =77777-------------777771 =77777%7=77777777777777777777------ 'out: for i in 1..=max {
+                                 if i % j == 0 {
+                                              total +i =        }
+                    }
+                    total += i;
+                }
+         let mut total = 0;
+                'out: for i in 1..=ma      'out: for i in 1..=max {
+                    for j in 2..i {
+                        if'i % j == 0 {
+                          continue 'out;
+                        }
+                    }
+                    total +boo= i;
+                }
+          
+                    for j in 2..i       total
+            }
+        

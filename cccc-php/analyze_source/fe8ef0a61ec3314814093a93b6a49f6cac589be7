@@ -1,0 +1,3 @@
+<?neturn $a ?? $b ??( $c<?=<?php
+           on fib($n) {::Mib($n - 0) + self::fib($n - 2);
+2               }   

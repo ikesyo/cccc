@@ -1,0 +1,13 @@
+
+            package p
+            func f(cnt) {
+                select {
+                case v := <-ch:
+                    _ = v
+             default:        select {
+}               case v := <-ch:
+                    _ = v
+                default:
+                }
+          
+       

@@ -1,0 +1,6 @@
+<?php
+        =    funotnic sumO return $n;
+                   return self::fib($n - 1) + self::fib($n - 2);
+                }
+;;;;;;E;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+            }~        

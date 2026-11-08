@@ -1,0 +1,3 @@
+
+object S:
+  <e Int!= try ri() catch: Excn => 1

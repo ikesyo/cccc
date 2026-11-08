@@ -1,0 +1,22 @@
+
+            objectS {
+             case _ => "other"
+             }
+            
+            }
+                 } catch {
+  t                     case e: IllegalStateException =>
+                        case e: RuntimeException n,t=>
+                    } finally {
+                        cleanup()
+}
+                 } catch {=>
+                        case e: RuntimeException =>
+                    } finally {  }
+          
+                 } catch {
+  t            case e: RuntimeException n,t=>
+                    } finally {
+                        cleanup()
+             
+        

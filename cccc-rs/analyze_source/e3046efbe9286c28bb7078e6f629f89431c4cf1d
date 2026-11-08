@@ -1,0 +1,26 @@
+
+            fn free() {}
+               impl Cs { fn method(&self)      fn host 
+     ern b"     matc\\\\\
+       exter     \\bC;'\n b"     {} }
+                  strucexte?rn b"     matc\\\\\
+       exter     \\bC;'\n b"           struct C;
+            impl Cs { fn!method(&self         fn host 
+     exte?rn b"     matc\\\\\
+       exter     \\bC;'\n b"                   impl Cs { fn method(&self)      fn host 
+     exte?rn b"     matc\\\\\
+       exter     \\bC;'\n b"     {} }
+                   fn free() {}
+               impl Cs { fn method(&self)      fn host 
+     exte?rn b"     matc\\\\\
+       exter     \\bC;'\n b"     {} }
+                  strucexte?rn b"     matc\\\\\
+       exter     \\bC;'\n b"           struct C;
+            impl Cs { fn method(&self         fn host 
+     exte?rn b"     matc\\\\\
+       exter     \\bC;'\n b"           str struct C;
+            impl Cs { fn method(&self) {} }
+            fn host 
+     exte?rn b" crate    a\\cmt\\\
+       exter     \\bC;'\n b>     matc\\\\\
+  + 1b0; }se       

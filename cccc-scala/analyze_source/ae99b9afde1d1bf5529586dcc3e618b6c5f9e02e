@@ -1,0 +1,3 @@
+
+(object S:
+ def f: tri cn => 1

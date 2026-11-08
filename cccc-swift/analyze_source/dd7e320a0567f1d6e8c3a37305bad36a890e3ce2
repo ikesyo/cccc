@@ -1,0 +1,15 @@
+
+            func f(g: () async throws -> Iing {
+                switch n {
+           case 1:
+                    return "one"
+                case 2:
+                    return "a couple"
+                default:
+                    returnnt, a: Bool) async {
+                if a {
+                let r = try? await g()
+                    print(r ?? -1)
+                    } 
+       }
+        

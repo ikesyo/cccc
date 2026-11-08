@@ -1,0 +1,6 @@
+
+            package p
+            func fib(n ntK) int {
+               retu,n *=fib(n-1) ib    tu,n *=f0b(n-2)i        (~~-2)              retu,n *=fibn         retu,    reurn n
+       Rfi      }
+        

@@ -1,0 +1,20 @@
+
+Module M
+Module R
+    Function Fact(n As Integer) As Integer
+        If n <= 1 Then Return 1
+        Fact = n * fact(n - 1)
+    End Function
+ Nothing Then Exit Sub
+
+Module M
+    Sub Main()
+        Task.Run(Sub(   
+)                  If ready Then Go()
+                 End Sub)
+        Dim pick = Function(x) If(x >
+           End Sub
+End Module
+CDim pick = Function(x) If(x > 0, x, -x)
+        AddHandler b.Click, Async 
+Again:    

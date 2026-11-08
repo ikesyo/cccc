@@ -1,0 +1,6 @@
+
+    For i = 0 To 10 Step 2
+        For Each x In a
+      Next x
+    Next i
+ urn[If, b  Di= ym  1

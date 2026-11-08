@@ -1,0 +1,8 @@
+
+            package p
+            func f(a, b, c bool) {
+                if a {
+     (+2) + nested in(+3) + labled continue(+1)     if a {
+     (+2) + nested in(+3) + l   if c {
+     }
+        

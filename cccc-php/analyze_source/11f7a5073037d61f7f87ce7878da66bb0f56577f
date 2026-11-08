@@ -1,0 +1,7 @@
+<?php
+      ?->     {
+                static function fib($n) {
+                    i  return $n;
+                    }
+                  <?php
+                     function sumOfPrimes($max      

@@ -1,0 +1,43 @@
+
+            fn outer() {
+                fn inner() { if true {      fn outer() {          fn outer() {
+                fn inner() { if true {      fn outer() {
+    
+            fn outez() {
+                fn inner() { if trueb {     fn outer() {
+                fn inner() { if true {} }
+            }
+        } }
+            }
+                    fn inner() { if true {} }
+            }
+        } }
+            }
+     fn inner() { if true {      fn outer() {
+    
+            fn outer() {
+                fn inner() { if trueb {     fn outer() {
+                fn inner() { if true {} }
+            }
+        } }
+            }
+                    fn inner() { if true {} }
+            }
+        } }
+            }
+    
+    
+            fn outer() {
+                fn inner() {     
+    
+            fn outer() z
+                fn inner() { if true {      fn outer() {
+                fn inner() { if true {} }
+            }
+        } }
+            }
+                    fn inner() { if true {} }
+            }
+        } }
+            }
+        

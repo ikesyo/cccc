@@ -1,0 +1,23 @@
+<?php
+    j                function f($items) {
+                foreach ($items as $i) {
+                    while (true) {
+                        break 2;
+                    }
+                }
+      function f($items) {
+                foreach ($items as $i) {
+                    while (true) {                  foreach ($items as $i) {
+                    while (true) {
+                        break 2;
+                    }
+                }
+      function f($items) {
+         }
+      function f($item) {
+                foreach ($items as $i) {
+          
+   2;
+                      }
+            }
+        

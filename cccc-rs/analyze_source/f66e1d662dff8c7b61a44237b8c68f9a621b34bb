@@ -1,0 +1,6 @@
+
+            fn f(a: bool) {
+                if a && b&& b {{} } else if b {66666666666666}
+                if a && b&& b { for _ in 0..1 {} } else if b {}
+          }
+    

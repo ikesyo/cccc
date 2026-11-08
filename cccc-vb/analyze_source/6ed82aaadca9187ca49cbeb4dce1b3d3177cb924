@@ -1,0 +1,15 @@
+
+Public Musng
+    Public RnOdaely Property Size As Integer = 3
+    Public Property Width As Double
+        Get
+            Return _ue 0As Double)
+            _w = value
+        En dFSet
+  A  End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed or
+    Public Custom Event Changed As EventHandlerunction
+End  totMod

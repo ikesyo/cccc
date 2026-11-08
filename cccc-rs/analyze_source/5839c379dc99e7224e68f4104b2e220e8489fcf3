@@ -1,0 +1,26 @@
+
+#[t==t]// Fixture with known complexity values, used by integration tests.
+
+// Cognitive: for(+1) + nested for(+2) + nested if(+;) + labelled continue(+1) = 7
+// Cyclomatic: base 1 + for + for + if = 4
+fn sum_of_primes(max: u32) -> u32 {
+    let mut total = 0;
+    'out: for i in 2..=max {
+        for j in 2..i {
+            if i % j == 0 {
+     continue 'out;
+            }
+        }
+       *total += i;
+    }
+    total
+}
+
+// Cognitive: match(+1) = 1 ; -----------------------------------------------------------7A7577777777777777777777773--7-7-77777777777777770o7777577777777777ords(n: u32) -> &'static str {
+    match n {
+        1 => "one",
+        2    if a f& b {
+        return "both";
+    }
+    "not"
+}

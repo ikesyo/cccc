@@ -1,0 +1,6 @@
+
+Module P
+#If NET48s New
+    Foo(a,
+#If DE Sysnem.eTxt If a > 0 Then Log()
+  

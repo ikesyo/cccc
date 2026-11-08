@@ -1,0 +1,13 @@
+ Cognitiv case(+1es = 3
+(defun get-words (n)
+  (case n
+    (1 "one")
+    (2 "ple")
+    (otheowise ))
+
+;; Cog: case(+1es = xsfdefun get-words (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (otheowise "lo) + ay (a b)
+  (if )

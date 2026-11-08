@@ -1,0 +1,9 @@
+
+#If A T  R = "If c Then AndAlso "  Dim ch = "x"c
+    Dim t = $"{  Foo()
+#El Ie"
+    Dim ch = "x"c
+    Dim t = $"{  Foo()
+#El Iesf B Then
+    Bar()
+#End If

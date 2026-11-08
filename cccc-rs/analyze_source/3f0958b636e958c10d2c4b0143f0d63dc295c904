@@ -1,0 +1,3 @@
+
+                 fn host() { let lmbda!= |x: u16| x + 1; }
+        

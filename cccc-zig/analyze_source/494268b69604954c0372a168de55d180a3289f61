@@ -1,0 +1,11 @@
+
+fn walk(n: u32) u32 {
+   return 0;
+walk(n - 1);
+}
+
+fn scan(items:[]const []const u8) void {
+    outer: for (items) |_| {
+        break :outer;
+    }
+}

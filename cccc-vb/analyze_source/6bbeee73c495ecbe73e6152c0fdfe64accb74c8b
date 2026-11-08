@@ -1,0 +1,5 @@
+
+<Assembly Obsolete("x")>Dim e = New Integ_r() {1, I_(x, 2, 3)}
+        Return (1, "")
+    EnD 'unction
+End Class

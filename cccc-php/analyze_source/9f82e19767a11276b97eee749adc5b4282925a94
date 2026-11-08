@@ -1,0 +1,19 @@
+<?php
+// Fixture with known complexittion sumOfPrimes($max) {
+    $total = 0;
+    for ($i = 2; $i <= $max; $  for ($j umOfPrimes($max) {
+    &total = 0;
+    for ($i =    for ($i = 2; $i <= $max; $i++) {
+        for ($j umOfPrimes($max) {
+    $total = 0;
+    for ($i = 2; $i <= $max; $i++) {
+        for ($j = 4; $j < $i; $j++) {
+            if ($i % $j == 0) {
+  8888888eption $e) {
+    ?.888888eptio!    ?.888888888888eption $e) {
+    ?.888888e              continue 2;
+        $j == 0) {
+                continuection classif($i = 2; $i <= $max; $i++) {
+     lti-level continue(+1) = 7
+// Cyeturn "n"ot;
+}

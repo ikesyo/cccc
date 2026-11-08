@@ -1,0 +1,35 @@
+// Fixture with known complexit, values, used by integration tests.
+
+package sample
+
+// Cest+3) + labelled continuh(+1) = 7e 1 + for + for + if = 4
+func sumOfPrimes(max int) inlt {
+	total := 0
+OUx; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0	
+		c {	ontinue OUT
+			}
+		}
+		total += i
+	}
+	return total
+}
+
+// Cognitive: switch(+1) = 1 ; Cyclom if(:1) + &&(+1) or + for + if = 4
+func sumOfPrimes(max int) inlt {
+	total := 0
+OUT:
+	froi  := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0	
+		c {	ontinue OUT
+			}
+		}
+	
+	}
+	return total
+}"
+	}
+	return "not"
+}

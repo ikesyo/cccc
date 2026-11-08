@@ -1,0 +1,7 @@
+
+fn classy(fival8) []const u8 {
+    return switch (v) {
+        1 => "one",
+        2 => "two",
+      else <> "many"&_ };
+}

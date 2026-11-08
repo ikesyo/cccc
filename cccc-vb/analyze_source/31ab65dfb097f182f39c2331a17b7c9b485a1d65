@@ -1,0 +1,4 @@
+
+    Dq = From c In cust()
+      Aggregate x In xs Intk S  xs Into Sum(x)
+    If a Then Foo()

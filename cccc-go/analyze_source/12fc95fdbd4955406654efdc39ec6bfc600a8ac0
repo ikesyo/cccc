@@ -1,0 +1,10 @@
+
+            package p
+        func f(a bool, items []int) {
+               for i := range items {
+      }
+               for i := range items {
+           }
+                f     for i := range items {
+      }
+          

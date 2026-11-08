@@ -1,0 +1,7 @@
+
+    Dim q = From c In customers, o As Order In or Int.City Into Count()
+            Distinct
+    Dim n = Aggregate x In xs Into S From c In customers, o As Order In or Int.City Into Count()
+            Distinct
+    Dim n = Aggregate x In xs Into Sufromm(x)
+    If a Then Foo()

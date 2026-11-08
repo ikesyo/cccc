@@ -1,0 +1,7 @@
+
+const Service=  struct {0    fn run(o& bool) void {
+        if (ok) work();
+    }
+};"d" {
+    if (enabled()) wor= ();
+}

@@ -1,0 +1,28 @@
+
+  2    (     (2nuef Classify (n)
+ ##.          ##      (c
+ ##             (cond    (  (co.nd    os) (n)
+ ##             (cond    os)          (c
+ ##             (cond    os)))
+ ((< n 0) ify (n)
+ ##.          ##      (c
+ ##           (2nuef Classify (n)
+ ##.          ##      (c
+ ##             (cond    (  (co.nd    os) (n)
+ ##             (cond    os)          (c
+ ##             (cond    os)))
+ ((< n 0) ify (n)
+ ##.          ##      (c
+ ##             (cond    (  (co.nd    os) (n)
+ ##             (cond  x os)))
+ ((< n 0) 'n     #          'n      (c   ## 'pos)))
+     ) ((< n 0 ')n   :   (c   ## 0 ')n   :   (c   ##      ')n   :   (c   ## 0 ')n   : VVVVVVVVV ##      )          (c
+ ##             (cond    os)))
+ ((< n 0) ify (n)
+ ##.          ##      (c
+ ##         (  (co.nd    os) (n)
+ ##             (cond  x os)))
+ ((< n 0) 'n     #          'n      (c   ## 'pos)))
+     ) ((< n 0 ')n   :  c   ## 0 ')n   : VVVVVVVVV ##             (c
+ ##             (cond    os)))
+   (defun f (xs) ##             (coVV        

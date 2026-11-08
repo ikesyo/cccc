@@ -1,0 +1,4 @@
+
+<Assembly: CLSCompliant(True)>
+<Serializable(), Obsolete("x)>Of Integer)_
+End Class

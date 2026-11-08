@@ -1,0 +1,4 @@
+
+fn a() { if true {} }
+   const fn a() { if true {} }
+   const 

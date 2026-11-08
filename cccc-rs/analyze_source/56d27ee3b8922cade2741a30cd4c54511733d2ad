@@ -1,0 +1,20 @@
+
+     struct C;
+            impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          fn free() {}
+         fn free() {}
+                    impl Cs { fn method(&self) {} }
+                 fn free() {}
+         fn free() {}
+            struct C;
+            impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          fn free() {}
+         fn free() {}
+                    impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+      0  se       

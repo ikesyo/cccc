@@ -1,0 +1,2 @@
+<?php
+            function f($_ENV as $i) 

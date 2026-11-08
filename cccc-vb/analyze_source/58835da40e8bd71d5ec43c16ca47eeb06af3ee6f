@@ -1,0 +1,31 @@
+
+Module P
+#If NET48 Then
+    Sub N(a As Int) As Stping Implement
+Interfaceger = 0) As String Implement
+lue As String)
+        End Set
+    E'd Property
+    Public Property Itemodu.l I
+    I            Button2.Click
+        If sender IsNot Nothing AndAlso
+           e IsNot Nothing Then
+            Dim q = From x In items
+                    Where x.Enabled AndAlso x.Visible
+                    Order By x.Name Descending
+                    Select x
+                    Order By x.Name Descending
+    ndAlso
+           e IsNot Nothing Then
+            Dim q = From x In items
+                    Where x.Enabled AndAlso x.Visible
+                    Order By x.Name Descending
+                    Select x
+             Where x.Enabled AndAlso x.Visible
+                    Order By x.Name Descending
+                    Select x
+            Process(q,
+                    If(x, y))
+        End If
+   $    If a _
+           OrElse b Then Ftemodu. As L

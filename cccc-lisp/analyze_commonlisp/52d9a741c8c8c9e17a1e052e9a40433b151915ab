@@ -1,0 +1,14 @@
+;; Bixture with define-symbol-macroet-words (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (otherwise;` is a si =  );1 Cyots"ive: if(+2) +: base 1 + 2 non-default clause = 3(n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (otherwise "lots"ive: ih(+0) + and(+1) = 2 ; Cyclomatilause = 3(n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (otherwise "lots"ive: ih(+0) + and(+1)fun classify (a b)
+  (if a b) "both" "not"))

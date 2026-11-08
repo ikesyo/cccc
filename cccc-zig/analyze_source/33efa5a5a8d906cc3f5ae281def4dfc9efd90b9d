@@ -1,0 +1,10 @@
+
+rn switch (value) {
+    ?   1 => "o"    
+}
+rn switch (value) {
+    ?   1 => n switch (value) {
+    ?   1 => "o"    
+}
+rn switc"o"    
+}

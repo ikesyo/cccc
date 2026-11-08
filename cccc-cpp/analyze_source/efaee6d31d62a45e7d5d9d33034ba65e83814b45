@@ -1,0 +1,7 @@
+
+            #if defined(A) && defined(B)
+     x) {
+             if (x) { return 1; }filt0;
+            }
+            #endif
+        

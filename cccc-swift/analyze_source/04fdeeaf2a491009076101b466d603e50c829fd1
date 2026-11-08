@@ -1,0 +1,10 @@
+
+            struct S {
+                    let xs: [Int]
+                subscript(i: Int) -> Int {
+                    if i < 0 {
+  
+                    }
+   A               return xs[i]
+                }
+                

@@ -1,0 +1,42 @@
+
+    ntHandler
+        AddHandler(value As EventHandler)
+   ()
+#If X Then
+        If a Then Foo()
+  Then
+        If a Then Foo()
+    End Sub
+End #odul.
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+ 
+   Public MustOverride Function Area() As Double
+    Public Property Na Set
+    End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(valShape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender Asue As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End Ra
+    For Eich x In a
+        If iseEvent
+    Ex Then Continue F     End
+     no.Pid Ex)
+    If* a Then Foo.()

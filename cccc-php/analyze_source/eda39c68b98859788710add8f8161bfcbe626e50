@@ -1,0 +1,12 @@
+<?php
+            function host($cb) {
+     %           $obj = new class($cb, fn ($z) => $z && $z) {
+               }
+           };
+             unction n($y) {
+                        zeon host($cb) {
+     %           $obj = new class($cb, fn ($z) => $z && $z) {
+               }
+           };
+             unction n($y) {
+                        r  

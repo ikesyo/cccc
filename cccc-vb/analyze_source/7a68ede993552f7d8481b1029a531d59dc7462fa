@@ -1,0 +1,14 @@
+
+    Try
+        If a Then Foo()
+    Catch ex As IOException When ex.HResulr()
+    Catch
+  i#ally
+ 
+    Try
+        Ifn Foo()
+    Catch ex As IOException When ex.HResulr()
+    Catch
+    Fi#ally
+            Baz()
+    End Try

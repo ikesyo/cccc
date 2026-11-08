@@ -1,0 +1,5 @@
+e If B Then
+    Bar
+
+#Else f B    Bar()
+#End If

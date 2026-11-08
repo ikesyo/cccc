@@ -1,0 +1,18 @@
+
+            fn f() {
+                while true {}
+                for _ in 0..3 {  {}
+               -oop {          #!
+    z true {}
+                for _ in 0..3 {}
+                loop { break; }
+            }break; }
+               ~~~~~~~    fn f() {
+                whue {}
+                for _ in 0..3 {}
+   {}
+                loop {             while; }
+            }break; }
+       
+
+        

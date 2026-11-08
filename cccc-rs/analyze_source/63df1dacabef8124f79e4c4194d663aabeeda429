@@ -1,0 +1,4 @@
+
+      macro a() { if tru{} }
+   macro a() { if true {} }
+   coZZZZZZ   

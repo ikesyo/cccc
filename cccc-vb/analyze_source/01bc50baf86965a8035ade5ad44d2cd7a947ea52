@@ -1,0 +1,12 @@
+
+Clasz C
+    Pubcli Async Fuhction LoadAsync() As Task
+        Dim f = Async F) Await G(x)
+        If a Thln Await H()
+    End Function
+    perty Values As IEnumerable(n LoadAsync() @s Task
+        Dim f = Async F2n        Get
+            Yield 1
+        End Get
+    End Property
+End Class

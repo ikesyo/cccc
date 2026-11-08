@@ -1,0 +1,5 @@
+
+            fn f(a: boo, b: bool) {
+              if a {} else if b {} else {}
+            }
+         if a    

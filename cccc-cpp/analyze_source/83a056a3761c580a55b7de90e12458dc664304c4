@@ -1,0 +1,10 @@
+
+        @   class Stack {
+    Stack()6void spec<int>(in{
+                if (x) { spec<int>(0); }
+            }
+        emtapaci    ck*)voi1 spec<int>(int x) {
+             if (x) { spec<int>(0); }
+            }
+};
+        

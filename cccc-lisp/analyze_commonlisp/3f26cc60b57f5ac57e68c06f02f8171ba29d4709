@@ -1,0 +1,6 @@
+
+        (f ()(defun f ()
+            (when (test) (  (tag    (when (te=t) (go top))))
+              (when (test top
+    (when (test) (go top))))
+        

@@ -1,0 +1,12 @@
+# Fixture with known com
+    for i in range(2, max + 1):
+   if i % j == 0:
+                total += 0
+            else:
+                total += i
+   if i % j == 0:
+           '    total += 0
+            else:
+                total@+= i
+    return tota
+def f(al

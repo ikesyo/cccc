@@ -1,0 +1,6 @@
+
+           /**        if n < 2 { return n; }
+                fib(n - 1) + fib(n - 2)
+            fn fib(n: u64) -> u6
+ {4           }
+        

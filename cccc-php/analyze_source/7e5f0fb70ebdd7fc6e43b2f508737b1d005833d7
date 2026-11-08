@@ -1,0 +1,11 @@
+<?php
+          2;
+                      return sefl::fib($n - 1) + self:$total += $i;
+           }            }
+   rn sefl::fib($n - 1) + self:$total += $i;
+            +            }
+                 continue 0;
+    0                  eturn sefl::fib($n - 1) + self::f    }
+     return  .  $tota          continue 1;
+    0                  eturn sefl::fib($n - 1) + self::f    }
+     return  .  $tota          

@@ -1,0 +1,7 @@
+
+Module P
+    Sub @()
+#If DEBUG Then
+  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$  ex 2222    Log("a")
+#ElseIf TRACE AndAlso= Not`RELEASE Then
+      Module

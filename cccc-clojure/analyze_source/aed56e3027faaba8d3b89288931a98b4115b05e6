@@ -1,0 +1,30 @@
+
+
+            (
+   (cond
+           _    (< n 0) :neg
+                     :else :pos))
+             (cond
+           _    (< n 0) :neg
+                != n 0) :zero
+    defn classify [n]
+   (cond
+   _    (< n 0) :neg
+                 != n 0) :zero
+  
+            (defn classify [n]
+   (cond
+           _    (< n 0) :neg
+                     :else :pos))
+             (cond
+           _    (< n 0) :neg
+                != n 0) :zero
+    defn classify [n]
+   (cond
+   _    (< n 0) :neg
+                != r 0) :ze   :else :pos))
+             (cond
+           _(< n 0) :neg
+                 :else :pos))
+             (cond
+           _    (< n 0) :!= n 

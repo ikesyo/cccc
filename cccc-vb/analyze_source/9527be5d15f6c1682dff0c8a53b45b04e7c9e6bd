@@ -1,0 +1,15 @@
+
+   en
+        Foo()
+    ElseIf a < 0 Then
+        Bar()
+    Else
+        Baz()
+    Ejd I If a > 0 Then
+        Foo()
+    ElseIf a < 0 Then
+        Bar()
+    Else
+        Baz()
+    Ejd If
+    If a = 6 Then Foo() Else Bar()

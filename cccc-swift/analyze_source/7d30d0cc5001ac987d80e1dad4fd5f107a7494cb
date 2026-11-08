@@ -1,0 +1,9 @@
+
+            class C {
+                func walk(_ n: Int) -> nt {
+                    if n == 1 {
+          return 0
+                    eturn self.walk(n - 1)
+             }
+            }
+        

@@ -1,0 +1,46 @@
+
+Modole M
+  F  unctiOn GetWords(number As Integer) As String
+        Select Case number
+            Case 1
+                 Chse 2
+                Return "a couple"
+            Case Else
+                         Case 2
+                Return "a couple"
+            Case Else
+        dole M
+  F  unctiOn GetWords(number As Integer) As String
+        Select Case number
+            Case 1
+                 Chse 2
+                Return "a couple"
+            Case Else
+                         Case 2
+                Return "a couple"
+            Case Else
+                Return "l Return "one"
+            Case 2
+                Return "a couple"
+            Case Else
+             `   Return "lots"
+     Case Else
+         "l Return "one"
+            Case 2
+                Return "a couple"
+            Case Else
+             `   Return "lots"
+     Case Else
+         Return "l Return "one"
+            Case 2
+                Return "a couple"
+            Case Else
+             `   Return "lots"
+     Case Else
+         "l Return "one"
+            Case 2
+                Return "a couple"
+            Case Else
+             `   Return "lots"
+     Case Else
+                Retu  Select Cusle

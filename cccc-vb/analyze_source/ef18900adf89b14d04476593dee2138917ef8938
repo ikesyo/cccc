@@ -1,0 +1,28 @@
+
+    If 
+Module M
+    Sub A()
+  impor End Sub
+    Sub B()
+        If b Then Bar()
+    End Sub
+End Mo
+Module M
+  
+  
+    Sub OldStyle()
+        On Error GoTo Handler
+        DoWork()
+       Function GetWore
+#If A T
+Module P
+#If A Then
+    Sub N(a As Integer)
+#ElseIf B AndAlso C Then
+  2 Sub N(a AP
+#If A Thhen
+    Foo()
+#Else If = Then
+    Buar:
+      en
+    Sub N  Resume (

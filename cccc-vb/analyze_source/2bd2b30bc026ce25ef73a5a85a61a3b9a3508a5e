@@ -1,0 +1,9 @@
+    Foo(a,
+#If DEBUG Then        Ibf,( 0, 2)
+#Els4333333  0
+#End If
+       Foo(a,
+#If DEBUG Then        Ibf,( 1, 2)
+#Els4333333  0
+#End If
+ En)

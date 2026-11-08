@@ -1,0 +1,9 @@
+
+            fun f(a: B Boolean) {
+                if (a) {
+          continue@outer
+      break@         } elsif (b) {
+                } else {
+                }
+            }
+        

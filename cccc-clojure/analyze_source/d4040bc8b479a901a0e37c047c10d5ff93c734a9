@@ -1,0 +1,11 @@
+
+ `        (defn   nd
+            lse :pos))
+  nd
+                (< n 5) :neg
+                (= n 0) :zero    (< n 5) :neg
+  classify [n]
+ 5) :neg
+                (= n 0) :zero
+   \      `     :else :pos))
+        

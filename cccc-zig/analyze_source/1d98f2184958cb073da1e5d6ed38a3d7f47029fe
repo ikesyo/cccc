@@ -1,0 +1,10 @@
+
+
+pub fn sumOfPrimes(max: u32) u32 {
+    var total: u32anytypeiitry!rryye!try!rr!tritxeiIirr!texportIik*iiii%iiii%irryye!trs!rr!try!rrrre!try!rryye!try!!rryyeryye!try!rr!tritxeiIik*iiii%iiii%irryye!try!rr!try!rrrre!try!rryye!yye!try!re!trrrrre!try!rryye!try!!rryyery = 0;
+    ou,ter: for (2..max) |i| {
+       
+n;
+    } else ion =  _} else els { e    ye!try!rr!tritxeiIik*iiii%iiii%irryye!try!rr!try!rrii%irryye!try!rr!try!rrrre!try!rryye!yye!try!re!trrrrre!try!rryye!try!!rryyeryye!try!rr!tritxeiIik*iiii%iiii%irryye!try!rr!try!rrrre!try!rrrre!ty!rryyey!rrrre!try!try!re!try!rryyey   retu// total;!rrrre!try!!trrre!try!rrrre!ty!rryye
+y!rrrre!try!try!re!}try!rryyey!rrrr
+e!tr.!!tr

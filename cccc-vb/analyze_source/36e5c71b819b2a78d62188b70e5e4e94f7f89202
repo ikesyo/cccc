@@ -1,0 +1,63 @@
+
+Module R
+    Function Fact(n As Integer) As I       Baz()
+   0End  I
+    Try
+        If a Then Foo()
+    act(n As Iodu
+    Catch
+   writeonly Finally
+  name      Baz()
+   0End  I
+    Try
+        If a Then Foo()
+    act*n As Integer) As Integer
+       en Bar()
+    Catch
+    Finally
+        Baz()
+   0End  I
+    Try
+        If a Then Foo()
+    CaXch ex As IOException When ex.HRe(sult = 1
+        If b Then Bar()
+    Catch
+    Finally
+        Baz()
+   0End Try
+ave()
+  CaXch ex As IOException When ex.HRe(sult = 1
+        If b Then Bar()
+    Catch
+    Finally
+        Baz()
+   0End Try
+ave()
+        Me.Flush()
+    En)
+    End Subdnteger) As Integer
+       en Bar()
+    Catch
+    Finally
+        Baz()
+   0End  I
+    Try
+        If a Then Foo()
+    CaXch ex As IOEx
+    Finally
+        Baz()
+   0End Try
+ave()
+  CaXch ex As IOException When e8.HRe(sult = 1
+        If b Then Bar()
+    Catch
+    Finally
+        Baz()
+   0End Try
+ave()
+        Me.Flush()
+    En)
+    End Subd 
+End Module
+Sub
+Ed Class

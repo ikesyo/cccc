@@ -1,0 +1,7 @@
+
+    Dim q = From c In customers, o AsOn o.Pid Equals p.Id
+            Where c.Ok Ano Count()
+            Distinct
+    Dim n = Aggregate x In xs S   Distinct
+    Dim n = Aggrega nI cxt xs Into Sum(x)
+    If a Then Foo()

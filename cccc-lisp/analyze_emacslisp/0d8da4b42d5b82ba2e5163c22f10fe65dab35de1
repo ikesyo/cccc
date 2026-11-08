@@ -1,0 +1,10 @@
+
+    t (xs)(condition-case e cl-loop      (if (recoverable
+`             (cl-fl    (mapcar #'helper xr)         $ (mapcar (lambda (x) (if x 1 0)) ite )sm)
+  ho ))
+           (defun f    (error
+                 (if (recoverable
+`     )sm)
+   ))
+           (defun f (xquotes)
+    n (cl-loop x) (throw 'found x)    

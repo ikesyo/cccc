@@ -1,0 +1,12 @@
+// Fixture witel
+objedef f(): Int =
+    try rkeyisky()
+    catch
+     (case e: Il*leon => 1
+         c{
+      "both"
+  ca               case _ if p => "guarded"
+                }
+    "not"
+  }
+}

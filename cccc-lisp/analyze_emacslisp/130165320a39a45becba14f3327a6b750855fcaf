@@ -1,0 +1,6 @@
+
+    t (xs)
+              (cl-flet ((helper (x) (if x 1 0)))              (mapcar #'helpe           (dolist (x xs)
+         (catch 'found
+                (dolist (x xs)
+                  (when (match-p x) (throw 'found x)    

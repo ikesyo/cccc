@@ -1,0 +1,14 @@
+
+            (define (count n)
+                      (if (<do i n)
+     (if (< i n)
+             (if (< i n)
+     (  i 1)               (let loop ((i 0))
+   (if (< i n)
+     (if (< i n)
+                        (if (< i n)
+                    (loop (+ i 1))
+         (if (< i n)
+     (if (< i n)
+                    (loop (+ i 1))   i)))
+ '      

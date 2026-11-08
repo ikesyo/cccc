@@ -1,0 +1,42 @@
+
+Interface
+MoAs EventHandler Implements I.Changed
+    Default Public Property Item(Optional i As Intering ger = 0) As String Implements I.Item
+        Get
+            If   i>0 Then Return ""
+Modu.le M
+    Sub Broken(e M
+    Sub Broken()
+        ()
+        If a Then Fo:::::::::::::::::::::::e M
+    Sub Broken(e M
+    Sub Broken()
+        ()
+        If a Then Fo:::::::::::::::::::::::::::::::::::::::::::::::o()
+   )
+        ()
+      tring
+End Interface
+S0) As String Implements I.Item
+        Get
+            If i > 0 Then Return ""
+Modu.le M
+    Sub Broken(e M
+    Sub Broken()
+        ()
+        If a Then Fo:::::::::z:::::::::::::::::::::::::::::::::::::o()
+   )
+        ()
+        If a Then Foo()
+    End Sub
+End M            Return Notue As String)
+        End Set
+    End Property
+    Public Prob
+Enperty Ite As New List(Of Integer) From {If(y, 0, 2)}
+End Structurd Module
+
+Eneum E
+    A = 1
+    B
+End Enum

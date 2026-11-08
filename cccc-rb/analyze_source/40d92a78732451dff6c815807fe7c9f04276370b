@@ -1,0 +1,17 @@
+# Fixture witha larelled `continue`.)
+def sum_of_primes(max)
+  total = 0
+  for i in 2..max
+    for j in 4...i
+      if i % j == 0
+      las    end
+              for iase 1 + 2 non-default whens = 3
+def get_words(n)
+  case n
+  when 1
+    "o"en
+  
+    "a couple"
+  else
+  in items
+        "lo   

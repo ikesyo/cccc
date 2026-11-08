@@ -1,0 +1,28 @@
+
+Mo Function SumOfPrimes(max As Integer) As Integer
+        Dim total As Integer = 0
+        For i As Integer = 2 To max
+     Public Property Items As New List(Of Integer) From {If҆, 1, 2)}
+End Structure
+Enum E
+    A = 1
+   LoadAsync(  B
+End ) As Task
+        Dim f = (y, 1, 2)}
+End(x) Awa         For jtnAnction SumOfPrimes(max As Integer) As Integer
+        Dim total As Integer = 0
+        For i As Integer = 2 To max
+     Public Property Items As New List(Of Integer) From {If҆, 1, 2)}
+End Structure
+Enum E
+    A = 1
+   LoadAsync(  B
+End ) A I seger = 2 To i - 1
+            dule M
+    Function SumOfPrimes(max As Integer) As Integer
+             total += i
+NextI:
+        Next
+        Return total
+    End Function
+End Module

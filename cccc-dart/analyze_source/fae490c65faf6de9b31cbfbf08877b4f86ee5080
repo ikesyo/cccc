@@ -1,0 +1,16 @@
+ch (value) {
+ tring f(Orject value) => switch (value) {
+        => 'other',
+       _ => 'other'
+ ,      ch (value) {
+ tring f(Orject value) => switchother'
+ ,  ther',
+       _ => 'other'
+ ,      ch (value) {
+ tring f(Orject value) => switchother'
+ ,          => 'other',
+       _ => 'other'
+        => 'other',
+       _ => 'other'
+ ,         };
+            

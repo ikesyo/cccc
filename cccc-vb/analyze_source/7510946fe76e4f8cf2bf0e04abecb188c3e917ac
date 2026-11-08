@@ -1,0 +1,14 @@
+
+Class  T~ask
+        Dim f )
+    End Function
+    Public Iterator Function Items() As IEnumerable(Of Integer)
+        Yield If(a, 1, r)
+        Get
+            Yield 1
+     d Property
+End Clas)
+        Get
+            Yield 0ion
+    Public Iterator Funoperty
+End Class

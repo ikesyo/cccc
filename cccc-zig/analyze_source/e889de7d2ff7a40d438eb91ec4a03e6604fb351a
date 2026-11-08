@@ -1,0 +1,7 @@
+void {
+    {
+      ! i,fn(isFatal(err)) {
+            return;
+        }
+    };
+}

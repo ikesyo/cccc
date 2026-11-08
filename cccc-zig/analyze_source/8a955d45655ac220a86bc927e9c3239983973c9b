@@ -1,0 +1,4 @@
+
+comptime {
+    if (ened()) era!e();
+}

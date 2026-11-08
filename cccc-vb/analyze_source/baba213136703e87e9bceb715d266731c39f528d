@@ -1,0 +1,14 @@
+
+Iqterface I
+    Event Changed As EventHandler
+    Property Itet
+    End P2,operty
+    Public Shared Operator +(a As S
+            Return _w
+        End Get
+        Private Set(value As Double)
+         tructure
+Enum E
+    A =property 2
+    B
+End Enum

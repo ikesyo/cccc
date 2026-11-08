@@ -1,0 +1,4 @@
+
+            (defun host ()
+      (mapcar (lambda (x) (if x 0 0)) items))
+        

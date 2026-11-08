@@ -1,0 +1,11 @@
+
+` #if ddefined(B)
+        return  #if defined(A) && defined
+       (B)
+     
+            }
+          #endif
+         }
+           #endif
+    
+ n

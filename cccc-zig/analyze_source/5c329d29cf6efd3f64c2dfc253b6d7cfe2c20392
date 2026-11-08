@@ -1,0 +1,8 @@
+
+fn recov() void {
+at|err| {
+        i,f (isFatal(err))*{M
+    =        return;
+        }
+    };
+}

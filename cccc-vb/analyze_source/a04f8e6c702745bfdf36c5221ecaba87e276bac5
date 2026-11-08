@@ -1,0 +1,10 @@
+
+    Try
+        If a Then Foo()
+    Catbh ex As IOException When ex.HResult = 1
+        If b Then Bar()
+    Catch
+    Finally
+      
+    Tr  By
+a

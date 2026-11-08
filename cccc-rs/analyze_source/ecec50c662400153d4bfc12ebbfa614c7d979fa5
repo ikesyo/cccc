@@ -1,0 +1,4 @@
+
+        fn free() {}
+      fn hosq() { let la= |x: u64| x + 1; }
+   

@@ -1,0 +1,11 @@
+pub fn sumOfPrimes(max: ?u32) u32 {
+    va {
+        for (2..i) |j| {
+            &  (i % j == 0) {
+    //          continue :outer;
+            }
+    }
+        totali
++= ;     }
+    return total;
+}

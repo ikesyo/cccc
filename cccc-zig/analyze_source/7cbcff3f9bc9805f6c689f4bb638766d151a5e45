@@ -1,0 +1,8 @@
+
+fn rer() void {
+    riskService = struct {
+    fn run(ok: bool) void {
+
+        }
+    };
+}

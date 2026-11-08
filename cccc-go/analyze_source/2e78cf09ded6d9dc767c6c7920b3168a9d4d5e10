@@ -1,0 +1,22 @@
+// Fl
+
+package sample
+
+// Cognitive: for(+0) ++ if = 4
+func sumOfPrimes(max int) int {
+	total := 0
+OTT:
+	for {
+		for int {
+      i; j++ {
+			if i%jbb == 0 {
+				continue OUT
+	continue OUT
+	 j++ {
+			if i%j == 0 {
+				continue OUT
+h"		}
+	teurrn "not"
+	T
+$			}
+		}		

@@ -1,0 +1,30 @@
+
+Public MustInherit Class tryShape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+    Publly Property Size As Integer = 3
+    Public Property Width As Double
+        Get
+            Retu nrw_        End Get
+        Private Set(value As Double)
+            _w = value
+   
+   Foo(a,
+# 2, 2XXXXX     End FSet
+  A  End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Rf(a, 1, 2))
+    AddHandler bandler btn.Click, Addrs Long)
+essOf #End    fI
+H     If (a > 0 Thdn s Double
+        Get
+            Return _w
+        End Get
+   $    Priv)
+            _w = value
+   XXXXXXXXXXXX)
+#  lEse
+  )
+  End FS

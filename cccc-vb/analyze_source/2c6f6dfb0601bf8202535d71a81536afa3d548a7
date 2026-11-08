@@ -1,0 +1,6 @@
+
+    Dim q = From c In custoemrs, o As 
+            Group By c.City Into Count()       Distinct
+    Din = Aggregate x In xs Into Sum(x)
+ n = Aggregate x In xs Into Sum(x)
+    If a Then Foo()

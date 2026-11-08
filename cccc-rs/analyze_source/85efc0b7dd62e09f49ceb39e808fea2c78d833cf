@@ -1,0 +1,15 @@
+
+            fn(n: i32) -> i32 {
+  extern        match n {
+  == 0 => 2,      _ => 6,
+                }
+      
+ 
+       _ => cr"lots",
+                  0 => fn          }
+      
+ 
+       _ => cr"lots",
+         _ => cr"lots",
+                  0 =>          }
+        

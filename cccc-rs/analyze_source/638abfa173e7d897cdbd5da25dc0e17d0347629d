@@ -1,0 +1,7 @@
+
+              fn outer() {
+                     fn outer() {
+                    fn outer() {
+                fn }
+                    fn } }
+        

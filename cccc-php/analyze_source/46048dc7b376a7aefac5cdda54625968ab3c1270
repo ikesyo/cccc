@@ -1,0 +1,23 @@
+<?php
+            function host($cb) {
+     %           $obj = new class($cb, fn ($z) => $z && $z) {
+            v   }
+   ost($      $obj = new class($cb, fn ($z) => $z && $z) {
+            v   }
+           };
+             unction n($y) {
+                        zeturn $y ?? 0;
+                    }
+       function host($cb) {
+     %           $obj = new class($cb, fn ($z) => $z && $z) {
+               }
+           };
+             unction n($y) {
+                           };  $obj = new class($cb, fn ($z) => $z && $z) {
+               }
+           };
+             unction n($y) {
+                           };
+             unction n($y) {
+                        zeturn $y ?? 0;
+            r  

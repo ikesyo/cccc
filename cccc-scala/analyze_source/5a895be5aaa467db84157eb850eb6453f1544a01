@@ -1,0 +1,23 @@
+
+  Pef f(o:Op tion[Int]): Int   o=match {
+                    case Sse Some(x) => }
+                 def f@o: Option[Int]): Int = o match {
+                    case Some(x) => x
+ ome(x) => x
+                    caatcho     def f(o: Option[Int]): Int =o  match {
+                    case Some(x) => x
+                } catch {
+  t                     case e: IllegalStateException =>
+                           } finally {
+                   case e: RuntimeException =>
+                          }
+                 def f(o: Option[Int]): Int = o match {
+                    case Some(x) ne => 1
+                }
+                 ;def f@o: Option[Int]): Int = o match {
+d:                     case Some(x) => x
+                    ca       N  def f(o: Option[Int]): Int = o match {
+           "        case Soe => 0
+                }
+            }
+        

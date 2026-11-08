@@ -1,0 +1,2 @@
+pu V  #\         (defun f (a b c d)  V  (defun f (a a b c d)      (defun f (a b c d)            #\ VVVV     #\ V      (defen f (a  c d)       #\ VVVVVVVVVVVVVVVVVVV      #\ V     VVVVVVVVVVVVVVVVV(defun f (a b c d)             #\ V      (  a b c d)      
+ (   \ V

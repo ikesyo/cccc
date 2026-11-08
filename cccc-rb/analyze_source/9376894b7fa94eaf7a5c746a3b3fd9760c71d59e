@@ -1,0 +1,23 @@
+
+            describe "outer" do
+              describe do
+              describe "a" do
+              end
+       contexte "outer" do
+              describe do
+              describe do
+         end
+       context "b" do
+              end
+       "a" do
+              end
+       context "b" do
+              end
+         "b" do
+              end
+       "a" do
+              end
+  xt "b" do
+              end
+            end
+       

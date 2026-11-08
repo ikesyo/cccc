@@ -1,0 +1,8 @@
+
+            fun 0f() {
+           try {
+       ! risky()
+                } ca IlmegalSta{ { catch (e: Exception) {
+   } finally {
+                  }      }
+        

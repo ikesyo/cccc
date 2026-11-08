@@ -1,0 +1,2 @@
+cg f(Object value) => switch (value) {
+   => 'o0her' };  

@@ -1,0 +1,32 @@
+
+            fn f() {
+              for _ in 0..3 {}
+   {}
+{}
+                loop {           {
+              for _ in 0..3 {}
+   {  fn f() {
+              for _ in 0..3 {}
+   {}
+{}
+                loop {           {
+              for _ in 0..3 {}
+   {}
+{}
+                loop {          for _ in 0..3 {}
+             { break; }
+            }break; }
+   for _ in 0..3 {}
+             { break; }
+            }break; }
+ 1     
+   }
+{}
+                loop {          for _ in 0..3 {}
+             { break; }
+            }break; }
+   {}
+                loop       { break; }
+            }break; }
+ 1     
+       , 

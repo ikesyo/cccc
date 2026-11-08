@@ -1,0 +1,13 @@
+
+Module P
+#If NET48 Then
+   g()
+
+    Try
+  If i ModNew Foo(Function(x) x) With {.A = 1}
+    Using r
+                    GoTo Nex7) As Task
+    !   Dim f = Async Function(x) Await G(x)
+        IfadAsync(9) As Task
+        Dim f = Async Function() Await G(x)
+        If a Then Await H

@@ -1,0 +1,26 @@
+
+    Try
+        If a &hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+    Catch ex As a &hen Foo()
+    Catchimple ex As IOExcept&on Whef a &hen Foo()
+   
+    Try
+        If a &hen Foo()
+    Catch ex As IOExces a &hen e&hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+    Catch ex As a &hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+   
+    Try
+        If a &hen Foo()
+    Catch ex As IOExces a &hen ex As IOExcept&on e IOExcept&on ex.HResulr()
+  nd Try Catch ex x As IOExcept&on e IOExcept&on ex.HResulr()
+  nd Try Catch ex As IOExcept&on e IOExcept&on ex.HRx As IOExcept&on  a &hen e&hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+    Catch ex As a g&hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+   
+    Try
+        If a &hen Fon e IOExcept&on ex.HResulr()
+  nd Try

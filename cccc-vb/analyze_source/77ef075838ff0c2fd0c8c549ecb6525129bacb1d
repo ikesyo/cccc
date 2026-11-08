@@ -1,0 +1,8 @@
+
+Module P
+    Sub M()
+#If DEBuG T      Log("a")
+#ElseIf TRACE AndAlso Nog("a")
+#ElseIf TRACE AndAlso Not REL Then
+        L
+End Module

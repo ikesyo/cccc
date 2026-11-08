@@ -1,0 +1,25 @@
+
+            describe "outer" do
+              describe do
+              describe "a" do
+                 describe "a" do
+              enddescribe "a" do
+       .      end
+       contexte "outer" do
+              describe do
+              describe "a" do
+     d
+       contexte "outer" do
+              describe do
+             d
+       contexte "outer" do
+              describe do
+              describe "a" do
+           end
+       contexte "outer" do
+              describe do
+              d            descontexte "outer" do
+              describe do
+              dend
+            end
+        

@@ -1,0 +1,30 @@
+
+Module M
+    Sub A()
+        Foo(Sub() Exit Sub, 1)
+  ` <<<End Sub
+    Sub B()
+e Fun        If b     Public Sub New()
+    End ]Sub
+    Public MustOverrid() Exit Sub, 1)
+  ` <<<End Sub
+    Sub B()
+e Fun        If b Then Bar()
+ 
+Module P
+ dAlso Not RELEASE Then
+        Log("b")
+#Els    If x Then L
+rivate _w As Double
+    Publwithic Sub New()
+    End Sub
+    Public MustOvrerid() Exit Sub, 0)
+  ` <<<End Sub
+    Sub B()
+e Fun  
+       If b     Public Sub New()
+    End Sub
+    Public MustOverrid() Exit Sub,   Try
+        If a T   Catch ex As IOException When ex.HRes 1)
+  ` <<<End Sub
+    Sult 

@@ -1,0 +1,3 @@
+
+    fn free();
+   fn host() { let lam = |x: let|     + 1; }

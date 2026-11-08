@@ -1,0 +1,10 @@
+
+             if let v = x, a && b {
+                    use(v)
+        (       }
+             func                   do {
+                if let v = x, a & b {
+              use(v)
+        (       }
+            }
+        

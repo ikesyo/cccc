@@ -1,0 +1,5 @@
+
+fn ri() void {
+  risky() catch y() catch zerr| {
+   };
+}

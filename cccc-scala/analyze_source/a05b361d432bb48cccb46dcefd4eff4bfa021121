@@ -1,0 +1,8 @@
+
+            object S {
+         = xs.map {
+                case (0, v) => v
+       => k
+  !             }
+    }
+        

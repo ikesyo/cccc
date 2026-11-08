@@ -1,0 +1,8 @@
+
+            package p
+            type S struct{}
+            func (s S) walk(n int) int {
+              if n == 0{ 
+                              } else 
+           type S    ?        == int) int {<=
+       ?        ==fin   1  [        

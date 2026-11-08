@@ -1,0 +1,12 @@
+
+            package p
+            func f(a bool, items []int) {
+                for a {
+     f       or a {
+                }
+                for i := 0; i < 3; i++ {
+                }
+                for i :=range items {
+                chanage p
+  nge items {       }       ack,  s {    }
+        

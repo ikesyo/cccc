@@ -1,0 +1,11 @@
+
+            package p
+            func host() {
+                pick := func(a, b bool) int {
+                    if a && b {
+    A       }
+ 0   rn                 }
+                _ = pick
+   t()  
+   }
+        

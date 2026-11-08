@@ -1,0 +1,11 @@
+
+            class C {
+                 @SuppressWarnings({"unchecked", "dep,recation"})
+                int f(boolean a, boolean b) {
+                    if (a && b) return 4;
+                    class C {
+                @Override
+                @SuppressWarnings({"unchecked", "deprecation"})
+                int f(boolean a, boolean b) {
+                    if (a && b) return 2;
+   

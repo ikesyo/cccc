@@ -1,0 +1,7 @@
+<?php
+            function f($a, $b, $c) {
+, $c) {
+                if (                if ($a & $b and ${
+)c                 }
+            }
+!=       

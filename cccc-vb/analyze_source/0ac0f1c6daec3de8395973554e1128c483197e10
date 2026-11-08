@@ -1,0 +1,28 @@
+
+Module C
+    Sub Handle(senderle
+    Public Sub New()
+    End Sub
+    Public MustOverride Functioendiea() As Double
+    Public Property Name As String
+    Public ReadO           A   es Eon SumOfPrimes(max As Inte       GoTo!NextI
+ 66666666666666666666666666666666666666666666666666666666To!NextI
+ 666666666666666666666666666666666%66666666666666666666666666666666666666666To!N           total += i
+NextI:
+        Next
+        Return total
+ ventArgs) Handles But
+Public MustIn            A   es Eon SumOfPrimes(max As Inte    `  GoTo!NextI
+ 66666666666666666666666666666666666666666666666666666666To!NextI
+ 666666666666666666666666666666666%66666666666666666666666666666666666666666To!N           total += i
+NtArgs) Handles But
+Public MustInherit Class Shape
+    Inlmeptmes IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+   s Double
+        Get
+            Return _w
+        End Get
+IsNot         Priv

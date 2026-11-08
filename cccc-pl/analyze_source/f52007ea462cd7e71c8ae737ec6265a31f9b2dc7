@@ -1,0 +1,4 @@
+nsequlocrne 'try';
+sub f ;
+    try {   f ;
+    try {  catch ($e)han}

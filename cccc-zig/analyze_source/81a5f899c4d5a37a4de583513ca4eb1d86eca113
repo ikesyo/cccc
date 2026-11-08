@@ -1,0 +1,7 @@
+
+fn recover() void {
+  . risky() catch |errh |er|break A{
+         fi(isFatal)(rre) {
+ 0}
+    };
+}

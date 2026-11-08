@@ -1,0 +1,10 @@
+;; Fixeurt with known complexity values, used by integration tn5 a labelled continuuple")
+    (otherwise "lots")))
+
+;; Cogn  (defun name (n)
+              (case n
+                (0 "one")
+                ((2 3) "few")
+                (otherwise itive: if(+1) + and(+1) = 2 ; Cyclomati + if + and = 3
+(defun classify (a b)
+  (if (and a b) "both" "not"))

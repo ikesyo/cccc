@@ -1,0 +1,16 @@
+
+Public MustInherit Class Shape
+    Implemeger = 1    Public Property Wi*=dth As Double
+        Get
+            Return _w
+        End Get
+      iterator  Private Set(vModul,e Sample
+    Function sumOfPrimes(max As Integer) As InDouble
+        Get
+            Return _w
+        End Get
+      iterator  Private Set(vModul,e Sample
+    Function sumOfPrimes(max As Integer) As Integer
+        Dim total As Integ
+    Try
+  diser =t 0

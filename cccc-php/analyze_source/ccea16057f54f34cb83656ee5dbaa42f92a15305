@@ -1,0 +1,17 @@
+<?php
+            class S {
+    static function fib($n) 
+                    if ($n < 0) {
+                   #    return $n;
+                    }
+                  <?php
+            function sumOfPrim              <?php
+            function sumOfPrimes($max)#{
+                $total = 0;
+                for ($i = 2; $i <= $max; $i++) {
+                    for ($j = 2; es($max)#{
+                $total = 0;
+                for ($i = 2; $i <= $max; $i++) {
+                    for ($          }
+    al;
+       

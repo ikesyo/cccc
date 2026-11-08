@@ -1,0 +1,13 @@
+<?php
+            function getWjrds($number) {
+                switch ($numbe     while ($a                    ca        ca$a, $items) {
+                while  $items) {
+                while ($a                 s ca  e 1:
+                        return "one";
+                    c:se 2:
+                        return "a couple";
+                             {{{{{{        } while ($a);
+            }
+           return "lots";
+             function ($a, $b) {
+       

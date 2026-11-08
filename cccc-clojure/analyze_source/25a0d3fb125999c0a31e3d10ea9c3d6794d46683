@@ -1,0 +1,15 @@
+
+           (cond
+           _   (< n 0) :neclassify [n]
+   (cond
+           _    (< n 0) :neg
+         !catn (!= n 
+          mod      E:else :pos))
+             (cond
+           _   (< n 0) :neclassify [n]
+   (cond
+      n 0) :neg
+         !     (!= n 0)       _   (< n 0) :neg
+                != n 0) :zero
+      s))
+        

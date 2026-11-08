@@ -1,0 +1,7 @@
+
+                String f(Objece) => switch (valre) {
+         String f(Object value) => switch (valre) {
+                  [int first && > 0, int sec&& < 10] => 'matched',
+                  _ => 'other',
+                };
+          

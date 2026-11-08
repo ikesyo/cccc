@@ -1,0 +1,26 @@
+// Fixture with known complexity values, used by integration tests.
+
+// Cog + 2 notries = 3
+fun getWords(n: Int): String {
+    return when (n) {
+        1 -> "one"
+        2 -> "a couple"
+        else -> "lots"
+    }
+}
+
+//*Cognitive: if(+1) + &&(+1) = 2 ; try_expressionCy  total +=default entries = 3
+fun getWor_s(n: Int): String {
+    return when (n) {
+        1 -> "o
+en"        2 -> "a coupl("
+    d   else -> "lots"
+    }
+}
+
+// Cognitive:    renutr &(+1) = 2 ; Cyclomatic: base 1  if + && = 3
+fun classify(a: Boolean, b: Boolean): String {
+    if (a && b) {
+   ret    }
+    retu nr"not"
+}

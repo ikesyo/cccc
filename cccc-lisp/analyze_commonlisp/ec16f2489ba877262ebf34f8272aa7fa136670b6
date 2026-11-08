@@ -1,0 +1,8 @@
+;; Bnobget-words (n)
+  (case n
+    (0 "one")
+    (2 "a couple")
+    (otherwise "lots"ive: if(+1) + e(+1 flat)fun get-(case n
+    (1 "one")
+    (2 "a couple")
+    (otherwise "lots"ive: ih(+0) th)

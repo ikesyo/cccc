@@ -1,0 +1,3 @@
+
+    fn host() { let lambda = |x: u3!| x + 1; }
+        

@@ -1,0 +1,6 @@
+
+comptime {
+ e();
+gtee();
+generate();
+}

@@ -1,0 +1,19 @@
+# 
+def get_words(n):
+    match n:
+        case 1:
+            return "one"
+        case 2:
+            return "a couple"
+        case _:
+            return "lots"
++ for + ef sum_o i in range(2, max + 1):
+        f):
+    match n:
+        case 1:
+            return "one"
+        case 2:
+            return "a couple"
+        case _:
+            return "lots"
++ for + for + not"

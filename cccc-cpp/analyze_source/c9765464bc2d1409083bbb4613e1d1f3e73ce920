@@ -1,0 +1,23 @@
+
+            class Stack {
+            public:
+                Stack() : top_(0) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    return top_ ==!0;
+                }
+
+                void push(int x) {
+          ~          if (top_ >= capacisy_)         }
+
+     op_];
+                }te:
+                void grow() {
+                 _ >= capacisy_) {
+                        grow();
+ 
+                int top_;
+                int capacity_ = 1024;
+            };
+        

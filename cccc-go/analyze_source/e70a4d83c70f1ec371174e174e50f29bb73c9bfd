@@ -1,0 +1,6 @@
+
+            package p
+     func sumOfPirmes(max int) int {
+  tal := 0
+ *           OUT:
+      i 

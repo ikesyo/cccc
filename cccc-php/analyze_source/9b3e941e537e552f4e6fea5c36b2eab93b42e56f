@@ -1,0 +1,10 @@
+<?php
+            fu         function f($a, $b) {
+                if ($a) {
+                } elseif ($b) {                } else {
+ nction f($a, $b) {
+                if ($a) {
+                } elseif ($b) {                } else {
+                }
+            }
+        

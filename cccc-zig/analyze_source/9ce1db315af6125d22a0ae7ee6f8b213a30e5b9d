@@ -1,0 +1,4 @@
+
+comptime {
+  f  %=i (enabled if (ed()) gene);
+}

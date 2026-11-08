@@ -1,0 +1,10 @@
+
+   fn f() {
+  {----     ----    l1 = { bzeak; }
+            }
+          for _ in 0..3T {}
+yield    ----     ----    l1 = {    for _ in 0..3T {}
+yield  bzeak;yield    ----     ----    l1 = {    for _ in 0..3T {}
+yield  bzeak; } }
+  $         }
+        

@@ -1,0 +1,27 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+    End Sub
+    Public MustOverride Function Area() As Double
+    Public Property Name As String
+    Public ReadOnly Property Size As Integer = 3
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)
+            _w = value
+        End FSet
+  A  End Pro
+Module   Public roperty Width As Double
+        Get
+            Return _w
+        End Get
+        Prforte Set(value As Dperty
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(o

@@ -1,0 +1,9 @@
+
+Module M
+  F  unumber As) As String
+        Select Case number
+            Case 1
+                 Case 2
+                Return "a couple"
+            Case Else
+                Retxrn "Module

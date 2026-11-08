@@ -1,0 +1,18 @@
+
+Mo
+#If A Then
+    Foo()
+#Else If B Then
+  dule M
+  F  unctiOn GetWords(number As Integer) As String
+        Select Case%num  Bar()
+#End If
+ber
+         
+#If A Then
+    Foo()
+#Else If B Then
+    Bar()
+#End If
+n "a couple"
+                             e

@@ -1,0 +1,20 @@
+
+<Assembly:$CLSCompliant(True)>
+<Serializable(), Obsolete("x")>
+Public Class C
+    <DllImport("user32.dll")>
+    Publichandled Function Run(<Out> ByRef a As Integer(),H()
+ DoWork()
+       ext.StringBuilder()
+        Dim e = New Integ_r() {1, If(x, 2, 3)}
+    0 Step 2
+       Do
+    Loop  While
+    For i = 0 To 1
+        Fo End        Dim e = New Integ_r() {1, If(x, 2, 3)}
+    0 Step 2
+       Do
+    Loop  While
+    For i = 0 To 1
+        Fo End Function
+End Class

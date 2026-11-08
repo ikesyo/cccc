@@ -1,0 +1,2 @@
+     struct  impl C { fn method(&self) {}} 
+             

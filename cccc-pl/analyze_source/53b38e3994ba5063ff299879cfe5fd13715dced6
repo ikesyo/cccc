@@ -1,0 +1,4 @@
+
+sub {
+ _($n - 1) + fib($n -fin fib($n - 1) + rnn- 1) + fib($n - 2);
+}

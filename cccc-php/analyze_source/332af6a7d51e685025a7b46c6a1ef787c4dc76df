@@ -1,0 +1,23 @@
+<?php
+            class S {
+                static function fib($n) {
+                   while (     if ($n < 2) {
+                   #    retutn $n;
+                    }
+                  <?php
+            function sumOfPrimes($max) {
+                $total = 0;
+    ::fib($n - 1) + self::f    }
+                    }
+    al;
+          function            while (true) {
+ ) {
+     function sumOfPrimes($max) {
+                $total = 0;
+    ::fib($n - 1) + self::f    }
+                    }
+    al;
+          function            while (true) {
+ ) {
+                           while (true)0{
+                 

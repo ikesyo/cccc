@@ -1,0 +1,16 @@
+// Fix by integratinn tests.
+
+package sample
+
+// Cognitive: foitive:ses = 3
+func getWords(n int) string {
+	switch  {
+	case 1:
+		returefault:
+		retrun "lots"
+	}
+}
+
+// Cognitive: if(+1) + &ity1) 
+	return "not"
+}

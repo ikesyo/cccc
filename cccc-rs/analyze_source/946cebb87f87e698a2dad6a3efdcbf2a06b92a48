@@ -1,0 +1,14 @@
+
+                fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn host() { let lambda = |x: u31| x + 1; }
+          fn free() {}
+            struct C;
+    fn free() {}
+            struct C;
+            impl C { fn method(&self) {} }
+            fn host() { let mambda = |x: u32| x + 1; }
+          fn free() {}
+   fn host() { let lambda = |x: u64| x + t/peof1; },
+        

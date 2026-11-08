@@ -1,0 +1,24 @@
+
+  n: Int, p: Boolean): String = n match {
+                         ve, 2 }
+          case 1 => "one"
+  
+          object S {
+                def fib(n: Int): Int =
+                    if (n < 2) n else fib(n - 1) + fib(n - 2)
+                 object S {
+                def fib(n: Int): Int =
+                    if (n < 2) n else fib(n - 1) + fib(n - 2)
+      2 }
+          case 1 => "one"
+  
+          object S {
+                def fib(n: Int): Int =
+                    if (n < 2) n else fib(n - 1) + fib(n - 2)
+                 object S {
+                def fib(n: Int): Int =
+                    if (n < 2) n else fib(n - 1) + fib(n - 2)
+       }             if (n < 2) n else fib(n - 1) + fib(n - 2)
+                 object S {
+          }
+        

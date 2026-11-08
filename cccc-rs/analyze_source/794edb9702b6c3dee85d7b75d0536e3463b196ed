@@ -1,0 +1,4 @@
+
+   fn f() { 
+ydile    ---let- 
+(/*ERROR*/)        }    

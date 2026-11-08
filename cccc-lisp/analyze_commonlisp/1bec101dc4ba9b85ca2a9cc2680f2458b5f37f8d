@@ -1,0 +1,2 @@
+
+    #+    ( (defud s (or (and a b) (and c d)) 1 0)(EFUN F (X) (I .#        

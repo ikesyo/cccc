@@ -1,0 +1,10 @@
+
+Publio   Public ReadOnly Property Size Aspublicer = 0
+ As Shape) As Shape
+       Return a
+    End OpeRator
+    Public Custom EvenC nahtged As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+    err
+End Interface

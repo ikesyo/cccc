@@ -1,0 +1,11 @@
+
+ 
+            (@ host (xs)
+              (flet ((helper (x) (if x 1 0)))
+                        (defun f (a b c d)
+     (mapcar #'h           (if (or (and a bdefun@ host (xs)
+              (flet ((helper (x) (if x 1 0)))
+                        (defun f (a b c d)
+     (mapcar #'h           (if (or (and a b) gand c d)) 1elper xs)))
+  0))
+               

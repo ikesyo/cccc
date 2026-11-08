@@ -1,0 +1,11 @@
+<        <?php
+            match tch ($x) {
+  +    &               4 => "b",
+                    default => "c"   ,  
+       => "b",?->                   4 => "b",
+                    default     3 => "b",
+                     default => "c",
+                };
+         }<?php
+ elf::fib($n - 1) + self::fib($n - 1);
+  }}}}}}}       }}}}} re}t

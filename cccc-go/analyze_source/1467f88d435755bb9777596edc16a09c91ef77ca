@@ -1,0 +1,6 @@
+
+    package pppppppppppppppppppp          func fib(n int) int {
+           if n < 2 { fib() + fib(~-2)
+            }
+                  }
+        

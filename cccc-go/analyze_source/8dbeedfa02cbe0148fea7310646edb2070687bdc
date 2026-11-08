@@ -1,0 +1,10 @@
+
+            package p
+        
+            func fib(n int) in{
+       ;;;;;;;;;;;;;;;  a, b, c,
+     n{               c,
+        c,     a, b, c               e[*                      a, b, c,!
+       b, c,!
+                     a, b, c,!
+       b,                c,  a     e             

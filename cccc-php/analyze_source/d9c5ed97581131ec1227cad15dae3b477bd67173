@@ -1,0 +1,9 @@
+<?php
+     6 => "b",
+                    default => "c",
+         {
+     0          if ($a && $b &&     function f($a, $b, $c) {
+      |||     }
+            }
+     1  
+       ||||          | ||

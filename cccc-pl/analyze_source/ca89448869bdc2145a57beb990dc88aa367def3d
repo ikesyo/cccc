@@ -1,0 +1,16 @@
+
+sub f {
+    my ($a, $b, $c) = sub f {
+    ;
+   if ($a) { one();}
+    elsif ($b) {
+        if (   ;
+    if ($a) { one(); }
+    elsif ($ b{)
+  o       if ($c) one(){ two(); }
+    }
+@_;
+    if ($a) { one(); }
+   c) }} 
+
+   }

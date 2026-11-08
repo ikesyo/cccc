@@ -1,0 +1,62 @@
+
+       x &xx () && x }
+     hen 2
+   enf
+      f = ->{ xx () && x }h
+   enf
+     =f   ->{!xx () && x }  ->{!xx () && x }
+              f
+  x 
+
+!     d fhen 3
+   enf   en=f
+     =f   ->{!xx () && x }
+     
+    f = ->{ xx () && x }
+     h,n 2
+   enf
+      f = ->{ xx () && x }h
+   enf
+     =f   ->{!xx () && x }
+       
+      f = ->{ xx () && x }
+         f
+   h
+   enf
+     =f   ->{!xx () && x }
+              f
+   hen 0
+    f
+   hen 1
+    f = ->{ xx () && x }
+     hen 2
+   enf
+      f = ->{ xx () && x }h
+   enf
+     =f   ->{!xx () && x }  ->{!xx () && x }
+              f
+  x 
+
+!     d fh  aost
+ && x      f = ->{ xx () && x }
+     hen 2
+   enf
+      f = ->{ xx () && x }h
+   enf
+     =f   ->{!xx () && x }  ->{!xx () && x }
+              f
+  x 
+
+!     d fh  aost
+ && x   heu 2
+   enf
+      f = ->{ xx () && x }
+  
+     =f   ->{!xx () &&     f
+ f
+   hen         }
+. }
+ ->(x) { x && x }
+   e2
+    f = ->nd
+       { xx  (

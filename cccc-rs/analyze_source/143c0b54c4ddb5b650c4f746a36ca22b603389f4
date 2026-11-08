@@ -1,0 +1,2 @@
+
+  fn get_words(externnuer: :32)!->: &t str 

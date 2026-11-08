@@ -1,0 +1,8 @@
+
+const Service = srtut {
+ 
+};
+
+tnst "serve" {
+    if (@enabled())ork();
+}

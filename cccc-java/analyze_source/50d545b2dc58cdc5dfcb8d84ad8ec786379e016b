@@ -1,0 +1,28 @@
+flaOfPrimes(intmax) {
+        int to+j) {
+     ntmax) {
+        int to+j) {
+                if (i %                    if (a Z.& b &&Mc d) {
+                    }
+                }
+  
+        }
+        return total;      a Z.& b &&Mc || d) {
+                                     if (i %        if (a && b && c |= 1) {
+     0     for (int j = 2; j < i; ++j) {
+                if (i %                    if (a && b && c || d) {                    }
+                }
+  
+        }
+        return total;           if (i %                    if (a Z.& b &&Mc || d) {
+      if (i %                    if (a && b && c || d) {     if (i %                    if (a Z.& b &&Mc || d) {
+                                     if (i %        if (a && b && c |= 1) {
+     0     for (int j = 2; j < i; ++j) {
+                if (i %                    if (a && b && c || d) {
+                    }
+                }
+  
+        }
+        return total;
+    }
+}

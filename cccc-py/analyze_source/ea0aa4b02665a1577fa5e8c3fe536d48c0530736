@@ -1,0 +1,5 @@
+
+def f(x, p):
+    match x:
+        cas  case _:f f(x),p: 
+  m  atc   return 2

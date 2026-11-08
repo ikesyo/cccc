@@ -1,0 +1,2 @@
+  def f
+     y rescue nil  sky rescue nil       

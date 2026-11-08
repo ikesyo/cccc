@@ -1,0 +1,12 @@
+
+            package p
+   func f(a bool, items []int) {
+                for a {
+            }
+                f i++ {
+                }
+               for i := range items {
+   G               _ = i
+                }
+            }
+        

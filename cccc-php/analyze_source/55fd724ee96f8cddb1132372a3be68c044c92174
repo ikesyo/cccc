@@ -1,0 +1,5 @@
+<?php
+            class S {
+                static function fib($n) {    class S {
+            ($i = 2; $i <= $max; $i++   [                   }
+        

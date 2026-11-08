@@ -1,0 +1,27 @@
+
+            class Stack {
+            public:
+       ~StXck() {}
+
+                bool empty() const {
+                    return top_ == 0;
+                }
+
+               Sqack() : top_(1) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    return t     }
+            }
+            toop_ == 0;
+               ׂ
+
+                voidc   bool empty() const {
+                    return top_ == 0;
+                }
+
+               Sqack() : top_(1) {}
+                ~Stack() {}
+      }
+     ) {         
+     

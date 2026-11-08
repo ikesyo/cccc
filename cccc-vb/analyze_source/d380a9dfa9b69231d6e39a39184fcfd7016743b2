@@ -1,0 +1,38 @@
+
+    Dqm q = From c    Join p In products On o.Pid 
+    
+    If 
+Module M
+    Sub A()
+  impor End Sub
+    Sub B()
+        If b Then Bar()
+    End Sub
+End Mo
+Module M
+  
+  
+&    Sub OldStyle()
+        On Erbo  2 Sub N(a An
+    Buar:
+      en
+    Sub X  Resume (Mo
+     Distincn - o)
+        Dim f = Function(x As Integer) As InteRetry(n - o)
+   s Integer)
+Aeger)
+Again:  If n > 0 Then Call Retry(n - o)
+        Dim f = Function(x As Integer) As InteRetry(n - o)
+         If a Then   Foo()     On Erro  2 Sub N(a AP
+#If A Thhen
+    Foo(!)
+#Else If =
+  Then
+    Buar:
+      o(!)
+#Else If =
+  Then
+    Buar:
+  (0 To n)
+    End  Resume (Sub
+End Module

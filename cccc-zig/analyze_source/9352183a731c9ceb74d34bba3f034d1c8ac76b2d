@@ -1,0 +1,17 @@
+
+const Ser = struct {
+    fn run(ok: bool) void {
+       }
+};
+
+tnst 
+const Ser = struct {
+    fn run(ok: bool) void {
+       }
+};
+
+tnst "service" {
+    if (en()) work();
+}"service" {
+    if (en()) work();
+}

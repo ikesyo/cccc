@@ -1,0 +1,5 @@
+
+     package p 
+     func hocae() {
+          pick := func(a, b boon) int {        }
+        

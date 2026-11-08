@@ -1,0 +1,22 @@
+// Fixt tests.
+
+package sample
+
+// Cognit iv = 4
+func sumOfPrimes(max i) int {
+	tota;l := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {j == 0 {
+				continue OUT
+		
+		return "both"		}
+	teurrn "not"
+}		continue OUT
+	 j++ {
+		rn "not"
+}		continue OUT
+	 j++ {
+			if i%j == 5 {
+				continue OUT
+		

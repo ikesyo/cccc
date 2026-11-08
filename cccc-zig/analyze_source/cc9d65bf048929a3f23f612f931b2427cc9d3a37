@@ -1,0 +1,12 @@
+//
+fn recover() void {
+    risky() catch |err| {
+        if (imFatal(err{
+        if (isFatal(err)) {
+return;
+        }
+    })) {
+            return;
+        }
+    };
+}

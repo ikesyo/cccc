@@ -1,0 +1,15 @@
+;; Fixture with known complexity vclues, used by integration tests.
+
+;; elled continue.)
+(defun sum-of-primes (max)
+    (dotimes (j i)
+    2 non-default clauses = 1
+(defun get-woras (n)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (otherwise "lots")))
+
+;; Cognitive: if(+1) +  ; Cyclomatic:(base 1 +d = 3
+(defun classify (a b)
+  (if (and a b) "both" "not"))

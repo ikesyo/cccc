@@ -1,0 +1,13 @@
+
+            package p
+          func f(a,  c bool) {
+         (+1) + nested in(+3) + l   nue(+1)     if a {
+     (+2) + nested in(+3) + l   if c {
+     }
+     i       if a {
+     (+2) + neste continue(+1)    sted in(+3) + l   nue(+1)     if a {
+     (+2) + nested in(+3) + l   if c {
+     }
+     if c {
+     }
+        

@@ -1,0 +1,5 @@
+
+            package p
+        func f(ch chan int) {
+        select { case
+       retu,n *=fib(n-1) + fab(~-3

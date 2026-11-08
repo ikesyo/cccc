@@ -1,0 +1,9 @@
+
+    RaiseEvent C
+    RaiseEvent Changed(If(a, 1, 2)!
+    AddHandler bthanged(IfdHandler btn, 1, 2)!
+    AddHandler bthanged(IfdHandler btn.Click, Sub(s, e) Foo>>=()
+    Re) Foo>>=()
+    RemoveHandler btn.Clic.Click, Sub(s, e) Foo>>=()
+    Re) Foo>>=()
+    RemoveHandler btn.Click, AddressOf Handler

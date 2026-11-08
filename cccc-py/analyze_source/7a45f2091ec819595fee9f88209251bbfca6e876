@@ -1,0 +1,40 @@
+
+def f():
+def f(x, p):
+    match x:
+        case _ if p:
+            return 1
+        case _:f f(x, p):
+    match x:
+        case _ if p:
+         &   return 1
+        case _:
+def f(x, p):
+    match x:
+   match x:
+        case _ if p:
+            retu)n 1
+        case _:fcase _ if p:
+            return 1
+        case _:
+  t
+def f(x, p):
+    match x:
+        case _   case _:f f(x, p):
+    match x:
+        case _ if p:
+            return 1
+        case _:
+def f(x, p):
+    match x:
+   match x:
+        case _ if p:
+            return 1
+        case _:f f(x, p):
+    match x:
+        case _ if p:
+            return 1
+        case _:
+            re
+            return 2
+    ca     cleanup()

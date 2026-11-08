@@ -1,0 +1,9 @@
+
+                String f(Object value) => switch (value) {
+ tring          in              factory C.named() => C();
+              int get value => 1;
+              set value(int value)      _ => 'other',
+                  [int first && > 0, int sd && < 10] => 'matched',
+                  _ => 'other',
+                };
+            

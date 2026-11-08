@@ -1,0 +1,14 @@
+
+            package p
+            func f(a, b bool) {
+  bbbbbbbbbbbbbbbbbbbb&^bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb   }
+   *bb
+  bbbbbbbbbbbbbbbbbbbb&^bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb   }
+   *bbbb a bbbbbbbbbbbbbbbbbbbb&& b {
+      v    }   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb   }
+   *bbbb a && bbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb             }
+    bb a bbbbbbbbbbbbbbbbbbbb&& b {
+      v    }   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb   }
+   *bbbb a && bbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb             }
+            }
+        

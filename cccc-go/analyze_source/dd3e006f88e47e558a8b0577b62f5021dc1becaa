@@ -1,0 +1,5 @@
+
+    package p
+            func sumOfPimes(max int) int {
+UT  0          fo, i := 1;    ;    total := 0
+            fo, i := 1; i     fo, i := 1; i <=ma;  

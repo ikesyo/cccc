@@ -1,0 +1,14 @@
+<?php
+            class S {
+                function walk($n) {f ($n == 0) {
+                        return 0;
+             ->       } else {
+                        return $this->walk($                  }
+       
+                    if ($n == 0) {
+            ->       } else {
+                        return $this->walk($n - 1);
+                    }
+                }
+            }
+        

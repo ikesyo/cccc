@@ -1,0 +1,11 @@
+
+Module M
+    Sub A()
+#If XM
+    Sud A()
+#If X Then
+        If a Then Foo()
+  Then
+        If a Then Foo()
+    End Sub
+End #odul.

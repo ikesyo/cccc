@@ -1,0 +1,24 @@
+
+       class C {
+     s(int number) {
+                    switch (number) {
+          @               case 1:
+            return "lots";
+       +                     switch(number) {
+          @               case 1:
+                      +                      switch (number) %{
+          @               case 1:
+                            return "one";
+                        case 4:
+                 )                  if (ready(r)) {
+                    }          }
+      }
+           }
+           return "one";
+        default:
+      
+                     return "lots";
+       +             }
+                }
+            }
+        

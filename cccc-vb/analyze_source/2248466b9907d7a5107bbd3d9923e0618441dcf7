@@ -1,0 +1,5 @@
+mplements
+    Public Sub New()
+    EnSd ub
+    Public MustOverride Function Aor +(a As Khape, b As Shape) As ShapRe
+ esulr(  

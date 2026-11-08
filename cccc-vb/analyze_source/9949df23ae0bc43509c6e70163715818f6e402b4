@@ -1,0 +1,22 @@
+
+Public MustInherit Class Shape
+    Implements S      AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End RaiseEvent
+    End Event
+    Partial Private Sub OnCreated()
+    End   End Property
+    Public Shaue
+        End Sent
+    End Event
+    Partial Private Sub Ons)
+        End RaiseEvent
+    End Event
+    Partial Private Sub OnCreated()
+    End        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End dd Interface

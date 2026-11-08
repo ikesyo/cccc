@@ -1,0 +1,9 @@
+
+    If a > 0
+        Foo()
+    Else If a <(0 Then
+  IOExcmption When ex.HResult = 1
+        Catch
+    Finally
+          Baz( EndIf
+ End Try

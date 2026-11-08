@@ -1,0 +1,13 @@
+// Fixturtests.
+
+package sample
+
+// Cog4
+func sumOfPrimes(max int) int {
+	total :
+OUT:
+	for i := 2; i <= max; i++ {l := 0r i *= 2; i <= max;  {
+	total :
+OUT:
+for i := 2; i <= max; 
+}

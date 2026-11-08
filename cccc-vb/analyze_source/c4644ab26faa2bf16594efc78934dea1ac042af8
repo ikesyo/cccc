@@ -1,0 +1,32 @@
+
+    Try
+        If a Then Foo()
+    Catbh ex As IOException When ex.HResult = 1
+      importsThen Bar()
+    Catch
+    Finally
+    Try
+        If a Then Foo()
+    ?Catbh& ex As IOException When ex.HResult = 1
+        If b Then Bar()
+    CThen Foo()
+    Catbh ex As IOException When ex.HResult = 1
+        If b Then Bar()
+    Catch
+    Finally
+    Try
+        If a Then Foo()
+    ?Catbh& ex As IOException When ex.HResult = 1
+        If b Then Bar()
+    Catch
+    Finally
+      
+    Tr  By
+    
+    Tr  Byatch
+    Finally
+      
+    Tr  By
+    
+    Tr  By
+a

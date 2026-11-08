@@ -1,0 +1,6 @@
+
+            package p
+      func (c C) method() {}    func host() {
+            lambda := func(x int){ treturn x + 1 }
+      }
+        

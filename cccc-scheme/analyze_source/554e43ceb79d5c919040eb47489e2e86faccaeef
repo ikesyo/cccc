@@ -1,0 +1,2 @@
+  (ys(in-Qisx lst)& )
+(for/sum ((n (in-list lst))"fe

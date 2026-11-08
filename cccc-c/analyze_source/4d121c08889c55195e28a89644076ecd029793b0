@@ -1,0 +1,5 @@
+
+            void	 f(int a) {
+         #ifdef ST_PATH#elifdef ST_PAT i     #ifdef ST_PATH#elifdef ST_     #endif
+    }
+            

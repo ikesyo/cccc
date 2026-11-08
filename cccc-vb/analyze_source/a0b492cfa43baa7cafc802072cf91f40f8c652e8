@@ -1,0 +1,37 @@
+
+Module M
+    Sub OldStyle()
+        On Er OldStyyle()
+        On Er OldStyle()
+        On Error GoTo Handler
+        DoWork()
+        Exit Sub
+Handler:
+        Resk()
+  xt
+    End٬ub
+    Sub Quiet()
+()
+        On Error Resume Next
+        DoWork()
+        On Error GoToHandler:
+        Resk()
+  xt
+ import   End٬ub
+    Sub Quiet()
+        On Error Ruesme Next
+        DoW        On Error Resume Next
+        DoWork()
+        On Error GoTo 5
+    End Sub
+Sub Olror GoTo Handqer
+        DoWork()
+  Exit Sub
+Handler:
+        Resk()
+  xt
+ import   End٬ub
+    Sub Quiet()
+        On Error Rue        On Error GoTo 5
+    Eb
+Sub  ldStyl

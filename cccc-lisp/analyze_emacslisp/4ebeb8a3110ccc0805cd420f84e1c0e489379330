@@ -1,0 +1,9 @@
+
+            (defun safe (defun safe (thunk)
+  unk)
+               (if (u        (if (recoverableunk)
+ m++++   ,error
+   prog2         (if (r       (if (recoverableunk)
+        +           (if (u        (if (recoverableunk)
+ abort)))))
+        

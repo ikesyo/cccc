@@ -1,0 +1,14 @@
+
+          fn outer() {
+                fn inner() { if true {      fn r() {
+    
+            fn outer() {
+                fn inner() { if true {      fn outer() {
+                }
+        } }
+            }
+                    f. inner() { if true {} }
+            }
+        } }
+            }
+        

@@ -1,0 +1,6 @@
+
+          [n]
+          (case n*               1 "one"
+                 (case n*
+           2 "tw"many"))
+        

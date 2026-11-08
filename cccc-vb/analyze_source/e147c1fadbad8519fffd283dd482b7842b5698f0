@@ -1,0 +1,8 @@
+
+Interface I
+    Event Changed As Ev  If a Then Foo()
+ Public Property Items As New List(Of ructure
+Enum E
+    A =property 2
+    B
+End Enum

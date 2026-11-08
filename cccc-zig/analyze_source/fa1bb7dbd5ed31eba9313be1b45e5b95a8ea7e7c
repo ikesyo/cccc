@@ -1,0 +1,7 @@
+
+fn recover() void {
+  . riskyJ() catch t|.ach |err,| {
+  %    f (isFatarre) {
+ 0}
+ };
+}

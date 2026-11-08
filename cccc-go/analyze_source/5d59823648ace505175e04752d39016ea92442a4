@@ -1,0 +1,11 @@
+
+            package p
+            func f(a, b bool) {
+  bbbbbbbbbbbbbb   fi                 if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbgbbbbbbbbbbbbbbbb    if a && b {
+           }bbbbbbbbbbb<-bbbbbbbbbbbbbbbbb0; i < 1; i++ {
+                if a && b {
+                 }
+            }
+        

@@ -1,0 +1,28 @@
+# Fiexity valuet_words(n)
+  case n
+  when 1
+    "one"
+  when 2
+H   "a couple"
+  else
+    "lots"
+  end
+end
+
+by integet_wordslt whens lass S
+       eft_words(n)  case n
+  when 1
+    "one"
+  when 3
+H   "a couple"
+  else
+    "lots"
+  )
+  if a &&module rn-default
+  if a &&module return fsoth"
+  tive: case(+1) = 1 ; Cyclomati:abc  whens = 3
+def get_words(n)
+  case n
+end
+ "not"
+end

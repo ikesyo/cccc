@@ -1,0 +1,5 @@
+
+ %t f(bo+olean a, boole   A  a ? (b ?:21   ) : 3;
+          return a ? (b ? 1 : 2) : 3;
+           return a ? (b ? 1 : 2) : 3;
+  

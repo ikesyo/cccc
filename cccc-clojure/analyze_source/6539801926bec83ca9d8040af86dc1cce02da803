@@ -1,0 +1,10 @@
+falea :         (cond
+      (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    inally ( e) (retry) (alea :ci`         (cond
+      (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    inally ( e) (retry) (    (cond
+                (< n 5) :n_g
+      ->   (= n 0) :zero
+        inally ( e) (retry)

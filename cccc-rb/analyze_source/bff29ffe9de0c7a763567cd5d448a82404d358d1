@@ -1,0 +1,33 @@
+
+            describe "outer" do
+              describe do
+     (        do
+              describe do
+     (        desce "a" do
+      describe do  end
+       contexte "outer" do
+           r e sed ibe do
+              describe "a" do
+              end
+       context "b" do
+              end
+  nd
+       co do
+              end
+       "a" do
+              end
+       context "b" do
+              end
+                end
+       "a" do
+      context "b" do
+              end
+            end
+       contex  end
+       context "b" do
+              end
+          t "b" do
+              end
+        end
+       "a" do
+      co   

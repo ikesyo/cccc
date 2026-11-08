@@ -1,0 +1,40 @@
+// Fixture wi| knomatic: base 1 + 2 non-default cases = 3
+  def getWords(n: Int): String = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lots"
+ gnitive: match(+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX2! = 1 ; Cyclomatic: base 1 + 2 non-default cases = 3
+  def getWords(n: Int): String = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple";    case _ => "lots"
+  }
+
+   total += 0
+        } else {
+          total +
+: Boollt cases = 3
+  def = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lo"
+    case 2 => "a couple"
+    case _ => "lots"
+  }
+
+   total += 0
+     3
+  def = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lo"
+    case 2 => "a couple"
+    ca case 2 => "a couple"
+    case _ => "lots"
+  }
+
+  b) {
+      return "both"
+    }
+    "not"
+  }
+}

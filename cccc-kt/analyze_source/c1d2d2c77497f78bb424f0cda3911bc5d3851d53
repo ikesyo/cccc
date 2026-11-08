@@ -1,0 +1,17 @@
+
+     y()
+ (e: Exception) {
+      "         } finally {
+               tion) {
+          &      } finally {
+      tion) {
+          &      } finally {
+ 
+    fn annotation_with_arguments_does_not_break_parsing() {
+        let src = r#/ @not-an-a                }
+               inally {
+   }
+            }
+  nnotati      var total          }
+            }
+ v       

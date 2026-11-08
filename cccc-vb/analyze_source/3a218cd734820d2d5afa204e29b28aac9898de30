@@ -1,0 +1,8 @@
+
+    Try
+        Ifp a ThEn Foo()
+  Catbh ex As IOException When lt = 1
+        If b Then Bar()
+    Catch
+    Finally
+        End Try

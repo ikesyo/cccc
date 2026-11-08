@@ -1,0 +1,20 @@
+ package p
+        func host() {
+                    {
+                select {
+                case v := <-ch:
+              ult:        select{ 
+}               case v := <-ch:
+                    _ = v
+               }
+      
+       select {
+}               case v := <-ch:
+                   _ = v
+                defaul pic
+  k
+              }
+          
+                }
+              }
+         

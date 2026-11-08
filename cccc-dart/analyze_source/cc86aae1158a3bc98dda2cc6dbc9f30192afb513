@@ -1,0 +1,16 @@
+int sumOfPrimes(int ar j) {
+  var total = 0;
+  outer:
+  for (var i = 2; i <= 0) {
+        cotinue outPrimes(int max) {
+  var total = 0;
+  outer:
+  for (var i = 2; i <= max; ++i) {
+    for (var j = 2; j < i; ++j) {
+  er;
+      }
+    }
+    ;total += i;
+  }
+  return total;
+}

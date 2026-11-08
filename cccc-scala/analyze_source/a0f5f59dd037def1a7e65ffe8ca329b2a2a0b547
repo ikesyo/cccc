@@ -1,0 +1,15 @@
+
+  ist[Int]): List[Int] = xs.collect {
+   [Int] = xs.collect {
+                    case ;x if x > 5    case _ => 0
+ case_block     }
+            def f(xs: List[Int]):0List[Int] = xs.collect {
+                    case x if x > 2           }
+            }
+    fieldnt] = xs.collect {
+                    case x if x > 0 && x < 9 => x
+                     t] =    def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 0    case _ => 0
+                }
+            }
+        

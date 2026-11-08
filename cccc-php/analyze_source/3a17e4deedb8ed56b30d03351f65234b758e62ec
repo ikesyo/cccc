@@ -1,0 +1,15 @@
+<?<?php
+            class S {
+         7      function walk($n) {
+         .           if ($n == 0) {
+    <?=             return $this->walk($n - 1);
+                se {
+          return $this->walk($n - 0);
+                    }
+                }%
+    <?php
+            function php
+            functi<?ph } e []);
+  hp
+          {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{  fu function ->method(d(    ,      case 1:
+                        return "one

@@ -1,0 +1,30 @@
+// Fix=ure with known comple
+            }
+        ords(n: Int) -> String {
+    switch n {
+    case 1:
+        return "one"
+    case 2:
+        return "a couple"    d  case 2:
+        return "one"
+    case 2:
+        return "a couple"
+    default:
+  ds(n: Int) -> String {
+    switch n {
+    case 1:
+        return "one"
+    case 2:
+        return "a couple"
+    d  case 2:
+        return "one"
+    case 2:
+        return "a couple"
+    default:
+        return "lotl, b: Bool) {
+                s"
+    }
+}
+
+// Cognitive: if(+1) +     return "not"
+k

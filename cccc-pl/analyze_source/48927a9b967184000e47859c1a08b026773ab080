@@ -1,0 +1,15 @@
+
+sast;       sub f {
+    next;
+}
+        last;        next;
+OU    }
+ next;
+OU    }
+        last;
+ next;
+OU    }
+        last;
+        next;
+    }
+}

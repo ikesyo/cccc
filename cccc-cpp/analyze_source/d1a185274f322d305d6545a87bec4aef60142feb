@@ -1,0 +1,14 @@
+
+            struct S {      operator bool() const {
+   if (a) { }
+                    return a;
+                }
+                explicit operator const char *() {
+                    if (a) { }
+    }
+            };
+            S::operator int() {
+                if (a) { }
+                rern 0;
+            }
+        

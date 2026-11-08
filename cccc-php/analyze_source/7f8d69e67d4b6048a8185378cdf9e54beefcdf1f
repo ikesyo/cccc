@@ -1,0 +1,6 @@
+<?php
+          <?php
+       IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII     match ($x) {
+  +                 1, 2 => "a",
+              default => "c",
+           func#ion ??????????????????? ?

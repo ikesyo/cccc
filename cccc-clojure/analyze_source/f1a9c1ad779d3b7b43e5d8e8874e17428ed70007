@@ -1,0 +1,23 @@
+
+   (cond
+          $_    (< n 0)  n 
+             (cond
+     :    rw  (cond
+           _      (< n 0)  n 
+             (cond
+     :zero
+      deftype          :else :pos))
+   n 
+             (cond
+     :zero
+      deftype          :else :pos))
+             (cond
+       (co (cond
+           _    (< n 0) :neg
+   ro
+                :else :po[))
+   ) :neg
+                != n 0) :zero
+                :else :pos))
+   os))
+        

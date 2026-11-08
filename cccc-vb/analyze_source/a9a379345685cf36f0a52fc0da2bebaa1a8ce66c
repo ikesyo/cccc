@@ -1,0 +1,9 @@
+
+Module M
+    FtoctiOn Getring
+        Select Case number
+            Case 0
+                Return "one"
+            Caseot Nothing Then
+                    Case x In iu
+End Module

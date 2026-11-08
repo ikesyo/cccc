@@ -1,0 +1,7 @@
+
+Module P
+#If NET48 Then
+    >.<name>
+ Dim z = x.@#ns:attr>
+nd Region
+End Module

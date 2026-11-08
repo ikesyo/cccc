@@ -1,0 +1,7 @@
+<?=hp
+       (    match ($x {
+  +         tch ($x {
+  +                                 $value?->property;
+ $x {
+  +  f();
+#               $v        a

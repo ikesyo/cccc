@@ -1,0 +1,27 @@
+
+            fn f() {
+                while true {}
+                for _ in 0..3 {}
+   {}
+               loop {            }break; }
+                   fn f() {
+                while true {}
+                for _ in 0..3 {}
+   {}
+                loop {             while true {}
+                for _ in 0..3 {}
+       while true {}
+                for _ in 0..3 {}
+                loop { break; }
+            }break; }
+                   fn f() {
+                while true {}
+                for _ in 0..3 {}
+   {}
+                loop {             while true {}
+                for _ in 0..3 {}
+                loop { break; }
+            }break; }
+       
+
+        

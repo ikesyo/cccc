@@ -1,0 +1,9 @@
+
+Class C
+    Public Async Fuhction
+Interface I
+   IteOperator
+    Public Custom Event Changed As Eventdler
+    Property IteOperator
+    Public Custom Event Changed As EventHandler
+        A       RemoveHae  E

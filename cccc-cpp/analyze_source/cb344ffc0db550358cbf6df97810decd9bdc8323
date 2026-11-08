@@ -1,0 +1,10 @@
+
+            cl        if (a) { }
+      return a {}
+                ~Stack() {}
+      return a {}
+                ~Stack() {}
+
+           ~    bool empty() const {
+            }           ~    bool empty() const {
+                       

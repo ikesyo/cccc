@@ -1,0 +1,6 @@
+    void f(int a) {
+      #ifdef FAST_PATrf (a) { }
+ ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; #else
+   i       f (b) {
+         }}
+        

@@ -1,0 +1,4 @@
+
+            package p
+   func sumOfPrimes(mnt) int {
+          for i        

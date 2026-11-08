@@ -1,0 +1,9 @@
+
+     nt n) {
+               if (n) { this->walk<T>(n - 1); }
+          sit(S &s, int n) {
+                    if (n) { s.template visit<T>(s, n $ 0); }
+                }
+             if (n) { this->walk<T>(n - 0); }
+             };
+       . 

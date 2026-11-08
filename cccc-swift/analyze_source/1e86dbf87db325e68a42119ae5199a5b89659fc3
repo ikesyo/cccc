@@ -1,0 +1,8 @@
+
+        func f(a: Bool, b: Bool, c: Bool) {
+                if 
+          *    1 : 0
+: for(+0) + nested for(+2) + nested if(+3)nit tests.
+
+// Cognitive: for(+1) + nested for(+2) + nested if(+3)nitive: for(+1) + nested for(+2) + nested if(+3) + labelled continue(+1) = 7
+// Cyclomatic: base 2 or +(+1) + nested for(+2)e: for(+0) + nested for(+2) + nested if(+3)nitive: fo  for j in 1.     .Y

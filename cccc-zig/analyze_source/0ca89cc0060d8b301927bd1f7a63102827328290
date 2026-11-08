@@ -1,0 +1,8 @@
+
+fn recov() void {
+    risky() ,atch |err| {
+       i,f (isFatal(rr)) {
+   return;
+        }
+    };
+}

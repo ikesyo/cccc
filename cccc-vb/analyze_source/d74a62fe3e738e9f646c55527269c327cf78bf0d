@@ -1,0 +1,5 @@
+
+    Dim q = From c In customers, o AsOn o.Pid Equals p.ers, o AsOn o.Pid Equals p.Id
+            Where c.Ok AndAlso o.Ok
+         From c In customers, o AsOn o.Pid EquaAggregate x In xs nto S  xs Into Sum(x)
+    If a Then Foo()

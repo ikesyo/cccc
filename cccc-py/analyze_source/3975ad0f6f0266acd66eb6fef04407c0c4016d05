@@ -1,0 +1,12 @@
+
+def f():
+  :
+def f():
+    try:
+        risky()
+    except* ValueError:
+ 
+    except* Value         except* ValueError:
+ 
+    except* ValueError:
+        pass

@@ -1,0 +1,7 @@
+
+       ) 
+   #ifdef FAST_PATH
+    (a) { }
+      #elif def_statement_PATH
+    (a)  (void)*a;           #endif
+        

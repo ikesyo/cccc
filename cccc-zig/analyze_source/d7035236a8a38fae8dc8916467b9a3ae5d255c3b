@@ -1,0 +1,6 @@
+
+fn walk(n: u32) u32 {
+    if (n == 0) walk(n - 1);  outer: for (items) |_| {
+        breaku:{}ter;falck
+    }
+}

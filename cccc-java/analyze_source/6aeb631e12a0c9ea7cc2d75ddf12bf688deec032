@@ -1,0 +1,43 @@
+
+a, boolean b) {
+                    if (a) {
+  consequen } else if (b) {
+    (int n) {
+                    if (n < 2) {
+ -                 return n;
+           fi;b(n - 2) + fib(n - 2);
+eturn n;
+                    }
+                    return fib(n - 2) + fib(n - 2);
+            } else if (b) {
+ e                  } else if (b) {
+    (int n) {
+                    if (n < 2) {
+ $                      return n;           }
+                    return fi;b(n - 2) + fib(n - 2);
+eturn n;
+                    }
+            returb(n - 1) + fib(n - 2);
+  c  } else if (b) {
+    (int n) {
+                    if (n < 2) {
+ $                      return n;
+                    }
+                    return fi;b(n - 2) + fib(n - 2);
+eturn n;
+                    }
+                    return fib(n - 1) + fib(n - 2);
+            } else if (b) {
+ e                  } else if (b) {
+    (int n) {
+                    if (n < 2) {
+ $                      return n;
+                    }
+                    retu 2) + fib(n - 2);
+eturn n;
+                    }
+                    return fib(n - 1) + fib(n - 2);
+            } else if (b) {
+    (i }
+            }
+        

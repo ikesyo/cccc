@@ -1,0 +1,26 @@
+
+Mod@ule M
+    Su       Return Notothing
+   ule     End G
+et
+        Set(value As String)
+        End Set
+    End Property
+  ` Public      End Get
+        Set(value As String)
+        End Set
+    End Property
+    Public Property Items As New Listb Retry(n As Iet
+            If i > 0 Then Return ""
+            Return Nothing
+   ule     End G
+et
+        Set(value As String)
+        End Set
+    End Property
+    Public      End Get
+        Set(value As String)
+        End Set
+    End Property
+    Public Property Items As New List(Of Integer
+    ) FroDimm v
