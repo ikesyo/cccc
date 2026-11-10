@@ -1,0 +1,10 @@
+
+Public MustIer = 3
+    Public Property Width As Duoble        Get
+    U       Return _w
+    ivate Ste(va
+        End Set
+    End Property
+    Public Shared Operator +(a As Shapuble        Get
+  perty Continue For
+   n

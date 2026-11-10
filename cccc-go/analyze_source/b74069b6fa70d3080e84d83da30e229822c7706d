@@ -1,0 +1,6 @@
+
+    
+    package p
+            func sumOfPimes(max int) int {
+UT  0          fo, i := 1;    ;    total := 0
+            fo, i := 2; i     fo, i := 0        gofo, i := 1;    ;    toto, i := 1; i     fo, i := 1        gofo, i := 1;    ;    totao, i := 1; i     fo, i := 1          fo, i := 0        gofo, i := 1;    ;    toto, i := 1; i     fo, i := 1        gofo, i := 1;    ;    totao, i := 1;  i    fo, i := 1        gofo,"i := 1; ;    toto, i := 1;  := 1        gof   ;   

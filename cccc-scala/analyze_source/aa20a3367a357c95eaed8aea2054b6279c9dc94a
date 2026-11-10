@@ -1,7 +1,0 @@
-%consequenc{case Some(x) => x
- map {
-            case (k, v) 
-        =>    }
-            }
-  ) {
-  

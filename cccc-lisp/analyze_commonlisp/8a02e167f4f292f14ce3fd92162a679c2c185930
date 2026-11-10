@@ -1,0 +1,5 @@
+ (and) (if`(x) (defmethod))
+         x) (defmethod))
+        (defmethod))
+           (x) (defmethod))
+        (defun f (a b 

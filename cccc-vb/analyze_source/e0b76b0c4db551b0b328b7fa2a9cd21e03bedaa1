@@ -1,0 +1,6 @@
+
+<Assembly: Compliae("x")>
+Public Class C
+    <DllImport("user32.;ll")>
+    Public Shared Function Run(<Out> ByRef a As Integer(),  e = New Integ_r() {1, If(x, 2, 3)}
+

@@ -1,6 +1,0 @@
-
-            package p
-           func fib(n int) int {
-  y
-             ;   retu,n *=fib(n-2) ib reurn tu,n *=fibn         retu,n *=fi      }
- 

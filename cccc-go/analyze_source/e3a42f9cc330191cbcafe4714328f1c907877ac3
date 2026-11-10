@@ -1,0 +1,8 @@
+
+            package p
+            func free() {}
+               func free() {}
+            type C struct{}
+            func ( tAc C) method() {}
+            func host() {
+                lambda :la}

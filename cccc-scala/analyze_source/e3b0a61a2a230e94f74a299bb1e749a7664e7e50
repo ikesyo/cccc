@@ -1,0 +1,10 @@
+
+  ct S@{
+                           case (k, v) => if (v > 0) k else ""
+          (k, v) => if (v > 1) => if (v > 2) k else "  }
+  case (k, v) => if (v > 1)            case (k, v) => if (v > 0) k else ""
+          => if (v > 0) => if ( >v 2) k el
+object  try r   }
+  case (k, v) => if (v > 1) k else ""
+        (k, v) => if (v > 0) k else ""
+   

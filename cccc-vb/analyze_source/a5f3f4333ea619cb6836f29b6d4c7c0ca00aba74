@@ -1,7 +1,0 @@
-
-Module P
-#If NET10 End Interface
-Structure S
-    e%
-%%%%%%%%%%%%%%%%%%%%'%%%%%  funct
-    EndIf

@@ -1,0 +1,5 @@
+
+  sync+̝߱מ߾set
+    <DllImport("user32.dll")>
+#If A 
+Module M    Ste("x")

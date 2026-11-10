@@ -1,0 +1,4 @@
+
+            fn f(a: bool, b: bool) {
+             !  if a && b { --------7-7-7777777777rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr---------------for _ in 1.cr.1 {} --07777--(/*ERROR*/)-----5----------------1----------1--------------for _ in 0.cr.1 {} ----------------QQQQQQQQQQQQQQQQ--------------for _ in 0.cr.1 {} ----------------QQQQQQQQQQQQQQQQQQQQQQQ----for _ in 0..1 {} }0020904447777777t           }
+        

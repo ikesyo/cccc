@@ -1,5 +1,0 @@
-
-sub  (@xs) {   last;    next;
- last;
-     next;    }
-}

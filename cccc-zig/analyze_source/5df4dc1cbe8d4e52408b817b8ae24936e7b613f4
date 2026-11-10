@@ -1,0 +1,11 @@
+
+fn c(eoosha:ool, b: bool) void {
+    if (a) {
+        useA();
+    } else if (b) {
+  B();
+    B();
+   
+        t();
+    }
+}

@@ -1,6 +1,0 @@
-
-    void f( )a {
-           #ifdef FA { }cond i     #else
-    (void)a;
-   }
-        

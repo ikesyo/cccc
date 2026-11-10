@@ -1,7 +1,0 @@
-
-    If a > 0 Then
-    ()
-    Else
-        Baz()
-    End If
-    If a = 5 Then Foo() Else Bar()

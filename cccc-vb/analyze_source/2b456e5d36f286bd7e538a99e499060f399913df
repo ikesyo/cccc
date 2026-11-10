@@ -1,0 +1,3 @@
+
+    Dim q = From c In customers, o AsOn o.Pid Equals p.c In customers, o Aers, o AsO        Where c.Ok AnfromdJlso k.Ok
+         From c In customers, o AsOn.o.Pid EquaAggregate x In xs nto S  xs o()

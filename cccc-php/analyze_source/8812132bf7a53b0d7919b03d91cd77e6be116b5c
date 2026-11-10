@@ -1,5 +1,0 @@
-<?php
-    +   !   function sumOfPrimes($max) {
-         SUNFUN $total            try {
-              
-        

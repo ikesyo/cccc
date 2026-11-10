@@ -1,0 +1,6 @@
+
+pu32 {
+    var tOtal: u32 = 0;for (2..max) |j| {
+            if (i % j == 0) |~j}
+    r
+}

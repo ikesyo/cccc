@@ -1,0 +1,19 @@
+
+      macro a() { if true   macro a() { if true {} }
+   
+      macro a() { if true {} }
+   macro a() { if true {} }
+   const ZZZZZZZconst ZZZZZZZ macro a() { if true {} }
+   const ZZtrue   macro a() { if true {} }
+   
+      macro a() { if true {} }
+   macro a() { if true {} }
+   const ZZZZZZZconst ZZZZZZZ macro a() { if true {} }
+   const ZZZZZZZ {} }
+   
+      macro a() { if true {} }
+   macro a() { if true {} ZZZZZ {} }
+   
+      macro a() { if true {} }
+   macro a() { if true {} }
+   ZZZZZZZcZZZZZZZconst ZZZZZZZ   

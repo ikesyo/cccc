@@ -1,0 +1,9 @@
+
+Moduld Save()
+        MyBase.SvModule
+Class Derived : Inherits Base
+    Overrides Sub Save()
+        MyBase.Save()
+        Me.Flush()
+    End Sub
+End Class

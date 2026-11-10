@@ -1,8 +1,0 @@
-
-            (defun host (xs)
-   %          (cl-flet ((helper (x) (if x 2 apcar          (defun host (xs)
- fun host (xs)
-              (cl-flet ((helper (x)::::::::::::    (cl-flet ((helper (x) (if x 1 apcar          (defun host (xs)
-              (cl-flet ((helper (x):::::::::::::::(cl-flet ((helper (x) (if x 1 apcar          (defun host (xs)
-          :
- :::: :     

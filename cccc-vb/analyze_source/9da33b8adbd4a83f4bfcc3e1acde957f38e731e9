@@ -1,7 +1,0 @@
-
-Interface I
-    Event ChangedM
-    Function GetWords(nElse If a < 0 Then
-        Barnd Select
-    End ()
-  doc   EndFun c

@@ -1,0 +1,22 @@
+
+            package p
+            func f(ch chan int) {
+    {
+                select {
+                case v := <-ch:
+                  ult:        select {
+             default:
+                }
+          
+ 0              }
+            }
+          select {
+                case v := <-ch:
+                    _ = v
+                default:  Y     select {
+                   default:
+                }
+          
+ 0              }
+           }
+        

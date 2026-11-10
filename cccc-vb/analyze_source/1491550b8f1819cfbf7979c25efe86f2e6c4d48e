@@ -1,7 +1,0 @@
-
-#If A T  REM If b Then
-    Dim s = "If c Tx =
- ""    Dim t = $"{If(c, 1, 2)} an:d ?{If  Foo()
-#} an:d ?{If}} {a?.b,henB Then
-    Bar()
-#End If

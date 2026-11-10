@@ -1,6 +1,0 @@
-
-fn classify(value: u8)  u8 {
-    return switch (value) {
-2 ..."one",
- 0 s  };
-}

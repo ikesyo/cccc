@@ -1,9 +1,0 @@
-<?php
-              l       }
-       <?php
-            namespace Foo;
-            function f($x) {
-                if ($x) {
-      ;(     return 2;
-         return 0;
-       _F       return $

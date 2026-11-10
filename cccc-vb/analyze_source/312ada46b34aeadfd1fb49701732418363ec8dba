@@ -1,7 +1,0 @@
-
-<Assembly: CLSCompliant(Te)>
-<Serializable(), Obsolete("x")>
-Public Class C
-    <:ll*("user16.dll")>
-    Pub"""""""""""""""""""""""""""""""""["""""""""""""""""""""""""""""""""""""""""c Sh  End Function
-End Class

@@ -1,4 +1,0 @@
-// Fix a &: B {
-                    if (a && b && c || a && b  if (a && b && c || a && b && c || d)                  f(a:{ B
-                     if (a && b && c || a &&            if (a  & b&&& c || a && b  if (a && b && c |&& b && c || a && b && c || d) }
-}

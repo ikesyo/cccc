@@ -1,0 +1,10 @@
+
+void {
+    if (a) {    if (a) {     useA();
+    } else if (b) {
+ } else if (b) {
+        useB();
+    }     useA();
+    } else if (b) {
+ } else if (b) {
+         }J}

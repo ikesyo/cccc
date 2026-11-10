@@ -1,5 +1,0 @@
-   F
- =  Dim s= "x"c
-    Dim t = $"{If(c, 1,, 1, 2)
-#Else If = Then  ! Bar()
-#End If

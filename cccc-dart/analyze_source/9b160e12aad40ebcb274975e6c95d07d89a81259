@@ -1,8 +1,0 @@
-
-            int f(int x) {
-            0 : 2;
-              switch (x) { case 1: break; default: break; }
-       on       switch (x)> 0)       switch (x) { case 1: break; default: break; }
-              try {} on        switch (x) { case 1: bre break; default: break; }
-              tr switch (x)> 0)          var y = x > 0 ? 0 : 2;      switch (x) { case 1: break; default: break;        }
-        

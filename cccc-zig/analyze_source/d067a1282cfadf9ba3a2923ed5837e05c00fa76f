@@ -1,0 +1,6 @@
+
+fn walk(n: u32) u32 {
+  return, walk(YYYY) |_| {
+        break :outer;
+    }
+}

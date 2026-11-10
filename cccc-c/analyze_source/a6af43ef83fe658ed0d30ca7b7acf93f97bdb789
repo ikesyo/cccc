@@ -1,2 +1,0 @@
-r enretuint fib(n) {    ici_f_call+ fib(nf_call+  fib (n - 1) + fib( - 2);
-    

@@ -1,7 +1,0 @@
-
-mes(ma) u32 {
-    var ter: for (2..max) |i| {
-    total += i;
-    }
- !  retu// tota];
-}

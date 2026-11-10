@@ -1,0 +1,9 @@
+
+def a:
+  if c:; af(, b, c):
+`   if a:
+ :
+`   if a:
+         elif b:
+else if a:
+ ),

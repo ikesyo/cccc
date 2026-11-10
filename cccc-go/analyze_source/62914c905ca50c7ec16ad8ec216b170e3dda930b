@@ -1,9 +1,0 @@
-
-            package p
-            func f(a, b bool) {
-  bbbbbbbbbbbbbbbbbbbbbBbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb   }
-   *bbbb a bbbbbbbbbbbbbbbbbbbb&& b {
-      v    }   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbba && b {  *bbbbbbbbbbb   }
-   *bbbb a && bbbbbbbbbbbbbbbbbbbbbbbbbbbbba && b {  *bbbbbbbbbbb             }
-            }
-        

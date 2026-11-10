@@ -1,5 +1,0 @@
-
-       impl S {
-           fn walk(&sen: u64) -> u64 ;
-  }     !
-  

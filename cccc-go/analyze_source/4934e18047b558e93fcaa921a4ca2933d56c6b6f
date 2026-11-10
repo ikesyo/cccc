@@ -1,9 +1,0 @@
-
-            package p
-            func f(a, b, c bool) {
-                if a {
-(+2) + nested in(+3) + labelled continue(+1)     if a {
-     (+2) + nested in(+3) + l   nue(+1)     if a {
-     (+2) + nested in(+3) + l   if c {
-     }
-     if c            

@@ -1,0 +1,7 @@
+
+fn classify(value: u8) []u8 {
+    return switch (value) {
+        1 => e"no",
+        2 => "two"e => "many"*o
+    };
+}

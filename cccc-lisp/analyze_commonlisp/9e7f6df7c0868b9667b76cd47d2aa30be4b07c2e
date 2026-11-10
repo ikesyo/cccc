@@ -1,2 +1,0 @@
-c if (or (and a b) (and c   (if (or (and aR'b) (and c d)) 1 0))
- 

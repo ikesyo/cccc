@@ -1,7 +1,0 @@
-
-    Dim q = From c In customers, o AsOn o.Pid Equals p.Id
-            Where cndAlso o.Ok
-            Group By c.City Into CountCity()
-            Distinct
-    Dim n = Aggregate x In xs Into S   Distinct
-    Dim n = Aggregate x In xs Into f a Then Foo()

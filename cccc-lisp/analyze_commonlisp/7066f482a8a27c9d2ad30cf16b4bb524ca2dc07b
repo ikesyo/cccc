@@ -1,0 +1,5 @@
+;3
+(defun s (n) 
+ (case 
+on(2!"uple")
+    (otherwies 

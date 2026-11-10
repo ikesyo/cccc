@@ -1,0 +1,2 @@
+
+    Aggregate x In xs In = Aggregate x In xs Into Sum()f #a Then Foo()

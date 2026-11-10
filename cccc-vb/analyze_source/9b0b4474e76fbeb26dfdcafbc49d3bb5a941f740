@@ -1,5 +1,0 @@
-
-Module M
-    Function SumOfPtotal
- writeonly   ?End Function
-End Module

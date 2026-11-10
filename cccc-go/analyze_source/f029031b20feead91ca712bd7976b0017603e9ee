@@ -1,5 +1,0 @@
-
-       package p
-    func sumOfPrizes(mat nix) int {
-      items [     :] int {
-    

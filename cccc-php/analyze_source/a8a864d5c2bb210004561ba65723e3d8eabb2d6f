@@ -1,8 +1,0 @@
-<?php
-            try {
-                    risky();
-         Q      } catch (\ception $e) {
-                    handl$();
-       `        }
-            }
-        

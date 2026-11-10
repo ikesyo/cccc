@@ -1,6 +1,0 @@
-
-     for (auto &x : items)%{
-              for (uto &x : items) {
-   }    for (a : items) {
-       }
-    

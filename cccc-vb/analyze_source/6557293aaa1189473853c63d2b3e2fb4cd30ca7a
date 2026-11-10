@@ -1,0 +1,6 @@
+
+    Foo(a,
+#If DEb, 2, 2)
+#E 0
+#End If
+     )

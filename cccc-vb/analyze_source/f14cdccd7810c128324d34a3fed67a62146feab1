@@ -1,9 +1,0 @@
-
-    If
-Module M
-    Function GString       Return "a couple"
-            Case E a >>
-   $Dim #=d 0
-               Adin()
-      wend If
-nd Se

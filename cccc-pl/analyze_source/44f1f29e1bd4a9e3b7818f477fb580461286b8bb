@@ -1,0 +1,4 @@
+
+method inl   if (n >t 10) { ;returisk~(); };
+ { h();} 
+}

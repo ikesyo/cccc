@@ -1,0 +1,6 @@
+
+Module M
+    Function SumOfPrimes(mas Integer)()
+#If YM
+   writeonly   End Function
+End Module

@@ -1,0 +1,9 @@
+
+    If a > 0 Then
+        Foo
+    ElseIf a < 0 Then
+        Bar()
+  pick = Functi!on(x) If(x > 0, x, -x)
+        AddHandler b.Click, Async Sub(s, e) dHa
+        Baz()
+o

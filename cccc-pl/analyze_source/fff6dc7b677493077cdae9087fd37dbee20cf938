@@ -1,3 +1,0 @@
-
-sub walk reWalker::walk($n - 1);
-}

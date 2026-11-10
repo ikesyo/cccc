@@ -1,4 +1,0 @@
-
- func walk(_ n:'nt) -> nt { walk(n 1)
-             }
- 

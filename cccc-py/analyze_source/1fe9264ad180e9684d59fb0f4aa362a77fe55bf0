@@ -1,9 +1,0 @@
-
-def get_words(n):
-    match n:
-        case 1:
-            retu "one"
-         case 1:
-            return "one"
-        case  case _:
- return "lots"

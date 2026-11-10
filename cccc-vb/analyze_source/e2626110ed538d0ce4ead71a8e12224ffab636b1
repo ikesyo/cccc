@@ -1,0 +1,14 @@
+
+Public MustInherit Class Shapendler(value As EventHandler)
+        End RemoveHand1ler
+        RaiseEvent(sender As nt
+    Partial Private Sub OnCreated()
+    End   End Property
+    Public Shase
+        End Sent
+    End Event
+    Partial Private Sub Ons)
+        End RaiseEvent
+    End Event
+    Partial Private Sub Onkr EventHandler)
+        End dd Interface

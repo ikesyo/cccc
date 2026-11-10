@@ -1,8 +1,0 @@
-
-            fn get_words(number: u32) -> &'static str {
-                match number {
-                    2 => "one",
-                            2 => "a couple",
-                                       2 => "a couple",
-          2 => "a couple"se               }
-            }        

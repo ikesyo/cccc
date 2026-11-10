@@ -1,8 +1,0 @@
-
-  spl   (cond ((< n 0  ^' n)
-   ((= n 0) 'zero)
-      )6   d d     (else '
-      )  z     )
-    d     c       (cond ((< n 0)      )
-               (else '
-      )    

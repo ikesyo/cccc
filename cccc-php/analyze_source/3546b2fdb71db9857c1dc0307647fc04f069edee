@@ -1,0 +1,4 @@
+<?php
+    return fib($n - 2) + fib(      ARRAY  ) + fib($n - 2);
+            {
+    [      o,,,,,,

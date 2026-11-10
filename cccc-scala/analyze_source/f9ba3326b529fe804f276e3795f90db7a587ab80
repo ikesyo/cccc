@@ -1,0 +1,40 @@
+
+            objectS {
+             case _ => "other"
+             }
+            
+            }
+up()
+}
+              }    catch {=>
+                        case e: RuntimeException =>
+           0         } finally {  }
+          
+           B      } catch {
+  t            case e: RuntimeException n,t=>
+                    } finally {
+                     clea =>
+    r                z   case e: RuntimeException n,t=>        objectS {
+           }
+up()
+}
+              }    catch {=>
+                        case e: RuntimeException =>
+           0         } finally {  }
+          
+           B      } catch {
+  t            case e: RuntimeException n,t=>
+                    } finally {
+                     clea =>
+    r                z   case e: RuntimeException n,t=>
+                    } finally {
+                           case e: RuntimeException n,t=>
+                    } finally {
+                        cleanup()
+             
+     
+                    } finally {
+                           case e: RuntimeException n,t=>
+                    } final         cleanup()
+             
+        

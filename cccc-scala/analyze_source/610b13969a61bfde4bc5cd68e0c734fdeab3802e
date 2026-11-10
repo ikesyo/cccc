@@ -1,2 +1,0 @@
-
-object  try r() catch: E=> 1

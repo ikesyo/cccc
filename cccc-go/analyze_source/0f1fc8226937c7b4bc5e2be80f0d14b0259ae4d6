@@ -1,0 +1,4 @@
+
+  package p
+ func fib() int {
+  6   goto  rt  

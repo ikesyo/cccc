@@ -1,0 +1,4 @@
+
+class S:
+    def walk(self, n):
+     lf.walk(n - 1)

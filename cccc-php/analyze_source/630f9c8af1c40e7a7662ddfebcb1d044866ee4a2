@@ -1,0 +1,4 @@
+<?php
+  func           class Sphp
+           function f($a, $b, $c) {
+           f($a, $  

@@ -1,5 +1,0 @@
-
-Module P
-#If NET48s New
-    Foo(a,
-#If Dtf a > 0 Then   

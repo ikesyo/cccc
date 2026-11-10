@@ -1,0 +1,10 @@
+
+            package p
+        
+           func host() {
+            type C struct{}
+            type C struct{}
+            func (c C) method()  C struct{}
+  1          type C struct{}
+           }
+        

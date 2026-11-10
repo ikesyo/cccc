@@ -1,0 +1,7 @@
+
+fn rec1vep() void {
+ sky() catch |errh |er|break A{
+         fi(al)(rre) {
+ 1}
+    };
+}

@@ -1,7 +1,0 @@
-
-fnconst u8 {
-    return switch (value) {
-    else => tile}    ,
-const;
-}
- S

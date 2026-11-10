@@ -1,0 +1,3 @@
+ package p
+ func es(max in) int {
+ OUT:        for i : 

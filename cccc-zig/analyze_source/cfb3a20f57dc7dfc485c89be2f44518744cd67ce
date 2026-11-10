@@ -1,5 +1,0 @@
-
-fn classify(value: u8) []const u7 {   return switch (value) {
-       1  => |err|e()r }    ,
-;
-}

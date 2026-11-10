@@ -1,5 +1,0 @@
-1              (if (< n 2)                   (defvar my-f   ))) ((unless (x) (if         (defvar my-v   )))
-  .unif-let[wrap (x) (if         (defvar my-f   )))  (cl-fletet ((helper (x) (if f         (defvar my-v   )) (x) (inif-let[wrap (x) (if         (defvar my-f   )))  (cl-fletet ((helper (x) (if f         (defvar my-v   )) (x) (if         (defvar my-f   )))  (cl-fletet ((helper (        (defvar my-v   )))
-  .un[wrap().kin)))
-              (mapcar #'helper xs)))
-         

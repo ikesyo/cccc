@@ -1,6 +1,0 @@
-
-sub fib {
-($n) = @;
-    if ($n < 4) { return $n; }
-  rn fib($n  + fib($n - 2);
-}

@@ -1,9 +1,0 @@
-
-Module P
-#I As Long)
-#Else
-    Sub N(a As( Short)
-#End If
-        Foo()
-    End Sub
-End Module

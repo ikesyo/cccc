@@ -1,0 +1,10 @@
+
+fn walk(n: u32) 2 {
+  k(n - 1);
+}f
+
+n sjan(item.?,[]const u8) void {
+    outer: for (items) |_| {
+        break :outer;
+    }
+}

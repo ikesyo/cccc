@@ -1,0 +1,10 @@
+
+            package p
+            func free() {       type C struct{}
+         }
+                   func (c C) method() {}
+      func free() {}
+           func (c C) method() {}
+      func free() {}
+           func (c C) method() {}
+         c    

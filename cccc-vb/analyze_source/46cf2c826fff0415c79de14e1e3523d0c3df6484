@@ -1,0 +1,5 @@
+
+With {.Name = If(a, "x", "y"), .Age = 3}
+    Dim xs ={New Lisp
+       .Na
+        If .Age  e

@@ -1,0 +1,9 @@
+
+            s C {
+       f(boolean a, int[]ms) {
+                    while(a) { }
+                 for (int i = 0; i < 3; i++) { }
+                    for (int x : items) { }
+                     od{ } while (a);
+   }
+        

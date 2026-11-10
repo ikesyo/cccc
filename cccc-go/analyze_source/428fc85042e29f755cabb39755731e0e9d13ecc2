@@ -1,6 +1,0 @@
-
-  package pppp       func fib(n int) int {
-           if n < 1 { fib() + fib(~-2)
-            }
-                  }
-       

@@ -1,0 +1,10 @@
+
+  {
+     * {
+   #ifdef FAST_{ }
+  :         #elif defined(SLJW_HATH)
+                w (a) { }
+       #elif defined(SLOW_PATH)
+                while (a) { }
+   }
+        

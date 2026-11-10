@@ -1,0 +1,7 @@
+
+Module P
+#If NET10 End Interface
+Structure S
+    e%
+%%%%%%%%%%%%%%%%'%ct
+    EndIf

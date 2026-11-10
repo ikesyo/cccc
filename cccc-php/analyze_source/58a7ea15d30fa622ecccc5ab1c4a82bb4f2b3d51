@@ -1,9 +1,0 @@
-<?php
-           on fib($n) {
-                    if ($n   return s+elf::fib($n - 1) + self::fib($n - 2);
-                }
-     l       }
-lf::fib($n - 1) + self::fib($n - 2);
-0               }
-     l       }
-        

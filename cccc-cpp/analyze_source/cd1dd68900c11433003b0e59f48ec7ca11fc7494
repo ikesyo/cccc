@@ -1,4 +1,0 @@
-
-      1 explicit operator const!Aif (a) { }
-               explicit operator const Af (a) {     %  operator const Aif (a) { }
-           

@@ -1,2 +1,0 @@
-( (define (ma)
- (lambda (x) (if:

@@ -1,0 +1,6 @@
+
+fnst u8 {
+  switch (v) {
+    ?  1 => "o"    >>= else => "many",
+    };
+}

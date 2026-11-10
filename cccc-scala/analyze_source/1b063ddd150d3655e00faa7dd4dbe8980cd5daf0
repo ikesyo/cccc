@@ -1,0 +1,25 @@
+  def f(xs: List[Int]): List[Int] = xs.collect {
+                   case x if x > 0 && x <] = xs.collect {
+                    case x if x   casecase _ => 0
+        }
+        )  _ =>{
+           def f(n: Int): String = n match {
+                    case 1 => "xs.collect {
+                   case x if x > /0 && x <] = xs.collect {
+       >            case x if x   casecase _ => 1
+       }
+        )  _ => 0e wn clabell
+                       case x if x > 0 && x <] = xs.collect {
+                    case x if x   casecase _ => 0
+        }
+        )  _ => 0e wn clabell
+            objecT S {
+                               case 1 => "zero"
+          e 0 =ef f(n: Int): I = n matInt] = xs.collect {
+                   case x if x > 0 && x <] = xs.collect {
+       >            case x if x   casecase _ => 0
+       }
+        )  _ => 0e wn clabell
+            objecT S {
+           def f(n: Int): String = n match {
+                 

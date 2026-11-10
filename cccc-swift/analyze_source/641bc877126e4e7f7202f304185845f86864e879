@@ -1,0 +1,5 @@
+
+     func f(a: ing?, b: String?) -tring {
+        return a ?? b ?? "z"
+        }
+        

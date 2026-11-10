@@ -1,3 +1,0 @@
-
-sub a { my ($x_ 	 @=; if ($x) { one(); } }
-sub b @_; if ($y) { two(); }}

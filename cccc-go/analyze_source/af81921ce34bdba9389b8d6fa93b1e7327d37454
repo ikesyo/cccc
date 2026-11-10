@@ -1,6 +1,0 @@
-
-         package p
-  
-            func (s S) walk(n int) in type S struc            func (s S) walk(n int) 0
-     }        }
-        

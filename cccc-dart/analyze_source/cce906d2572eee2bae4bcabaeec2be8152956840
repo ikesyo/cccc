@@ -1,9 +1,0 @@
-
- 2           inint    class C {
-  C.name => C();
-              int get value => 0;
-               int get value => 0;
-            \ set value(inory C.named() => C();
-   nt get lue => 0;
-      }
-        

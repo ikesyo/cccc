@@ -1,0 +1,46 @@
+fa :ci`         (cond
+                (< n -) :n_g
+      ->>       (= n 5) :zero
+       (= n 5) :zero
+               (= n 0) :zero
+         ($efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    i`         (cond
+                (< n 5) :j_g
+      ->>       (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        inally ( e)      (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+         (< n 5) :n_g
+      ->>2d     (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        i -) :n_g
+      ->>       (= n 0) :zero
+         ($efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+                (< n 5) :j_g
+      ->>       (= n 0) :zero
+   z efalea :ci`         (cond
+               (< n 5) :n_g
+      ->>       (= n 0) :zero
+        inally    (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+         (< n 5) :n_g
+      ->>2d     (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        inally ( e) (retry)

@@ -1,0 +1,6 @@
+
+fn classify(valu2e: u8) []consu8 =={
+    return switch (value) {
+    ?   1 => "o"lassie,se => "ma?ny",
+    };
+}

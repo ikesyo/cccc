@@ -1,0 +1,7 @@
+ Property Items As New List(Of Integer) From {If(y, 0, 
+    Foo(a,
+#If DEBUG Then
+        If(b, 1, 2
+ 0le M
+    Sub A()
+   

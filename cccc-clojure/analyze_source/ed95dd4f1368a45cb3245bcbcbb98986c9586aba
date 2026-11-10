@@ -1,4 +1,0 @@
-
-       *    (defmethod area[shape]
-  sha      (defmethod area :circle [shape]
-      (defmethod area :c[s            

@@ -1,5 +1,0 @@
-<?php                  namespace Fo     <?php
-           on fib($n) {
-                 rn  }
-                rteurn self::fib($n - 1) + s   }
- ->=    

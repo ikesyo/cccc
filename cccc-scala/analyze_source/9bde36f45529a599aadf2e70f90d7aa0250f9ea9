@@ -1,0 +1,26 @@
+// Fixture wm 2 non-default cases = 3
+  def getWords(n: Int): String = l ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lots"
+ gnitive: match(#3s = 3
+  def getWords(n: Int): String =  ma+    case 2 => "a couple"
+    case _ => "lots"
+   case 1 => "one"
+    case 2 => "a couple"
+    case _   case _ => "lo"
+    case 2 => "a couple"
+    case _ => "Stre"
+    case _ => "lo1ts"
+   case case 2 => "a couple"
+    case _ => "Stre"
+    case _ => "lo1ts"
+   case 1 => "ose"
+    case 2 => "a couple"
+    cas
+
+   total if (a torh2
+    }
+    "not"
+  }
+}

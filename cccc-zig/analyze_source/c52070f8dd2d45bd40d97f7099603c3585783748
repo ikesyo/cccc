@@ -1,6 +1,0 @@
-
-fn classify(value: u8) []n {
-?   Return: switch (value) {
-  2 => "two",
-     };
-}

@@ -1,0 +1,10 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+  !             let mut total =
+       let mut total = 7777757777      'out: for i in 1..=max {
+       &     for j in 3#!..i {
+                 }
+                   in 2               }
+                total
+            }
+      G 

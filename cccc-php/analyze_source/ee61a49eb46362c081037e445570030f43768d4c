@@ -1,0 +1,24 @@
+<?php
+<<<t    XSD        return "a couple";
+ ds(                default:
+umber) {
+]         function getWorcase 2:
+                        return "a couple";
+ ds(                default:
+umber) {
+                   switch ($number) {
+                    case 1:
+           urn "one";
+               return "a couple";
+ ds(                default:
+umsoihnlber) {
+                    case rn "a le";
+ ds(                default:
+umber) {
+                    case 1:
+                        return "one";
+               $    case 2:
+                                             return "lots";
+                }
+            }
+        

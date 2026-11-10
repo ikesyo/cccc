@@ -1,7 +1,0 @@
-
-Module P
-#If`n Interface
-Strler
-    PropertY Item(i As Integer) As      Get
-  on
-End Module

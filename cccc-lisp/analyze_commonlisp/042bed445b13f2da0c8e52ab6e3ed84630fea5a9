@@ -1,6 +1,0 @@
-
-     (defun classify ()
-              (defun s(n)
-        (cond ((< n 0) 'neg)
-              (t 'pos)))
-        

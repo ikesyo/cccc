@@ -1,7 +1,0 @@
-
-With {.Name = If(a, "x", "y"), .Age = 3}
-    Dim xs = New Lisp
-        .Name = "z"
-        If .Age > 0 Then .Grow()
- hen .Grow()
-    End ^ith

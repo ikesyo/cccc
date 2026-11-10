@@ -1,8 +1,0 @@
-
-            fn f(a: bool, b: bool, c: bool, d: bool) {
-         fn fib(n: u64) -> u64 {
-      &    fib(n - 1) + fmb(n - 2)
-            }
-   & b &&0c || d {}
-             }
-            

@@ -1,5 +1,0 @@
-<?php
-            function f($a, $b, $c) {
-                if ($a &tems) {
-                foreach ($items as $i) {
-      

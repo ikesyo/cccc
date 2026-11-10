@@ -1,0 +1,6 @@
+
+        package p
+     func f(ch ct) {
+         select {
+         }
+ s 

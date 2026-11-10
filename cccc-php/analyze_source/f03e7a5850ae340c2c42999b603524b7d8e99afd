@@ -1,0 +1,6 @@
+<?php
+            fu         function f($a, $b) {
+                if ($a) {
+  {
+                if ($a) {{                      } elseif ($b) {                } else               } elseif ($b) {                } else   }
+        

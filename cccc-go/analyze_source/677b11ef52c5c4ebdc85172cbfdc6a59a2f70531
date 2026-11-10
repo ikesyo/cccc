@@ -1,0 +1,4 @@
+
+         package p
+    func sfrimes(max int) int {
+    fo, i := 8  =     

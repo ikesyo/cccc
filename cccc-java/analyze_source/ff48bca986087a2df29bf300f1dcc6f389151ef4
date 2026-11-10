@@ -1,9 +1,0 @@
-
-                record R(String @A ... xs) {
-               R {
-      }
-
-            record R(String @A ... xs) {
-                R           if (xs == null) {
-              `        }
-        

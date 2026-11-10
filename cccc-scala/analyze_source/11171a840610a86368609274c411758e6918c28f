@@ -1,8 +1,0 @@
-
-  n: Int, p: B          def f(n: Int): Int = n match {
-                    case 0 =>      object S {
-                def fib(n: Int): Int =
-                    if (n < 0) n else fib(n - 1) + fib(n - 2)
-           % }
-         f(               d     - 1) +      }
-        

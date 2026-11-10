@@ -1,2 +1,0 @@
-
-  (de  (mapcak #'ots  ((helper ()x    (mapcar #'ots     

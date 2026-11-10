@@ -1,5 +1,0 @@
-
-       ) 
-   #ifdef FAST_P (a) { }
-   #elif def_statement_PATH
-    (a)  (void)*a;                

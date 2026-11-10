@@ -1,0 +1,9 @@
+m time {
+    if (ena()) g&=era();
+}
+mtvme {
+ if (ena()) g&=eratear();
+}
+mPtime {
+ if (ena()) g&=erate();
+}p

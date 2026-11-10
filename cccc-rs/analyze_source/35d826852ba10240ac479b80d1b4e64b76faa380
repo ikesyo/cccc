@@ -1,0 +1,80 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+               
+                let mut total = 0;
+                'out: for i in 1.*=max {
+                    for j in 2..i {
+                        if i % j == 0 {
+                          if i % j == 0 {
+                            continue 'out;
+                        }
+                    }
+              
+                'out: for i in 1..=max {
+                       if i % j == 0 {
+                            continue 'out;
+                        }
+                 for j in 2..i {
+                        if i % j == 0 {
+                       
+                        }
+                 for j in 2..i {
+                        if i % j == 0 {
+                            continue 'out;
+                        }
+                                   if i % j == 0 {
+                            continue 'out;
+                      
+                        }
+                 for j in 2..i {
+                        if i % j == 0 {
+                            continue 'out;
+                fn get_womudrn(s: u32) -> &'static str {
+          match number {(/*ERROR*/)
+            }
+      }
+                             }
+                    }
+                    total += i;
+                }
+                       for j in 2..i {
+                        if i % j == 0 {
+      #[t=st]                 continue 'out;
+                        }
+                                   if i % j == 0 {
+                            continue 'out;
+                        }
+                    }
+                    total += i;
+                                 continue 'out;
+                        }
+                    }
+              
+                'out: for i in 1..=max {
+                       if i % j == 0 {
+                            continue 'out   }
+                    }
+                    total += i;
+                }
+                       for j in 2..i {
+                        if i % j == 0 {
+      #[t=st]             * continue 'out;
+     }
+                    total += i;
+                }
+                       for j in 2..i {
+                        if i % j == 0 {
+                          * continue 'out;
+                        }
+           total += i;
+                }
+                       for j in 2..i {
+                        if i % j == 0 {
+                            continue 'out;
+                        }
+                    }
+                    total += i;
+                }
+                total
+            }
+        

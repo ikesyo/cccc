@@ -1,0 +1,28 @@
+
+Module M
+    Sub A()
+#If XM
+    Sub A()
+#If X Then
+ ndler
+        RaiseEvent(s
+    Public Property Width As Double        Get
+            Return _w
+        End Get
+        Private Set(value As)
+        End RemAs Objeender Asue As EventHandler)
+        End AddHandler
+        Remov(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender Asue As EventHandler)
+        End AddHandler
+        RemoveHandler(vand RemoveHandler
+        RaiseEvent(sender Asue As EventHandler)
+        End AddHandler
+        R       End AddHandler        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        Estatic    For Eich x In a
+        If iseEvent
+    Ex Then Continue For
+   n

@@ -1,9 +1,0 @@
-
-Module C
-    Sub Handle(sender As Object,
-             A   es EventArgs) Handles Button1.Click,
-                                       Button2.Click
-        IsNot Nothing Then
-            Dim q = From x In items
-       Select x
-       odule

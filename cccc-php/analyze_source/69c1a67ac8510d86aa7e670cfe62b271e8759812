@@ -1,7 +1,0 @@
-<?php
-            function f($value)              $value?->method();
-                $val {
-         $value?->pr  $value?->method();
-                $value?->child?->run();
-            }
-        

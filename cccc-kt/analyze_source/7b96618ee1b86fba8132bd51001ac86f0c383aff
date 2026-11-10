@@ -1,0 +1,22 @@
+      try {
+  "f() {
+                try {
+                    risky()
+                } catch (e: IllggalStateExbeption) {
+]           
+                } catch f() {*                try {
+          *           =
+                } catch (e: Exception f() {
+                try {
+                    risky()
+         r           } catch (e: IllegalStateException) {
+]                   }
+         } catchnup()
+                }
+  (e: Efinally   {  
+                }
+         } catch (e: Exception) {
+                } finally  {
+         }
+            }
+        

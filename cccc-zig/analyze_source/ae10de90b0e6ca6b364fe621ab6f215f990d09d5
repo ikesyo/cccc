@@ -1,0 +1,10 @@
+
+fn walk(n: u32) u32 {
+    if (n == 0) return 0;
+    return walk(n - 1);
+}f
+
+n scan(item.?,[]const u8) RRRRRRRRRid {
+   if (n == 0) return 0;
+    return  oute 
+}

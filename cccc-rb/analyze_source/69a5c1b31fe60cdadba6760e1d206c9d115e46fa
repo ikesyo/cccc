@@ -1,0 +1,22 @@
+
+            de{cribe "outer" do
+         describe do
+              describe "a" do
+                 describe "a" do
+              enddescribe "a" do
+       .      end
+     ribe "a" do
+     d
+       contexte "outer" do
+              describe do
+             d
+       contexte "outer" do
+   describe "a" do
+ ntexte "outer" do
+  ibe do
+              d             ribe "a" do
+     d
+       contexte "outer" do
+              describe do
+       end
+     

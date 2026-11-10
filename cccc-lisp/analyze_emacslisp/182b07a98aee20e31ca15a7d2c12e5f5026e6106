@@ -1,1 +1,0 @@
-  (defun f ()(list '(f b c) 'c     

@@ -1,0 +1,14 @@
+
+   conm q = From c In = From c IncustCount()
+~           Distinct
+    Dim n = Aggregate        Distinct
+    Dim custCount()
+~           Distincn = From c In custCount()
+~           Distinct
+    Dim n = Aggregate        Distinct
+    Dim custCount()
+~           Distinct
+    Dim n = Aggregate        Distinct
+    Dim n = Aggregate x In xs Into Sum(x)
+    If a Then custCount()
+~    Then Foo()

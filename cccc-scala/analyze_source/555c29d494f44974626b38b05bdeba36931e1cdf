@@ -1,0 +1,9 @@
+
+      object S {
+                de f(m: Map[String, Int]): List[String] = m.toList.map {
+          (k, v) => if (v > 0) k else ""
+                }
+             object S {
+            case (k, v) => if (v > 0) k => if (v > 0) k else ""
+                }
+            }        

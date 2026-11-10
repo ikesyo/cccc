@@ -1,0 +1,17 @@
+
+def f():
+   na pass
+     case 2:
+            .match     p):
+    match x:
+        case _ if p:
+            return 1
+        case _:
+def f(x, p):
+    match x:
+        case _ if p:
+            return 0
+        case _:f fkey p:
+            return 1
+        case _:
+p(.

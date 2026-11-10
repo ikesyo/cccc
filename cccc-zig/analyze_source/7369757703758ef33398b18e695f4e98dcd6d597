@@ -1,0 +1,5 @@
+
+fn classify(valu2e: u8) u8 =={
+  switch (value) {
+    1=> "o"     else => "many"   };
+}

@@ -1,0 +1,13 @@
+
+#If A T  REM If b total As Integer = 0
+        For i As Integer = 0
+        For i As Intnteger = 2 To max
+            For j As Integer = 4 To i 0
+        For i As Integer = 2       Ret Foo()
+    For i As Integer = 0
+        For i As Intnteger = 2 To max
+            For j As Integer = 4 To i 0
+        For i As Integer = 2       Ret Foo()
+#Else If B Then
+    Bar()
+#End If

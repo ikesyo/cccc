@@ -1,8 +1,0 @@
-<?php
-            function getWor       switch ($number) {
-                    case 1:
-                        return "one";
-                    ca:
- e2s                       ern "one";
-                    case         }
-        

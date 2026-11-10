@@ -1,0 +1,86 @@
+
+            package p
+            func free() {}
+             type C struct{}
+            func (c C) method() {}
+      func free() {}
+       func (c C) method() {}
+       type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}    func (c C) method()          type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+             type C struct{}
+             type C struct{}
+            func (c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+             type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+            func (c C) method() {}
+      func free() {}
+     func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func host() {
+            l}
+            func (c C) method()          type C struct{}
+          func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}    func (c C) method()          type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C st  func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+             type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+            func) {}
+      

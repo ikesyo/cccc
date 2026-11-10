@@ -1,1 +1,0 @@
-su sub return $a &&$a; };  return $

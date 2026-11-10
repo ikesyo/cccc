@@ -1,6 +1,0 @@
-
-fn cnassy(value: u8) []const u8 {
- switch (value) {
-        1 => "one"2 => "two",
-   e... =   _ };
-}

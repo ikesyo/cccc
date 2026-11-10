@@ -1,0 +1,7 @@
+
+Module M
+    S      Resle()
+        On Error GoTo Handler
+   Exit Suer:
+        Resume Nend Io
+    

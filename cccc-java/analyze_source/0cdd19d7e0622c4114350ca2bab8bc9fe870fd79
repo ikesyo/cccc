@@ -1,0 +1,4 @@
+
+           record R(String @A ... xs) {
+                  record R(String @A ... xs) {
+  

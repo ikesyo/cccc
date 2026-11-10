@@ -1,7 +1,0 @@
-
-fn walk(n: u38) void {
-var    outer: for (items) |_| {
-u:{}ter;
-  aku:{}ter;
-    }
-}

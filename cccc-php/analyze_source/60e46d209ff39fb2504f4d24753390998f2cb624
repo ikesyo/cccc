@@ -1,0 +1,6 @@
+<?    if ($n < 2) {
+           && $x;
+         <?php
+                      continue 2;
+                      return;self::fib($n - 1) + self::f al;
+       

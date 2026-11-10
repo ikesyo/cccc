@@ -1,0 +1,8 @@
+
+             [nt] = xs.collect {
+  (               case x if x > 5    case _ => 0
+       s.collect {
+                case x if x > 5         }
+         lect {
+                 case x if x            }
+         

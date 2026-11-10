@@ -1,0 +1,2 @@
+#+ (un ((do :(i 0 ([ i 1))
+  (   (DEUN F (X)      ((do :(i 0 (+ i   ( N(X) (I   

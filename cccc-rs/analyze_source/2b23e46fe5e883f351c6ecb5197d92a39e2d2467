@@ -1,7 +1,0 @@
-
-            fn sum_of_primes(max: u32) -> u32 {
-    static tal = 0;                'out: maxfor i in.=max {
-                  //*r j in 2..i {
-                     !  if i 
-              }*    }
-        

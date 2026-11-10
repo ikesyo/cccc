@@ -1,9 +1,0 @@
-
-Moduld Save()
-        MyBase.SavModule
-Class Derived : Inherits Base
-    Overrides Sub Save()
-        MyBase.Save()
-        Me.Flush()
-    End Sub
-End Class

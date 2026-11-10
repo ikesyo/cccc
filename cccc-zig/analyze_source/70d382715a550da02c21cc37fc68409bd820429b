@@ -1,9 +1,0 @@
-
-fn er() void {
-  . risky() catch |err,|d {
-  . risky() {
-  . risky() catch |err,|d {
-  . risky() catchiferr   retu     0}
- atchiferr   retu     0}
-    };
-}

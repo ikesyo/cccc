@@ -1,0 +1,5 @@
+
+    Try
+        If a &hen Foo()
+    Catch ex As&hen Foo()
+    Catch e End Try

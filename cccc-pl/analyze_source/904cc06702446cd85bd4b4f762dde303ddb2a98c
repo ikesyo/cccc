@@ -1,0 +1,30 @@
+
+sub         if (   ;
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c) { t@_;
+    if ($a)operne();ne(); }
+    elsif ($b)  }
+    elsif ($b) { { one(); }
+    elsif ($b) {
+      ; }
+; }
+   2952409 }
+@_;
+    if ($a) { one();ne(); }
+    elsif ($b)  }
+    elsif ($b) {
+        if ($c) { two(;
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c) { tw(); }
+     if ($a) { one(); }
+; }
+   3333333 }
+@_;
+    i one();ne(); }
+    elsif ($b)  }
+    elsif ($b) {
+        if ($c) { two(); }
+    }
+}

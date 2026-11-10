@@ -1,0 +1,7 @@
+&
+fn (vo )id{
+    risatch |err| {
+ *   ! i,fn(isFatal(err)) {
+            rn;   }
+    };
++c}

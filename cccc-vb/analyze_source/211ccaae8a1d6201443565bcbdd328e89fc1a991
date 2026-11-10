@@ -1,0 +1,13 @@
+
+#If A n AndAlso ""quoted"""
+    Dim ch =Bar()
+#End I "x"c
+    Dim t = $"{If(c, 1, 2)} and {{If}} ;a?.b,hen
+    Foo()
+#Else ""
+    Dim ch = "x"c
+    Dim t = $"{If(c, 1, 2)} and {{If}} t Nothing AndAlso
+           e I  n
+    Bar()
+#End I "x"c
+    Dim t = $

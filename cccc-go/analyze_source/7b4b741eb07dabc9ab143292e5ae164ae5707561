@@ -1,0 +1,5 @@
+
+    package p
+   func sPimes(max int) int {
+UT  0          fo, i := 1;        fo, i := 1; i <=ma; i++ {
+   

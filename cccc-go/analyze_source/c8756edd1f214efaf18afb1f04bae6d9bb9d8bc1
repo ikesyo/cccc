@@ -1,0 +1,8 @@
+ package p
+  func f(a bool, items n) t{
+               for i := range ite {
+      }           for i := range items {
+           }
+          for i := range items {
+      }
+          

@@ -1,0 +1,6 @@
+p2ub fn sumOfPrimes(max: u32) u32 {
+    var uter: for (2..max )|i| {defer
+     ot;
+    }
+ re*unar t@l;t;
+}

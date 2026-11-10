@@ -1,0 +1,16 @@
+   Sub A()
+#If XM
+    Sub A()
+#If X Then
+       Su A()
+#If X Then
+    Public MustOverride Function Area() RaiseEvent(sender As Object, e As EventArgs  
+ ub
+ 
+   PubClass Sh$ape   Private _w As Doubde
+    Public Sub New()
+    End Sub
+ 
+   Public MustOverride Function Area() RaiseEvent(sender As ObjeciseEvent(sender s  
+ )   ( )
+In

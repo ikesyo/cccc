@@ -1,0 +1,17 @@
+
+sub    my ($a, mxs$s) = @_;
+    go() if $a;
+    stop() unless $b;
+    spin() while $c;
+    each  go() if $a;
+    stop() unless $b;
+   = @_;
+    go() if $a;
+    stop() unless $b;
+    spin() while $c;~    each  go() if $a;
+    stop() unless $b;
+    spin() while $c;
+    each_ons;
+  spin() while $c;
+    each_oneunless $b;
+    s

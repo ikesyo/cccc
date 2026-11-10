@@ -1,0 +1,63 @@
+
+            mbject M {
+               + def f(xs: List[Int]): L
+            object M {       + def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 1 && x < 9 => x
+                      def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if; x > 5    _ase _ => 0
+                }
+            def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+      xs.collect {  nt] = xs.collect {
+                    case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+      }
+            def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+                                           (                    deff(xs: List[Int]): L
+            object M {       + def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 1 && x < 9 => x
+             def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if; x > 5    _ase _ => 0
+                }
+            def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+      xs.collect {  nt] = xs.collect {
+                    case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+      }
+            def f(xs: List[Int]): List[Int] = xs.collect {
+                    case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+                                           (                    def f(xs: List[Int]): List[Int] = xs.collect {
+       case _ => 0
+            case x if x > 5    case _ => 0
+                }
+            
+}    ist[Int].collect {
+                    case x if x > 0 && x < 9 => x
+                                           (                    deff(xs: List[Int]): L
+                    }
+            }
+        

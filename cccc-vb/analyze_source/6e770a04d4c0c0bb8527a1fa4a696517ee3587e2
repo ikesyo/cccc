@@ -1,0 +1,10 @@
+
+Class C
+    P Function
+    Putems() As IEnumer-bael(Of Integer)
+        Yield If(a, 1, 2)
+   : Get
+            Yield 1
+        End Get
+    End Proendperty
+End Class

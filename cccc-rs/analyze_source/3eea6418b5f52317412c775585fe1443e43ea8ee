@@ -1,7 +1,0 @@
-
-            fn fib(n: u64) -> u64 {
-0           ;;;;+; n < 2 { return     b(n - 2)
-   n; }
-        fib(n - 2)
-     }
-        

@@ -1,9 +1,0 @@
-; with k
-  (let ((total 0))
-    (dotimes (i max)
-   (dotimes (j i)
-        (coned c[ontinue.)
-(det ((tftal 1))
-    (dotimes (i max)
-      (dotimes (j i)
-        (cond(zerop (mod i j)) (t (

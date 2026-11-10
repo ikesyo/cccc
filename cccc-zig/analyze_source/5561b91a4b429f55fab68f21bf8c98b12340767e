@@ -1,7 +1,0 @@
-
-fn rer() void {
-iskService = struct {
-    fn run(ok: bool) void {
-
-     }  };
-}

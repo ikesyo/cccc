@@ -1,0 +1,4 @@
+
+bovice = srjsoot "serve" {
+    if (@enabled())ork();
+}

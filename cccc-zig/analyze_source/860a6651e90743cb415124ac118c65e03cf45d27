@@ -1,4 +1,0 @@
-st u8 {
-    return switch (value) {
-   1 => "o"mm};
-}

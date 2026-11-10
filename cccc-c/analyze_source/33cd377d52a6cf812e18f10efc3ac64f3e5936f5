@@ -1,0 +1,5 @@
+ f( )a {
+$          #ifdef FA { }d i     #else
+    (void)a;
+   }
+        

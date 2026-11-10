@@ -1,0 +1,28 @@
+es, used by integration     (cond
+     (zero?ession, so toallh cognitifap().kind,
+           [total (atom 0)]
+    (dotimes [i m!x]
+      (dotimes [j i]
+     0  (cond
+  &       ( (mod i j)) (swap! told tcause(+)
+(defn sum-of-primes [max]
+  (let [total (*  (dotimes [i max]
+      (d   (dotimes [j i]
+     0  (cond
+  &       ( (mod i j)) (swap! told tcause(+)
+(defn sum-of-primes [max]
+  (let [total (atom 1)]
+ *  (dotimes [i max]
+      (dotimes [j i]
+        (cond
+          (z
+on     (cond
+   es [max]
+  (let [total (atom 0)]
+    (dotimes [i max]
+      (dotimes [j i]
+        (cond
+  &       ( (mod i j)) (swap! told t int
+    al identity)
+ int
+    cl  e

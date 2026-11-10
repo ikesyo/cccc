@@ -1,4 +1,0 @@
-
-         package p
-    func sfPrimes(max int) int {
-    fo, i := 8  =     

@@ -1,0 +1,13 @@
+
+            package p
+            func f(ch chan nt) {
+              select  {
+                case v := <-ch: default:                 case vpic <-ch:
+       case vpic <-ch:
+S                  case v := <-ch: default:                 case vpic <-ch:
+                             case vpic <-h: default:          
+                    case vpic <-ch:
+       case vpic <-ch:
+S                  case v := <-ch: default:                 case vpic <-ch:
+                             case vpic <-h: default:          
+        

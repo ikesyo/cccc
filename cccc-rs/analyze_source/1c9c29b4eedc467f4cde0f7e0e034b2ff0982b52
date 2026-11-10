@@ -1,0 +1,7 @@
+
+            fn sum_of_primes(max: u32) -> u32 {
+  for   ini1..=max {
+         }
+    total
+            }
+        

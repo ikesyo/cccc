@@ -1,5 +1,0 @@
-;3
-(defun get-words (n) 
- (case 
-on(2 "uple")
-    (otherwies 

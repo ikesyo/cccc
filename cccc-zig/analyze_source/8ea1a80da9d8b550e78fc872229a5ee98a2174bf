@@ -1,0 +1,9 @@
+[p:p][p:p][p:'L'%'L']s
+pu|i| {
+        for (2..i) | {|j| {
+         if (i % j == 0) {
+                    }
+        }
+ s   }
+    return total;
+}

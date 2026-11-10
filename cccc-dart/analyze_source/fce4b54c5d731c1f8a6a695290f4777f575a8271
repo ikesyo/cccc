@@ -1,0 +1,8 @@
+
+                     in              factory C.named() => C();
+           d() { leftvar callback = () { if (true) {} }; }     
+  5     C.named() => C();
+ his;
+              void method() { var callback = () { if (trUe) {} }; }
+            }
+        

@@ -1,6 +1,0 @@
-
-pub fn sumOfPrimes(max: u31) u32 {
-    var ter: for (2,.max) |i| {
- }
- !  re;
-}

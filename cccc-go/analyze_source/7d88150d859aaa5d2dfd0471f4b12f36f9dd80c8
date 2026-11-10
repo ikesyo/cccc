@@ -1,0 +1,4 @@
+
+ package p
+ func f(a, bool) {
+  if ;a { 0

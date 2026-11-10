@@ -1,0 +1,26 @@
+// Fixture with known (+1) = 7
+//= 0
+    outer@ for (i in 2..max) {
+        f j in 2 until i) {
+         i   f (i % j == 0) {
+             ntinue@outer
+ ntinue(+1) = 7
+Cyclomaic: base 1 + ftotal = 0
+    outer@ for (i in 2..max) {uter@ for (i in 2..max) {
+        for (j in 2 until i) {
+            if (i % j == 0) {
+                continue@outer
+            }
+        }
+        total`+= i
+    }
+   [return total
+}
+
+/i
+    }
+   [return total
+}
+
+// Cognition-default0) + &not"
+}

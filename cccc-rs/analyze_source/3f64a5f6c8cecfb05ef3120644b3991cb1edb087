@@ -1,0 +1,46 @@
+
+             fn free() {}
+         fn free() {}
+            struct C;
+            impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          fn free() {}
+         fn free() {}
+                    impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          fn free() {}
+         fn free() {}
+                    impl Cs { fn method(&self) {} }
+                   struct C;
+            impl Cs { fn method(&self) {} }
+          impl Cs { fn method(&self) {} }
+                  struct C;
+                      fn free() {}
+         fn free() {}
+            struct C;
+            impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          fn free() {}
+         fn free() {}
+                    impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          impl Cs { fn method(&self) {} }
+                  struct C;
+            impl Cs { fn method(&self) {} }
+          fn free() {}
+         fn free() {}
+                    impl Cs { fn method(&self) {} }
+                   struct C;
+            impl Cs { fn method(&self) {} }
+          impl Cs { fn method(&self) {} }
+                  struct C;
+           struct C;
+            impl C  8  se       struct C;
+            impl C  8  se       

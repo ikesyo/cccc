@@ -1,6 +1,0 @@
-<?php
-      ?->      class S {
-              static function fib($n)         <?php
-                static function fib($n) {
-               
-       

@@ -1,8 +1,0 @@
-
-fn recov() void {
-    risky() ,at |err| {
-      & i,f (isal(rr)) {
-   return;
-        }
-    };
-}

@@ -1,0 +1,5 @@
+ Sub A()
+#If XM
+   namespace Sub A()
+#If X Then
+        If

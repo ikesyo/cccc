@@ -1,4 +1,0 @@
-
-    f(Object value) => switch (value) {
-               => 'matched',
-   'o  };

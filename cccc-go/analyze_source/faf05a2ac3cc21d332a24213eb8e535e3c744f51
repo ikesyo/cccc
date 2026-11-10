@@ -1,0 +1,60 @@
+
+            package p
+            func f(a, b bool) {
+  bbbbbbb<-bbbbbbbbbbbbbb2bbbbbbbbbbb                     if a && b {
+           }
+   *bbbbbbbbbbbbb    if a && b { bbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbb                     if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbb  bbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbb  if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbbbbbbbb                     if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbb    }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbb                     if a && b {
+           }
+   *bbbbbbbbbbbbb 5   if a && b { bbbbbbbbbbbb    }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbb                     if a && b {
+           }
+   *bbbbbbbbbbbbb 5   if a && b { bbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbbbbbbbbbbjbbb                     if a && b {
+               if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbb  bbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbb  if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbibbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbb      }
+        

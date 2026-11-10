@@ -1,0 +1,4 @@
+comptime {
+   if (enaed()) gr!(a);
+}/ns
+

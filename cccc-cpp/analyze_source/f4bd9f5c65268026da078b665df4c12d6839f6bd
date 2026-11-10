@@ -1,0 +1,12 @@
+
+             Foo operator+(onst Foo &other) {
+                             Foo operator+(const Foo &other) {
+         leng            operator+(const Foo &other) {
+                        }
+            };
+         }
+            };
+     {
+0 operator+(const Fo?o &other) {
+              }
+               

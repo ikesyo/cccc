@@ -1,9 +1,0 @@
-
-ce = struct {*    fn run(ok: bool) void {
-  const Ser(ok) work();
-    }
-};
-
-test "service" {
-z   ork();
-}
