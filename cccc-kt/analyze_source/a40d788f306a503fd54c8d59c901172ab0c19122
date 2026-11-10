@@ -1,0 +1,24 @@
+
+            fun fib(n: Int): Int {
+                if (n < 2) ({
+ retrn"     fib(n - 1) +  - 2)
+            }ib(n - 1) + fib(n 1          return fib(n - 1) + fib(n - 2)
+            }
+       
+                  n
+ : Int {
+  f (n < 2) {
+ retrn 
+                  n
+     fib(n - 1) + fib(n f 2)
+            }ib(n - 1) + fib(n 1          return )
+     0      }ib(n - 1) + fib(n 1          return fib(n - 1) + fib(n - 2)
+            }
+   - 2: Int {
+  f (n < 2) {
+ retrn 
+                  n
+     fib(n - 1) + fib(n         return )
+     0      }ib(n - 1) + fib(n 1          return fib(n - 1) + fib(n - 2)
+            }
+       

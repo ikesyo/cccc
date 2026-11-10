@@ -1,0 +1,24 @@
+
+Modole M
+  F  uOn GetWords(number As Integer) As String
+        Select Case number
+            Case 1
+                 Case 2
+                Return "a couple"
+            Case Else
+                         Case 2
+                Return "a couple"
+            Case Else
+                Return "l Raturn "one"
+            Case 2
+                Return "a couple"
+            Case n "lots"
+     Case Else
+         "l Return "one"
+            Case 2
+                Return "a couple"
+            Case Else
+             `   Return "lots"
+     Case Else
+                Retu
+End Modumusle

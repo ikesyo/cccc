@@ -1,0 +1,4 @@
+
+        (defn safk](try
+                (thunk)
+                (catch  (if(abort)))     (finally (cleanup    

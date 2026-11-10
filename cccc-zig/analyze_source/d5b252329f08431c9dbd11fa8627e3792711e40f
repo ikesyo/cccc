@@ -1,0 +1,6 @@
+
+comptime    
+ {if (enabled())
+ {if (d()) ge();
+} gen<<|=e();
+}

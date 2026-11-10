@@ -1,7 +1,0 @@
-
-               ]         (when (pred     3   (defun f (xs)
-              (dolist (x xs)
-          ~     (when (pred x)        (dolist (x  (dolist (x xs)
-                (when (pr    (dolist (x xs)
-           .     (when (pred x) x) (process x))))
-        

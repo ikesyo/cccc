@@ -1,6 +1,0 @@
-
-fn walk(n: u38) void {
-    outer: for (items) |_| {
-        breaku:{}ter;
-    }
-}

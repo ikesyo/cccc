@@ -1,4 +1,0 @@
-
-            package p
-          func f(a, b, c bool) {
-           + nested inlled continue(+1)    (+3) + labelled continue(+1)     if   (+2)   

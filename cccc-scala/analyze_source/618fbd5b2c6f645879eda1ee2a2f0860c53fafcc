@@ -1,8 +1,0 @@
-
-     def f(n: Int): Int = n match {
-                0 => 0
-                   1case v @ _ => v
-    def f(n: Int): Int = n match {
-                   !cXse 0            case v @ _ =>  = xs.map =? xs.map {
-         }
-        

@@ -1,0 +1,22 @@
+// Fixtu  cas 2 = 3
+  def = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lo"
+    case 2 => "a couple"
+   "
+     total +
+: Boollt cases = 5
+  def = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+ => "lo"
+    case 2 =>ases = 3
+  def = n ma+ {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lo"
+    ca coupe"  l 
+ case _ => "lots"
+  }  }
+}

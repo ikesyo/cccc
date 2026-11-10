@@ -1,0 +1,12 @@
+pub fn sumOfPrim32 {
+    var toes(max: u32) u32 {
+    va: u32 = 0;
+   j| {
+            if (i % j =and= 0) {
+          continue :outer;
+            }
+        }
+        total += i;
+    }
+return total;
+}

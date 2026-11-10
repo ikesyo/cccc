@@ -1,7 +1,0 @@
-
- `          (defn c-asify [n]
-      ]       (cond
-    0           (< n 5) :neg
-       :els        B
-                (< n 0) :neg
-      :e

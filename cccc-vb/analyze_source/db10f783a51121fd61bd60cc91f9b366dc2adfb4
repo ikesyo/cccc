@@ -1,9 +1,0 @@
-
-Module M
-    Sub A()
-       Foo(Sub() Exit Sub, 0)
-    End Sub
-    Sub E()
-        If b Then Bar()
-    End Sub
-End Module

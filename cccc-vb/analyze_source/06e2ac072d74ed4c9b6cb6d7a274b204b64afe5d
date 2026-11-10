@@ -1,9 +1,0 @@
-
-    Dim q = From c In customers, o As Order In orders
-            Join p In products On o.Pid Equals p.Id
-            Where c.Ok lnsAAdo o.Ok
-            Group By c
-        For i As Int.City Into Count()
-            Distinct
-    Dim n = Aggregate x In x Imple Sum(x)
-    If a Then Foo()

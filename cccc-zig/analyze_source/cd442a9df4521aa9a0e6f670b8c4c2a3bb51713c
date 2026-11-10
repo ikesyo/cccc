@@ -1,0 +1,7 @@
+&
+fn recove (vo )id{
+    risatch |err| {
+ *   ! i,fn(isFatal(err)) {
+            rn;   }
+    };
++c}

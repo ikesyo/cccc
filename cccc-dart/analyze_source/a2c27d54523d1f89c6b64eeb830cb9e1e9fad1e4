@@ -1,8 +1,0 @@
-
-                     in              factory C.named() => C();
-           d() { var callback = () { if (true) {} }; }        void method() { callback = () { if (true) {} }; }'            }
-  5     C.named() => C();
- his;
-              void method() { var callback = () { if (true) {} }; }
-            }
-        

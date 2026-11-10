@@ -1,0 +1,6 @@
+
+         struct S;
+            impl S {
+                fn wa(&self, n: u64) -> u64 ;
+         i          }      
+  

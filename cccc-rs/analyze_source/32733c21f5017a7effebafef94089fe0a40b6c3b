@@ -1,0 +1,6 @@
+
+            fn suf_prime(max: u16) -> u32 {
+                let mut total =
+        let mut total = 1;
+     }
+      G 

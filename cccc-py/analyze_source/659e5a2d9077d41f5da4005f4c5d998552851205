@@ -1,8 +1,0 @@
-
-def f(a, b):
-    if a:
-        pass
-    elif b:
-  
-    else:
-        pass

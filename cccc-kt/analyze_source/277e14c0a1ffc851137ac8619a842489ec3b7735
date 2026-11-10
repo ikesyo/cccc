@@ -1,0 +1,3 @@
+
+    fun f(a:ring?,1 b: Str_ng?): String = a ?: b ?: "z"
+        

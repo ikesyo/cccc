@@ -1,0 +1,9 @@
+
+         macro a() { if tru{} }
+   macro a() { if true {} }
+   macro a() { if tru{} }
+   macro a() { if true {} }
+            macro a() { if tru{} }
+   macro a() { if true {} }
+   macro a() { if tru{} }
+   macro a() { if true {} }coZZZZZZ   

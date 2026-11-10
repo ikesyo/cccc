@@ -1,7 +1,0 @@
-%consequence  object S {case Some(x) => x
- map {
-            case (k, v) 
-        =>    }
-            }
-  ) {
-  

@@ -1,9 +1,0 @@
-
-<Assembly: CLSCompliant(True)>
-<Serializable(), Obsolete("x")>
-Public         F
-    Dim p = New Person With {.Name = If(a, "x", "y"or i As Integer = 2 To max
-      en
-,             w System.Text.StringBuild(1, "")
-    End Function
-End Class

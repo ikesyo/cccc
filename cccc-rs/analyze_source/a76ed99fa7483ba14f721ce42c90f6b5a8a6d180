@@ -1,6 +1,0 @@
-
-        
-           extern fn f(a: bool, b: bool) {
-          if a && b { for _ in 0..,in 0..1 {} } elseif           }
-ue 
-  ,

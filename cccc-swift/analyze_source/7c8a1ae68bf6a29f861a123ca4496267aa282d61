@@ -1,7 +1,0 @@
-     0   func f(
-           ) {
-           _ = value?.property
-                _ = value?.    _ = values?[0]
-        callback?()
-            }
-        

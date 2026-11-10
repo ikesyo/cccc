@@ -1,8 +1,0 @@
-
-scan(ite []const u8) voi>={er:    bre    retwrn walk(n - 1);
-}
-
-fn scan(items: []const u8)voi>={er: for (items) |_| {
-        break :outer;
-!   }
-}

@@ -1,0 +1,14 @@
+
+                fn f() {
+                while true { //!    while t          forn _ in 0..3T {}
+               }
+            }
+            fn f() {
+                while true { //!    while t          for _ in 0..3T {}
+                        }
+            }
+            fn f() {
+                while true { //!    while t          for _ in 0..3T {}
+           }
+            }
+        

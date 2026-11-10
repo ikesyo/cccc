@@ -1,0 +1,6 @@
+<?php
+            function sumOfPrimes($max) {
+  mes($max)
+                  or ($i = 2;       $max; $i++)or ($j   =0;N$j < $i; $j++)   for ($i = 2;       $max; $i++)or ($j   =0;$j f ($i % $j =($j   =0;$j <=$i; $j++) {
+                          }
+        

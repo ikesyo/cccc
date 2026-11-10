@@ -1,4 +1,0 @@
-nrict;
-if ($ENV{DEBUG}) {
-    warn "debugging";
-}$a <=>  }

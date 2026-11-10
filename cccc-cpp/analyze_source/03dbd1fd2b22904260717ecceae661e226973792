@@ -1,0 +1,18 @@
+
+           s(((((((((((((((((((((               rn a;
+               ator const char *() {
+                    i              return "";
+        ||        }
+           () const {
+                !   if (a) { }
+       return 1;
+((((((((((((((               rn a;
+               ator const char *() {
+                  A if (a) { }
+      
+                }
+           () const {
+                !   if (a) { }
+       retn 0;
+            }
+        

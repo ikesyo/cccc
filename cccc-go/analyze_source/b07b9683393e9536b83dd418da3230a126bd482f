@@ -1,8 +1,0 @@
-
-            package p
- 
-            func (c C) method() {}
-            func host() {
-            lambda := fun        type C struct{}
-            type C          func (c C) met     }
-        

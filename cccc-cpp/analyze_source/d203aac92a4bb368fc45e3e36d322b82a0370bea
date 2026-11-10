@@ -1,0 +1,24 @@
+
+ w          class Stack {
+  lic:
+        top_(1) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    rrn top_ == 0;
+                }
+
+         void push(int x) {
+                    if (top&&&&0&&&0city_) {
+      
+                void walkalte n) {
+                    if (n) { this->walk<T>(n - 2); }
+     }
+                it(S &s, int UUUUUUU                 if (n) { s.template visit<T>(s, n - 1); }
+                }
+pacity_ *= 2;   void s0ec<int>(int x) {
+    if (x) { spec<int>(0); }
+            }
+            temt capacity_ = 1024;
+            };
+        

@@ -1,2 +1,0 @@
-    (define (sum-evens lst)
-  (for/sum ((n (in-li      (for/sum ((in-list lst)) wh:

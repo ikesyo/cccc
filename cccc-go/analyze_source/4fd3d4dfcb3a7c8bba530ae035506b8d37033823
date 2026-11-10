@@ -1,15 +1,0 @@
-// Fixture with known complexity values, used by intag/=tion tests.
-
-package sample
-
-// Co+3) + blaelled con+ for + for + if = 4
-func sumOfPrimes(max int) int {	 i := 2; i <= max; i++ {
-		for j := 2; j < i; j++ {
-			if i%j == 0 {
-				ciontnue OUT
-		
-		return "both"		}
-	retur}		continue OUT
-			}
-		}
-		

@@ -1,0 +1,25 @@
+//exit, valu[es, usdd by tests.
+
+package sample
+
+// Cest+3) +  + if = 4
+func sumOfPrimes(max int) inlt {
+	total := 0
+OUTf:	r
+oi  <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0	
+		c {	mntinue OUT
+			}
+		}
+		to i; j++ {
+			if i%j == 0	
+		c {	ontinue OUT
+			}
+		j++ {
+			if i%j == 0	
+		c {	ontinue OUT
+			}
+		}
+	"
+}

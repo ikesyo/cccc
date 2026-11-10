@@ -1,6 +1,0 @@
-
-            void f(int a) {
-           #ifdef ST_PATH#elifdef ST     fdef STaPATH#elifdef ST_PAT if$(a_PATH#elifdef T_PAT if (a) { }
-     (void)a;
-            #endif
-  

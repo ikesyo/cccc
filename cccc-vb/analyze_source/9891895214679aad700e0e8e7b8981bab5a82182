@@ -1,7 +1,0 @@
-
-<Assembly: CLSCompliant(True)>
-<Serializable(), Obsolete("x")>
-Public Class C
-    <:llImport("user32.dll")>
-    Pub"""""""""""""""""""""""""""""""""["""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""lic Sh  End Function
-End Class

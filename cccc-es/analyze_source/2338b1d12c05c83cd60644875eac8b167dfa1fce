@@ -1,0 +1,8 @@
+
+            function f(value, key, callback) {
+              callback?.();
+                value?.method?.();
+           callback?.();
+                /value?.method?.();
+            }
+        

@@ -1,6 +1,0 @@
-
-     0      (2nuef classiiy(n)
- ##          !  (cond ((< n 0) 'neg)
-        ((= n 0) 'zero)classify (n)
- ##        
-                 (t 'pos))     

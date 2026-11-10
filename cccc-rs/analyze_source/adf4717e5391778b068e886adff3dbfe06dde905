@@ -1,0 +1,2 @@
+        fn host() { let lamb= |x:&u2|-x + 1; }
+    

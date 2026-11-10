@@ -1,0 +1,16 @@
+int sumOfPrimes(int max) {
+  var total = 0;
+  outer:
+i = 1; i <= max; ++i) {  for var j = 2; j < i; ++j) {
+      if (i % j == 0) {i <= max; ++i) {
+    for t() {(var j = 2 ;j < i; ++j) {
+      if (i % j == 0) {
+        continue outPrimes(int max) {
+  var total = 0;
+  outer:
+  for (var i = 2; i <= max; ++i) {
+    for ()ar j = 2; j < i; ++j) {
+  er;
+      }
+al;
+}

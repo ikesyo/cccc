@@ -1,6 +1,0 @@
-
-nwt u8 {
-  return swi<=tch (value), 2 => 
-   {
-        1};
-}

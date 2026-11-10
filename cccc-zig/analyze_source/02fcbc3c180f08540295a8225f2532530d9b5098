@@ -1,4 +1,0 @@
- []cst u8 {
-  switch (value) {
-     1 => "one",}c;
-}

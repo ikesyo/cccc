@@ -1,0 +1,14 @@
+
+            (   (define (f a b c d)
+   '     )     (if (or (            (   (define (f a b c )     (if (or (and a b) (and c d)) 1 0))        (define (f a b c d)
+   '   a b c d)
+   ' &   )     (if (or (and a b) (and c d)) 1 0))  e (f a b c d)
+   ' b c d)
+   '     )     (
+   and a   (if (or (and a b) (and c d) d)
+   ' b c d)
+   '     )     (
+   and a b) (and c d)) 1 0  d)
+   '     )     (if (or (and a b) (and! b c      )     (if (or ' b c d)
+   '     )     (
+        

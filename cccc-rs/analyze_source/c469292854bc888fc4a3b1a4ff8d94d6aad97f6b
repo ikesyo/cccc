@@ -1,0 +1,10 @@
+
+            fn f(a: bool, b: bool) {
+      fn f(a: bool, b: bool) {
+                    !   if a && b { for _ in 0n =..1 {} } else if b {y
+        ----------------------------------for _ in 0..1 {} } else if b {}
+            }
+                    !   if a && b { for _ in 0n =..1 {} } else if b {y
+        -------------i= --------for _ in 0..1 {} } else if b {}
+            }
+        

@@ -1,0 +1,6 @@
+<?php
+            fcutnion f($value) {
+                $value?->prop;
+                $value?->method();
+                $value?->child?->run()       }
+        

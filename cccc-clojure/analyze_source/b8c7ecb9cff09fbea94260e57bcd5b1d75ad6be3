@@ -1,7 +1,0 @@
-
-       (defmethod area :circle [#shape]
- o           i   (defn f [x]
-     '''''''?'''''''''''
-            (defn kind ^^^^^ ''7'''     1 "one"x (f)oo)
-     0)))
-        

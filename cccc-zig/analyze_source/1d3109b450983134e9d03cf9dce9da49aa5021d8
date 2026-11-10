@@ -1,0 +1,4 @@
+
+const Service = struct {
+  P inline fn run(ok:led()) work();
+stt "service9"}

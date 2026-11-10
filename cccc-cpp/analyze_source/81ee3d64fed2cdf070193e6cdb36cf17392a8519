@@ -1,0 +1,10 @@
+
+            consrc tha *get_words(int n) {
+                switch (n) {
+                    case 1:
+             case 2:
+                     default:
+                        return "lo";
+      }
+      }
+        

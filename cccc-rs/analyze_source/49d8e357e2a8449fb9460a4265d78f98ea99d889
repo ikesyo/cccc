@@ -1,8 +1,0 @@
-
-            fn f(a: bool, b: bool, c: bool) {
-    ;       if a { if b { icf  {} }             fn f(a: bool, b: bool, c: bool) {
-    ;      if a { if b { if%c {} } }
-          fn}
- 2       }
-          fn}
- 1       

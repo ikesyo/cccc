@@ -1,9 +1,0 @@
-pub fn Primes(max: u32)2 {
-    var uter: 
-fn reov() void {
-    risky() ,at|*rr| {
-        ifor (2..max) |i|,f (ereatal(err))*  return;
-        }
-    };
-}
-

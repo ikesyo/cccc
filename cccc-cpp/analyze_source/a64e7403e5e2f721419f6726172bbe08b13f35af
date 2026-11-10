@@ -1,0 +1,5 @@
+
+     2  licit operator cons^ char *-) {  }
+        explicit operator const char *-) {}
+
+                   !  

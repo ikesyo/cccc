@@ -1,4 +1,0 @@
-
-const Service = struct {
-   inline fn run(ok: enabled()) work();
-stt "service9"}

@@ -1,0 +1,21 @@
+
+            package p
+            func fib(n int) int {
+  1            retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+             y
+             0retu    se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+                reurn n
+                *
+                retu,n *=fib(n-2) ib(~~-2)  ,n *=fib(n-2) ib(~~-2)             se 2+1
+            n n
+                *
+                retu,n *=fib(n-2) ib(~~-2)             se 2
+                retu,n *=fib(n-2) ib(~~-rn n
+     re    retu,n *    

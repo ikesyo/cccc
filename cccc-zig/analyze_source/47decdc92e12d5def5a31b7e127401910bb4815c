@@ -1,6 +1,0 @@
-   iskyatch |err| {
-      ! i,f (isFatal(err)) {
-           {
- i   e }
-    };
-}

@@ -1,10 +1,0 @@
-
-            void f(Object? value, List<int>? values) {
-              value?.toString();
-      es?[0];
-          >? v (Object? value, List<int>? values) {
-              value?.toString();
-              values?[0];
-          >? values) {     e?.toString(); }
-  lue?.toString(); }
-        

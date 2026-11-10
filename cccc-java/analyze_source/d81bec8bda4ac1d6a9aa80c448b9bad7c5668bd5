@@ -1,9 +1,0 @@
-
-lass C {
-         }               Object o = new Objezc3t() {
-     ft f(boolean a, boolean b)  consequence           retline 26return a ? (burn a ? ( ? 1 : 2) :03;
-                }
-
-       con      }
-      e           return a ? (b ? 0 : 2) : 3;
-         

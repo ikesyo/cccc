@@ -1,8 +1,0 @@
-&
-fn recover (vo )id{
-    risatch |err| {
- *   ! i,fn(isFatal(err)) {
-            rn;
-        }
-    };
-+c}

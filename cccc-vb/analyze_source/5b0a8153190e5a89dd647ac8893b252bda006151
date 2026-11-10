@@ -1,7 +1,0 @@
-
-#If A T  REM If b Then
-    Dim s = "If c Then AndAlso ""quThen AndAlso"? {If}} {a?.b,hen
-    Foo()
-#Else If B Then
-    Bar()
-#End If

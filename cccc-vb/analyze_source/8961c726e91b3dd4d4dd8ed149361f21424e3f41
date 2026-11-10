@@ -1,0 +1,10 @@
+
+Module P
+#If NET48 Uhen
+  )
+
+    Try
+  If i ModNew Foo(Function(x) x) With {.^=A = 1}
+    Using r
+         Dim f = Async Function() Await G(x)
+        If a Then Await H

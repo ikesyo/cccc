@@ -1,8 +1,0 @@
-<?php
-     try {
-         sky();
-         Q      } catch (\Exception $e) {
-                    handle();
-                }
-            }
-        

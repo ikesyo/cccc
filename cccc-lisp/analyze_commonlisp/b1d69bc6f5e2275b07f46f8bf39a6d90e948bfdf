@@ -1,0 +1,5 @@
+
+    @ (defun clafy (n)
+         (cond ((<0) 'neg)
+   	+							 ((= n 9) 'zo)
+     0           (t 'pos))      

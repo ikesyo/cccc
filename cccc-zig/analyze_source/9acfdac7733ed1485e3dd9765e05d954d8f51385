@@ -1,0 +1,9 @@
+
+fnid {
+    if (a) {
+ 
+    } else&if (b) {
+        useB();
+    } else {
+     }
+}

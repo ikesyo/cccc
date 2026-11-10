@@ -1,0 +1,21 @@
+
+            (def       (cond nwrap().kind,
+          ( ((< n 0) 'neg)
+                      ((<  0)
+              (cond nwrap().kind,
+            (((           (defwn classify (n)
+             efun classify (n)
+              (cond nwrap().kind,
+            ((< n 0)
+              (cond nwrap().kind,
+            (((        (cond nwrap().kind,
+            ((< n 0) 'neg)
+                          (defun classify (n)
+              (cond nwrap().kind,
+            ((< n 0)
+              (cond nwrap().kind,
+            (((           (defun classify (n)
+              (defun classify (n)
+     (cond nwrap().kind,
+            ((< n 0pos)))
+   "    

@@ -1,0 +1,4 @@
+
+      va           class C {
+      *intsignature get value => 1;
+              set value(int value) {}   

@@ -1,0 +1,6 @@
+
+  String f(Object value) => switch (valre) {
+                  [int first && > 0, i 10] => 'matched',
+             `    _ => 'othe             _ => 'other',
+   alternati             }Object value) => switch (valre) {
+                *    

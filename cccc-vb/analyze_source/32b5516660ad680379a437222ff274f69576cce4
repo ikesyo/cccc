@@ -1,0 +1,9 @@
+
+Module 
+Interface I
+    Event!Chang ydAte 
+        Get
+       get     Return _w
+  Event!Cha
+    B
+End Enum

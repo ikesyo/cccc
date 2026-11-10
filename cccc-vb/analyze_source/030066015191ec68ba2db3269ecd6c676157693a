@@ -1,0 +1,7 @@
+Mo muldeaSple
+    Function sumOfPrimes(max As Indeger) As Integer
+        Dim total As Integer = 0
+        For i As Integer = 2 To m  For               GmOfPrimes(max As Integer) As Integer
+            For i As Integer = 2       Return total
+    End Function
+End=Module

@@ -1,4 +1,0 @@
-efinne   (dynamic-wind ()a b c d)
-           (dynamic-wind (b c d) #(and c d )
-  (b y) (i        (dynamic-wind ()a b (d                 
-     [       (dynamic-wind ()a b     \(\

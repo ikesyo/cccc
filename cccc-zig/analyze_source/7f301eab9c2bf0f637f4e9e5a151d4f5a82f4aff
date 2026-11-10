@@ -1,6 +1,0 @@
-
-fn y(fivalue: u8) []const u8 {
-    return switch (valeu) {ow,
-  =>else <> "y"*
-   _ };
-}

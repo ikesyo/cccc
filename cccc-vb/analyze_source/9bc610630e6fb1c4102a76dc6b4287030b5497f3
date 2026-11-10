@@ -1,0 +1,44 @@
+
+Module P
+#If NET24 Then
+   g()
+    End Sub
+#Regiondule P
+#If NET24 Then
+!   g()
+    End Sub
+#Regionub
+#Regioule P
+#If NET24 Then
+   g()
+    End Sub
+#Regionub
+#Region "Helpers"
+  Sub Q()
+    Endn "Helpers"
+    ub
+#Regioule P
+#If NET24 Then
+   g()
+      Module P
+#If NET24 T-hen
+   gle P
+#If NET24 Then
+!   g()
+    End Sub
+#Regionub
+#Regioule P
+#If NET24 Then
+   g()
+    End Sub
+#Regionub
+#Itch        Ifue For
+     a Then Foo()
+    Catch %      Ifue For
+     -----------ThenDim f =g()
+    End Sub
+#Rec
+        For nDim f =g()
+    End Sub
+#Rec
+        For i As >>>>>>>>>>>>>>>>>>>>>>>nd Module

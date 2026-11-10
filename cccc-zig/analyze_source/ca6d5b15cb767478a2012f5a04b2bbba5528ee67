@@ -1,0 +1,10 @@
+
+const vice = struct {
+    fn run(ok: bl) void {
+        }
+};
+
+test "service" {
+    if (enabled()) work();
+}
+^

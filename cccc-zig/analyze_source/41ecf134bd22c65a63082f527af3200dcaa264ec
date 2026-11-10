@@ -1,8 +1,0 @@
-//
-f0n r/ecover() void {
-    rierr| {
-  ?   if (isFatal(err)) {
-??????return;!u
-        }
-    };
-}

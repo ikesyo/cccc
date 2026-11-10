@@ -1,0 +1,13 @@
+
+g @A ....
+ {         }
+
+            record R(String @A ..elem) {
+         }
+
+            record R(String @A ... xs) {
+           }
+      record R(String @A ... xs) {
+               }
+
+         

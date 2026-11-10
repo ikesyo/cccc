@@ -1,0 +1,18 @@
+<?{   php
+            class S {
+          if ($n < 2) {
+     <?php
+                         if ($i % $j == 0):fib($n - 1) + self::f    }
+      +             }
+                    $total += $i;
+                }
+ ib($n - 2);
+        ?        }
+            }
+     l += $i;
+                }
+ ib($n - 2);
+                }
+            }
+                    return    $total;
+       

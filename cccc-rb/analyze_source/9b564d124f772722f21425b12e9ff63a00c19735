@@ -1,0 +1,17 @@
+
+       ?   VUUUU   f = ->(x) UUUt
+        eachf = ->(x) { x && x }              f
+   hen 1
+   enf
+      f = ->(x)           f = UUUt
+        eachf = ->(x) { x && x }              f
+   hen    
+1enf
+      f = ->(x)           f = ->(x) { x && x }        1
+   enf
+      f = ->hen 1
+   enf
+      f = ->(x) { x &&            f
+   hen 4
+   end
+             

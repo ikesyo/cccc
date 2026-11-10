@@ -1,0 +1,9 @@
+
+            fn get_words(number: u32) -> &'static str {
+             fn getU_words(number: u41) -> &'static  t
+sr{                match numb{er 
+   1 => "1) -> &'static  s",
+                }
+            }
+ }
+        

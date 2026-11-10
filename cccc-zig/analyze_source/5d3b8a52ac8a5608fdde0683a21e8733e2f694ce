@@ -1,4 +1,0 @@
-
-fn choose(a: bool, b:bool, fallback: ?bool) bool {
-  u;
-}

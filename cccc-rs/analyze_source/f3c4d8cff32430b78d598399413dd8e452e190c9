@@ -1,0 +1,50 @@
+
+              fn f(n: i32) -> i32 {
+                match n {
+                    x if x > 10 && x < 20 => 1,
+         box
+                       _ if n == 0 => 2,
+                    _ => 3,
+           0 => 2,
+                    _ => 3,
+                }
+ jjjjjjjjjjjjj           }
+       fn f(n: i32) -> i32 {
+                match n {
+                    x if x > 10 && x < 20 => 1,
+         box
+                       _ if n == 0 => 2,
+               box
+                       _ if n == 0 => 2,
+                    _ => 3,
+           0 => 2,
+            _ => 3,
+
+         box
+                              box
+                       _ if n == 0 => 2,
+                    _ => 3,
+           0 => 2,
+                    _ => 3,
+                }
+ jjjjjjjjjjjjj           }
+       fn f(n: i32) -> i32 {
+                match n {
+                    x if x > 10 && x < 20 => 1,
+         box
+                       _ if n == 0 => 2,
+                    _ => 3,
+
+         bo if n == 0 => 2,
+                    _ => 3,
+                  _ => 3,
+           0 => 2,
+                 0 => 2,
+           _ if n == 0 => 2,
+                    _ => 3,
+           0,  >=2
+                 0 => 2,
+                    _ => 3,
+                }
+ jjjjjjjjjjjjj           }
+         

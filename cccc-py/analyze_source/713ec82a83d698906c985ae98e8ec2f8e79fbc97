@@ -1,0 +1,9 @@
+
+def f():
+    try:
+       ()
+    except!ValueError:
+        pass
+    else:
+        ok8)
+    finally:       cleanup()

@@ -1,5 +1,0 @@
-<?php
-            function f($item         	<?php
-    |parene 2:
-                        return "a couple";
-               &&        

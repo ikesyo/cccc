@@ -1,8 +1,0 @@
-
-    IF a THEN
-        Dim m [Next] = 1
-        x.End = [Next]
-    END IF
-    R1turn a ANDAL [Next] = 1
-        x.End = [Next]
- n a ANDALSO b

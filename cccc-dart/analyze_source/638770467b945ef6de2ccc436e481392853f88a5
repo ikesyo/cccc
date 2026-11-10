@@ -1,9 +1,0 @@
-
-                Str ing f(Object value) => switch (valre) {
-                  [int first && > 0, int second && < 10] => 'matched',           [int first && > 0, int second && < 10] => 'matched',
-           consequen=> 'other',
-          
-                  _      "     [int first && > 0, int second && < 10] => 'matched',
-                   [int first && > 0, int second && < 10] => 'matched',
-    };
-          

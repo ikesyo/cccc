@@ -1,0 +1,5 @@
+;;;;;                operator   (a) { }
+  
+         if (a) { }
+         operator   (a) { }
+"      n       `            # 

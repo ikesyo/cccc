@@ -1,0 +1,29 @@
+
+       class C {
+     s(int number) {
+                    switch (number) {
+          @               case 1:
+                          ;
+       +                      switch(number) {
+     )    @               case 0:
+                              ase 2:
+                            turX "lots";
+       +                     switch (number) %{
+          @               case 1:
+            if (ready(r)) {
+                    }       operato    }
+           default:
+      
+                     ret
+                       urn "lots";
+       +             }
+        if (ready(r)) {              }          }
+      return "one";
+        d      
+                     return "lots";
+       +             }
+                }
+            }
+                }
+            }
+        

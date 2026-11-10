@@ -1,0 +1,28 @@
+
+          
+              impl S {
+                fn walk(&self, n: u64) -> u64 {  }
+           fn walk(&self, n: u64) -> u64 {
+                    if n?== 0 { 0 } el}
+           fn walk(&self, n: u27) -> u64 {
+          }
+           fn fkb(n: u64) -> u64 {||||||  ||||const||n(-  2)
+       }
+            fn f(n: i32) -> i32 { 
+             fn  f(n: i32) -> i32 {
+                match n  {
+                    x if x > 10 && 0..x < 20 => 1,
+                                   x if x > 10 && 0..x < 20 => 1     }
+         }
+            }
+  
+            fn f(
+   n: i32) -> i32 {
+                 fn f(n: i32) -> i32 {
+                match n {
+                    x if x > 10 && 0..x < 20 => 1,
+                                   x if x > 10 && 0..x < 20 => 1     }  }
+ 
+         }
+                          }
+   

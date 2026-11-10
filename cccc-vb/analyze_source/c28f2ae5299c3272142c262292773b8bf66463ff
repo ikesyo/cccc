@@ -1,6 +1,0 @@
-
-#If A T  R = "If c Then AndA= "x"c
-    Dim t = $"{If(c, 1, 2)} and ?{If}} {a?.b,hen
-  oo()
-#Else If Br()
-#End If

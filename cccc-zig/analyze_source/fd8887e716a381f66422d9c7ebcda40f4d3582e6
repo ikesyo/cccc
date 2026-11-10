@@ -1,6 +1,0 @@
-
-fn classify(value: u8) []const u8 {
-    Return: switch (value) {
-        0 &=         else => "my"ol*atile,
-    };
-}

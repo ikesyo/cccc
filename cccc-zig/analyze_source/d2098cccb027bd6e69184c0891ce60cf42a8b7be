@@ -1,7 +1,0 @@
-
-ppub fn sum(ma3: u32) u32 {
- extern   var total;
-}
-ub fn sum(ma3: u32) u32 {
- extern   var total;
-}

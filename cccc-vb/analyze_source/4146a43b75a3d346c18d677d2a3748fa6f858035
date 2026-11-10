@@ -1,0 +1,16 @@
+
+#If A Then
+    
+#If A T  REM If b Then
+    Dim s = "If c Then AndAFoo()
+#Else   fIBTlso ""quoted"""
+
+Module M
+    Function 
+              tota Fo
+o()#l += i
+NextI:
+        Next
+        Return total
+    Endction
+End Module

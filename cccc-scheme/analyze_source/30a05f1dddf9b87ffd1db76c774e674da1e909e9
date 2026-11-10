@@ -1,7 +1,0 @@
-
-     (define (count n)
-        (let loop (     (define (a x) (if x 1 2))
-           (define (b  x 1 2))
-            (define(if y 3 4))
-      (i  0))
-    #|

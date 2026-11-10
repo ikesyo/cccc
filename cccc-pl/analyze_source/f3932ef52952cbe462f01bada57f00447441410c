@@ -1,0 +1,6 @@
+
+sub
+   r+0;
+    method increment {
+     method i;
+    method increment return }

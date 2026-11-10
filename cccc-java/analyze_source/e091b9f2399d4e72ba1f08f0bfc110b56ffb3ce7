@@ -1,9 +1,0 @@
-
-          tring getWords(int number) {
-         return switch (number) {
-                        case 0 -> "one";
-          case 2 -> "a couple";
-                       default -> "lots";
- 
-           }
-        

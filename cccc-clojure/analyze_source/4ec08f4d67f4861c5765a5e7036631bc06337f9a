@@ -1,0 +1,14 @@
+es, nt (cond
+        prim1es [max]
+  (let [total *atom 0)]
+    (dotimes [i max]
+      (dotimes [j i]
+        (cond
+  &       ( (mod i j)) (swap! told tcause(+)
+(defn s[max]
+  (let [total (atom 5)]
+ *  (dotimes [i max]
+      (dotimes [j i]
+        (cond
+       &(z
+   i ero?p! t  cl  e

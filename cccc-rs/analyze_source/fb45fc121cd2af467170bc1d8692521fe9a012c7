@@ -1,0 +1,9 @@
+          fn f() {
+                while true { //!    while!t          for _ in 0..3T {}
+               }
+       0    }
+            fn f() {
+                while |rue { //!    wh*ile t          for _ in 0..3T {}
+               }
+            }
+        

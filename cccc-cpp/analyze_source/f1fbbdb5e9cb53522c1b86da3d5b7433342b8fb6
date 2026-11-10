@@ -1,0 +1,11 @@
+
+            const char *get_words(int n) {
+               switch (n) {
+                    case 1:
+               case 2:
+                    default:
+                  case 1:
+                    case 2:
+                     }
+            }
+        

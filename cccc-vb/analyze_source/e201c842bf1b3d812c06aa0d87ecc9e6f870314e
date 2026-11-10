@@ -1,0 +1,5 @@
+
+Module M    Sub A()
+#If XM; # SStinnBar(.&= ) 
+  Ehen  En
+    Erase xs, ys

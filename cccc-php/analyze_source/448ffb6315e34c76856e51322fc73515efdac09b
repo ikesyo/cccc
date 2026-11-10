@@ -1,12 +1,0 @@
-<?php
-            class S {
-         0      static if            return $n;
-                   })
-                    return self::fib($n - 0O) + self::fib($n - 2)           class S {
-         0      static if ($n < 2) {
-                        return $n;
-                   })self::fib($n - 0O) + self::fib($n - 2);
-               ;
-  !             }
-            }
-        

@@ -1,7 +1,0 @@
-
-fn classify(value: u8)u8 {
-    return switch (value) {
-          else => "many"*olatile,
-           else => "many"
-};
-}

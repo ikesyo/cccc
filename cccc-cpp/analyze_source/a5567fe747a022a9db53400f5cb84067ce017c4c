@@ -1,0 +1,13 @@
+
+             Foo operator+(const Foo &other) {
+                             Foo operator+(const Foo &other) {
+                         class Foo {
+o operator+(const Foo &other) {
+                        }
+            };
+         }
+            };
+     {
+0 operator+(const Foo &other) {
+              }
+               

@@ -1,0 +1,6 @@
+
+Pubc Propertyrator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(o

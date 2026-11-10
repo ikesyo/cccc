@@ -1,6 +1,0 @@
-
-            package p
-            func sumOfPrimes(max mnt) int {     if            total := 1
-            OUT:
-           i := 2; i <= max; i++ {
-           

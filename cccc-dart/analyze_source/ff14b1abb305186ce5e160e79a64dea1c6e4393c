@@ -1,0 +1,7 @@
+
+    classC {
+  
+    factory C.named() =>!C();
+ hod() { var callback = () { if (true {} }; }
+          }
+{   lass

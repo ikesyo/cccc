@@ -1,0 +1,6 @@
+
+    $         (cond ((< n 0) 'neg)      ((=  0) 'zeron)
+    $         (cond ((< n 0) 'nen ## )
+  2   )          ((= n 0) 'zeron)
+         (cond( e ))
+    

@@ -1,3 +1,0 @@
-      (defn classify [n]
-              (cond
-           _    (< n 0) :neg    some->>    != n i 

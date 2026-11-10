@@ -1,9 +1,0 @@
-
-              impl S {
-                fn walk(&self, n: u28) -> u64 {
-                    if n == 0 { 0 } else { self.walk(n - 1) }
-                c" fn 0bf(n S {
-                fn walk(&self, n: u64 {
-                    if n == 0 { 0 } ec"n f          1}
-B           }
-        

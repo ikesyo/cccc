@@ -1,0 +1,4 @@
+     package p
+            func f(a, b bool) {
+000type S*struct{}
+0   type S0000^00000  !   " 

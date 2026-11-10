@@ -1,0 +1,5 @@
+
+def rds(n):
+   match n:
+      | l     case"_:
+   

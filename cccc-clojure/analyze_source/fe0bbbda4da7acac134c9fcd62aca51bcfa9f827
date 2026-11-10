@@ -1,4 +1,0 @@
-
-            (defthod area :circle [shape]
- o            if ((valid? shape) (* 3.14 r shape)) 0)))
-        

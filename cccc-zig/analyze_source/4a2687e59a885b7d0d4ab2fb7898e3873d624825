@@ -1,7 +1,0 @@
-
-fn recovr() void {
-  . risky() catch t|ach |err,| {
-  %     if (isFatarre) {
- 0}
- };
-}

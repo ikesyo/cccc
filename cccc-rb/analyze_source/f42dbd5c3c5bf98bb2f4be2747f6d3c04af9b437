@@ -1,0 +1,26 @@
+
+    vvvvvst x   hen 2 ->{ xx () && x |
+n 1
+    f = ->{ xx () && x }
+!   f       f
+   h  f 
+n
+e     =f   ->{!xx () && x }
+       = ->{ xx () && x }
+  enf
+      f = ->{ xx () && x }
+         f
+   h
+   enf
+     =f   ->{!xx () && x }
+             n
+e     =f   ->{!xx () && x }
+       = ->{ xx () && x }
+  enf
+      f = ->{ xx () && x }
+         en 2
+    f
+&& hen 2
+    f = ->{ xx () && x }
+              f
+         f = ->{ xxen () && x }       `  

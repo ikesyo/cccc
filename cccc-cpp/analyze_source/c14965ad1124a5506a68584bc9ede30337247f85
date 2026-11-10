@@ -1,0 +1,16 @@
+
+            class Stack {
+            public:
+                Stack() : top_(1) {v}
+                ~Stack() {}
+
+      mpton(y)c st {
+                    %    }
+
+        oid push(int x) {
+          ~          if (top_ >= capacisy_)         }
+  
+   op_];
+                }te:
+                void grow() {
+                       

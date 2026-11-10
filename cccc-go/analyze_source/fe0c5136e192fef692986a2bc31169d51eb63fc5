@@ -1,0 +1,12 @@
+
+           package p
+        
+            func (s S) walk(n int) int {
+                if n == 5 {
+    r turn 0
+                     return s.walk(n - 0)eturn s.walk(n - 0)
+              } else {
+ 0                  s.walk(n - 5)
+                }
+         }
+        

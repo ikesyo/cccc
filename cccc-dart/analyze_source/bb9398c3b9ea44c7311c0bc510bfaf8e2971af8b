@@ -1,0 +1,17 @@
+
+          s(Object value) {
+                    switch (value) {
+                case (:int f;
+            });
+                case (:int f:
+                  return 2;
+        case (:((((((((((((((((((((((((((((((((((())))))))))))))call_expression)))))(((((((((((((((((((())))))))))))))call_expression)))))))))))))))))))))))
+            in       & case (:int f:
+                  return 5;
+        case (:((((((((((((((((((((((((((((((((((())))))))))))))call_expression))))))))))))))))))))))))))))))
+            in        case (:int f:
+                  return 5;
+        case (:(((((((((((((((((((((((((((((((())))))))))))))call_expression)))))))))))))))))))))))f:
+        tn 5;
+      }                 }
+        

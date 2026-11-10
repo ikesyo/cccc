@@ -1,0 +1,11 @@
+
+                  outer: for i in r...max {
+< 2 {
+  syntax error at line 10r  }
+ fib(n - 1) + fib(n - 2)
+      1) {
+                    retur  }
+ fib(n - 1) + fib(n - 2)
+ b(n - 2)                   n total
+       }
+        

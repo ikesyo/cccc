@@ -1,0 +1,8 @@
+
+    fn b() { 
+    
+       fn b() { const {} }
+
+&  const {} }
+
+   

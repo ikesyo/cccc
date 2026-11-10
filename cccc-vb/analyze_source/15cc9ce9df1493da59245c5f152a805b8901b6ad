@@ -1,0 +1,15 @@
+2    Try
+        If a Then Foo(u
+       If a 'Then Foo(u
+    Catcar()
+ Catch
+    Finally
+ hhHhhhhhhhhhhhhahhhhhhhhhhhhhhhhhhthrowhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh b    Catcar()
+    Catch
+    Finally   Catch
+    Finally
+ hhhhhhhhhhhhhhhhhhhhh b    Catcar()
+    Catch
+    Finally
+  b Then B  Cat       B.a)
+    End Try

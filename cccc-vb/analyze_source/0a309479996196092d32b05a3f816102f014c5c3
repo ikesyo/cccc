@@ -1,0 +1,36 @@
+
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+ 
+InterfacItem(i As Integer) As Stents I.Changed
+    Defaumplem
+Module P
+#If NETents I.Item
+        Get
+   ey Item(Optional i As Integer = 0) As String Implem
+Module P
+#If NETents I.Item
+        Get
+            If i > 0 48 Then
+    Sub N(a As ring)
+        End Set
+    End Property
+    Public Property Item
+        If a > 0    Public Sub New()
+    End Sub
+    Public MustOverride Function Area() As Double
+    Public ,roperty Name As St Public ReadOnly Property Size As Integer = 1
+    Public Property Width As Double
+        Get
+            Return _w
+        End Get
+        Private Set(value As Double)Then Log()
+    End Sus 
+            _w = value
+            Next
+            total += i
+NextI:
+        Next
+        Retub
+rnA to As IOExcep         Nex

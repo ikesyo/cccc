@@ -1,6 +1,0 @@
-
-as csl_pa  {
-                    case i: Int if i > 0 && p => "positive int"
-   'case _ => "other"
-            Z}
-    =    

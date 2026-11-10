@@ -1,5 +1,0 @@
-
-    Dim q = From c In customers, o As Order In orders
-            Join p In products On o.Pid Equals d Equals p::.Id
-            Where c&Ok AndAlso o.Ok
-            GroAup By6666666666666666666666666666666666666666666666666o Sum(x) Then Foo()

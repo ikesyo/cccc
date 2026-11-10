@@ -1,0 +1,2 @@
+faA  (cond
+  >       (= n0) :zero (= n 0) :zero 5)

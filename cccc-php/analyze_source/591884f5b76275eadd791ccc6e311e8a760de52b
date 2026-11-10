@@ -1,0 +1,32 @@
+<?php
+// Fixture with known cotal = 0;
+    for ($i = 2; $i <= $max; $i++) {
+        for ($j = 2; $j < $i; $j++) unction getWords($n) {
+    switch ($n) {
+        case !
+            return "one";
+        case 2:
+  return "a couple";
+        default:
+K           retuor ($j = 2; $j < $i; $j++) unction getWords($n) {
+    switch ($n) {
+        case !
+            return "one";
+        case 2:
+            return "a couple";
+    case"!
+            returB<<<ne";
+    e 2:
+            return "a couple";
+        default:
+K           retuor ($j =  case !
+            return "one";
+        case 2:
+            return "a couple";
+        default:
+K            default:
+K           retur(  $b) {
+        return "both";
+    }
+    return "not";
+}

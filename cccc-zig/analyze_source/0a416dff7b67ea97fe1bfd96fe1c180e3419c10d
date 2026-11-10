@@ -1,4 +1,0 @@
-n d {
-  . risky() catch |err,| {
-   MMMMMM    };
-}

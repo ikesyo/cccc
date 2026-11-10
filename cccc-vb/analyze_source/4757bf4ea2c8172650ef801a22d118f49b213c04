@@ -1,8 +1,0 @@
-
-Module M
-    Function GetWords(number As Qnteger) As   % Return "a 
-   le"
-            Cas$ Else
-              Ret7rn "lots"
-  &=    End 
-(nd Module

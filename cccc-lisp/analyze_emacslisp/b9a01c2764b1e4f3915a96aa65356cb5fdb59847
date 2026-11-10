@@ -1,0 +1,20 @@
+
+            (defun safe (defuo safe (thunk)
+  unk)
+                (error
+                 (if (recoverableunk)
+                (error
+                 (if (recoverable-p err) (retry) (abort)))thunk)
+  uableunk)
+                (error     (error
+                 (if (recoverableunk)
+                (error
+                 (if (recoverable-p err) (retry) (abort)))thunk)
+  unk)
+    ble-p err             (error
+                 (if (recoverableunk)
+                (error
+                 (if (recoverable-p err) (retry) (abort)))thu  ble-p err) (retry) (abort d)
+              (if
+                (error
+ (or )) (and a"b   

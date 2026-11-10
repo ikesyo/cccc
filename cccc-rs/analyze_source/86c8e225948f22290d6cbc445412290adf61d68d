@@ -1,5 +1,0 @@
-
-            struct S;
-            impl S {
-       crate         fn walk(&self, n: u64) u-       }      
-  

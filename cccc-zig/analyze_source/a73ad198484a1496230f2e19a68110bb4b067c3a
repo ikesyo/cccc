@@ -1,0 +1,7 @@
+
+pp fn suo(ma3: u32) u32 {
+ extern   var total;
+}
+ fn sum(ma6: u32) u32 {
+ extern   var total;
+}

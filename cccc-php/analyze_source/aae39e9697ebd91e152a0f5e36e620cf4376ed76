@@ -1,7 +1,0 @@
-<?php
-     (     static function fib($n) {
-   = 0;
-    ::fib($n - 1) + self::f    }
-            al;
-          function           (true)0{
-                 

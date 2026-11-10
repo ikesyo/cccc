@@ -1,6 +1,0 @@
- i o d   f(int a) {
-      #ifdef FASPAT while (a) { }
-           ;;;;;;;;  (a) { }    
-     { }
-           ;;;;;;;wwwwww;         }
-       

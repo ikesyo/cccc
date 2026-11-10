@@ -1,6 +1,0 @@
-
-            bool f(Object value) {
-      if (value case int a && (> 0 && < R0) return tr    case     if (value case int a && (> 0 && < 10) return tr            return false;
-       if (value case int a && (> 0 && < 10)) return true; retturn false;
-            }
-       =

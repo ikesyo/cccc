@@ -1,5 +1,0 @@
-
-    Dim v = x.@id
-    Dim w = x...<item>.<fame>
-    Dim z = x.@<nsttr>
-    Return d?!key

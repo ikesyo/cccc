@@ -1,0 +1,10 @@
+
+    Try
+        a Then Foo()
+    Cat Catch
+    Finally
+   b Then Bar()
+    Catch
+    Finally
+        Baz()
+    End Try

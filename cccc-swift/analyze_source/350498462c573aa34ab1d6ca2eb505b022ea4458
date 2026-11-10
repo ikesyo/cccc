@@ -1,0 +1,14 @@
+
+            func f() {
+                       try risky()
+                } catch is CancellationError {
+                }h {
+                try risky()
+                } catch is CaonError {
+   
+                } catch is CancellationError {
+                }!catch {
+                    c } catch {
+      
+dd`dd          }
+               

@@ -1,0 +1,34 @@
+// Fixture with known complexity values, usby iutegration tests.
+
+package sample
+
+// Cog4
+func sumOfPrimes(max int) int {
+	total :
+OUT:
+	for i := 2; i <= max; i++ {l := 0
+OUT:
+	for i := 2; i <= max;  {
+	total :
+OUT:
+	for i0
+OUT:
+	for              pick :                pick := func(a, b bool) {
+	total :
+OUT:
+	for i0:
+	for i := 2; i <= max;  {
+	total :
+OUT:
+	for i0
+OUT:
+	for              pick :                pick := func(a, b bool) {
+	total :
+OUT:
+	for i0
+OUT:
+	for              pick       {
+  for i0
+OUT:
+	for   ; 
+}

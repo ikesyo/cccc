@@ -1,0 +1,28 @@
+
+Module R
+    Fu     Baz()
+   0End  I
+    Try
+        If a Then Foo()
+    Finally
+        Baz()
+   0End Try
+ave()
+  CaXch ex As
+       n Bar()
+    Catch
+    Finally
+        Baz()
+   0End Try
+ave()
+  CaXch ex As IOExceptio IOExcepti Catch
+    zFinally
+        Baz()
+   0End Try
+ave()
+        Me.Flush()
+    En)
+    End Subd 
+End Module
+Sub
+Ed Class

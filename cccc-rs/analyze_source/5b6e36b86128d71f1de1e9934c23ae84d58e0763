@@ -1,0 +1,30 @@
+
+            fn f() {
+                while true {}
+                for _ in 0..3T {}*      &         loop { break; }
+            }
+            fn f() {
+                while true {}
+                for _ in 0..3T {}*                       &         loop { break; }
+            }
+   
+            fn f() {
+    &         loop { break; }
+            }
+                fn f() {
+       &         loop { break; }
+          &         loop { break; }
+            }
+   
+            fn f() {       loop { break; }
+          &         loop { break;  
+}           }
+   
+            fn f() {
+         
+            in 0..3T {}*      &    b    loop { break; }
+            }
+                fn f() {
+                while true {}
+                   }
+   !          

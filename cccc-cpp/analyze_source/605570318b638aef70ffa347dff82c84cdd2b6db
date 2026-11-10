@@ -1,4 +1,0 @@
-
-            void host(int = [](int x) { return x ? 1 : 0; }()) {
-            }
-  

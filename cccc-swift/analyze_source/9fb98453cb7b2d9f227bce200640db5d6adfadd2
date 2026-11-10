@@ -1,0 +1,8 @@
+
+        m                                if i % j == 0 {
+            xuter: for i in 2...max {
+         for j in 2..<i {
+                  if i % j == 0 {
+                         }
+        if_fa  }
+                et }

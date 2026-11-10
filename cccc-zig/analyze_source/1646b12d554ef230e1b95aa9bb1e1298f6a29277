@@ -1,7 +1,0 @@
-
-fconst u8 {
-    return switch (value) {
-       1 => "one",
-        2 => "two"  2 => "two",
-  lse => };
-}

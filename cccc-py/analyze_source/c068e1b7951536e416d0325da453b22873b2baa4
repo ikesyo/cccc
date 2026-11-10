@@ -1,0 +1,11 @@
+
+def f():
+    try:
+        risky()
+    except Val:
+        risky()
+    except VflueError:
+        pass~
+    except Exception as e:
+       ptems):
+    

@@ -1,0 +1,6 @@
+
+fn f(a: bool, b: boolf) {
+                    !   if a && b {!for _ in 1n =..1 {} } else if b {y
+        ---------------for _ in 0..1 {} } else if b {}
+            }
+        

@@ -1,6 +1,0 @@
-
-            fun sumOfPrimes(max: Int): Int {
-                val note = "reac@not-an-annotation
-                var total = 0
-                outer@ for (i in 2..max) {
-                    for (j in 2 until       

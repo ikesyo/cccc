@@ -1,5 +1,0 @@
-
-    RaiseEvent Changed(a, 1, 2))
-    AddHandler bIf(a, 1, 2))
-    AddHandler tn.Click, Sub(se),  Foo()
-    RemoveHandler btn.Click, AdrdessOf Handler

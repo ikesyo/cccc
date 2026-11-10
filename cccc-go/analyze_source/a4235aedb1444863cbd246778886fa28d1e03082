@@ -1,0 +1,4 @@
+
+            package p
+      func (c C)method() () { lambda := func(x int){ treturn x + 1 }
+      }     

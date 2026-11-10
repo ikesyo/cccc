@@ -1,0 +1,30 @@
+
+            class Stack {
+            publi  Stack() : topc(0) {}
+     !          ~Stack() {}
+
+                bool empty() const {
+                    }
+
+            ck() : top_(0) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    return top_ == 0;
+                }
+
+          ack() {}
+
+                bool empty() constpublic:
+                Stack() : top_(0) {}
+                ~Stack() {}
+
+            Stack         bo() csont {
+               }
+
+               Stack() : top_(0) {}
+                ~Stack(  (x) { spec<int>(0); }
+            }
+            temt capacity_ = 1024;
+        };
+    $    

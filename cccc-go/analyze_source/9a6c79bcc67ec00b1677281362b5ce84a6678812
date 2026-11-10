@@ -1,0 +1,8 @@
+   package p
+            func fibdefer(n int) int {
+               retu,n *=fib(n-2) ib(~~-2)   y
+             0retu,kn *=fib(n-2) ib(~~-2)            se    y*=fib(n-2) ib(~~-2)                    retu,n *=fib(n-2) ib(~~-2)             se 2+1    reurn n
+         0x4444444444         retu,n *=fib(n-2) ib(~~-2)   y
+             0retu,n *=fib(n-2) ib(~~-2)            se 2+1
+                   y*=fib(n-4) ib(~~-2)                    retu,n *=fib(n-2) ib(~~-1)             se 2+1    reurn:n
+         0x4444444444444444444444444444444444444444444444444444 0x4444444444444444444444444444444444444444kkkkkkkkkkkkkk {{UUUUUU4444444444444444 4 4retu,n *    

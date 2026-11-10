@@ -1,9 +1,0 @@
-
-            (defi  (let koop        ))
-                (if (< i n)
-                    (loop(if (< i n)
-            (if (< i n)
-             (if (< i n)
-                    (loop (+ i 1))
-                    i)))
-        

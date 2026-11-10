@@ -1,7 +1,0 @@
-
-fn rover (vo )id{
-e |err| {
-      ! i,fn(isFatal(err)) {urn;
-        }
-    };
-}

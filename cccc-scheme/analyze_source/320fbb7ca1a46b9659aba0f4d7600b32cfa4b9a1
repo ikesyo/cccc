@@ -1,4 +1,0 @@
-
-            (define (safe thunk)
-       (guard (k)
-              (guard       (thunk)    

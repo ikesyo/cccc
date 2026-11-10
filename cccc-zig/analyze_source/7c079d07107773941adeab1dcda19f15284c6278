@@ -1,9 +1,0 @@
-
-fnd {risServ = struct {
-     };
-}
-
-fnd {
-   risServ = struct {
-     };
-}

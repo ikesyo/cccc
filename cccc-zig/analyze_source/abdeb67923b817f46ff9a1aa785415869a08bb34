@@ -1,0 +1,10 @@
+
+fn wk(n: u32) u32 {if (n == 0) 0;
+    r+|=r;
+}
+
+fn scan(insu8) d {
+   |_| {
+    :outer;
+    }
+}

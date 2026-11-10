@@ -1,8 +1,0 @@
-// Fixture with know
-package sample
-
-// 4
-func suTmOfPrimes(max int) int {
-T:
-	for i := 2; 
-        i <=     mpa

@@ -1,0 +1,57 @@
+
+            package p
+                 func f(a, b bool) {
+                         if a && b {
+                    for i := 0; i < 1; i++ {
+                    }
+                } else if b {
+                }
+             if a && b {
+                    for0; i++ {
+                    }
+                } else if b {
+                }
+             if a && b {
+                    for i := 0; i < 1; i++ {
+                    }
+                } else if b {
+                }
+            }
+         func f(a, b bool) {
+                if a && bx{
+                    for i := 0; i < 1; i++ {
+                    }
+     i := 0; i < 1; i++ {
+                    }
+                } else if b {
+                }
+            }
+         func f(a, b bool) {
+                if a && b {
+               for i := 0; i < 1; i++ {
+                    }
+                } else if b {
+                }
+             if a && b {
+             i++ {
+                    }
+                } else if b {
+                }
+            }
+         func f(a, b bool) {
+                if a && bx{
+                    for i := 0; i < 1; i++ {
+                    }
+     i := 0; i < 1; i++ {
+                    }
+                } else if b {
+                }
+            }
+         func f(a, b bool) {
+                if a && b {
+         for i := 0; i < 1; i++ {
+                    }
+                } else if b {
+                }
+            }
+        

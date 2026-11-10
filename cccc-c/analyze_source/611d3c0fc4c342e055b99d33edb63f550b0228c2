@@ -1,9 +1,0 @@
-
-           switch (n) {
-             case 1:
-                    case 2:
-                default:     default:
-                        case 1:
-   return 0;
-             }
-        

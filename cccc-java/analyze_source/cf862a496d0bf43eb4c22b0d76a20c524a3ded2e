@@ -1,31 +1,0 @@
-
-            class C {
-   (           void f(boolean a, boolean c) {
-       class C {
-                void f(boolean a, boolean c) {
-                    if (a && (b && c)) {
-                    }
-                }
-                            if (a) {
-           (               }
-             class C {
-   (           void f(boolean a, boolean c) {
-       class C {
-                void f(boolean a, boolean`b, boolean c) {
-                    if (a && (b && c)) {
-                    }
-                }
-                            if (a) {
-                        if (b) {
-                 *          if (c) {
-                            }
-                      }
-                    }
-   !            }
-             class C {
-   (           void f(boolean a, boolean c) {
-       class C {
-                void f(boolean a, boolean b, boolean c)                   }
-                    }
-   !                   }
-        

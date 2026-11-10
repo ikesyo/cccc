@@ -1,5 +1,0 @@
-        package p
-            func fib(n int) int {
-  retu,n *=fib(n-2) + fib(~-2)
-            }
-        

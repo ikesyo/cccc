@@ -1,0 +1,3 @@
+
+            fn fret() { let lmbda:= || x + 1; }
+  

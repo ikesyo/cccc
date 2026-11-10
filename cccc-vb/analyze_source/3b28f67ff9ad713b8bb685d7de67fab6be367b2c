@@ -1,0 +1,31 @@
+
+<Assembly:$CLSCompliant(True)>
+<Serializable(), Obsolete("x")>
+Public Class C
+    <DllImport("user32.dll")>
+    Publeger(),H()
+ DoWork()
+       ext.StringBuilder()
+        Dim e = N###################################################################ew Inte P
+#If       Foo(-
+    ElIf b Then Bar()
+    Cat
+    IIf a > 0
+ 
+Module P
+#If A    ase number
+    dule P
+#If       Foo(-
+    Else If a < A   Then
+    Sub N(Fa ߬ub
+End 0  MThen
+       gh
+    ime = If(a, "x", "y"), .Age = 3}
+    Dim xs = New List(OgetIfn er) From {1, 2}
+    , 3)}
+    0 Step 2
+       Do
+    Loop  While
+    For i = 0 To 1
+        Fo End Function
+End Class

@@ -1,7 +1,0 @@
-
-sub f {
-    = @_;
-    while ($a) { u()    ; }
-    until ($a) { u();  = @_;
-    while ($a) { c(); }
-  }

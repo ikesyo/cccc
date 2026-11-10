@@ -1,0 +1,10 @@
+
+            struct Example {
+                func open(_ value: [String: Any]) {}
+              func open(_ value: [String: Any]{  })
+               func run(_ input: [String: Any]) {
+                    }
+                                 func run(_ input: [String: Any]) {
+                    switchsyntax error at line 17  turn
+           }                 struct Example   }
+           

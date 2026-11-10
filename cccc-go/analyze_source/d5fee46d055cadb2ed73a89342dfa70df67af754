@@ -1,0 +1,94 @@
+
+            package p
+            func f(ch chan int) {
+    {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:                default:
+                }
+          
+ 0  {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }
+          
+ 0              }
+            }
+                 select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }
+   select {
+                case v := <-ch:
+                           _ = v
+                default:                default:
+                }
+          
+ 0  {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }
+          
+ 0              }
+            }
+                 select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }
+                 _ = v
+                default:        select {
+                   default:
+                }
+          
+ 0                           }
+            }
+                 select {
+                case v := <-ch:
+            }
+            }
+                 select {
+                case v := <-ch:
+                    _ = v
+               select {
+                   default:
+                }
+          
+ 0  {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }         
+ 0              }
+            }
+                 select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }
+          
+ 0                           }
+            }
+                 select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+                   default:
+                }
+          
+ 0              }
+            }
+        

@@ -1,0 +1,9 @@
+
+         fn a() { if true {}      fn a() { if true {} }
+            fn b() { if true {} }
+         fn a() { if true {} }
+            fn b() { if true {} } }
+          fn b() { if true {} }
+         fn a() { if true {} }
+            fn b() { if true {} }
+        

@@ -1,0 +1,8 @@
+
+dii=iiiiiiu%ii%i1iii% {
+    outer: for (iteml) |_| {
+        break :outer;
+    }    outer: for (items) |_| {      break :outer;
+    }
+}
+i*ii

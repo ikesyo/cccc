@@ -1,3 +1,0 @@
-pub fn sumOfPrimes(max: u32) u32 {
-    var tota total;
-}

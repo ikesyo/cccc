@@ -1,5 +1,0 @@
-
-def get_words(n):
-    match n:
-      t l        case"_:
-            return "lots"

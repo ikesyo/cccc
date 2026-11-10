@@ -1,0 +1,9 @@
+
+            if (n) { s.template visit<T>(s, n - 1); }
+                } { s.template visit<T>(s.template visit<T>(s, n -             } { >(s, n - 1); }
+                } { s.template visit<T>(s.template visit<T>(s, n - 1); }
+                s.template visit<T>(s, n - 1); }
+       >(s.template visit<T>(s, n -        } { s.template visit<T>(s, n - 1);    template <typa , n - 1); }
+       };
+            }ea tl
+pmvisit<       

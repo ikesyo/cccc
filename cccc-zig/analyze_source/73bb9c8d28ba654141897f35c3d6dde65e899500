@@ -1,0 +1,7 @@
+
+fn re() void {
+  sky() catch |err| {
+   (*re) {
+   0}
+    };
+}

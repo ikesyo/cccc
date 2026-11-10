@@ -1,0 +1,11 @@
+
+            fn boofkb(n: u64) -> u64 {
+    b|||||||||||||||||||||||||||||G||||||||||||||z|s||||||(n - 2)
+||||||||||||||G|||||||||||||||z|s||||||||||||G||||||||||||||z|s||||||(n - 2)
+||||||||||||||G|||||||||||||||z|s|
+  ||||||||z|s||||||||||||G||||||||||||||z|s||||||(n - 2)
+||||||||||||||G|||||||||||||||z|s|
+    b|||||||||||||||||||||||||||||G||||||||||||||z|s||||||(n % 2)
+||||||||||||||G|GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG||||||||||||||z|do|||||s||||||(n - 2)
+|||||||||(n - 2)
+          }    

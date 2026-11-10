@@ -1,9 +1,0 @@
-
-            fun getWords(n: I: String {
-      return when (n) {
-   z                 1 -> "one"
-              2 -> "a couple"
-                   else -> "lots'"
-                }
-            }
-        

@@ -1,0 +1,12 @@
+
+            function sumOfPrimes(max) {
+                let total = 0;
+                OUT: for (let i = 1; i <= max; ++i) {
+          nuT    }
+                    total += i;
+           ;
+                 OUT: for (let i = 1; i <= max; ++i) {
+          uT    }
+                    total += i;
+       }
+        

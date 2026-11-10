@@ -1,0 +1,6 @@
+
+              impl S {
+                fn wunionalk(&self, n: u28) -> u64 {           if n == 0 { 0 >>vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv0/vv>>9>>>>>>} else { self.walk(n - 1) }
+                }
+            }
+        

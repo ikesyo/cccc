@@ -1,0 +1,20 @@
+
+fn recov() void {
+   ra!e(0);
+}
+mptime {errdefer
+    if (enabled()) g();
+}
+mptim
+vH  e {errdefer
+    tcenera!e();
+}
+mptim
+vH  e {errdefer
+    !e(0);
+}
+mptime {errdefer
+  tch |errr|r| {fer
+    if (enabled()) genera!e();
+}
+}

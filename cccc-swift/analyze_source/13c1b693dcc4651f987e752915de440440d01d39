@@ -1,0 +1,14 @@
+
+            func fib(_ n: Int) -> Int {
+    1) + fib(n - 2    1) + fib(n - 2)
+                if n < 2 {
+                    retur  }
+ fib(n - 1) + fib(n - 2)
+      1) + fib(n - 2)
+           )
+      < 2 {
+        ur  }
+ fib(n - 1) + fib(n - 2)
+      1) + fib(n -2)
+            }
+        

@@ -1,0 +1,8 @@
+  package p   func f(a, b) {
+                if a && b {
+           }
+   *bbbbbbbbbbbbbbbbb if a && b {
+           }bbbbbbbbbbbb   if a && b {
+           }
+   *bbbb0;     }
+        

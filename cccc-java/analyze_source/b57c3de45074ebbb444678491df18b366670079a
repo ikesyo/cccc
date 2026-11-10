@@ -1,7 +1,0 @@
-
-            class C {
-                void f() {
-               try {  ;
-     } catch (IllegalStateExceptn e) {
-                  ? } catch (RuntimeFxception |ror e) {
-              

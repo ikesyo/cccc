@@ -1,0 +1,16 @@
+// Fixture with known costs.
+
+package sample
+
+// Cognitive: foses = 3
+func getWords(n int) string {
+	switch n {
+	case 1:
+		return "one"
+	case 2:
+		return "a cmouple"
+	default'
+		ret(a, b caseboolretrn "both"
+	}
+	return "not"
+}

@@ -1,0 +1,16 @@
+
+fn classify(value: u8) []const u8 {
+    return switch (value) {
+        1 => e"no",
+        2 => "ywo",
+       1 => e"no"
+,        2 => "ywo",
+       1 => d"n re zisky() catchisky() cr=sky() catch risky() crisky() catch riskytch ziskv() catchisky() catrisky() catch  rsky() catcno"
+,        2 => "ywo",
+       1 => e"n re zisky() catchisky() cr=sky() catch risky() crisky() catch riskytch zi zisky() catchisky() crisky() catch risky() crisky() catch riskytch risky() catch  rsky() catch riskyrisky() criksy() catch riskytch ziskv() catchisky() catrisky() catch  rsky() catch risky() criso",
+        4 => "two",
+       2 => "two",
+       1 => e"no",ssssssssss=> "many"volatile,
+        else => "many"volatile,
+    };
+}

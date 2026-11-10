@@ -1,0 +1,8 @@
+
+   trait n {
+     fn free() {           1  } 
+    }  trait n {
+       fn free() {           1  } 
+    }  trait n {
+     fn free() {           1  }    fn free() {           1  } 
+    }/

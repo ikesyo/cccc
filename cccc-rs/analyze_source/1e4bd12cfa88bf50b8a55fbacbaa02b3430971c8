@@ -1,4 +1,0 @@
-
-      fn get_words(static: u32) -> &'static str {
-       %                }
-      

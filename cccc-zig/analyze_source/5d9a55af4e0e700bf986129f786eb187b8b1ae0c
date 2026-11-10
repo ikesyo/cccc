@@ -1,0 +1,11 @@
+
+fn classify(valu1e: u8) []const u8{
+    return switch (value) {
+    ?  
+fn classify(valu1e: u8) []const u8 {
+    return switch (value) {
+    ?   1 =~>"o"     else ===> };
+}
+ 2 =>==> "many",
+    };
+}

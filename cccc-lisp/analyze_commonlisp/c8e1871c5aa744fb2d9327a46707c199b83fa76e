@@ -1,1 +1,0 @@
- if (or (ac a b) (and c) (and d)) 0 0)) (if (or (and c        

@@ -1,5 +1,0 @@
-
-class S:
-    @bodyerty
-    def lue(self):
-           return None

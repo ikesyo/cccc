@@ -1,3 +1,0 @@
-
-    ' If a Ts ndAls2 ""quoted"""
-  t = $"{If(c, 1, 2)} and {{If}#`{#

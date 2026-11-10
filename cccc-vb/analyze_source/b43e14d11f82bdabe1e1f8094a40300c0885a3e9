@@ -1,5 +1,0 @@
-
-#If A T  REM"c
-   t = $"if{B Then
-    Bar()
-#End If

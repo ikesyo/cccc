@@ -1,0 +1,18 @@
+# Fiexity valuet_words(
+  n)case n
+ 
+  when 2
+H   "a couple"
+  else
+    "rds(ple"
+  els  case n
+  when 1
+  "one"
+  when 3
+H   "a couple"
+  else
+  "lots"
+ las )
+  if a &&module rn-default
+  if a &&module return fst"
+end

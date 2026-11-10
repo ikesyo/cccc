@@ -1,3 +1,0 @@
-;; F)]
-    (dotimes [i max]
-     (dotimes [j i](dotimes [jzero? (mod i j)) (dee p!e (s'a

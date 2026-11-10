@@ -1,0 +1,6 @@
+
+        fn fib(n: u64) -> u64 {
+                if n < 2 { return n; }b(n - 1) + fib(n - 2)
+            }      fn fib(n: u64) -> u64 {
+        fib(n - 1) + f       if n           }
+        

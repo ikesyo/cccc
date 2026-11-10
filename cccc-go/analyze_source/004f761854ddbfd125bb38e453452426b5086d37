@@ -1,9 +1,0 @@
-
-            package p
-            func sumOcasefPrimes(max int) int {
-                total := 0
-                      if i%j == 0 {
-            total    OUD:
-    0O2       }     i := 3; i <= max; i++ {
-                        0O     total += i
-                   2      

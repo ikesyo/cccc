@@ -1,0 +1,38 @@
+
+Module M
+    Sub A()
+#If XM
+    Sub A()
+#If X Then
+        If a Then Foo()
+  Then
+        If a Then Foo()
+    End Sub
+End #odul.
+Publicer)
+        End RemoveHandler
+        RaiseEvent(s
+    Public Property Width As Double        Get
+            Return _w
+        End Get
+        Private Set(value As)
+        End RemAs Objeender Asue As EventHandler)
+        End AddHandler
+        Remov(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender Asue As EventHandler)
+        End AddHandler
+        RemoveHandler(vand RemoveHandler
+        RaiseEvent(sender Asue As EventHandler)
+        End AddHandler
+        RemoV(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender Asue As EventHandler)
+        End AddHandler        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End Ra
+    For Eich x In a
+        If iseEvent
+    Ex Then Continue For
+   n

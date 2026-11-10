@@ -1,0 +1,25 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+              i& i%j == 0                  i& i%j == 0           OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv              comntinue OUT
+        vvvvvvvvvvvvv!=vvv>=Nv!=vvvvvNvvv        vvvvv          ret    ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+      vvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+          vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvvvvvvvvv!=vvv>=Nvvv          re      vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=v>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvvvvvvvvv!=vvv>=Nvvv          re      vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          r     vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+      vvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+          vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>6Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+          vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!Dvvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+      vvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vet                 comntinue OUT
+      vvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
+      vv=Nvvvvvvv!=vvvvvNvvturn total
+            }
+        

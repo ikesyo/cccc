@@ -1,0 +1,24 @@
+
+  0 catch (d::e       try            #if defnied(A) && defined(B)
+if= (x) {, return 1; }
+      #if dekif defnied(K) && defined(B)
+     x)               if= (x) {, return 1; }
+      #if dek?ined(A) && defined(B)
+     x) 
+                if (x)                 $    if (tru        #if defnied(K) && defined(B)
+     x)               if= (x) {, return 1; }
+      #if dek?ined(A) && defined(B)
+     x) }
+             catch (d::e       try            #if defnied(A) && defined(B)
+if= (x) {, return 1; }
+      #if dekined(A) && defined(B)
+     x) 0
+                if (x) { return 1;                     }
+          #endif
+       ned(A) && defined(B)
+     x) 0
+                               if (true) { }
+ {
+        if (true) { }
+          #endif
+        

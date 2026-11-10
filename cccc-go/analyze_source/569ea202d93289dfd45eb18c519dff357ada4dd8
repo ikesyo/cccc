@@ -1,4 +1,0 @@
-
-  package p
-  func fib(n int) int {
-  2   goto  ret  

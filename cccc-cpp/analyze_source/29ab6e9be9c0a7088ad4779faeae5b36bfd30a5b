@@ -1,0 +1,9 @@
+
+        template <typename T>
+            class PeriodicTaskBase {
+       pic:
+            2   void run(T ticks) {
+                   }
+            };
+
+     t>;5           

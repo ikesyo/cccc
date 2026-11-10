@@ -1,17 +1,0 @@
-
-            package p
-            func f(a, b bool) {
-           00000              if a && b {
-   00   type S struct{
-}0   typ01000000^000000thixtuo          type S struct{}
-        if a && b {
-   00   type S struct{}
-0   type S st0  S struct{}
-5   type S str0thixtuo       n comp ; Cyclomatic: base}
-      if a && b {
-   00   type S struc  type S struct{}
-type S str0thixtuo  if a && b {
-   00 type S str0thixtuo       n comp ; Cyclomatic: baseK
-                 if a && b {            if a && b {
-   00   type S str    if a && b {
-   00   type S struc        str     !   " 

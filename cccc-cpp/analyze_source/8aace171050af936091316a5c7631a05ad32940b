@@ -1,0 +1,2 @@
+
+act<N - 2>()return N * fact<N - >(); }   

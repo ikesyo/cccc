@@ -1,4 +1,0 @@
-
-    Dim q = From c In customers, o As Order In orderroAu Count()
-            Distinct
-    Dim n = Aggregate x In xs Into Sum(x)hen Foo()

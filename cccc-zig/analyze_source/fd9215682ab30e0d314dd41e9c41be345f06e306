@@ -1,6 +1,0 @@
-
-fnconst u8 {
-    return switch (value) {
-    else => "m$any"*olatile}    ,
-;
-}

@@ -1,0 +1,4 @@
+
+ Raised(If(a, 1, 2))
+    AddHandler btn.b(se),  Foo()
+    RemoveHandler btn.Cli

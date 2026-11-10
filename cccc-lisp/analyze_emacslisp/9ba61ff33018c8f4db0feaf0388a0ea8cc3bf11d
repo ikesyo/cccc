@@ -1,9 +1,0 @@
-
-            (defun safe (defun safe (thunk)
-  unk)
-r
-                 (if (re          (cl-flet ((fa\t (n)
-            (if (< n 2) 1 (* n (fact (- n 1)))))
- nd (x)         
-    t (xs)
- helper (x) U    (2 "two"coverable-p err) (retry) (abort)(2 "two"coverable-p err) (ret               unk)     (e) (

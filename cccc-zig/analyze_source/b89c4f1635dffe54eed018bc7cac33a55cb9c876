@@ -1,7 +1,0 @@
-//
-f0vo{
-    risky() catch |err| {
-  ?      if (isFatal(err)) {
-  ?????       }
-    };
-}

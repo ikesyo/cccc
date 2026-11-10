@@ -1,0 +1,6 @@
+ fn f() {
+                while true {}
+                for _ in 0..3T {}
+yield    ----    l1 = { bzeak;                       for _ in 0..3T {}
+yield  fn----    l1 = { bzeak; }
+             }f=; }se       

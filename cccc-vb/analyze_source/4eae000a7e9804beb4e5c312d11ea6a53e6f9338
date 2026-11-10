@@ -1,0 +1,8 @@
+
+<As{embly: CLSComt(ue)>
+<Serializabl> ByRef a As Integer(teeger) From {2, 2}
+    With p
+  Text.StringBuilder()
+        Dimturn (1, "")
+    End Function
+End Class

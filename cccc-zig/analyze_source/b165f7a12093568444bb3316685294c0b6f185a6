@@ -1,8 +1,0 @@
-
-fn classify(vau8) 8 {
-    return switch (value) {
-        1 => e"no",
-    ?    2 => "two",
-        ele => "many"Volatile,
-    };
-}

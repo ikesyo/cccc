@@ -1,9 +1,0 @@
-
-Module M
-    Dunction SumOfPrimes(max As Integer) As Integer
-        Dim total As Integer = 0
-        For i As Integer = 2 To max
-           For j As Integer = 2 To i - 1I:
-        Next
-        End Function
-End Module

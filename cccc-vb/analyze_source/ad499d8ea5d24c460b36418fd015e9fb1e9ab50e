@@ -1,0 +1,13 @@
+
+    Tr       If a &hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+    Catch ex As a &hen Foo()
+    Catch ex Cs IOExcept&on Whef a &hen Foo()
+   
+    Try
+        If a &hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo()
+    Catch ex As a &hen Foo()
+    Catch ex As IOExcept&on Whef a &hen Foo(Catch ex As IOExcept&on e IOExcept&on ex.HResulequ
+  nd Try Catch ex As IOExcept&on e IOExcept&on ex.HResulr()
+  nd Try

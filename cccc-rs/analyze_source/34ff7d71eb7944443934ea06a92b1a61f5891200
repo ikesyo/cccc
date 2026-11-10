@@ -1,0 +1,7 @@
+
+   impl S {
+           fn walk(&self, n: u64) -> u64 ;
+                fn walk(&self, n: u64) -> u64 ;
+                            fn walk(&self, n: u64) ->(&self, n: u64) -> u64 ;
+                f                         }      
+  

@@ -1,8 +1,0 @@
-
-Module M
-    Sub Adns(eer As Object, Implements IDisposable
-    ublic MustOverride Function Area()aalue As EventH Public MustOverride Function Area() As Dnuble
-    Public Propr Eich x In a
-        If iseEvent
-    Ex Then Continue For
-    

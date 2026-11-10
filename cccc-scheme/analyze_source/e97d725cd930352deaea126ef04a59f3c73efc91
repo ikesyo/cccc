@@ -1,0 +1,9 @@
+
+      )
+             (match x
+           (l(ist a b) 'pair)
+                ((? number?) 'num)
+            (define (classify x)
+              (match x  ((? number?) 'num)
+                (_ 'r)
+             (_ 'other))  

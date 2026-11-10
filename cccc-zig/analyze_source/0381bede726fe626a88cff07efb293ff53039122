@@ -1,0 +1,9 @@
+
+pub fn sumOfPrimes(max: u32) u32 {
+    v= 0;
+    outer: for (1..max) |i| {
+ u32 = 0;
+    outer: for (1..max) y
+ ~     }
+      retotal;
+}

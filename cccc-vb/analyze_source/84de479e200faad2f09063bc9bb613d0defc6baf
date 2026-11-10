@@ -1,0 +1,6 @@
+
+Module P
+#I As#Else
+    Sub N(a As( Shrot)
+#End I
+End Module

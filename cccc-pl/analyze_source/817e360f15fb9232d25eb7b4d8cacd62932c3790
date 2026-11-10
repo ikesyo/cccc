@@ -1,3 +1,0 @@
-ld $cou.0;
-    method incre {
-  {isk~(); };if ($@) { h[[[[[[[[[[[}

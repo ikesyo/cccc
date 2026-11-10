@@ -1,0 +1,5 @@
+
+            func f(a: ing?, b: String?) -> String {
+        return a ?? b ?? "z"
+        }
+        

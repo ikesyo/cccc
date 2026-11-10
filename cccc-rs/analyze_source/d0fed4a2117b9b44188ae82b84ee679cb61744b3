@@ -1,9 +1,0 @@
-
-            
-            fn free() {}
-      fn host() {    fn a() { if true {} }
-     fn free() {}
-      fn host() { let lambda = |x: u64| x + 1; }
- let lambda = |x: u64| x          + 1; }
-         fn b() {  if true {} }
-        

@@ -1,0 +1,14 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+              i& i%j == 0                  i& i%j == 0           OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv              comntinue OUT
+        vvvvvvvvvvvvv!=vvv>=Nv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvv!=v== 0           OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv              comntinue OUT
+        vvvvvvvvvvvvv!=vvv>=Nv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvv!=vvvvvOfvv   vvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          retmntinue OUT
+          vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          reNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvv         }
+        

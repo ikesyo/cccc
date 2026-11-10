@@ -1,0 +1,8 @@
+
+            class C {
+      Int get() = 1
+
+         return 0
+                }
+            }
+        

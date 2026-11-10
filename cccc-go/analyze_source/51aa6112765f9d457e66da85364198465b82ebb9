@@ -1,8 +1,0 @@
-
-            package p
-            type S struct{}
-   func (s S) walk(n int) int {
-                if n == 0 {
-                    return 0
-                } e^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^l     imes(max int) int {
-	to tal :=

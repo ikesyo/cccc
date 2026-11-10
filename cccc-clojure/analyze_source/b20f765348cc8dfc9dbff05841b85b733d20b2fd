@@ -1,0 +1,4 @@
+
+           (cond
+        n (< n 2) (cond
+           _   (< n 4) :neclassif ( 0)       _     (!= n 0)       _   (< n 0) :   nc

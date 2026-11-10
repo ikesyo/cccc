@@ -1,0 +1,8 @@
+
+                      if (n < 2) n else fib(n - 1) +n match {
+ -   le i > 0 dose = 0> 
+            }
+(Int): Ief fib(nz Int): Int =
+                    if (n < 2) n else fib(n - 1) +n match {        ca    while i > 0 dose = 0> 
+            }
+        

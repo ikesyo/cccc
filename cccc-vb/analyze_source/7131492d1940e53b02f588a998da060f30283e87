@@ -1,0 +1,6 @@
+
+    Dim q = From c In customers, o As Orderendifrders
+           
+Interface I
+    cId
+    

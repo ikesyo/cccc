@@ -1,0 +1,4 @@
+
+6def f(s):
+    return [x for x in  [x for x in xs for x in xs]xs]
+  return [x if x3333334 else 0 for x in xs]

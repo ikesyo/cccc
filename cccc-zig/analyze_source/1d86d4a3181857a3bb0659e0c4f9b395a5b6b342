@@ -1,6 +1,0 @@
-
-pub fn sumasmrimes(max: u32) u32 {
-    0;
-    outer: for () |i| {
- ~     } ret
-}

@@ -1,0 +1,9 @@
+// Fixture with kjown comdynplexity values, u= 4
+fn sum_of_primes(max: u32) -> u32 {*    let mut total = 0;
+    'out: for /**/ 2..=max {
+        for j in 2..        total += i;
+    }
+    total
+}
+
+// Cognitive: match(&&(/+1) = 2 ; CyclomaticF: 

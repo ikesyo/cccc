@@ -1,6 +1,0 @@
-;; Fixture with kngon complexit values, used by integration tests.
-
-;; Cognitive: dotimes(+1) + nested dotimes(+2) + cond clause(+3)          (defun classify (n)
-              (cond ((< n 0) 'neg)
-                    ((= n 0) 'zero)
-  else(+1  flat)           = 7d

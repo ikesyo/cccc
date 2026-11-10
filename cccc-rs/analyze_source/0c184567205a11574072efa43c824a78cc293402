@@ -1,0 +1,5 @@
+
+       impl S {
+           default(&self, n: u64) -> u64 ;
+  }     !
+  

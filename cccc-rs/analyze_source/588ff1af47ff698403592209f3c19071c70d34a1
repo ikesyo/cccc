@@ -1,0 +1,12 @@
+
+            fn f() {
+ ;;;;;;;;;;;;;;;;;;           fn f() {
+ ;;;;;;;;;;;;;;;;;;;;     --xxxxxxx}
+     
+            fn f() {
+ ;;;;;;;;;;;;;;;;;;  --xxxxxxx}
+      DDDDDDDDDDLDDDDDDDDDDD;;    --xxxxxxx}
+     
+            fn f() {
+ ;;;;;;;;;;;;;;;;;;  --xxxxxxx}
+      DDDDDDDDDDDDDDDDDDDDDDDD0DDDDDDDDDDDDDDDDDDD

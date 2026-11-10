@@ -1,0 +1,7 @@
+<?php
+                       return 0;
+      ->       } else {
+   return $this->walk($n - 1);   
+                }
+           }
+        

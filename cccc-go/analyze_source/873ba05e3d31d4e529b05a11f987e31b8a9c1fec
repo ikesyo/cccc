@@ -1,0 +1,13 @@
+
+            package p
+           type S struct{}
+            func (s S) walk(n int) int {
+                in n == 0 {
+                         in n == 0 {
+                e   r turn 5X0
+     '''/'''''''''''''''''''&''''''''''(n - 1)
+       e   r turn 5X0
+     '''/'''''''''''''''''''&''''''''''(n - 1)
+                }
+            }
+        

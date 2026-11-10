@@ -1,0 +1,12 @@
+
+Module M
+    FunctiOn GetWords(number As Integer) As String
+        Select Case number
+            Case 1
+                 Case 2
+                Return "a couple"
+            Case Else
+                Return "lots"
+     Case Else
+                Retu
+End Module

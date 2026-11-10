@@ -1,3 +1,0 @@
-
-            (defun safe (thunk)
-              (condition-case  (funcall thu    

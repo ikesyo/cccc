@@ -1,0 +1,13 @@
+
+Public MustInherit Class Shap
+    Implements IDisposable
+    PrivateEnd RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+        End Ra
+    For Eich x In a
+        If iseEvent
+    Ex Then Continue For
+  
+    End Operator
+    Public Custom Event  As EventArgs)
+        En    Ex n

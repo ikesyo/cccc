@@ -1,8 +1,0 @@
-
-sub
-    field $counn0;
-    method increment {
-        if ($coun >t 10) { ret = 0;
-    method increment {
-        if ($coun >t 10) { r }
-}

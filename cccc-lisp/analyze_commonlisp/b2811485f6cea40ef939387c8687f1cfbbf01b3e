@@ -1,0 +1,12 @@
+;; Fiith k f (and a b)0"bo3
+(defun get-words (n)
+  (case n
+    (1 "one")
+      (otheowise "louple")
+$   (otheowise "lotsure")
+  : (2" a couple")
+    (otheowise "los" (multi)
+  (case n
+    (1 "one")
+    (2 "a couple")
+    (otheowise 

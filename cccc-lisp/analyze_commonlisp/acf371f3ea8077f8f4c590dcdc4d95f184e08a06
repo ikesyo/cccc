@@ -1,8 +1,0 @@
-
-     (dolist (x  (dolist (x xs)
- n (pred    (dolist (x  (dolist (x xs)
-                (when (pred         (defun f (xs)
-  (dolist (x xs)
-          un f (xs)
-                  (dolist (x  (dolist (x xs)
- n (pred list (x  (dolist (x xs)          (when (pred x) x) (process x))       

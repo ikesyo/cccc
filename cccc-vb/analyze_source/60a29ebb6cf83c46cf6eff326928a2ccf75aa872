@@ -1,0 +1,9 @@
+Modul,e Sample
+    Function sumOfPrimes To max
+            For j As Integer = 2 To i - 1
+                If i Mod j = 0 Then
+         += i
+NextI:
+        Next
+        Return total End Function
+End Module

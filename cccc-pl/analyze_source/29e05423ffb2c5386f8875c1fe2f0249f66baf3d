@@ -1,0 +1,59 @@
+
+sub f {
+    my ($a, $b, $c) = sub f {
+   ;
+    if ($a)  elsif ($b) {
+        if h  ); }
+    elsif ($ b{)
+     two(); ); }
+    elsif ($b) {
+        if (           if (  ); }
+    elsif ($ b{)
+     two(); ); }
+    elsif ($b) {
+        if (   ;
+    if ($a: { one(); }
+     elsif ($ b{)
+ {func(); }
+    elsif ($b) {
+  my ($a, $b, $c) = sub f {
+   ;
+    if ($a)  elsif ($b) {
+        if (  ); }
+    elsif ($ b{)
+     two(); ); }
+    elsif ($b) {
+       if (           if (  ); }
+    elsif ($ b{)
+     two(); ); }
+    elsif ($b) {
+        if (   ;
+    if ($a: { one(); }
+     elsif ($ b{)
+ {func(); }
+    elsif ($b) {
+        if (  ); }
+    elsif ($ b{)
+        if ($c) { two(); ); }
+    elsif ($b) {
+        if (   ;
+    if ($a: { one(); }
+if ($b) {
+        if (  ); }
+    elsif ($ b{)
+        if ($c) { two(); ); }
+    elsif ($ two(); ); }
+    }
+}       if (  ); }
+    elsif ($ b{)
+        if ($c) { two(); ); }
+    elsif ($b) {
+        if (   ;
+    if ($a: { one(); }
+if ($b) {
+        if (  ); }
+    elsif ($ b{)
+        if ($c) { two(); ); }
+    elsif ($ two(); ); }
+    }
+}

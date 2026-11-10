@@ -1,7 +1,0 @@
-
-fn recov() void {i() ,a{
-        i,f (&sFatal(err))*{
-      return;
-        }
-    };
-}

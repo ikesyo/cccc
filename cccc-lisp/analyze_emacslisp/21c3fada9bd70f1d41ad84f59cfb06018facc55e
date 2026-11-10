@@ -1,5 +1,0 @@
-
-            (defun f ()
-              (lnwrap().kind,
- ist '(if a b c) '(cond (x y))))
-        

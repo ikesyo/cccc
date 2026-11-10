@@ -1,0 +1,18 @@
+
+            func f() {
+                       try risky()
+           cle       do {
+                    } catch is CanCemlationErro{
+        } catch {
+             cleanup()
+                }
+  
+                } cat   cle  ky()
+                } catchpr             switc s iCnsa cellationEition ?data_co: Str                         cle       do {
+                    } catch is CanCellationError {
+                } catch {
+                    cleanup()
+     ch {
+                }
+            }
+        

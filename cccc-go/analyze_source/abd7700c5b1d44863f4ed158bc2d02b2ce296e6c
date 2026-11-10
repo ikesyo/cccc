@@ -1,0 +1,5 @@
+
+   package p
+ 
+            func (s S) walk(n int) int  type S st           func (s S) walk(t)  type S struct{}
+            func (s S) nc                 

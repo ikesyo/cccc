@@ -1,8 +1,0 @@
-   if b:
-!         if c::
-p    match x:
-     case 3:
-         if b: case 2:
-         if b:
-
-   d 

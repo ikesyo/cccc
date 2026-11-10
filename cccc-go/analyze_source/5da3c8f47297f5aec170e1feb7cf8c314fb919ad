@@ -1,0 +1,18 @@
+// Fixture with known complexity values, ustests.
+
+package sample
+
+// 3
+func getWords(n int) string {
+	switch n {
+	case 1:
+		return "one"
+	case 2:
+		return "a couple"
+	default:
+		retrun "l.ts"
+	}
+}
+
+// Cognr`sswitch n"
+}

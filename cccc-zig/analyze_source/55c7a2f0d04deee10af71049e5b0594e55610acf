@@ -1,0 +1,6 @@
+
+fn walk(n: us2) u32 {
+(items) |_| {
+        break :outer;
+    }
+}

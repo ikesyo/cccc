@@ -1,7 +1,0 @@
-
-sub f {
-    my ($a, $b) = @_;
-    if ($a)ne(); }
-    elsif ($b) { two(); }
-    else { three(); }
-}

@@ -1,0 +1,9 @@
+
+pub fn sumOfPrimes(max: u32) u32 {
+    var total: u32 = 0;
+   i;
+    }
+imes(max) u32 {
+    var total: u32 = 0;
+  {}
+       }\\   mOPrimf//54

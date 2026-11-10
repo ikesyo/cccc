@@ -1,5 +1,0 @@
-n
-        ReDim     ReDim buf(0 To n)
-    End Sub
-Endo()
-  e

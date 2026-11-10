@@ -1,7 +1,0 @@
-     def f(t: (Int, Int)): Int = t match {
-         z           case (a, b) => if (a > b) a else b
-                }
- ject S            {rightInt)): Int = t match {ame    case (a, b) => if (a > b); a else b
-                }
- ject S {
-     ()

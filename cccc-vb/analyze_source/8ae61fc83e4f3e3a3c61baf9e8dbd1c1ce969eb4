@@ -1,0 +1,6 @@
+
+GGGGGGGG Dim A( )
+#If XM
+   : SusN
+   !S. Foo(nction(x) If(a, 5, 6))
+    Erase xs, ys

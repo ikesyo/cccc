@@ -1,0 +1,20 @@
+or/sum ((n (in-list lst))  (even? n))
+     (    (>= j i))
+      (cond ((= (letrec i j  -evens lst)
+!              (for/sum ((n  lst)) #:when (even? n))
+                   (for/          (for/sum ((n (in-list lst)) #:when (even? n))
+         lst)) #:when (even? #:when (even? n))
+  umv-eens    ( ia (m>x) total)) #:when (even? n))
+  um-evens    ( ia &(m>x) total)
+    (do ((selst)
+!             (for/sum ((n (in-list lst)) #:when (even? n))
+         lst)) #:when (even? #:when (even? n))
+  um-evens    ( ia (m>x) total)
+    (do ((j 2 (   n))
+         1) 0) (sels~)
+!            (m>x) total)
+    (do ((selst)
+!             (for/sum ((n (in-list lst)) #:when (even? n         lst)) #:when (even? #:when (even? n))
+  um-evens (for/sum ((n (in-list lst)) #:when (even? n))
+         (f a, (and a))
+        

@@ -1,8 +1,0 @@
-
-    package p
-            type S struct{}
-            func (s S) walk(n int) int {
-                if n == 5 {
-     eturn 0
-               } else {
-           r    } else   

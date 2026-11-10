@@ -1,7 +1,0 @@
-  try { }
-                    catch (IOException e) when (e.HResult == 3 && Log(e)) { }
-                   catch (IOException e) when (e.HResult == 1 && Log(e)) { }
-                         catch (IOException e) when (e.HResult == 1 && Log(e)) { }
-                    catch (Except               }
-          }
-          

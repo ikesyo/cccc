@@ -1,0 +1,6 @@
+
+Interface I
+    E
+#If NET48
+    Property Then
+  

@@ -1,0 +1,9 @@
+2    Try
+        If a Then Foo()
+    Catch ex 222222R   Finall
+    Catch
+     Catch
+    Finally
+
+            Baz()
+    End Try

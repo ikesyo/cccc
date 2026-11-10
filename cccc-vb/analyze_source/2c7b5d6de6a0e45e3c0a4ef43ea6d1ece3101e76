@@ -1,5 +1,0 @@
-
-#If  AndAlsoendif ""quoted"""
-    Dim ch Iff B Then
-    Bar()
-#End If

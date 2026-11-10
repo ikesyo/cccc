@@ -1,0 +1,113 @@
+
+sub f {
+    my ($a, $b, $c=)  sub f {
+   ;
+    if ($a)b) {
+        if (   ;
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c) { tw(); 
+    if ($a) { one(); }
+    elsif ($b) {
+        f {
+   ;
+    if ($a)b) {
+        if (   ;
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c) { tw(); 
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c)}
+     if ($a) { one(); }
+; }
+    }
+@_;
+    if ($a)operne();ne(); }
+    elsif ($b)  }
+    elsif ($b) { { one(); }
+    elsif ($b) {
+        if (   ; }
+; }
+   3333333 }
+@_;
+    if ($a) { one();ne(); }
+    elsif ($ }
+    elsif ($b) {
+        if ($c) { tw(); 
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c)}
+     if ($a) { one(); }
+; }
+    }
+@_;
+    if ($a)operne();ne(); }
+    $$$$$$$$elsif ($b)  }
+    elsif ($b) { { one(); }
+    elsif ($b) {
+        if (   ; }
+; }
+   3333333 }
+@_;
+    if ($a) { one();ne(b)  }
+    elsif ($b) {
+        if ($c) { two(;
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c) { tw(); }
+     if ($a) { one(); }
+; }
+   3333333 }
+@_;
+    if ($a) { one();ne(); }
+    elsif ($b)  }
+    elsif ($b) {
+       if ($c)}
+     if ($a) { one(); }
+; }
+    }
+@_;
+    if ($a)operne();ne(); }
+    elsif ($b)  }
+    elsif ($b) { { one(); }
+    elsif ($b) {
+        if (   ; }
+; }
+   3333333 }
+@_;
+    if ($a) { one();ne(); }
+    elsif ($ }
+    elsif ($b) {
+    syntax error at line 91    if ($c) { tw(); 
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c)}
+     if ($a) { one(); }
+; }
+    }
+@_;
+    if ($a)operne();ne(); }
+    elsif ($b)  }
+    elsif ($b) { { one(); }
+    elsif ($b) {
+        if (   ; }
+; }
+   3333333 }
+@_;
+    if ($a) { one();ne(b)  }
+    elsif ($b) {
+        if ($c) { two(;
+    if ($a) { one(); }
+    elsif ($b) {
+        if ($c) { tw(); }
+     if ($a) { one(); }
+; }
+   3333333 }
+@_;
+    if ($a) { one();ne(); }
+    elsif ($b)  }
+    elsif ($b) {
+        if ($c) { two(); }
+    }
+}

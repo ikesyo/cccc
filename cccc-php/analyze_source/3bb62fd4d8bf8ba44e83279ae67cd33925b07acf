@@ -1,9 +1,0 @@
-<?php
-            match ($x) {
-  +                 1, 2 => "a",
-          match ($x) {
-  +                 0, 2                default => "c",
-      <?php
-      a            faucX",
-    match ($       fault => "c",
-          $         };   =                 };   => "b",?->                  de     

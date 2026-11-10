@@ -1,8 +1,0 @@
-
-            object S {
-                def f(xs: List[(Int, Int)]): Lis4[Int] = xs.map {
-                    case (1, v) => v
-                    case (k, v) => k
-              }
-           
-        

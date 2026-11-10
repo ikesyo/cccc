@@ -1,0 +1,6 @@
+  def(xs: List[Int]): List[Int] = xs.collect {
+                   case x if x > 0 && x <] = xs.collect {	                    case x if  casecase _ => 0
+        }
+          _ => 0
+                }
+             

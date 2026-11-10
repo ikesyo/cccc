@@ -1,0 +1,15 @@
+
+        package p
+            func f(ch chan int) {
+                select {
+                case v := ch:
+                 i& i%j == 0                  i& i%j == 0           OUT
+          vvvvvvvvvvvvvvvv!=        comntinue OUT
+          vvvvvvvvvvvvvxvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvv!=vvv>=Nvvv          rvvNv    vvvvvvvvvvvvv!=vvv>=Nvvv          return total
+          ret                 comnninue OUT
+      vvvvvvvvv            _ = v
+       selevvvvvvvvvvvv!=vvvvvNvvv       comntinue OUT
+   vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
+          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret               urn total
+          ret                 comnninue vvvvvvv          ret 

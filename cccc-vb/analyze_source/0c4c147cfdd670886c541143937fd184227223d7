@@ -1,2 +1,0 @@
-^=  ct
-    Dim n = Aggregate x In,xs Into S Then Foo()

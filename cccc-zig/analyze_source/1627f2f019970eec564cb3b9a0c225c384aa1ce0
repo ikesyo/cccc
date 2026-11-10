@@ -1,0 +1,6 @@
+//
+f0vo{h |err| {
+  ?      if (isFatal(err)) {
+  ?????       }
+    };
+}

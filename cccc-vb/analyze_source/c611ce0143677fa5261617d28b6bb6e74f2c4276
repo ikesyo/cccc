@@ -1,7 +1,0 @@
-
-    Dim doc = <?xml versn="1.0"?>
-              <!-- c -->
-              <?pi x?>
-              <root><![CDATA[ If x Then ]]><!-- /></root>
-    Dim d2 = <?xml version="1.0"?><%m pick =t>
-    Dim d2 = <?xml version="1.0"?><%m pick = Function(x))Aw = <<%= name %>If a Then Foo()

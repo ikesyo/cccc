@@ -1,0 +1,5 @@
+
+            fn f(a:ol, b: bool) {
+      if a {} el         ;       if a { if b { if c {} } }
+            }
+ 1    

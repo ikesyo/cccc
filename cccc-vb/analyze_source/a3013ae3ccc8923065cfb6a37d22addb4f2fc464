@@ -1,8 +1,0 @@
-
-    If a > 0 Then
-        Foo()
- l   Es Bar()
-    Else
-       Else
-     &   Baz(
-    If a = 6 Then Foo() Else Bar()

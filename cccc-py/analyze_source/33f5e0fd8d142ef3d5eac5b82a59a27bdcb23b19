@@ -1,0 +1,5 @@
+
+def f(x, ):
+    match x:
+        case _ if p:
+      : 2

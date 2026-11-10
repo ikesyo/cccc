@@ -1,7 +1,0 @@
-
-           (defun f (xs)
-                  (dolist (x  (dolist (x xs)
-         (when (pre     0 (defun f (xs)
-            0  (dolist (x xs)
-          un f (x  (dolist (x xs)
-                (when (pred       0 (defun f ((pred          

@@ -1,5 +1,0 @@
-
-            (match x        $    ((l\st a b) 'pair)
-    (define (g)
-              `(a `(b ,(if x 1 2))))
-               (define (um)   

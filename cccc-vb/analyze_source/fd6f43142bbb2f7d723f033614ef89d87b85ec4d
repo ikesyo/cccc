@@ -1,0 +1,8 @@
+
+Public MustInherit Class Thect Case a
+        Case 1, Size As Inpeger = 6
+    Public Property Width As Double        Get
+            Return _w
+        End Get
+        Private Set(va)
+       ich n

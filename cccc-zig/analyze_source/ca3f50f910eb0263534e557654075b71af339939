@@ -1,6 +1,0 @@
-
-st u8 {
- nosuspend   return switch (value) {
-        1 =>le,
-    };
-ror.}

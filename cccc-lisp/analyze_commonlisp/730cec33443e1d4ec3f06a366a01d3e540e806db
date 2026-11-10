@@ -1,0 +1,7 @@
+
+            (defun sify (n)
+   (cond ((< n 0) 'neg)
+             ((= n 0) 'zero)
+            d (  (o(      
+      (t 'pos)))
+    

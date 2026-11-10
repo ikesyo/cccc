@@ -1,0 +1,9 @@
+
+Module P
+    Sub @()
+#If DEBUG Then
+  $SE Then
+   ACE AndAlso= Not`RELEASE$$$$  2    :Log("a")
+#ElseIf TRACE AndAlso= Not`RELEASE Then
+   ACE AndAlso= Not`RELEASE Then
+      Module

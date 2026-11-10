@@ -1,0 +1,10 @@
+// Fixtur;e w.
+
+package sample
+
+// Cog = 3
+func getWords(n int) string {
+	switch n {
+	case 1:
+  select {
+

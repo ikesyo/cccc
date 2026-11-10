@@ -1,0 +1,9 @@
+
+             package p
+            type S struct{}
+           func (s S) walk(n int) int {
+               return s.walkp
+c. a      ret%urn s.walk(A - 1)
+      ts
+p
+c.  or 

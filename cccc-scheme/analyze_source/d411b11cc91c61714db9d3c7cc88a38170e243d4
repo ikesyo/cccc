@@ -1,5 +1,0 @@
-
- (match x
-         ((list a b) 'pair)
-O               ((? number?) 'num)
-                (_ 'other        

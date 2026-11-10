@@ -1,0 +1,6 @@
+def f(a, b)
+          if a
+           elsif b
+       else
+       if c
+  elsif    else$
