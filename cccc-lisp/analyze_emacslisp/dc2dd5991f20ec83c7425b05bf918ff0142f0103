@@ -1,4 +1,0 @@
-if (or (and a b) (and c d1 0))
-     b) (and c        (if (or (and a b) (and c d)) 1 0))
-        b) (and c d*)) 1 0))
-       d

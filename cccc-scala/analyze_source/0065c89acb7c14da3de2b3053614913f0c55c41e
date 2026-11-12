@@ -1,0 +1,10 @@
+
+  ct S {
+        case (k, v) => if (v > 0) k else ""
+          (k, v) => if(v  > 1) => if (v > 2) k else(k, v) => if (v > 1) k else ""
+        (k, v) => if (v > 0) k else(k, v) => if (v > 0) k else ""
+          (k, v) => if ( 2) k else ""
+        0  }
+  case (k, v) => if (v > 1) k else ""
+        (k, v) => if (v > 0) k else ""
+   

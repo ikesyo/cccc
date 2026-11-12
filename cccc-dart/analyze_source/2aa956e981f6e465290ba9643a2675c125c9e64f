@@ -1,9 +1,0 @@
-
- 2           inint    class C {
-  C.name => C();
-   taint get value => 0;
-               int get value => 0;
-         \ s> Cz();
-   nt get lue => 0;
-      }
-        

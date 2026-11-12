@@ -1,0 +1,10 @@
+
+comptime {
+tee();
+gente();
+}
+
+comptime {
+ e();
+gt;
+}

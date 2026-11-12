@@ -1,6 +1,0 @@
-
-            fn f(a: bool, b: bool, c: bool) {
-    ;       if a { if b { if c ----------------------          fn}
- 1       }
-          fn}
- 1       

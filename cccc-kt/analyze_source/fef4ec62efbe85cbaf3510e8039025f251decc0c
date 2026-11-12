@@ -1,0 +1,123 @@
+
+            class C {
+         Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `           C {
+        get() = 0                   }
+            C {
+        get() = 0          }
+s C {
+  :     val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `  nt: Int 
+  call_expressions
+            'class C {
+        get() = 1    `  return 0
+                }
+            C {
+        get() =    }
+            C {
+        get() = 0          }
+s C {
+       val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                va}l tr Int get()= 
+ 1
+    `  nt: Int 
+           l t)]
+                val tr Int get()= 
+ 1
+         `  nt: Int 
+         'class C {
+        get() = 1    `  return 0
+                }
+ s C {
+       val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val tr Int get()= 
+ 1
+    `  nt: Int 
+           l t)]
+                val tr Int get()= 
+ 1
+         `  nt: Int 
+           l t)]
+  treeCount   val treeCount: Int get() = 1
+
+         `  nt: Int 
+      0    l t)]
+                val treeCount: Int get() = 1
+
+         `  nt: Int 
+  `  return 0
+                }lambda_parameters
+            C {
+        get() = 0          }
+s C {
+       val treeCount: Int get() = 1
+
+     1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `           C {
+        get() = 0                   }
+            C {
+        get() = 0          }
+s C {
+  :     val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `  nt: Int 
+  call_expressions
+            'class C {
+        get() = 1    `  return 0
+                }
+            C {
+        get() = 0          }
+            val treeCount: Int get() = 1
+
+         `  nt: Int 
+      0    l t)]
+                val treeCount: Int get() = 1
+
+         `  nt: Int 
+  `  return 0
+                }
+            C {
+        get() = 0                   }
+            C {
+        get() = 0          }
+s C {
+       val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                va}l tr Int get()= 
+ 1
+    `  nt: Int 
+           l t)]
+                val tr Int get(Int get() = 1
+
+         `           }
+            C {
+        get() = 0          }
+       }
+        

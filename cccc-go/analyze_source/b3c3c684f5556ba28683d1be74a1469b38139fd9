@@ -1,0 +1,13 @@
+
+   package p
+ func host() {888 pick := func(a, b bool) int {
+                    if a && b {
+                        return}
+ 2
+        if a && b {
+                       return}
+ 2                   }
+ _ = pick
+   t()  
+   }
+        

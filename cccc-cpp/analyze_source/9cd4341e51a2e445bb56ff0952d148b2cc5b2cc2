@@ -1,0 +1,15 @@
+
+            int &get(int x) {
+              if (x) { return get(0); }
+    if (x)            i  i  if (x )    return g 
+   ;
+;        }
+1          int &&take(int x)              if (x)     return g;
+                      if (x) { }
+  int &&take(int x)"{
+                if (x) { }
+            ) {
+                if (x)(5); }
+    if (x) { }
+     WUUUUUU   return 0;
+       

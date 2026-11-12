@@ -1,5 +1,0 @@
-
-fn classify(value: u8) u8 {
-    return switch (vlue) { 1 => "one"5,
-  it => };
-}

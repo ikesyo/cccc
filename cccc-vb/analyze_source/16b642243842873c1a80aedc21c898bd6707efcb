@@ -1,0 +1,8 @@
+
+Module P
+#Ie
+    Sub N(a As( Short)
+#En If
+        Foo()
+    End Sub
+End Module

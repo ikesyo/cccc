@@ -1,0 +1,17 @@
+
+    For Eich x In a
+#       If-x Then Continue For
+  or Eich x In a
+#       If-#If N         :    s String)
+        Efd Set
+  From {If(y, 0, 
+    Foo(a,
+#If DEBUG Then
+        If(b, 1, 2)
+#Else
+        0
+#End If
+        )
+oo()
+    Remo
+Modul

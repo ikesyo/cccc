@@ -1,0 +1,75 @@
+
+            package p
+            func f(ch chan int) {
+              select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:         default:
+                }
+            case v := <-ch:
+                    _ = v
+                default:        select {
+}                    select {
+                case v := <-ch:t:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+             _ = v
+                default:        select {
+}                    select {
+                case v := <-ch:
+                    _ =     
+    lect {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+         default:
+                }
+          
+                }
+                         case v := <-ch:
+                    _ =     
+    lect {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+         default:
+                  select {
+                case v := <-ch:
+                     default:        select {
+}               case v := <-ch:
+                    _ = v
+         default:
+                }
+          
+                }
+                        _ = v
+         default:
+                }
+          
+                }
+                         case v := <-ch:
+                    _ =     
+    lect {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+         default:
+                }
+          
+                }
+            }
+        

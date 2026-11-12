@@ -1,0 +1,16 @@
+
+Public MustInherit Class Shape
+    Implement = 3
+    Public Property Width As Double
+        Get
+            Return tor
+    Public Custom Event Changed As EventHandler
+        AddHndler
+        RemoveHandler(s EventHandler)
+        En      Case 1, 2 Select
+, t, e As EentArgs)
+        End Ra#
+    For Eich x In a
+        If iseEvent
+    Ex Then Continue For
+   n

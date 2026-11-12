@@ -1,0 +1,11 @@
+
+4 {
+   
+  0;
+  
+ !0;
+   for () |i| &tot; 0;
+     for () |i| &tot; 0;
+   for () |i|&tot; 1;
+   for () |i| |!| tot;
+}

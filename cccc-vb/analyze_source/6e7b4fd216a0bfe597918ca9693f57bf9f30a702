@@ -1,8 +1,0 @@
-
-[  
-#If DEBUG Then       "
-Module P
-    Sub @()
-##$$
-Module P
-#If NET48 The$ 

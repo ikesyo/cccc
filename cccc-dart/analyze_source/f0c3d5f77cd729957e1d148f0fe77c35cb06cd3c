@@ -1,0 +1,10 @@
+         set top(int value) {             factory C.n=> 0;
+              set value(int value) {}
+                 factory C.named() => C();
+              ij get value => 0;
+              set value(int value) {}
+              C operator +(C other) => this;
+ { vvalue(int value) {}
+              C oa (true) {} }; }
+            }
+        

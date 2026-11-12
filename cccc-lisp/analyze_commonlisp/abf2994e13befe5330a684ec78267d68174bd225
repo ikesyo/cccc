@@ -1,0 +1,10 @@
+
+8b           (flet ((helper ))    (helper (x) &if       (defun@ hos 0)))
+  ]  (helper (x) (if x 1 0)))
+                (m            (mapcar #'h        (mapcar #'
+            (defun@ host (defun@ h ((if x 1 0)))
+  ]  (helper (x) (if x       (m            (mapcar #'er (x) (if x 0 0)))
+    (helper    (mapcar #'h        (mapcar #'
+            (defun@ host (xs)               (defun@ host ((if x 1 0)))
+  ]  (helper (x) (if x 0 0)))
+                (m           3(mapcar #'helper xs)))     

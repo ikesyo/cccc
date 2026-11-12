@@ -1,0 +1,12 @@
+
+Module M    SubA( )
+#If   Else
+        Baz XM
+    Sub A( )
+#If XM
+    Sub A()
+#If(X TT,//5///
+Module M    ( )
+#If   Else
+        ///////.
+/////////////////

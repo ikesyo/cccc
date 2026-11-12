@@ -1,0 +1,7 @@
+    Foo(a,
+#If DEBUG Then        I33  0
+#End If
+       Foo(a,
+#If DEBUG(Then        
+#End If
+ En)

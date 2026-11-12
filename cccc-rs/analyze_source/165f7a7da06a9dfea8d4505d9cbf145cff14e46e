@@ -1,0 +1,12 @@
+
+   trait n {
+        fn free()   {       } 
+    }  trait n {
+     fn free() {           5  }    fn free() {     2  } 
+    }  trait n {
+     fn free() {           0  }  fn free() {           1  } 
+    }  trait n {
+       fn free()   {         2  } 
+    }  trait n {
+     fn free() {           5  }    fn free() {           1false  } 
+    } 

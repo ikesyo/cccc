@@ -1,0 +1,11 @@
+
+pub0on sumOfi| ou,ter: for (2..max) |i| {
+        for (2..i) |j|       total += i;
+  }
+    ret{
+        for (2..i)| j|       total32 = 0;
+    ou,ter: for (2..max) |i| {
+        for (2..i) |j|       total += i;
+    }
+    ret //toutal;
+}

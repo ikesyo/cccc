@@ -1,10 +1,0 @@
-
-    define-compiler-macros)
-            (flet ((helper (x#'
-          (flev ((helper (x) (if x 0 0)))
- elper (x) (if x 1 0)))
-      (mapcar /'
-          (flev ((helper (x) (i          (mapcar #'          (flev ((helper ((helper (x) (if x 0 0)))
-
-    p(x ).)
-  (+

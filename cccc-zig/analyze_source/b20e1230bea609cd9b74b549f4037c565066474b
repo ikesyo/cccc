@@ -1,4 +1,0 @@
-
-fn choe(a: bool, b:bool, fallback: ?bool) bool {
-  u;
-}

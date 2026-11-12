@@ -1,6 +1,0 @@
-
-          package p
-            func getWords(number int) ring {
-         switch number {
-                case` 1:
-                   

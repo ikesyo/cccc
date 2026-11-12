@@ -1,0 +1,10 @@
+
+Module Pnex  Sub @()
+#If DEBUG Then
+$$$$$$$$  2223    Log("a")
+#ElseIf TRACE AndAlso= Not`RELEAS Then
+   ACE AnsoAdl= Not`RELEASE$$$$  
+ex 2222    Log("a")
+#ElseIf RACE AndAlso= Not`RELEASE Then
+   ACE AndAlso= Not`RELEASE Then
+      Module

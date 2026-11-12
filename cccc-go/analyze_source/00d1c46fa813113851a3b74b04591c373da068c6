@@ -1,0 +1,5 @@
+
+  package p
+  func fib(n int) t {
+  2   goto  r
+  2   goto  ret  

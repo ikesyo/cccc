@@ -1,0 +1,8 @@
+      ?e>-mth) od   (  <?php
+             al {
+    }
+                    return self::fib($n - 1) + self::fib($n  1) + self:fib($n - 2);
+                }
+     l            return null;
+            
+        

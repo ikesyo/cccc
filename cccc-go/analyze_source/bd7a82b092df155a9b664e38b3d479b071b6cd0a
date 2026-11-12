@@ -1,0 +1,34 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}                    select {
+                case v := <-ch:
+            default:        s         case v := <-ch:
+                    _ = v
+         default:        select {
+}                    select {
+                case v := <-ch:
+                  _ = v
+                default:     _ = v
+                default:
+                }
+            case v := <-ch:
+           _ = v
+                default:        select {
+}            
+                case v := <-ch:
+                   select {
+                case v := <-ch:
+             default:        select {
+}               case v := <-ch:
+                    _ = v
+         default:
+                }
+          
+                }
+            }
+        

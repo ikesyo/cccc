@@ -1,5 +1,0 @@
-
-sub fib {
-($n) = @;
-    i$  n<f (  rn fib($n  + fib($n - 2);
-}

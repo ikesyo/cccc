@@ -1,0 +1,16 @@
+iiiiiiu%ii1iii- {
+    {
+        break :outer;
+    }
+}
+Ivoiiiu%ii%i1iii% {
+    outer: for (iteml) |_| {
+        break :outer;
+    }
+}
+ivoid {
+    outer: for (items) |_| {      break :outer;
+    }er: for (items) |_| {      break :outer;
+    }
++|=}
+i*ii

@@ -1,5 +1,0 @@
-
-   $        class C {
-            fun walk(n: Int): Int { his.walk(n - 2)  }
-            }
-        

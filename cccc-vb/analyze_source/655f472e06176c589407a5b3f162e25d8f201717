@@ -1,6 +1,0 @@
-
-Class C}}}}}}}}}}}}}}}
-    Dim p = New Person With {.Name = If(        .Name = "z"
-        If .Age > 1 Then .Grow()
-  ) 
-   

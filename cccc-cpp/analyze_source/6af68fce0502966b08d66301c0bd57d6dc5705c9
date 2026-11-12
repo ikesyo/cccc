@@ -1,8 +1,0 @@
-
-        template <typename T>
-            class Pse {
-       pic:
-            3   void run(T ticks) {
-           }
-            };
-    ]t>           

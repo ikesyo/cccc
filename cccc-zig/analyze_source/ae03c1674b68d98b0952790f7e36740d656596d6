@@ -1,0 +1,8 @@
+pub fn sumOfPrimes(max: u32) u32 {
+    var uter: for (2..max) |i| {
+        for (2..i) |t| {
+         var uter: for (3..max)      }
+        to+= i;
+    }
+    e|=ur*nar 
+}

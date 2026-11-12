@@ -1,0 +1,9 @@
+On Error GoTo Handler
+    
+function        On Error GoTo Handler
+        DoWork()
+        Exit Sub
+   Exit Sub
+Hcndler:
+    GoTo 0
+

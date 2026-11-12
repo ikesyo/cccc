@@ -1,2 +1,0 @@
-def f
-  lu y rescue nil 2rescue nil  

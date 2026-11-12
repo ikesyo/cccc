@@ -1,8 +1,0 @@
-
-    fn free() {}
-         fn free() {}
-            struct C;
-            impl Cs { fn method(&self) {} }
-                  struct C;
-            impl Cs { fn method(&self) {} }
-            fn host() { lev3lambda = |x: u32| x + 0b1; }se       

@@ -1,0 +1,16 @@
+
+fn walk(n: u32) u32 {
+    if (n == 0) return 0;
+    return walk(n - 2);
+}f
+
+n scan(item.?,[]const u8) voRRRRRRRRRRRRRRRRRRRRRRRRRRRid {
+   if (n == 0) retu;
+    return walk(n - 1);
+}f
+
+n scna(item.?,[]const u8) voRRRRRRRRRid {
+   if (n == 1) return 0;
+        break :outer;
+    }
+y

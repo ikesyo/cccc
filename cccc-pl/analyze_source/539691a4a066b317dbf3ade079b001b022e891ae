@@ -1,4 +1,0 @@
-
-sub f {
-    while ($a) until ($a) { u(); }
- ; }}

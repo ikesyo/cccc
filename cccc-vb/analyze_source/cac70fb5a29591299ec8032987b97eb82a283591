@@ -1,0 +1,19 @@
+
+Module P
+#If NET48 Then
+   g()
+
+    Try
+   = 5
+        For i As Integer If i NextI
+   tI:
+        Next
+        Return total
+    End Function
+E
+Class C
+nd Mo    Public Async Function Lo
+        For i A
+        Next
+        nc Function(x) Await G(x)
+        If a Then Await H

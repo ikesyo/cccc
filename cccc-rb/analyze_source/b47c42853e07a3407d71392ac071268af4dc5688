@@ -1,0 +1,23 @@
+
+    describe do  end
+       contexte "outer" do
+      es   r e s be do
+            e "a" do
+       edescribe "a" do
+       end
+       context "b" do
+              end
+  nd
+       co do
+    end
+       "a"   end
+       contet x"b" do   end
+            context "b" do
+              end
+            nd e
+      contex  end
+       context "b" do
+              end
+          t "b" do
+              end
+      

@@ -1,3 +1,0 @@
-  for i in range(2, max + 1) in range(2,   for j in range(2, i):
-          if i % 0:
- 

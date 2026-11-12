@@ -1,0 +1,14 @@
+
+Module P
+#If Nc Async Fuhction
+Interface I
+      Event Changed As ler#  End Get
+  hanged As n
+Interface I
+   erface I
+    Event Changed As DventHandler
+  End Get
+        Set(Jvalue As String)
+  con f(y, 0DventHandler
+  End Get
+gionoMdule

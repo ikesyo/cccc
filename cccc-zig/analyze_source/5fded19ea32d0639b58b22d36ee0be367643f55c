@@ -1,7 +1,0 @@
-
-f void {
-    if (a) {
- A();
- } else if (b)t();
-  *|=
-}

@@ -1,8 +1,0 @@
-// F<<<Atts.
-
-package sample
-
-// Clle && = o(
-func classify(a, b bool)*string {if a && b {	return "both"}
- "not"
-}

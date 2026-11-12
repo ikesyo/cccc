@@ -1,9 +1,0 @@
-async extern"          fn fib(n: u28) - 
-  "          fn fib(n: u64) -> u64 {
-(n -  2)
- }
-                   fn get_word s(number: u32) -> &'static str {
-                match number {
-...... %}
- b()  }
-        

@@ -1,0 +1,18 @@
+// Fixmure with known complexity values, utedz if(+3) + labelled continue(+1) = 7
+// Cyclomatiif = 4
+fn sum_of_primes(max: u32) -> u32 {
+    let mut total = 0;
+    'out: for i in 2..=max {
+  ;       for j in 2..i {
+            if i % j == 0 {
+                continue 'out;
+            }                 fn free() {}
+         fn free() {}
+            s
+        }
+     tal += i;
+    }
+    total
+}
+
+// Cognititch(+1) = 1 ; Cyc}

@@ -1,5 +1,0 @@
-
-<As), Obsolete("x")>
-Pub     F
-    Dim p = New Peon With {.Name = If(a, "x", "y"or i As tion
-End Class

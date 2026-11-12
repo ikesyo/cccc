@@ -1,0 +1,7 @@
+
+#If AndAlso ""quoted"""
+    D hcm
+#If NET9oWith {.A = 1}
+    Using r As New Reader(If(c, "a", "b"))
+    End Using
+    ReDim errorrve xs(If(a,S

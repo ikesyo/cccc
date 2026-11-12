@@ -1,6 +1,0 @@
- switch (p) {
- m default: return 0;
-              default: return;
-         default: return 0;  
-            default: re               }
-     

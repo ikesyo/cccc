@@ -1,0 +1,5 @@
+  package p
+     func sumOfPrimes(max int)nt {
+            for i := 2; i <= ax; i++ {
+      n            }
+        

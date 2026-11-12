@@ -1,7 +1,0 @@
-
-u8 {
-    return switch (value) {
-lse =>atile,
-    //       else => "my"
-};
-}

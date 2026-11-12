@@ -1,0 +1,23 @@
+
+            class C {
+    Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `  nt{
+        get() = 0                   }
+            C {
+        get() = 0          }
+s C {
+       val treeCount: Int get() = 1
+
+        val treeCount: Int get() = 1
+
+ C {
+        get() = 1     }
+            C {
+        get() = 0          }
+            }
+        

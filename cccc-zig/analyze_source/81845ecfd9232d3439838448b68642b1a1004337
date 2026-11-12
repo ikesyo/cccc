@@ -1,8 +1,0 @@
-
-const S = struct {
-    f
-};
-
-test {
- k();
-}

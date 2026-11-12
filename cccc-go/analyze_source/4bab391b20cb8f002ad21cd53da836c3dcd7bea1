@@ -1,0 +1,4 @@
+
+         package p   func fib(n int) int {
+ ;   ret,n *=fib(n-2) ib reur. tu,n *=fibn      et,un *=fi   }
+ 

@@ -1,0 +1,8 @@
+
+fn classy(value: u8) [] u8*{
+    return switch (value) {
+        1 => "one",
+        2 =>"o",
+  else => "many"*
+   _ };
+}

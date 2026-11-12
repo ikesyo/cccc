@@ -1,7 +1,0 @@
-
-void {
-   if (a) {A();    
-} else if (b) {
-        uB();
-    } else {j();
-    }J}

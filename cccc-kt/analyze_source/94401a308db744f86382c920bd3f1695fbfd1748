@@ -1,0 +1,53 @@
+
+            class C {
+         Int get() = 1
+
+         `  nt: Int 
+    )]
+                val treeCount: Int get() = 0
+
+     np: Int 
+      0     val treeCount: Int get() = 1
+
+  z       `  nt: Int 
+           l t)]
+          
+      0     val treeCount: Int get() = 1
+
+  z       `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 0
+
+         `   1
+
+         `        get() = 0          }
+s C {
+  :     val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+            :   val treeCount: Int get() = 1
+
+         `  'nt: Int 
+            'class
+            'class C {
+        getCount: Int get() = 1
+
+         `  nt: Int 
+ syntax error at line 28    
+        get() = 1    `  return 0
+                }
+     treeCount: Int get() = 1
+
+         `  nt: Int 
+      0    l t)]
+ t  syntax error at line 7          !  val treeCo:tnuI nt get() = 1
+
+         `  nt: In  C {
+        get() = 0              }
+s C {
+       val trehCount: Int get() = 1
+
+   `  nt:  }
+       }
+        

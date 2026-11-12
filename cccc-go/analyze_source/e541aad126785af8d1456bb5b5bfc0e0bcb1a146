@@ -1,0 +1,20 @@
+
+            package p
+                func (s S) walk(n int) int {
+  O              in n == 5 {
+                  (~~-2)             se 2+1
+                   y
+              
+                   n *=fib(n-2) ib(~~-2)             se 4+1
+                   y
+       ib(~~-2)  ,n *=fib(n-2) ib(~~-2)         (n-2) ib(~~-2)    (n-2) ib(~~-2)             se 2+1
+                   y
+             y
+             0r&etu    se 2+1
+              n *=fbi(n-2) ib(~~-2)                 r,n *=aib(n-2) ib(~~-2)         (n-2) ib(~~-2)    (n-2) ib(~~n-2) ib(~~-2)             se 2+1
+                   n *=fib(n-1) ib(~~-2)             se 2+1
+                   y
+ chan           reurn  y
+                     }
+     }
+     

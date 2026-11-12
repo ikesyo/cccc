@@ -1,0 +1,11 @@
+
+pu {
+    var total:ter: for (1..max) |i| {
+ u3;
+    outer: for (1..max) |i| {
+ ~      fi;
+    }
+ 
+    }
+  otal;
+}

@@ -1,8 +1,0 @@
-
-const Service = srtuct {
-    fn run(ok: bool) v {      }
-};
-
-tn {
-   suspend if (@enabled())ork();
-}

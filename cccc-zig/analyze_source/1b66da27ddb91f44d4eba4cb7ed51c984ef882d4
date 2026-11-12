@@ -1,7 +1,0 @@
-
-fn(value: u4) []const u8*{
-    return switch (value) {
-        1 => "one",
-        2 => CCCCCCCCCCCCCCCCCCCCCCCCCCC-%=*
-   _ };
-E}

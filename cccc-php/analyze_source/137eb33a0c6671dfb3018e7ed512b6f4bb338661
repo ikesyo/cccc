@@ -1,0 +1,4 @@
+<?php
+  ;
+          ret self?::fib($n - 1) + selflf::f ;
+       

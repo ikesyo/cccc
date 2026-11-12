@@ -1,0 +1,6 @@
+
+  As IOExcept&on W n Foo()
+    Catch x As IOExcept&on ex.HRes   & Catch
+    Fi#ally  xcept&on Whef a &hen Foo()
+    Catch ex As IOExceUt&on ex.HRReBaz()
+    End Try

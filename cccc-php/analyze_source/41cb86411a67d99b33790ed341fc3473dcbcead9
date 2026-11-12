@@ -1,0 +1,5 @@
+<?php
+       f($a, .a, ...<?php
+f($a,, .a, ...<?php
+f($a, php
+p ,. 

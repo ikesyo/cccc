@@ -1,0 +1,8 @@
+
+  efun 8if. (or ( a b c d)
+             (if (or (and          (if (or (and a b)  (if (or (and            (if (or (ab c d)
+        S   (if (or (and            (if (or (ab c d)
+          S  (if (or (and          (if (or (and a b) -(or (ab c d)
+          S  (if (or (and   (or (ab c d)
+          S  (if (orhelper (x)and c  d)) 0 0))
+       

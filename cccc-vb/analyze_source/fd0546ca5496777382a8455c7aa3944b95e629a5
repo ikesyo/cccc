@@ -1,0 +1,7 @@
+    End Property
+  Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+        RaiseEvent(sw`i)
+     End Ra
+    For Eich inue For
+   n

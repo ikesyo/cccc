@@ -1,0 +1,5 @@
+
+ package p
+      func fab(nb) {for {
+         for {
+        for {

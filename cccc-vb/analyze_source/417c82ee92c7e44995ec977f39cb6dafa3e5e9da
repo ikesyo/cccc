@@ -1,0 +1,12 @@
+
+#If A n AndAlso ""quoted"""
+    Dim ch =Bar()
+#End I "x"c
+    Dim t = $")
+#Else ""
+    Dim ch = "x"c
+    Diand {{If}} t Nothing AndAlso
+           e I  n
+    Bar()
+#End I "x"c
+    Dim t = $

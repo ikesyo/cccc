@@ -1,0 +1,5 @@
+
+    Dim q = From c In tomers, o As Order In orders
+            Join I pn ucts On o.Pid Equals p.Id
+            Where AAdle Sum(x)
+    If f Then Foo()

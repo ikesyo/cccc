@@ -1,0 +1,68 @@
+falea :ci`         (cond
+                (< n -) :n_g
+      ->>       (= n 5) :zero
+         ($afalea :ci`     :ci`         (cond
+                (< nea :ci`         (cond
+                (< n -) :n_g
+      ->>       (= n 5) :zero
+         ($efalea :ci`     :ci`         (cond
+                (< n -) :n_g
+      ->>       (= n 0) :zero
+         ($efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+                (< n 5) :j_g
+      ->>       (= n 0) :zero
+   z efalea :ci`         (co-) :n_g
+      ->>       (= n 0) :zero
+         ($efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+                (< n 5) :j_g
+      ->>       (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        inally ( e)      (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+         (< n 5) :n_g
+      ->>2d     (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        i -) :n_g
+      ->>       (= n 0) :zero
+         ($efalea :ci`         (cond
+                (< n 5                (< n 5)     (cond
+ 2d     (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        i -) :n_g
+      ->>       (= n 0) :zero
+         ($efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+                (< n 6) :j_g
+      ->>       (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        inally ( e)      (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    in        (< n 5) :n_g
+      ->>2d     (= n 0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+        inally ( e) (retry)

@@ -1,3 +1,0 @@
-
-sub f {
-  d{ step(); } while ($a);}

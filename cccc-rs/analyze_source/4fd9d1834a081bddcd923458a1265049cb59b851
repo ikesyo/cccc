@@ -1,0 +1,7 @@
+
+            fn free() {}
+            struct C;
+fn free() {}
+            struct C;
+          fn host() { lx + 1; }
+        

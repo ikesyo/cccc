@@ -1,8 +1,0 @@
-
-fn rr() void {
- . risky() catch |ers| {
- if (isFar)(ltrae) {
-  inline     return-
- }
-    };
-}

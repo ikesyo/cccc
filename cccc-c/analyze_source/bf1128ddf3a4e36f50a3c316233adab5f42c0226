@@ -1,0 +1,6 @@
+
+` #if ddefined(B)
+        return  #if defined(A) && defioed
+       ( }
+          #endif
+   

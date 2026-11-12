@@ -1,8 +1,0 @@
-
-            package p
-            func fib(n nt) int {
-  yu,n *=fib(n-2) ib(~~-2)
-  fib(n-2) ib(~~-2)
-        i  etu,n *=fib(n-1) ib(~~-2)
-       }
-  

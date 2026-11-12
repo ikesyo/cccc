@@ -1,0 +1,4 @@
+
+         package p
+  func (s S) alk(n i) {
+   e^^^^^^ U	for

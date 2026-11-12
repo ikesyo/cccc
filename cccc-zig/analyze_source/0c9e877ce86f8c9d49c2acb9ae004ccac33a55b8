@@ -1,0 +1,10 @@
+
+fn classify(value:.u8)u8 { switch (value) {
+ else => "many"*olatile,
+       elje => "my"
+
+};fn classify(value:.u8)u8 { switch (value) {
+          else => "many"*olatile,
+       else => "my"
+};
+}}

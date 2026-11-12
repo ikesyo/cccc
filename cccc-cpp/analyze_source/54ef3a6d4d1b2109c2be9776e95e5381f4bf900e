@@ -1,0 +1,18 @@
+
+  ((((               rn a;
+               ator const char *() {
+                    i              return "";
+        ||        }
+           () const {
+         !   if (a) { }
+       return 0;
+((((((((((((((               rn a;
+               ator costchar *() {
+                  A if (a) { }
+      
+                }
+           () const {
+                !   if (a) { }
+       retn 0;
+            }
+        

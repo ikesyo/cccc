@@ -1,0 +1,14 @@
+
+            package p
+   func f(ch chan int) {
+    {
+                select {
+                case v :     select {
+      //     default
+                }
+       }
+     }
+                 select {
+     default:    sele    }
+            }
+        

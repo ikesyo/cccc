@@ -1,0 +1,4 @@
+
+sub fib {
+($n) n fib($n  + fib($n - 2);
+}

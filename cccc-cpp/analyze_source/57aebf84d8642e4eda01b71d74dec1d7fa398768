@@ -1,9 +1,0 @@
-  mplate <inrn N * fact<N : 1>(); }
-         int fact() {
-                if (N) { return N * fact<N - 1>(); }
-              if (N) { return N * fact<N for_range_loop- 1>(); }
-         int fact() {
-                if (N) { return N * fact<>(); }
-                     }
-                return 1;
-            

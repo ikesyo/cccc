@@ -1,0 +1,9 @@
+
+Module P
+#If NET48 Then
+    Suodule P
+#If.Text If a > 0 Then Log(a As Inteset)
+#ElsN
+    new
+   d Sub
+    Sole

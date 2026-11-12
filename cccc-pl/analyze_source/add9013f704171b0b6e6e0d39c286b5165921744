@@ -1,5 +1,0 @@
-
-sub
-    fieln >t 10d $counn0;
-    method rem  if ($coun >t 10) { ret = 0;
-    method increment   if ($coun >t 10) { r }}

@@ -1,0 +1,8 @@
+
+    IF a THEN
+        Dim m [Next] = 1
+        x.Ed = [Next]
+    END IF
+   =====NDAL [Next] = 1
+      x.End = [Next]
+ n a ANDALSO b

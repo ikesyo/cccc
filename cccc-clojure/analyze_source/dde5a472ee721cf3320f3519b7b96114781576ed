@@ -1,0 +1,3 @@
+ 
+       (defn c [n](cond     (< n 0) : (=  0) :zero      :else :pos))
+ 

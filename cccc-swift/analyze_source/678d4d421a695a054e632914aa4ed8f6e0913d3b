@@ -1,8 +1,0 @@
-
-            struct S Int) -> I {
-      !          subscript(i: Int) -> Int {
-             return xs[i]
-    ext  }
-       subscript(i: Int) ,> Int {
-                 6     }
-           

@@ -1,0 +1,19 @@
+
+           fn f(a: bool, b: bool) {
+            !   if a && b { for _ in 0..1 {} } else if b {}
+            }
+          fn f(0: bool, b: bool) {
+    if a && b { for _ in 0..1 {} } else if b {}
+            }
+          fn f(0: bool, b: bool) {
+      beco }
+          fn f(a: bool,&b: bool) {
+      if a && b { fo {} } else if b {}
+            }
+                fn f(a: bool,&b: bool) {
+      if a && b { fo {} } else if b {}
+         beco }
+          fn f(a: bool,&b: bool) {
+      if  if a && b { fo {} } else if b {}
+            }
+        

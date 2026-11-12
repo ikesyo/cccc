@@ -1,9 +1,0 @@
-/known complS2
-  def f(): nt =
-   try risky()
-    catch
-      case e: IlleeException => 1
-  f(): Int =
-&   try risky()
-    catch
-      case e: Ilo       

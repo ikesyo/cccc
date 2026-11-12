@@ -1,0 +1,5 @@
+
+const Service = struct {
+   inlinline fn run(ok: enabled()) work();
+stne fn run(ok: enabled()) work();
+t "service9"}

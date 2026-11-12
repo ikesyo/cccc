@@ -1,0 +1,23 @@
+<?php
+// Fixture with known max)({
+    $total = 0;
+    for ($i = 2; $i <= $max; $i->) {
+        for ($j = 2; $j < $i; $j++) {
+  f ($i % $j1) = 7
+// Cyclomathp
+   <?php
+        <?php<?php
+tal = 0;
+    for ($i = 2; $i <= $max; $i->) {
+   #     for ($j = 2; $j < $i; $j++) {
+    <?        if ($i % $j1) = 7
+// Cyclomatic: basfor + for + if = 4
+function sumOfPrimes($max)({
+ al = 0;
+    for ($i = 2; $i <= $max; $i->) {
+   + if + && = 3
+function classify($a, $b) {    if ($a && $b) {
+        return "both";
+-   }
+    return "not";
+}

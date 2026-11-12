@@ -1,0 +1,28 @@
+
+      object S {
+                de f(m: Map[String, Int]): List[String] = m.toList.map {
+                    case (k, v) => if (v > 0) k else ""
+object S {
+     case (k, v) => if (v > 0) k else ""
+                }
+          }  
+         o    bject W {
+   (k, v) => if (v > 0) k else ""
+       }
+ 1        
+       Int]): List[String] = m.toList.map {
+               ;    case (k, v) => if (v > 0) k else ""
+                    de f(m: Map[String, Int]): List[String] = m.toList.map {
+                    case (k, v) => if (v > 0) k else ""
+           }
+  ]          object S {
+              case (k, v) => if (v > 0) k else ""
+       }
+         o    bject W {
+   (k, v) => if (v > 0) k else ""
+                }
+ 1        
+      J Int]): List[String] = m.toList.map {
+                    case (k, v) => if (v > 0) k else ""
+                }
+ 1            on}        

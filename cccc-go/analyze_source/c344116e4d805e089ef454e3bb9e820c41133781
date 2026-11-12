@@ -1,4 +1,0 @@
-package p
-func fib(n int)  {
-(n-1)(n-2)  }
-   

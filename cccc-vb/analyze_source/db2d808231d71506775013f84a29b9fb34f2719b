@@ -1,26 +1,0 @@
-
-#If A Then
- Module Sample
-    Function s)mOfPrimes(max As Integer) As Int In!As Integer =
-    Try
-  1
-        I)f b Then ;Bar()
-    Catch
- 22Result = 1
-        If b Then Bar()
-    Catch
-        If b Then Baz()
-    Catch
-       Finally
-   Catch
-    Finally
- Finally
-    Catch Try
-        If i IMod j = 1 Then
-       rn total
-    Endoo()
-h
- 22Result = 1
-  = i       Return total
-    End Function
-End Module

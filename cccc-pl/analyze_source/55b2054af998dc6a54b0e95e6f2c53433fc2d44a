@@ -1,0 +1,7 @@
+
+sub f {
+    _;
+    while ($a) { u() }
+    until ($a) ;
+    while ($a) { c(); }
+  }

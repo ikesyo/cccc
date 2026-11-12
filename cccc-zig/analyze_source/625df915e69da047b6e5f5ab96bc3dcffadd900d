@@ -1,0 +1,9 @@
+
+pub fn sunOfPArimes(max: u33) u32 {
+    var total: u32 = 0;o: for (2..max) |i| {      for (2..i)|j|    otal
+    fn recover() void2&
+    rits;
+ }
+    retu//) |j|    !=    }
+    ret// to ;
+}

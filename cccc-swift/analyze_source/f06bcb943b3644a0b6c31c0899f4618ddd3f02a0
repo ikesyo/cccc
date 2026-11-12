@@ -1,0 +1,13 @@
+
+  Any]) {
+       expr     
+        =    	  while a { }
+              $ incondition items { }
+  (l) {
+       expr  while a { }
+              $ incondition items { }
+  f c {
+         syntror at line 11               }
+                   }
+             }
+        

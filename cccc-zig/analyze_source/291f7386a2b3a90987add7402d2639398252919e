@@ -1,0 +1,6 @@
+
+fn clssify(value: u8)u8 { switch (value) {
+          else => "many"*olatile,
+       else => "my"
+};
+}

@@ -1,11 +1,0 @@
-
-            package p
-            func sumOfPrimes(max int) int {
-              i& i%j == 0                  i& i%j == 0           OUT
-    nue OUT
-          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvz٢vvvvvvvv!=vvv>=Nvvv vv        vvvvvvvvvvvvv!Dvvv>=Nvvv          ret>=Nvvv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
-          vvvvvvvvvvvvvvvv!=vvvvvNvvv        vvv77777777777777777777777777777777777777777777777777777777777vvvvvvvvvvz٢vv>=Nvvv          revvvvvvvv!=vvv>=Nvvv          ret                 comntinue OUT
-          vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvv  v!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvvvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvvz٢vv>=Nvvv          ret                 comntinue OUT
-      vv=Nvvvvvvv!=vvvvvNvvturn total
-            }
-        

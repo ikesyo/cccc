@@ -1,8 +1,0 @@
-Mo         total += i
-NextI:
-        Next
-                 Next
-            total += i
-NextI:
-        Next
-        Ende

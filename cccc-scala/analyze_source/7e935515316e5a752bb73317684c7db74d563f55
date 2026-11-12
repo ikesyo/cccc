@@ -1,6 +1,0 @@
-
-: B          def f(n: Ibject S {
-                def fib(n: Int): Int =
-                    if (n < 0) n else fib(n - 1) + fib(n - 2)
-             f(            - 1) +      }
-        

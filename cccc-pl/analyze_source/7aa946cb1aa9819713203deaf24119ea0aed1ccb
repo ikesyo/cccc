@@ -1,4 +1,0 @@
-
-sub  w$(@xs) {   last;    next;
- last;
-     next;   

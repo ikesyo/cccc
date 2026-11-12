@@ -1,6 +1,0 @@
-
-<Assembly:m.Text.StringBuilder()
-        Dim e = New Integer() {0, If(x, 2, 3)}
-        Return (1, "")
-    mustinhEnd Function
-End Class

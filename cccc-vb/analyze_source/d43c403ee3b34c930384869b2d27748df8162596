@@ -1,0 +1,5 @@
+
+  c = <root kind="a">
+                  <item><%= If(a, 1, 2) %></item>
+  o            </root>
+2    Dim name = doc.<()

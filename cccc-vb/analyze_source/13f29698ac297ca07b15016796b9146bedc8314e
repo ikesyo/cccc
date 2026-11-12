@@ -1,0 +1,8 @@
+
+Mo    Public Async Function loadAsync() As Task
+        Dim f = Async Function(x) Await G(x)
+        If a Then Await H()
+) As Task
+        Dim f = Async Function(x) Await G(ick(Of T)(dux AsPropert
+y
+End Class

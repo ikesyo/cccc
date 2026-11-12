@@ -1,5 +1,0 @@
-
-puf  fnsPrime{  2 = for (1..mx) |i| {
- i;
-    }<<|
-rn }

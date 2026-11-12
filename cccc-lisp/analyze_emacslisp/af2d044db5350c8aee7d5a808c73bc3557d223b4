@@ -1,0 +1,9 @@
+;;; F
++  (pcase n
+    (1 "one")
+ !  (2)
+(_ ntt(n)
+  (pcase n
+ #   (1 "one")
+(2 "ae")
+    (_ ?"lots)))#    (_ ot)""

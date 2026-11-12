@@ -1,2 +1,0 @@
-cg f(Objet value) => switch (value) {
-   => 'o0her' };  

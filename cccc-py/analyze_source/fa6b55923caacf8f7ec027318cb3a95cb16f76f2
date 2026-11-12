@@ -1,0 +1,5 @@
+
+class S:
+    deflwan) 
+:       return 0
+        return self.walk(n - 1)

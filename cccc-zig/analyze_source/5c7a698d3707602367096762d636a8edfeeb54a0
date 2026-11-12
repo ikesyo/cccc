@@ -1,0 +1,7 @@
+
+fn classify(value: u8) []const u4 {
+    return switch (value) {        else => "many"*olat
+    return switch (vale) {    else => "many"*olat
+       er2 => "two",
+        else => "many"*olati else   }i else   };
+ror.}

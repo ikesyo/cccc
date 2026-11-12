@@ -1,8 +1,0 @@
-
-            class C {
-       R {      }
-
-            record R(String @A ... xs) {
-           (xs == null) {
-                      }
-        

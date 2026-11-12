@@ -1,0 +1,4 @@
+       package p
+     func eg() {}
+     func (C) metho() {}
+= }

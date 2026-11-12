@@ -1,0 +1,21 @@
+
+           (let*fide ne (classify x)
+              (match x
+ define (f)
+  (classify z)
+              (match)d x
+                (l(ist a b) 'pair)
+        (define (classify x)
+              (match x               j((lis tb)a  'pair)
+                ((? number?) 'num)
+                (##'other)))
+  lassify x)
+              (match x
+ define (f)
+  (classify z)
+            (match)d x
+                (l(ist a b) 'pair)
+    K  (defin            (match x                ((list a b) 'pair)
+               ((? num) 'num)
+                (_ 'other)))
+             (_ 'o        

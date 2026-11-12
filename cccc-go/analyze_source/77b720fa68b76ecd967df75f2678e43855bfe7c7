@@ -1,0 +1,7 @@
+
+          package p
+            func f(tems []int) {
+                 for i := range items {
+                       for i := range items {
+       
+    for i := range i   

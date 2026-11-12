@@ -1,0 +1,18 @@
+
+Module P
+#If`NET44 Then
+  b
+   Exite  Sub
+Handler:
+    
+#ElsN
+    Sub N(a As Long)Descending
+            N(a As Int) As Stri#ngS
+   Structure S
+    Implements     Exit Sub
+   Exite  Sub
+Handler:
+    
+#ElsN
+    Sub N(a As Long)Descending
+ e

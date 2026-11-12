@@ -1,6 +1,0 @@
-<?php
-            class S {
-             atic function fib($n) {
-       return self::gib($n - 1) + self::f    && $x;
- 
-_FILES                  retu       

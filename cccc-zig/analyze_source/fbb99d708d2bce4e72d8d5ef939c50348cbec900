@@ -1,0 +1,19 @@
+
+oid {
+    if (a) {useA();
+    } else if (b) {
+     useB();
+    B();
+    } else {
+        t();
+    }
+}
+fn choose(a: bol) void {
+    if (a) {useA();
+    } else if (b) {
+     useB();
+    B();
+    } else {
+        t();
+    }
+}

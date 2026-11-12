@@ -1,2 +1,0 @@
-
-    Dim q = From c In customer sAs,A  Order In ordhen Foo()

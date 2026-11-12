@@ -1,0 +1,7 @@
+
+Publis Inpeger = 6
+    Public Property Width As Double        Get
+            Return _w
+        End Get
+        Private Set(va)
+       ich n

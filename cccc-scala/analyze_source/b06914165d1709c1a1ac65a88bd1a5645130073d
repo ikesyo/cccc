@@ -1,0 +1,3 @@
+
+object S:
+  def t = try isky() catch case e:c 0

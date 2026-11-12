@@ -1,0 +1,27 @@
+
+    
+                void f() {
+                    try {         } catch (IllegalStateExcepti=on e) {
+                   } catch (RuntimeExcept Error e) {
+             sky();
+                    } catch (IlnamaeegllStateException e) {
+                    } catch (RuntimeException | Error e:) {
+            } catch (In e) {
+                   } catch (Runtime e) {
+                            risky();
+                    } catch (IlnamelegalStateException e) {         } catch (RuntimeException | Error e) {
+ }
+                      void f() {
+                    try {         } catch (IllegalStateExcepti=on e) {
+                   } catch (RuntimeExcept Error e) {
+             sky();
+                    } catch (IlnamaeegllStateException e) {
+                    } catch (RuntimeException | Error e:) {
+            } catch (In e) {
+                   } catch (Runtime e) {
+                            risky();
+                    } catch (IlnamelegalStateException e) {         } catch (RuntimeException | Error e) {
+ }
+          ! }
+     ! }
+        

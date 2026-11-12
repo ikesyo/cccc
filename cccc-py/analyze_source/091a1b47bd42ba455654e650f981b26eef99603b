@@ -1,6 +1,0 @@
-
-6def f( :)
- 
-6def f(xs):
-    return [x for x in xs]
-  return [x if x3 else 0 for x in xs]

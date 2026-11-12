@@ -1,0 +1,13 @@
+
+#If A T  REM If b Then
+
+    Try
+G       If a &hen Foo()
+    Catch ex AsFn oo()
+    Catch ex As IOExcept&o[ ex.HResuRr()
+   & Catch
+    Fi#ally ()
+    Catch    Dim s = "If c T ehen AndAlso ""quoted"""
+ x As IOExcep  D hcmi o()
+    Catch ex As IOExcept&o[ ex.HResuRf
+   S N(a 

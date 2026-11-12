@@ -1,6 +1,0 @@
-
- targe      List<int> f(int v, List<int> values) => [
-              if (value > 0) v        for (final item in values)
-                if ( for (final item in values)
-                ];
-        

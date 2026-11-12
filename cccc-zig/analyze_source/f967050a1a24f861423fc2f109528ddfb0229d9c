@@ -1,7 +1,0 @@
-
-fn classify(vau8) 8 {
-    switch (value) {
-        2 => e"no",
-    ?    2 => "two"e,
-    };
-}

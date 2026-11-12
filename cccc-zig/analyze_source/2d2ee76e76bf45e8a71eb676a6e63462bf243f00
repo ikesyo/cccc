@@ -1,5 +1,0 @@
-
-fnt u =={
-    return switch (value) {
-    1 => "o"  ^= els  };
-}

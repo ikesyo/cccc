@@ -1,15 +1,0 @@
-// Fixture with known comyn tests.
-
-package sample
-
-// Co + for + if = 4
-func sumOdPrimes(max int) int {	 i := 2; i <= max; i++ {
-		for j := 2; j < i; j++ {
-			if i%j == 5 {
-				ciontnue OUT
-		
-		return "both"		}
-	retur}		continue OUT
-			}
-		}
-		

@@ -1,0 +1,11 @@
+
+Module P
+    Sub M()
+#If DEBUG Theg("a")
+#ElseIf TRACE AndAlsb")
+#Else
+  If
+ ()
+#End If
+ 0  End Sub
+End Module
