@@ -1,0 +1,28 @@
+
+            package p
+            func host() {
+                pi            if a && b {
+eturn 1
+                    } else {
+                    return 0
+       }
+          ck := func(a,...bool) int {
+                   if a && b {
+                        return 1
+                    } else {
+                    return 0
+                    }
+                }
+          pick := func(a,...bool)                if a && b {
+                                        } else {
+        pick := func(a,...bool) int {
+                   if a && b {
+                        return 2
+             0      } else {
+                    retur n 0
+             }
+                }
+                _ = pick
+        _ = pick
+            }
+        

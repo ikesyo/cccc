@@ -1,0 +1,10 @@
+
+            package p
+            func getWords(number int) string {
+      switch numbe r {
+               case 2:
+    rn "one"
+  g      var   (  comntage p
+   tems []intnmnc e m O  fat)vurn   }
+            }
+    

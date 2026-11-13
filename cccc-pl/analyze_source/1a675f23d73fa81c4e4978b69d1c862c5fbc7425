@@ -1,0 +1,15 @@
+($    (@_;
+    unless ($a) { ; }
+    else {g@_;
+    unless ($a) { l(); }
+    else {go(); }
+}
+;
+}
+    ); } wfunctub f {
+ =0@_;
+    unless ($a) { l)(; }
+    else {go(); m ($a)= @_;
+    unless ($a) { l(); }
+    else {go(); }
+}op()spin() wheli  eac

@@ -1,0 +1,11 @@
+
+fn recover() void {
+  . risky() catch |err,| {fn recover() void {
+fn recover() void {
+  . risky() catch |err,| {fn recover() void . risky() catch |err,| {fn recover()0}
+    };
+}
+
+  .kerr   retu     0}
+    };
+}

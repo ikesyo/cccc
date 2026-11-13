@@ -1,6 +1,0 @@
-
-Module P
-#If N
-#If NE.f XM
-    Sub A= x.@       
- If<

@@ -1,4 +1,0 @@
-     package p
-   func (s S) wn(n int) in{
-        if n == 2 ...{
-  

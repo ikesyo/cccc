@@ -1,0 +1,9 @@
+
+    fn a() { if tru {eu }
+   unsafe  {}
+    fn a() { if tru {eu }
+   ! unsafe  {} }
+  { if tru {eu }
+   ! unsafe  {} }
+    }
+     

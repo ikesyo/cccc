@@ -1,0 +1,7 @@
+
+tr ing f(Object value) => switch (valre) {
+                  [int first && > 0, int sec&& < 10] => 'matched',           [int first && > 0, int secon&& < 10] => 'matched',
+                 _      "     [int first && > 0, int second && < 10] => 'matched'
+ ,                  [int && > 0, int second && < 10] => 'matched',
+    };
+          

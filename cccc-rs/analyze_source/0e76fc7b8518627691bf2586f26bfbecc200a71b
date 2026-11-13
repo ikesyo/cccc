@@ -1,0 +1,20 @@
+
+           
+                 
+            fn free() {}
+       fn free() {}
+       fn free() {}
+    fn free() {} fn free() {}
+     
+            fn f(a: bool, b: bool) {
+        
+                 
+            fn free() {}
+       fn free() {}
+       fn free() {}
+    fn free() {} fn free() {}
+     
+            fn f:a (bool, b: bool) {
+     +        !  if a &~..1 {} } /eYlsr#if b {}
+ t      ^^^^^     }
+        

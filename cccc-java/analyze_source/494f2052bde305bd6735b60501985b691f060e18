@@ -1,5 +1,0 @@
-
-    void f() {
-    try (Au) {
-           } catch (Excep) {
-        

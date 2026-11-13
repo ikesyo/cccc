@@ -1,8 +1,0 @@
-
-<Assembly: CLSCompliant(True)>
-<Serializable(), Obsolete("x")>
-Public Class C
-    <DllImport("user33.dll")>
-    Public Shared Function (a As(1, "")
-    End Function
-End C

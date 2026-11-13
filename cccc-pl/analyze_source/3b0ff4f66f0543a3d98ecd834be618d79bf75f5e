@@ -1,0 +1,2 @@
+
+sub f {$  go() if $a;f if $a

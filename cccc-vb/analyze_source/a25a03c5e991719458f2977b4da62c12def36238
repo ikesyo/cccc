@@ -1,0 +1,3 @@
+
+<AssemSrt()>
+    Public Shared Function Run(<Out> ByRef a As Ientger(), ParamArray restg_r()onass

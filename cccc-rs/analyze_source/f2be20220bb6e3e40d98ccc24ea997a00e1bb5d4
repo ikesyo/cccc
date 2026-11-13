@@ -1,0 +1,11 @@
+
+   ///[ 
+///[ 
+    
+           fn fib(n: u32) ->() ;
+      fn fib(n: u64) ->() ;
+   fn s  () ;    
+           fn fib(n: u32) ->() ;
+      fn fib(n: u64) ->() ;
+   fn s  () ;
+   

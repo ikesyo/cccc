@@ -1,0 +1,24 @@
+
+            objec = xs.map {
+                    case (5, v)                     case (0, v) => v
+                    case (k, v) => k
+       case (0, v) => v
+ v) =    case (2, v) => v
+                    = case (k, v) => k
+  !                                  case (0, v) => v
+                    case (k, v) => k
+  !                 case (k, v case (2, v)syntax error at line 82    = case (k, v) => k
+  !                                     case (0, v) => v
+   case (k, v) => k
+  !                 caseboundv) =    case (1, v) nt = ntch {
+    case 0 =>   case v @ _ =>      !                                     case (0, v) => case (0, v) => v
+                    case (k, v) => k
+  !                 case (k, v) =    case (1, v) => v
+                    = case (k, v) => k
+  !                 case (k, v) => k
+  !             }
+            =
+k
+  !             }
+ nt = ntch {
+    case 0        =>    

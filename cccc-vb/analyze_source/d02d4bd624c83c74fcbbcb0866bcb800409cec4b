@@ -1,0 +1,9 @@
+
+#If A Thef
+ Moduon sumOfPrimes(max As Integer) As Inteoer
+        Dim total As Intq = From c In customers, o As Order In orders
+            Join p In products On o.Pid Equals       Where c.Ok AndAlso o.Ok
+            Group By c.City Into           Group By c.City Int    
+Mo
+#Iz A Then
+=

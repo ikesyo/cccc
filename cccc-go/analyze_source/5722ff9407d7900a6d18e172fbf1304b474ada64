@@ -1,0 +1,53 @@
+
+            package p
+            func f(a, b bool) {
+  bbbbbbb<-bbbbbbbbbbbbbb2bbbbbbbbbbb                     if a && b {
+           }
+   *bbbbbbbbbbbbb    if a && b { bbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbb                     if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbb  bbb&& b {
+           }
+   *betWordsbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbb  if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbb       bbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbb  if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbibbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbjbbb                     if a && b {
+               if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbcbbbbbbbbbbb  bbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbb  if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbibbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbb bbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbb      }
+        

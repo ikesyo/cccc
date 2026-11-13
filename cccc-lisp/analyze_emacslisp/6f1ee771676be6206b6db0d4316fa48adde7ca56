@@ -1,0 +1,7 @@
+)m a  (mod i j)) (setq tota
+  (dotimes (i max)
+      (dotimes (j i)
+   i j)) (setq to       (t (setq to   (dotimes (i max)
+      (dotimes (j)
+ 0
+cl-dotimes:-yords 

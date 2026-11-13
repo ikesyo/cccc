@@ -1,0 +1,7 @@
+
+pub fn sumOfPrs(max: u32) u32 {
+    var total: u32 = 0;
+    ou,ter: for (2..max) |i| {      
+n;
+    } else ion/ total;
+}

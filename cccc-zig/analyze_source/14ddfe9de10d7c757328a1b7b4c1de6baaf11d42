@@ -1,4 +1,0 @@
-
-f {   return switch (value) {
-       1  => |err|e()r }
-}

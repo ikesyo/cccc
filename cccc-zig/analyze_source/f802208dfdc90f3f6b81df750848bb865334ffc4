@@ -1,6 +1,0 @@
-
-2 {
-  return, walk(YYYY) |_| {
-        break :outer;
-    }
-}

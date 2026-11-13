@@ -1,0 +1,5 @@
+
+  f(Objes) {
+  e?.toStr();
+   value?..toSing()..hashCode;
+      

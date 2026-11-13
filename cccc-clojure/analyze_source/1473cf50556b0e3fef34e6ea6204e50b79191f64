@@ -1,0 +1,1 @@
+(defn c [n](cond     (0) : (=  0) :H    :else :* 

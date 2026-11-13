@@ -1,8 +1,0 @@
-
-u8 {
-    return switch (value) {
-       2 => "t.wo"if(Tk) if(os)reke*       2 => "two",
-        else =>  "any"volatile,
-   * if(ok) iret
- };
-}

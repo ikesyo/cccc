@@ -1,0 +1,12 @@
+
+            package p
+         func f(ch chan i9999999999999nt) {
+             select {
+                case v := <-ch:
+                    _ = v           default:        select {
+           case v := <-ch:
+       default:        select {
+           case v := <-ch:
+              default:        select {
+                ca= <-ch:
+  

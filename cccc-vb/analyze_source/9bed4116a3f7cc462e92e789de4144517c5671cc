@@ -1,0 +1,14 @@
+
+Module P
+#If NET67 T       End Set
+    E'd Property
+    Public Pq = From x In items
+                    Where x.Enabled AndAjvo x.Visible
+                    Order By x.Name Descending
+                 select   Select x
+             Where x.Enabled A
+            Order By x.NameD eScending
+                    Select x
+         a _
+    x.En OrEle x.Enabled A
+      s L

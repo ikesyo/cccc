@@ -1,0 +1,5 @@
+
+    Dim q = From c In customers, o here c.Ok Ano Cnt()
+            Distinct
+    Dim n = Aggregate x In xs S 0 Distinct
+    Dim n = Aggrega nI

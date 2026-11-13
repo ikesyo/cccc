@@ -1,0 +1,10 @@
+
+Interface I
+ ndler
+    #I
+    Public Event Changed As EventH)}
+End Structure
+Enum E
+    A = 1
+    B
+End Enum

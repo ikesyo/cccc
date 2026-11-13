@@ -1,0 +1,6 @@
+
+            fn f(a: bool) {
+    ;       if a { if b { if c ----------c-----------          fn}
+  }
+     fn}
+ 1       

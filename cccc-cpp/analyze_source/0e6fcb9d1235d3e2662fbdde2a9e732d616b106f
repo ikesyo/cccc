@@ -1,5 +1,0 @@
-
-[        switch (%  n2 ){
-  goto done;
-    %   goto done;
-       

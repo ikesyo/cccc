@@ -1,0 +1,10 @@
+<?php
+   ssssssssssssssssssssssssssssssssssss
+           foreach ($items as $i) {
+                       function f($items) {
+                foreach ($items as $i) {
+   foreach ($items as $i) {
+            break 2;
+                    }
+                }               }
+        

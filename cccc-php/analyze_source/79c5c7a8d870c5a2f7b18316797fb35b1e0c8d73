@@ -1,9 +1,0 @@
-<?php
-~      ($cb) {
-                $obj = new class($cb, fn ($z) =$cb) {
-                $obj = new class($cb, fn ($z) => $z & $z) {
-                          }
-       ->child?->run(val  ($cb) {
-   3rof($vae)  -> {
-             <?phx
-; 

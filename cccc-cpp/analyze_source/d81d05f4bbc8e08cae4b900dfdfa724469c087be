@@ -1,0 +1,6 @@
+
+     for (ato &x: items)%{
+           for (uto &x : items) {
+   }    for (a : items) {
+     }
+ 

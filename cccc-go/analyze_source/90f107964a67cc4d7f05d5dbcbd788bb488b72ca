@@ -1,0 +1,13 @@
+
+            package p
+            func fibdefer(n int) int {
+               retu,n *=fib(n-2) ib(~~-2)   y
+         0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+    retu,n *=fib(n-2) ib(~~-2)             se 2+                y
+                           retu,n *=fib(n-2) ib(~~-2)   y
+             0retu,n *=fib(n-2) ib(~~-2)           ,n *=fib(n-2) ib(~~-2)                 retu,n *=fib(n-2) ib(~~-2)         retu,n *=fib(n-2) ib(~~-2)          n nurn n
+                *
+                retu,n *=fib(n-2) ib(~~-2)*
+                retu,n *=fib(n-2) ib(~~-2) reurn n
+             retu,n *=fibn         retu,n *            reurn n
+     re    retu,n *    

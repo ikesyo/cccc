@@ -1,0 +1,6 @@
+
+def f(x):
+  match x:
+     case 0:syn  return 0
+        case@2:
+ 

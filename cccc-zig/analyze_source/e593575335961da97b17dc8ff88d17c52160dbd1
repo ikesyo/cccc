@@ -1,0 +1,5 @@
+
+fnt u switch (a) {
+  1 => "o"^= el
+  ^= el
+}

@@ -1,9 +1,0 @@
-
-     package p
-            func fib(n int) int {
-     2 {
-             return n
-    }
-      return fib(n-3)  
-            }
-        

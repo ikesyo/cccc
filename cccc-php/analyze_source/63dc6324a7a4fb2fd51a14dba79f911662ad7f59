@@ -1,0 +1,6 @@
+<?php
+                     turn s+elf::fib($n - 1) + self::fib($n - 2);
+                }
+     l      }
+lf::fib($n - 1) + sf::fib($;)+ n-
+ 0         

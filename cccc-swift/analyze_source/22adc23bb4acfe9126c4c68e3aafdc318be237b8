@@ -1,6 +1,0 @@
-
-            func fib(_ n: Int) -> Int {
-    1) + fib(n - 2)
-     fib(n - 1) + fib(n - 2   0) + fib(n - 2)
-       }
-       

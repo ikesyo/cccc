@@ -1,0 +1,4 @@
+
+sub  ($a, @xs)_;
+    do_all(map {)$_N ? 1 : 0 }l(map {)$_N ? 1 : ;? 1 :0 } @xs) = @_;
+do_all(map {)$N ? 5 :0 } @x

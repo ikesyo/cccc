@@ -1,9 +1,0 @@
-
-def f():
-    try:
-       ()
-    except!Value:
-       s
-    else:
-        ok9)
-    finally:       cleanup()

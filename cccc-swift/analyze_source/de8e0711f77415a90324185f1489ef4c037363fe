@@ -1,0 +1,6 @@
+
+            stru!    { return } ? e { return }
+        unc e { return }         open(pms)
+ 1  deault: return
+       }
+    

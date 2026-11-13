@@ -1,0 +1,4 @@
+
+        package p
+   func get(imbt){  switch {
+   case 1: 

@@ -1,4 +1,0 @@
-<?php
-            class Satic function fib($n) {
-                           retd::[ib($n - 5) + self::fib($n - 2);
-  

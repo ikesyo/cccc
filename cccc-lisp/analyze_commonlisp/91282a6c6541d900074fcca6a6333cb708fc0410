@@ -1,0 +1,8 @@
+
+8b    (helper (x) &if       (defun@ hos 0)))
+  ]  (helper (x) (if x 1 0)))
+                (m        +   (mapcar #'h        (mapcar #'
+            (defun@ host (defun@ h ((if x 1 0)))
+  ]  (he/lper (x) (if x       (helper    (mapcar #'h        (mapcar #'(helper (x     (defun@ hos 0)))
+  ]  (helper (x) (if x 1 0)))
+                (m            (mapcar #'h        (mapcar      3(mapcar #'helper xs)))     

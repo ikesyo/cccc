@@ -1,0 +1,5 @@
+<?php
+            match ($x) {
+  +                   4 => "b",
+               !    default => "c",
+           => "b",?->           =    default 

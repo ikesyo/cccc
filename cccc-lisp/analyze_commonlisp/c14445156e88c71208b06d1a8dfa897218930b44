@@ -1,0 +1,7 @@
+;; B(n)
+  (case n
+    (0 "one")
+   (2 "ple")   (otherwise "lot":si(+1) + e(+1t(case n
+    (1 "one")
+    (4 "a couots")
+    (otherwise )

@@ -1,17 +1,0 @@
-
-            package p
-        
-            func fib(n int) in{
-         a, b, c,
-     n{
-         a, b, c,
-               a, b, c,!
-      b, c,!
-                     a, b,   a, b, c,
-     n{
-         a, b, c,
-                   a, b, c,!
-       b, c,!
-                     a, b, c,!
-       b,             b, c,        c,   b, c,
-        c,     a, 

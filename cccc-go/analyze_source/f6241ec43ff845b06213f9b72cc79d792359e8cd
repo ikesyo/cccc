@@ -1,9 +1,0 @@
-// Fixt.
-
-package g4
-func sumOf(max int) int {
-	tot:
-	for i := 2; i <= 
-  0
-OUT:
-	for i := 2; i = m

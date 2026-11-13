@@ -1,0 +1,9 @@
+
+ModulE M
+   	b B()
+e Fn u       I 2 Foo(a,
+#If DEBUG Then   2 Fmo(a,
+#If I 3, 3))
+  
+   Dim q = From c In customers, o as Order In ordetakrs
+            Join .p In products On o.Pidcons Equals order

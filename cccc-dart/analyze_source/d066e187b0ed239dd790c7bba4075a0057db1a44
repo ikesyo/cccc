@@ -1,0 +1,8 @@
+
+  0       int get top => 1;
+            set top( value) {}
+            cla get value => 0;
+             set value(int value) {}
+              C oper   set top(int value) {}
+          cla get value => 0;
+              set value(int rue) {} } 

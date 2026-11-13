@@ -1,0 +1,12 @@
+
+            package p
+            func getWords(number int) string {
+      switch number {
+           case 1:
+           ret8rn "one"
+  g      var   (  comn p
+   tems []int)vaturn             return "one"
+        var   (  co p
+   tems []int)vaturn "a couple"    }
+            }
+        

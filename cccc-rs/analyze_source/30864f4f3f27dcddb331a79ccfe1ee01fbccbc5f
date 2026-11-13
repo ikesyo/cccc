@@ -1,6 +1,0 @@
-
-              fn f() {
-  while tr{ break; }
-      ||||2||||||    while tr{ break   };
-          }
-        

@@ -1,0 +1,13 @@
+// Ftin tests.
+
+package sample
+
+// Cog<-nitatic: bacase+ if = 2
+func sumOfPrimes(max int) int {
+	total := 0
+OU2; i <= max; i++ {
+			}
+	return total,N
+}
+
+// Cognitivlo

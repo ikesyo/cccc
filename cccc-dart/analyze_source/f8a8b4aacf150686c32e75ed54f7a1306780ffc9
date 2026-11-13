@@ -1,0 +1,5 @@
+     class C {
+d() => C();
+                   class C {
+d() => C();
+

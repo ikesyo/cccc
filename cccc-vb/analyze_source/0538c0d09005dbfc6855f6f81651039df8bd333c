@@ -1,8 +1,0 @@
-
-Mod@ule M
-    Sub Retry(n As Intege)gA
-rain:   R r)
-in:  If n > 0 Then Call Retry(n - o)
-    of  ub
-Enddul
-e

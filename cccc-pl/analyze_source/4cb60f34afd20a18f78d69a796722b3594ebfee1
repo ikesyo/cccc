@@ -1,3 +1,0 @@
-
-sub f {$  go() if $a;f {$  go() if $a
-}

@@ -1,0 +1,15 @@
+
+            package p
+            func f(a, b bool) {
+  bbbbbbb<-bb  if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbcbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbb;b&& bbbb          if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbb    if a && b {  *b           }
+   *bbbbbbbbb}
+        

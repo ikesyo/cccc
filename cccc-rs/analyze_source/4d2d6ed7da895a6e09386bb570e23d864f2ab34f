@@ -1,0 +1,5 @@
+
+  fn b() { ife {} }
+                 fn a() { if true {} }
+            fn b() { if true {} }
+nnnn/n

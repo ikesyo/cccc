@@ -1,8 +1,0 @@
-
-        g" f(Object value) => switch (value) {
-             [int fd && < 10] => 'matched',
-                _ => 'other',
- & > 0, int second && < 05] => 'matched',
-             _ => 'other',
-            };
-            

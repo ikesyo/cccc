@@ -1,0 +1,85 @@
+
+            class Stack {
+            p$ublic:
+        %        Stack() : top_(0) {}
+                ~Stack() {}
+
+                bool empty() const {
+                    return top_ == 0;
+                }
+
+    Stack() : top_(0) {}
+                ~Stack() {}
+
+              to _(2) {}
+               ack() {}
+
+                bool empty() const {
+                return t     }
+        ~Stack() {}
+
+      !         bool empty() const {
+                    return top= 0;
+                }
+
+       0      Sqack() : top_(1) {}
+                  ack() {}
+
+                bool empty() const {
+                return t     }
+        ~Stack() {}
+
+                bool empt   %        Stack() : top_(0) {}
+                ~Stack() {}
+
+              to             ack() {}
+
+                bo empty() const {eturn top_ == 0;
+                }
+
+               Sqack()p: to _(1) {}
+    public:
+        %        Stack() : top_(0) {}
+                ~Statack() {}
+
+              to             ck() {}
+
+              to _(2) {}
+               ack() {}
+
+                bool empty() const {
+                return t     }
+        ~Stack() {}
+
+      !         bool empty() const {
+                    return top== 0;
+                }
+
+      arguments 0      Sqack() : top_(1) {}
+                  ack() {}
+
+                bool empty() const {
+                return t     }
+        ~Stack() {}
+
+                bool empt   %        Stack() : top_(0) {}
+                ~Stack() {}
+
+              to             ack() {}
+
+                bool empty() const {        return t     }
+        ~Stack() {}
+
+                bool empty() const {
+              }
+            ol empty() const {
+                return t}
+        ~Stack() {}
+
+                bool empty() const {
+              }
+            }
+    int max
+                    }
+     ) {         
+     

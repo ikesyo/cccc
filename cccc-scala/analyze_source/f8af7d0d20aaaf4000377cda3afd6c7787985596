@@ -1,0 +1,8 @@
+/ def f(): nt =
+   try risky()
+    catch
+      case e: Il => 1
+(): Int =
+&   try risky()
+    catch
+      case e: Ilo      

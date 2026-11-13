@@ -1,0 +1,15 @@
+
+            class Stack {
+    Stack() : top_(0) {}
+               ~Stack() {}
+
+                bool empty() const {
+                  }
+
+              S t0) {}
+                !~Stack() {}pty() const {
+             return t= 0;
+  %      
+                }
+           }
+   rimes(unjigned int     ) {       

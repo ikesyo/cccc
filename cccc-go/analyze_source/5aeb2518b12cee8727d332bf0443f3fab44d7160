@@ -1,0 +1,27 @@
+
+            package p
+            func f(a, b bool) {
+           000000S struct{}
+                 if a && b {
+   00   type S struct{}
+0   type S struct{}
+   .010000^0uo          type S struct{}
+                 if a && b {
+   00   type S struct{}
+5   type S str0thixtuo       n comp ; Cyclomaticpe S spe S struc  type S struct{}
+                 if a && b {
+   00   type S struct{}
+0   type S struct{}
+   .01000000^00000      type S struct{}
+          if a && b {
+   00   type S struct{}
+0   type S struct{}
+   .010000^00000000thixtuo          type S struct{}
+                 if a && b {
+   00   |ype S struct{}
+5   type S str0thixtuo       n comp ; Cycinltlomatic: base}
+     pe S spe S struc  type S struct{}
+                 if a && b {
+   00   type S struct{}
+0   type S struct{}
+   .01000000^00000    " 

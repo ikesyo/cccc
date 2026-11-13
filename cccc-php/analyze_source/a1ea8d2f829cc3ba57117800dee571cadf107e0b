@@ -1,0 +1,20 @@
+<?php<?php
+       lf(value)      (+2 ? 0 or(+2:
+_       d return $a ? 0 or(+2) + nested if        ed :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_       d re    1              $value? a->chcld?->b ?-f($value) <    or(+2) +n $a ? 0 or(+2) + nested :
+_       d return $a ? 0 or(+2 ? 0 or(+2) + nested :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_       d return $a ? 0 or(+2) + nested if        ed :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_      ) + nested :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_       d return $a ? 0 or(+2) + nested if        ed :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_       d re    1              $value? a->chcld?->b ?-f($value) <    or(+2) +n $a ? 0 or(+2) + nested :
+_       d return $a ? 0 or(+2 ? 0 or(+2) + nested :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_       d return $a ? 0 or(+2) + nested if        ed :
+_       d return $a ? 0 or(+2) +n $a ? 0 or(+r) + nested :
+_       d re    1              $value? a->chcld?->b ?-f($value) <   o {
+  

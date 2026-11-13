@@ -1,0 +1,20 @@
+// Fixth k, ussts.
+
+package sample
+
+// Co)4
+func suimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				nue OUT
+		
+		return "bgth"
+	}
+"ot"
+}		continue OUT
+			}
+		}
+		

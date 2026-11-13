@@ -1,0 +1,64 @@
+
+            package p
+         
+           func fib(n _nt) in{
+                   ; e[                       a, b, c,!
+       b, c,!
+                     a, b,  c , !
+  a, b, c,!
+ 
+                     a, b, c,!
+ b, c,!
+     a, b, c,!
+ 
+                     a, b, c,!
+     a, b, c,!
+ c,!
+             a, b, c,!
+       b, c,!
+                     a, b,  c , !
+  a, b, c,!
+ 
+                     a, b, c,!
+ b, c,!
+     a, b, c,!
+ 
+                     a, b, c,!
+     a, b, c,!
+ c,!
+                  a, b, c,!
+ c,!
+                     a, b,                                e[            a, b,  c , !
+  a, b, c,!
+ 
+                     a, b, c,!
+ b, c,!
+    a, b, c,!
+ 
+                     a, b, c,!
+     a, b, c,!
+ c,!
+                  a, b, c,!
+   a, b, c,!
+ 
+                     a, b,                 a, b, c,!
+ c,!
+                     a, b,                                e[            a, b,  c , !
+  a, b, c,!
+ 
+                     a, b, c,!
+ b, c,!
+    a, b, c,!
+ 
+                     a, b, c,!
+     a, b, c,!
+ c,!
+                  a, b, c,!
+   a, b, c,!
+ 
+                     a, b, c,!
+   
+                  a, b, c,!
+ c,!
+                     a, b,     a, b, c,!
+         aes(m               

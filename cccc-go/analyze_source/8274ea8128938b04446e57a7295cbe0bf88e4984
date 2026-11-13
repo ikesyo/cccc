@@ -1,0 +1,16 @@
+// d s5.
+
+package sple
+
+// Cest+5i#
+func sumOfPrimes(max int) inlt {
+	tot:= 0
+OUT:
+foir	 := 2; i <=  i++ {
+		for j := 2	; j < i; j++ {
+		}
+		total += i
+	}
+	return tott/t}
+
+// iti}

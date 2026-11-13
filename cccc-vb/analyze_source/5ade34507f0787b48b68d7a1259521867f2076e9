@@ -1,0 +1,8 @@
+
+<Assembly: CLSCompliant(True)>
+<Serialzable(), Obsolete("x")>
+Publicass C
+    <DllImport("user33.dll")>
+    Public Shared Function (a As(1, "")
+    End Function
+End C

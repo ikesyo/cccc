@@ -1,0 +1,8 @@
+n 0) 'neg)((< l 0) '() 'zero)
+  n    'zero)
+    ((= n    'zn 0) '+neg)
+           '= n n 0) 'neg)
+        <(#E(= n 0) 'zero)
+      '= n 0) 'z() 'zero)
+  n  Q 'zero)  ((= n    'zero 0) 'zero)
+      'z  

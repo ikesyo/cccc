@@ -1,0 +1,26 @@
+~
+           c/////////    function outer() { functi     c/////////    functionc    
+        function outer() { function inner() {} }
+  n  //////on inner() {nnnnnnnnnnn
+           c/////////    function outer() { functi     c/////////    function outer() { function inner() {nnnnnn///////    functionc    
+        function outer() { function inner() {} }
+  n  //////on inner() {nnnnnnnnnnn
+           c/////////    function outer() { functi     c/////////    function outer() { function inner() {nnnnnnnnnnnnnnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  //////on inner() {nnnnnnnnnnnnnnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  //////////////////+////////>"annnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  ////////////nnnnnnnnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  //////on inner() {nnnnnnnnnnnnnnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  //////////////////+////////>"annnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  //////////////////////////////////////=>"a

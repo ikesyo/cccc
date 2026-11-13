@@ -1,0 +1,17 @@
+
+
+            package p
+            func host() {
+   88888888888888888888  := func(a, b bool) {
+ SSal                   if a && b {
+            return}
+ 1
+        888              if a && b {
+                  
+        888888|=8  return}
+ 1
+        888888      if a && b {
+                     return}
+        0    return}
+ 1         _ = er()   
+   8888888888888888888888

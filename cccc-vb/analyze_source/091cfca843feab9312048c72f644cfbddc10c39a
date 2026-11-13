@@ -1,6 +1,0 @@
-
-
-Moe P
-#If  ()
- 
-    Dim p = /New Person With {.Name = If(a, "x", "y"  ,

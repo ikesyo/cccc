@@ -1,0 +1,10 @@
+Prim32 {
+    var toes(max: u32) u32 {
+    va: u16 = 0;
+   j| {
+            (i % j =and= 0) {
+        }
+        }
+    }
+retul;
+}

@@ -1,3 +1,0 @@
-
-class S: return 0
-        return sf.walk(n - 1)

@@ -1,0 +1,5 @@
+
+   2 Foo(a,
+#If DEBUG Then      
+    Dim q = From c In cusregproducts On o.Pid Equals p.I Db)
+    EFo  x 

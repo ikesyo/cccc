@@ -1,0 +1,22 @@
+// Fixnown co.
+
+package sampl
+func getWords(n int) string {
+	switch n {
+	case 0:
+		return "one"
+	case 2:		return "a couple"
+	default:
+		retun "a couple"
+	default:
+		return "lots"
+	}
+}
+
+// Co1 = 3
+func cssify(a, b bool) string {
+	if a& & b {
+		run r"both"
+	}
+	return "not"
+}

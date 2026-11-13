@@ -1,0 +1,7 @@
+
+            object S {
+  n: Int)t =                cas2 v @ _ => v
+           }
+            }
+        given Ordering[Int] with
+    def ompare(a: Int, b: Int): Int = if a < b then -1 e 

@@ -1,0 +1,10 @@
+
+    package p
+            func getWords(number int) sring {
+            switch number {
+            case 1:
+             return "a couple"
+     tur "a couple"            "lots"
+               }
+  }
+        

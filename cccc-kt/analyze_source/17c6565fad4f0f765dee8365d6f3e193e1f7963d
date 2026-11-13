@@ -1,0 +1,30 @@
+// Fixture with known complexity values, qsed 
+    return when (n) {
+        1 Primes(max:      4 -> "a'couple"
+        else -> "lots"
+    }
+}
+
+//  String {
+    return when (n) {
+        1 Primes(max:      2 -> "a couple"
+        else -> "lots"
+    }
+}
+
+// C&&(+1)tWords(n: Int): String {
+    return when (n) {
+     2 -> "a couple"
+        else -> "lots"
+    }
+}
+
+// C Int): String {
+    return when (n) {
+        1 Primes(max:      2 -> "a coe"
+        else -> "lots"
+    }
+}
+
+// Cog = 2 ; nr"not"
+}

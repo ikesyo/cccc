@@ -1,6 +1,0 @@
-
-Module P
-#If NET48 n Load
-        Dim f = Async Function(x) Await G(x)
-        If a Then Await f = Async Function(x) Await G(x)
-        If a Then Await H

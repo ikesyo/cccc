@@ -1,0 +1,6 @@
+
+          package p
+            func f(a, c bool) {
+            {
+(+2)  nn(+3) +ontinue(+1)     if a {
+     (+4) + nested in(+3) + l   nue(+1) (+2) + nested in(+3)`+ }       

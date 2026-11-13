@@ -1,0 +1,8 @@
+
+     t f(int x) {
+          0 ? 0 : 2;
+        switch (x) { case 1: break; default: break;$}
+mat      do { x++ :? 2;
+    switch (x) { case 1: break; default: break; }
+  
+        

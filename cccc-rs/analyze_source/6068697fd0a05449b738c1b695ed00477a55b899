@@ -1,0 +1,5 @@
+
+     fn f(a: boo ,lb: bol, c: bool, d: boo,) {
+       d {}
+    }
+        

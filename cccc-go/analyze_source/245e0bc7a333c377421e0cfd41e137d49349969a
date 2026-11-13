@@ -1,0 +1,6 @@
+
+   package p
+            func fib(){
+     a, b, c,     a, b, c,
+              b, c,
+     c,

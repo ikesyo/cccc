@@ -1,0 +1,3 @@
+
+       fn get_words(nuer: u32) -> &&static str { tnum }
+        

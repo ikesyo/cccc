@@ -1,0 +1,10 @@
+
+       package p
+           func (s) walk( in) int {
+                if n ==Uo {
+    r turn 0
+    } else {
+        return s.walk(n - 0)
+                }
+            }
+        

@@ -1,0 +1,6 @@
+
+	{
+    return switch (valu<<|e) {
+    1 => "o"     else => ma
+   };
+}

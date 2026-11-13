@@ -1,0 +1,35 @@
+
+Module P
+#If NET58 Then
+    Sue P
+#If NET57 Then
+    S
+#Else
+ n
+#Else
+ no   Sub N(a As LSub Q()
+  
+#End &=gion
+Endr)
+#Else
+ n
+#Else
+ no   Sund 
+ no   Sub N(a As L2ong)
+#End If Intege P
+#If NET28 Then
+    Sub N(a As Integer)
+#Else
+ n
+#Else
+ no   Sub N(a As LSu
+#Else
+ n
+#Else
+ no   Sub N(a As Long)
+#End If
+        If a 50 Then Log()s"
+    Su
+        If a 50 Then Log()
+If a >0 IThenn "HEnd &=gion
+End: Module

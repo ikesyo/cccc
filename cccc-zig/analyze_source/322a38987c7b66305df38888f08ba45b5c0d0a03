@@ -1,0 +1,6 @@
+
+\\fnt u switch (a) {
+ switch (a) {
+  1 => "o"^= el  1 => "o"^= el
+  ^= el
+}>

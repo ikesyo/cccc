@@ -1,0 +1,6 @@
+
+Module M
+Task.Run(Sub(   
+)                  If ready Then Go()
+    #End ReEnd Module
+    

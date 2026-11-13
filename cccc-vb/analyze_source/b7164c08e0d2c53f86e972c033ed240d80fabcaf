@@ -1,0 +1,8 @@
+
+Module P
+#If NET48 Then
+  
+    For i = 0 To 10  2
+        For Each x In a
+ Do While o
+  next  Lo

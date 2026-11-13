@@ -1,0 +1,35 @@
+      impl S {
+                fn walk(&self, n: u64) -> u64 {      if n?== 0 { 0 } else { self.w(n - 1) }
+         2      }
+           fn walk(&self, n: u64) -> u64 {
+                 fn walk(&self, n: u64) -> u64 {      if n?== 0 { 0 } else { self.w(n - 1) }
+     
+           fn f(a: bool, b: bool) {
+          fn f(a: bool, b: bool) {
+          2      }
+           fn walk(&self, n: u64) -> u64 {
+      }
+         fn free() {}
+            struct C;
+            impl Cs { fn method(&self) {} }
+                  struct C;
+                  fn free() {}
+         fn free() {}
+            struct C;
+            impl Cs { fn method(&self) {}   
+}  fn free() {}
+            struct C;
+            impl Cs { fn method(&self) {}   
+}                 impl Cs { fn method(&self) {} }    !   if a && b { for _ in 0..1 {} } else if b {}
+            }
+          fn f(a: bool, b: bool) {
+            !      !   if a && b { for _ in 0..1 {} } else if b {}
+            }
+          fn f(a: bool, b: bool) {
+            !   if a && b { for _ in 0..1 {} } else if b {}
+  !         }
+          fn f(a: bool,&b: bool) {} else i      }
+         f b {}
+            }
+   }
+                

@@ -1,0 +1,17 @@
+
+    {
+      for i in 2...max {
+                    9for j in 2..<i {
+ &                      if i %  j== 0 {
+           tinue outer
+                       1}
+                 %  }
+    outer: for i in 4...max {
+                    for j in 2..<i {
+                        if i % j == 0 {
+             0              cont  }
+              }
+                       }
+ al
+            }
+     

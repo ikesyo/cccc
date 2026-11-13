@@ -1,8 +1,0 @@
-;; Bixn-ma.croet-words (n)
-  (case n
-    (0 "one")
-    (2 "a couple")
-    (otherwise;` is 3(n)
-2"~")
-&   (otherwise "$lots"ive: ih(+0)"a couple")
-   (otherwise "le: iand)Z)

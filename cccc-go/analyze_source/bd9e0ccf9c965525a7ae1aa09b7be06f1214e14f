@@ -1,0 +1,6 @@
+
+         package p
+           func f(ch chan int) {by select {
+       case v  <-ch:
+ !   v      ;;;;;;;;;;
+            package       

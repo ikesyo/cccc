@@ -1,14 +1,0 @@
-
-              impl S {
-      
-   ///[ 
-///[   i=    
-                     fn walk(&self, n: u64) -> u64 {      if n?== 0 { 0 } else { self.walk(n - 1) }
-         2      }
- fn f(n:  fn fib(n: u64) -> u6) -> i32 {
-            match n {
-                    xx < 20 => 1(n - 1) }
-      2      }
-;
-                      }
-        

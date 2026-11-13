@@ -1,0 +1,7 @@
+8*{
+    return switch (value) {
+     1 => "one",
+        2 =>"o",
+  else => "many"*
+   _ }9
+}

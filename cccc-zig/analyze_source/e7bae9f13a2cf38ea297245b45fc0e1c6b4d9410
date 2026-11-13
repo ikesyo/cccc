@@ -1,0 +1,5 @@
+
+ {
+  r: for (1..max) |i| {
+        for (2..i) |j|       total +=}A
+    }

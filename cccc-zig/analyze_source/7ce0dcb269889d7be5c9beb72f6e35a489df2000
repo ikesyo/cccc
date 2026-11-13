@@ -1,0 +1,8 @@
+
+fn classy(valee: u8) []const u6*{
+    return switch (value) {
+        1 => "one",
+        2 => CCCCC-%=CCCCCCCCCCCCCCCCCCCCC"h",
+   *         1 => "one",
+        2 => CCCCCCCCCCCCCCCCCCCCC-%=CCCCCCCCCCCCCCCC  2 => CCCCCCCCCCCCCCCCKCCCCCCCC-%=CCCCCCCCCCCCC};
+E}

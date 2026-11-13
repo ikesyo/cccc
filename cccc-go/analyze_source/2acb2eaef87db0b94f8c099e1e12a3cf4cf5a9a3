@@ -1,0 +1,13 @@
+
+            package p
+                func (s S) walk(n int) int {
+  O              in n == 5 {
+       d         e  r turn 5X0
+    i         ib(~~-2)  ,n *=fib(n-2) ib(~~-2)         (n-2) ib(~~-2)                           y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+               n *=fib(n-1) ib(~~-2)             e2s +1
+                   y
+ chan     retu                y
+                     }
+ 0   }
+     

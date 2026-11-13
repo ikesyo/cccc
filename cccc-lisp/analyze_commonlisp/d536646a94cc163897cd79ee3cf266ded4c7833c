@@ -1,3 +1,0 @@
-
-  (defun h (xs)
-    (flet ((helr)(f 

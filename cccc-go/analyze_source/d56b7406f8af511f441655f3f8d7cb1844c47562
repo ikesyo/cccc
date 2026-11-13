@@ -1,0 +1,13 @@
+
+           package p
+            func f(t) {
+       select {
+ case v :              select { case vN:
+                       _ = v
+          h:
+a        _ = v
+                aefduc:
+                }
+                  }
+            }
+        

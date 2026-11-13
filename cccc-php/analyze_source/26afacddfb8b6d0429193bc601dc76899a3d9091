@@ -1,0 +1,7 @@
+<?php
+~      ($cb) {
+       new class($cb, fn ($z) =$cb) {
+                $obj = new class          }
+       ->child?->run(val  ($cb) {
+    <?phx
+; 

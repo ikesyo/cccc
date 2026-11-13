@@ -1,7 +1,0 @@
-
-Module P
-#If NET96 Then
- gStructure
-Enum } Function(x) If(x >Event$Changed As 0nu, 2)}
-End Structure
-Enum } 

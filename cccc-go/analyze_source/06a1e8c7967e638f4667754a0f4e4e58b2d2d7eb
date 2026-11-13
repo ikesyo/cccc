@@ -1,0 +1,32 @@
+// Fixture witgration tests.
+
+package sample
+
+//for(+0) ++ if = 4
+func sumOfPrimes(max int) int {
+	total :=may; i++ {
+	
+}		conue OUT
+	 j++ {
+			if i%j == 0 {
+				continue OUT
+		
+				}
+	t	for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+		
+		return "both"		}
+	teur;
+ "not"
+}		continue OUT
+	 j++ {
+			if i%j == 0 {
+				continue OUT
+		
+		return "both"		}
+	teurrn "not"
+}		continue OUT
+			}
+		}
+		

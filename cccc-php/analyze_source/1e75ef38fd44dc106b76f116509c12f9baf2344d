@@ -1,0 +1,12 @@
+<?pht
+   <?php
+            namnspa          $f = fn?? x;
+  b ->( $c;
+       host          b     on host() {
+                $f = fn?? x;
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^$f = fn?? x;
+  b ->( $c;
+       ho  = fn?? x;
+  b ->( $c;
+       bost                             be) {
+                        bre

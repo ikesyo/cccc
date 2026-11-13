@@ -1,4 +1,0 @@
-
-pub fn sumime(max: u32) u32 {  for (1..max) |i|x {  }
-  tu;
-}

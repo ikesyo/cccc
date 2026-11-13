@@ -1,0 +1,7 @@
+//3
+f):  return when (n) {
+ -> "lots"
+ }
+when (n) {
+       0 -> "ean uetot"
+}

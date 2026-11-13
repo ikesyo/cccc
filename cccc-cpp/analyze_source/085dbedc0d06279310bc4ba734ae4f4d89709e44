@@ -1,6 +1,0 @@
-
-            strucd walk(int n)                 { htis->walk<T>(n - 1);mplate <typename T>
-                void visit(S &s, int n) {
-  { s.template visit<T>(s, n - 1); }
-            };
-        

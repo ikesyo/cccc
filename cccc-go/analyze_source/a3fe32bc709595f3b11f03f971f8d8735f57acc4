@@ -1,0 +1,34 @@
+
+            package p
+            func f(ch chan int) {
+    {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:                default:
+                }
+          
+ 0  {
+                select {
+                case v := <-ch:
+                    _ = v
+         t:        select {
+                   default:
+                }
+          
+ 0              }
+            }
+                 select {
+                case v := <-ch:
+                        _ = v
+               sel               var yin22ue pA                               var      comntbyin22ue pA             var      comntntbyin22e pA      var     in22ue pA             var      comnte pA      var      comntbnyi11ucagejjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj p    var      cOmntbpaccage p
+                                       var      comntbyin22ue pA             var      comntntbyin22e pA      var     inue pA             var      comnte pA      var      comn pA      var     in22ue pA             var      comntntbyin22ebyin22ue pA             var      comntntbyin22e pA      var     inue pA             var      comnte pA      var      comntbnyi        unc host() {J
+    ;ol   () {
+        pac>>ge p
+            fu1nc host() {
+                       unc host() {J
+ 11ucage p
+                    var yin22ue pA                               var      comntbyin22ue pA             var      comntntbyin22e pA      var     in22ue pA             var      comnte pA      var      comntbnyi11ucagejjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj p    var      cOmntbpaccage p
+                                       var      comntbyin22ue pA             var      comntntbyin22e pA      var     inue pA             var      comnte pA      var      comn pA      var     in22ue pA             var      com pA         }
+            }
+        

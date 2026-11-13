@@ -1,0 +1,3 @@
+trait n {
+    fn free() {   1  } 
+    }   

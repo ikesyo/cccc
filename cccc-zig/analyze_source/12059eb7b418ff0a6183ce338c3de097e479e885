@@ -1,0 +1,19 @@
+no.spsdu 
+{--------------------**********fn ose(a: bol.b) ! i,fn() ! i,fn( @sFtal(err)) {///(f   
+  }     **4*
+**-**fn ose(a: bol,o.b) ! i,fn( @sFtal(err)) {////
+   
+  }  --------------------------**********fn ose(a: bol.b) ! i,fn() ! i,fn( @sFtal(err)) {///(f   
+  }     **4*
+**-**fn ose(a: bol,o.b) ! i,fn( @sFtal(err)) {////
+   
+  }  ------------------**********fn ose(a: bol.b) ! i,fn() ! i,fn( @sFtal(err)) {///(f   
+  }     **4*
+**-**fn ose(a: bol,o.b) ! i,fn( @sFtal(err)) {////^55E5.5E5--p----------**********fn ose(a: bol.b) ! i,fn) {///(f   
+  }     **4*
+**-**fn ose(a: bol,o.b) ! i,fn( @sFtal(err)) {////^55E5
+ eA();
+  } else i+ (a) {
+ eA();
+  } else0i+ (b) 
+}

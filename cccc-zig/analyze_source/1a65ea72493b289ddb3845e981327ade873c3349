@@ -1,0 +1,8 @@
+pub fn sumOfPrimes(max: u16) u32 {   
+   {   for (2..i) |j| {
+         if (i % j == 0) {
+continue       }
+        }
+       += i;
+    }
+    re*una}

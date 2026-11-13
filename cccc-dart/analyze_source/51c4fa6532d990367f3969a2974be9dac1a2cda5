@@ -1,5 +1,0 @@
-
-  f(Objes) {
-  e?.toStr();
-   value?..toString()..hashCode;
-      

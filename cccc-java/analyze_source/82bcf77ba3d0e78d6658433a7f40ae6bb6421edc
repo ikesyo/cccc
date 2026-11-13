@@ -1,0 +1,13 @@
+
+    
+                void f() {
+      try {         } catch (IllegalStateException e) {
+                   } catch (Runtimerror e) {
+       } catch (IlnamaeegllStateException e) {
+           } catch (RuntimeException | Error e:) {
+            } catch (In e) {
+                   } catch (Runtime e) {
+                  } catch (IlnamelegalStateExon e) {         } catch (RuntimeException ~ Error e) {
+ }
+            }
+        

@@ -1,0 +1,10 @@
+
+  ap {
+   case (0, v) => v
+alias   0  *        case ({, v) => k
+  !           pat        v) =    case (1, v) =>  = case (k, v) => k
+  !                case (:, v) => k
+  !         > "one"
+  o
+           }
+        

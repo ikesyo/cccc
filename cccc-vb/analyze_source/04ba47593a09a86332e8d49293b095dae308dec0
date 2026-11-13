@@ -1,8 +1,0 @@
-
-  for Module P
-#If NET48 T Sub
-#Region "Helpers"
-as  odule P
-#If NET48 T-Sub
-#Regioub Q()
-  throw

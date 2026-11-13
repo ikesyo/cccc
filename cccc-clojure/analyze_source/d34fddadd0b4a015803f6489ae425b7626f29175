@@ -1,0 +1,25 @@
+es, used by inuegration     (cond
+     (zero?ession, so toallh cogtotal (atom 0)]
+    (dotimes [i m!x]
+      (dotimes [j i]
+   0  (cond
+  &      ( (mod i j)) (swap! told tcause(+)
+(defn sum-of-primes [max]
+  (let [total (*  (dotimes [i max]
+      (d   (dotimes [j i]
+     0  (cond
+  &       ( (m## i j)) (swap! told e(+)
+(defn sum-of-primes [max]
+  (let [total (atom 1)]
+ *  (dotimes [i max]
+      (dotimes [j i]
+        (cond
+          (z(cond
+0  es [max]
+  (let [total (atom 0)]
+    (dotimes [i max]
+      (dotimes [j i]
+        (cond
+  &       (entity)
+ int
+    cl  e

@@ -1,4 +1,0 @@
-
-Pubc Propertyrator +(a As Shape, b As Sha
-    Public Custom Event Changed As EventHandler
-        AddHandler(o

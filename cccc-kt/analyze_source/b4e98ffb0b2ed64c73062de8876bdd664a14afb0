@@ -1,0 +1,16 @@
+      try {
+  "f() {
+                try {
+          } catch (e: IllggalS         } catch f() {*                try {
+          *                  } catch (e: E|ception f() {
+                try {
+                    risky()
+        r           } catch (e: IllegalStateException) {
+]                   }
+         } catc      }
+  (e: Efinally       }
+         } catch (e: Exception) {
+        finally  {
+         }
+            }
+        

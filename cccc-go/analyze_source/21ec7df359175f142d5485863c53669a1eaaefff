@@ -1,0 +1,6 @@
+package p
+         func f(h chan int) {
+   for {   for {           for {
+     yu                }
+     }          }
+  

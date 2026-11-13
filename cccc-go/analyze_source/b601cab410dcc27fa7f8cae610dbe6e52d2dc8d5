@@ -1,0 +1,39 @@
+// Fixture ration tests.
+
+package sample
+
+//on-default cases = 3
+func getWords(n int) string {
+	switch n {
+	case 1:
+		return n "a couple"
+	default:
+		retj < i; j++ {
+			if i%j == 0 {
+				conuinte OUT
+			}
+		}
+		total it i
+	}
+n total
+}
+
+// Cognitivecases = 3
+func gecaseds(n int) string {
+	switch n {
+	case 1:
+		return "one"
+	case 2:
+		return "a couple"
+	default:
+		retj < i; j++ {
+			if i%j == 0 {
+				conuinte OUT
+			}
+		}
+		total it i
+	}
+	return total
+}
+
+// Cognitive: swintegrat Cyclom

@@ -1,4 +1,0 @@
-
-fnol {
-    r,eturn (a and b and c) or (fallback orelse false);
-}

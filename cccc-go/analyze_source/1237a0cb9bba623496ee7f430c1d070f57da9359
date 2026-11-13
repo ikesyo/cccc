@@ -1,18 +1,0 @@
-
-            package p
-            func sumOfPrimes(max int) int {
-j == 0                  i& i%j == 0           OUT
-             ret>=Nvvv          rv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
-          vvvvvvvvvvvvvvvv!=vvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvv!=v== 0           OUT
-          vvvvvvv      vvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv   vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvv!=v== 0           OUT
-   vvvvvvvvv!=vvvvvNvvv              comntinue OUT
-        vvvvvvvvvvvvv!=vvv>=Nv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvvvv  vvvvvv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      ret                 comUT
-      vv=Nvvvvvvv!=vvvvv       vvvvvvvvvvvvvvvv!=vvvvvNvvv              comntinue OUT
-        vvvvvvvvvvvvv!=vv  vvvvv>=Nv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvv!=vvvvOvvv        vvv        vvvvvvvvvvvvv!=vvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv          rv          ret  vvvvvvvvvvvv!=vvv>=Nvvv      nue OUT
-          vvvvvvvvvvvvvvvv!=vvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvv!=v== 0           OUT
-          vvvvvvv      vvvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvOvvv        vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          ret>=Nvvv   vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvv!=v== 0           OUT
-   vvvvvvvvv!=vvvvvNvvv              comntinue OUT
-        vvvvvvvvvvvvv!=vvv>=Nv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvv>=Nvvv          returnvvvvvvv  vvvvvv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      ret                 comUT
-      vv=Nvvvvvvv!=vvvvvNvvturn total
-            }
-        

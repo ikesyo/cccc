@@ -1,8 +1,0 @@
-
-pub fn sumOfPrimes(max: u32) u32 {
-   for (2..{    for (2..?) |
-    }   var total:) |i| {
-  (2..?) |
-    }
-    rturotal;
-}
