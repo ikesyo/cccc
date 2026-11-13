@@ -1,0 +1,10 @@
+
+Module M
+    Function SumOfPrimes(max As Integer)()
+#If XM
+    Sub A()
+#If X i
+NextI:
+        eturn total
+ writeonly   End Function
+End Module

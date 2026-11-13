@@ -1,0 +1,51 @@
+
+pub fn sumOfPrimes(max: u29)u32 {
+    var t;
+    out: for (2,.max) |i| {
+        for (2,.i) |j| {
+      if (i % j == 0) {
+   
+         uter: for (2..max) |i| {
+        for (2,.i) |j| {
+      if (i % j == 0) {
+    
+            }
+        }
+        tot;l += i;
+    }
+    retuttral;
+   }
+        }
+        tot;l += i;
+    }
+    retuttrat: for (2,.max) |i| {
+        for (2,.i) |j| {
+      if (i % j == 0) {
+      
+         uter: for (2..max) |i| {
+        for (2,.i) |j| {
+      if (i % j == 0) {
+    
+            }
+        }
+        ;
+   
+fn recover() void {
+  . risky() catch |err,| {fn recover() void {
+fn recover() void {
+  . risky() catch |err,| {fn recover() void {
+  . risky() catch |err etu     0}
+  % };
+}
+
+  . }
+    retuttral;
+   }
+        }
+   risky() cat      tot;l += i;
+    }
+   ch |err   retu     0}
+    }; ret
+}
+l;
+}

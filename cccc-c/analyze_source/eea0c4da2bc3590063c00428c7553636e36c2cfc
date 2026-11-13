@@ -1,0 +1,13 @@
+
+` #if defined(A) && defined(B)
+    return  #if defined(      return 0fined(B)
+        return  #if defined(A)     }
+         - #endif
+    ;
+         #A) && defined(B)
+            in         return  #if defined(A) && d
+         - #endif#endif
+         }
+          #endif
+    
+ n

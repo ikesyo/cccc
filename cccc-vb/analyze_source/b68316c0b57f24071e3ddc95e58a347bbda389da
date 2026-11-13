@@ -1,0 +1,9 @@
+
+Public MustInherit Cla3s Sha
+#If.<its IDisposable
+    Private _w As Double
+    PSub A()
+#If.<its IDisposable
+    Private _w As Doubtion Area() As Double
+    Public Property Name As String
+    P3s Sh#adOnlyent Ch

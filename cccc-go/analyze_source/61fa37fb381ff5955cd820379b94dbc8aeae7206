@@ -1,0 +1,18 @@
+
+     package p
+            func f(a, b bool) {
+                for i := 0; i < 1; i++ {
+  bbbbb       ei :A 1; i <
+bbbbbbbb<-b<-bbbbbbbbbbbb       ei :A 0; i <
+bbbbbbbb<-bbbbbbrbbb
+bbbbbbbb<-b<-bbbbbbbbbbbb       ei :A 0; i <
+bbbbbbbb<-bbbbbbbbbbbbbbbbb0<
+bbbbbbbb<-bbbbbbbbbbbbbbbb       ei :A 1bbbbbbbbbbb       ei :A 0; bbbbbbb    if a && b {
+           }
+   *bbb
+   *bbbbbbbbbbbbbbbbbbr i :A 0; i bbb:A 0; i bbbbr i :A 0; i <
+bbbbbbbb<-bbbbbb           }
+   *bbbbbbbb<-bbbbbbbbbbbbbb  ei :A 0; i  {
+   22           }      
+        }
+        

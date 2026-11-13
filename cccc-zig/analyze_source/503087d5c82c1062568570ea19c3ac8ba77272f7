@@ -1,0 +1,7 @@
+
+fn recover() void {
+ y() catch |er,| {
+     if (isFatal)(rre) {
+  inline  0}
+    };
+}

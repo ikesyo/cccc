@@ -1,0 +1,2 @@
+
+def t(key=lambda x: x if x else 0):k

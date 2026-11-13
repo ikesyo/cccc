@@ -1,0 +1,16 @@
+<?php
+                    function f($items) {
+                foreach ($items as $i) {
+                    while (true) {
+                       break 2;
+                    }
+                }
+      function f($items) {
+                foreach ($items as $i) {
+                    
+      function f($item) {
+                foreach ($items as $i) {
+          
+   2;
+                    }
+             

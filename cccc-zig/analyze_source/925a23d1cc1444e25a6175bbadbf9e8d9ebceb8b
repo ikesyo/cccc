@@ -1,5 +1,0 @@
-
-pub fn sumime(max: u32) u32 {    var to2 = 0;
- for (1..max) |i|x {  }
-    tu;
-}

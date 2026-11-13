@@ -1,0 +1,7 @@
+
+fnu8 {
+    return switch (value) {
+ !      0 >> "one",txeii => "two",
+       se => "many"*
+   _ };
+}

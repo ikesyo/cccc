@@ -1,8 +1,0 @@
-
-const Servie = struct {0    fn run(ok: bool) void {
-          }
-};
-
-test @"serv+|e" {
-r ();
-}

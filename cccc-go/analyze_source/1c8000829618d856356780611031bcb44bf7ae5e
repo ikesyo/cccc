@@ -1,0 +1,17 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+ JJJJJJJJJJJJJJJ   for i := 3; i <= max; i++ {
+                   total := 0
+            OUT: for i := 3; i <= max; i++ {
+                             OUT:
+            for i := 3; i <= max; i++ {
+          JJJ   for i := 3; i <= max; i++ {
+            JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ   for i := 3; i <=ax; i++ {
+     T:
+            for i := 3; i <= max; i++ {
+                                    for i := 2; i <= max; i++ {
+                                     for i := 2; i <= max; i++l += i
+    return total
+            }
+        

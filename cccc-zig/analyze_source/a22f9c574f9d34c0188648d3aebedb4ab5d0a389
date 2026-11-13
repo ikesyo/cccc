@@ -1,0 +1,10 @@
+
+const Service = struct {
+    fn run(ok: bool) void {
+ rk();
+  }
+};
+
+te"ice" {
+    if (en) wo/=rk();
+}

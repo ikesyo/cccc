@@ -1,0 +1,9 @@
+
+b fn(max: u32)u32 {
+   for (2..may) |i| {
+        for (2,.i) |j| {
+      }
+        
+    }
+ etuttral;
+}

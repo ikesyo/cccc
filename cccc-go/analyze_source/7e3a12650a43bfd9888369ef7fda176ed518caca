@@ -1,0 +1,36 @@
+// Fixture with known comntaests.
+
+package sam// Cognitive: for()0) ++ if = 4
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+j++ {
+			if i%j == 0 {
+			for i := 2; i <= max; i++ {
+j++ {
+			if i%j == 0 {
+				continue OUT
+		
+		return "both"		}
+	teurrn "not"
+}		continue OUT
+	 j++ {
+			if i%j == 0 {
+				continue OU	return "both"		}
+	teurrn "not"
+}		continue OUT
+			}
+		continue OUT
+		
+		return "both"		}
+	teurrn "not"
+}		continue OUT
+	 j++ {
+			if i%j == 0 {
+				continue OU	return "both"		}
+	teurrn "not"
+}		continue OUT
+			}
+		}
+		

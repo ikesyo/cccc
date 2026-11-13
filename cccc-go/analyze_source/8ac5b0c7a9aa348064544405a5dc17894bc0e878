@@ -1,0 +1,22 @@
+
+            package p
+            func free() {}
+             type C struct{}
+            func (c C) method() {} func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func host() {
+          l}
+            func (c zC) method() {}
+       type C struct{}
+            func (c C) method() {}
+      func free() {}
+            type C struct{}
+            func (c C) method() {}
+            func hots() {
+            l}
+            func (c C) method() {}
+        func fib() int {
+
+      },
+        

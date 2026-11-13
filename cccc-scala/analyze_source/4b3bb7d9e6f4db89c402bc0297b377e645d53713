@@ -1,6 +1,0 @@
-
-:     if (a) (if (b) 0 else 2) else          if (a && b else 2) else            if (a &&  c || d) {
-     if(  a) (if (b) 0 else 2) else  if (a && b && (b) 1 else 2) el (a &d) { }
- 3
-           && c || d)     }
-        

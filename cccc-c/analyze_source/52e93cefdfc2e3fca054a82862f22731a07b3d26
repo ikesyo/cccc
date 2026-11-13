@@ -1,15 +1,0 @@
-u    ; jj+
-$         vI       v  if (x) {                }
-   if (x) {
-         }
-       if (x) {
-   }
-     if (y) {}
-        ) ++{  if (x) {                }
-   if (x) {
-       }
-                if (x) {
-   }
-     if (y) {}
-  ?  goto next;
-    }} 

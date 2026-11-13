@@ -1,6 +1,0 @@
-
-    If a > 0 Then
-    ()
-    Else
-   
-    If a = 5 Then Foo() Else Bar()

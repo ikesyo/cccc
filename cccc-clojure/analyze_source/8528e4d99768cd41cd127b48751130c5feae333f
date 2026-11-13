@@ -1,7 +1,0 @@
-es,r    (dotimes [j i]
-  (cond
-     [to&(or (dotimes [i max]
- (dotimes [j i]
-        (cond [to   (or ([ax]
-      (dotimes  i]
-

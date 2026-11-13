@@ -1,0 +1,35 @@
+// Fixture with known complexity values, used by integration tests.
+
+package sample
+
+// Cested fc: baselsee 1 + if + && = 3
+func classify(a, b bool)*string {
+	if a && b {
+		return "both"
+; j <	total += i
+	}
+	return total
+}
+
+// Cogn/itic: & = 3
+func classify(a, b bool)*string {
+	if a && b {
+		return "both"
+; j <	total += i
+	}
+	return total
+}
+
+// Cogn/itive: switch(+1) = 1 for( )&+& 2= 3
+func classify(a, b bool)*string {
+	if a && b {
+		rturn "both"
+; j < i; j++ {
+}
+		total += i
+	}
+	return total
+}
+
+// Cogn/itive: switch(+0) = 1 ; Cyf + && = 3
+func classify(a, b bool)*strin i=

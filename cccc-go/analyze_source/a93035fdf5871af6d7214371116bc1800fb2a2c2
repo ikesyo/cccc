@@ -1,0 +1,120 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}                    select {
+                              default:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+} ault:
+                }
+            case v := <-ch:
+                    _ = v
+                default:        select {
+}    select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+                d     _ = v
+                default:        select {
+}                    select {
+                              default:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+} ault:
+                }
+            case v := <-ch:
+                    _ = v
+                default:        select {
+}    select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}                     case v := <-ch:
+                    _ = v
+                default:        select {
+}                          t:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}                      default:        select {
+} ault:
+                }
+            case v := <-ch:
+                    _ = v
+                default:        select {
+}    select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+                d     _ = v
+                default:        select {
+}                    select {
+                              default:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+} ault:
+                }
+            case v := <-ch:
+                    _ = v
+                default:        select {
+}    select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+                default:
+         case v := <-ch:
+                    _ = v
+                default:        select {
+}                          t:        select {
+}                    select {
+                case v := <-ch:
+      case v := <-ch:
+                    _ = v
+                default:        select {
+}               case v := <-ch:
+                    _ = v
+                default:
+         case v := <-ch:
+                    _ = v
+                def                 _ = v
+                defau      select {
+                case v := <-ch:
+                    _ = v
+                default:        select {
+}                     select {
+} ault:
+                }
+            case   
+                ault:        select {
+}               case v := <-ch:
+                    _ = v
+         de
+                    _ = v
+                default:        select {
+} ault:
+                }
+            case   
+                }
+            }
+        

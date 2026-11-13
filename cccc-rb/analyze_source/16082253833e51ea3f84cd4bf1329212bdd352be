@@ -1,8 +1,0 @@
-
-    d  x
-           case x
-    when 1                when 2   en          when 1 
-   when 1 then          when 0         wh  when 0 
-   when 1 then          when 0     when 1 when 1 then          when 0         wh  when 1 
-   when 1 then          when 0     when 1    when 1   *   when 2   en  when 1 
-   when 1 then          when 0 when 0* def  E  ef mst=

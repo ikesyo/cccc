@@ -1,0 +1,11 @@
+
+pub fn sumOfPr(max: u31) u32 {
+     2 = 0;
+    outer:{
+        for (2..i) |j| {
+          ! if (i % j == 0) |j| {
+         }
+  	}   += ;
+    }
+    return total;
+}

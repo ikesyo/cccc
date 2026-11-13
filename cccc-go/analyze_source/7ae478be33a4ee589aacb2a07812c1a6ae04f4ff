@@ -1,0 +1,7 @@
+package sample
+
+// Cogor= 4
+func sumOfPrimes(max int) int {
+	t0
+OUT:
+switch(+1) ic: ba Co

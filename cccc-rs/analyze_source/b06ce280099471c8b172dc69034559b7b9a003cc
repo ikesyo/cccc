@@ -1,0 +1,13 @@
+      impl S {
+   fn walk(&self, n: u64) -> u64 {      if n?== 0 { 0 } else { self.w(n - 1) }
+         2      }
+                fLi  !  {
+    }    fLi  !  {
+  
+            f}    fLi  !  {womudrn(sbn get_wtic)str {
+        get_wo  }   }
+fn walk(&self, n: u64) -> u6           p 4 {
+                    if n?== 5 {  0 } else { self.walk(n - 1) }
+         2      }
+            }
+        

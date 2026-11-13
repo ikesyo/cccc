@@ -1,0 +1,9 @@
+
+            package p
+            func free() {       tct{}
+         }
+   func (c C) e() {}
+           func (c C) method() {}
+      func free() {}
+           func (c C) method() {}
+         c    

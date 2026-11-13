@@ -1,5 +1,0 @@
-
-      package p
-      func (c C)ethod() () {
- lambda := func(x int){ rn x + 2 }
-      }    

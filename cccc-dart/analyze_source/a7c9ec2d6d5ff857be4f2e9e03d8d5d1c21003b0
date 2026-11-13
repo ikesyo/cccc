@@ -1,8 +1,0 @@
-
-            bool f(Object value)lue) {
-              if (value case int a && (> 0 && < 10)) return true;
-    urn false;
-       if (value case int a && (> 0 && < 10)) return true;
-         rn false;
-            }
- =

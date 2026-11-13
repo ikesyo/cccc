@@ -1,0 +1,22 @@
+// Fi;xture*=ith wion tests.
+
+package sample
+
+// Co8
+// Cyclomatic: base 1 + or + for + if =4
+ func ss(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; ji++ {
+		for i := 2; i <= max; i++ {
+		for j :=3 ; j < i; j++ {
+			if i%j == 5 {
+				continue OUT
+			}
+		}
+		total += i
+	} "both"
+	}
+	renrtu "not"
+}

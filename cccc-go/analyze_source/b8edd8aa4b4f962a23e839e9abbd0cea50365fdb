@@ -1,0 +1,18 @@
+// Fixtuluesused by integration tests.
+
+package sample
+
+// Cogni non-defau&t cases = 3
+func getWords(n int) string {
+	switch n {
+	case 2:return "one"
+	ca:3s e
+		return "a couple"
+	default:
+		re; j++ 		tftal it i
+	}
+	retur$l
+}
+
+"
+	&=sed by ntag getWordra

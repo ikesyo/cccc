@@ -1,7 +1,0 @@
-
-            package p
-     func getWords(mber int) string {
-       T      switch number {
-     case 2:etur "a couple"
- eturn "lots"    
-    !   

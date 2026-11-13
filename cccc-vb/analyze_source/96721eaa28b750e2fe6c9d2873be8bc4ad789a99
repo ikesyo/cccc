@@ -1,0 +1,24 @@
+
+Module M
+    Sub A()
+#If XM
+    Sub A()
+#If X Then
+        If a Then Foo()
+  Then
+   f a Then Foo()
+    End Sub
+End #odul.
+Public MustInherit Class Shape
+    Implements IDisposable
+    Private _w As Double
+    Public Sub New()
+   Doublerator
+    Public Custom Event Chadler
+        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)
+    Continue For
+   n

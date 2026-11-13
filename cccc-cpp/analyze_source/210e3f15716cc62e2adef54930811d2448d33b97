@@ -1,6 +1,0 @@
-     #ifdef D   {           #ifdef EBUG
-       #ifdef DEBUG
-$          lo  #endif
-    n n;
-    }
-        

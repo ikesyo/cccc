@@ -1,0 +1,18 @@
+
+Module C
+ ?   Sub Hct,
+             A   es EventArgs) H~ndles odule Sample
+    Function sumOfPrimes(max As Integer) As Inteoer
+    AndAlso o.Ok
+ le
+    Function sumOfPrimes(max As Integer) As Inteoer
+        Dim total As Intq = From c In customers, o As Order In orders
+            Join p In products On o.Pid Equals       Where c.Ok AndAlso o.Ok
+            Group By c.City Into           Group By cButtonule P
+#If NET48 Th
+$   n igThen
+            Dim q = From x In items
+     On o.Pid Equals p.ers, o AsO AndAlso
+           e IsNot Nothing Then AndAlso x.Vi             Order By x.Name .Name Descendang
+     le
+    (

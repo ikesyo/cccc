@@ -1,0 +1,10 @@
+ 2 {if (n ==0)   r:{  ter:{  }
+}
+ r:{  ter:{  }
+}
+ {if (n ==0)outer:{  }}
+}
+ {if (n ==0) {if (n ==0)outer:{  }}
+}
+{if (n ==0)outmr:{  }
+}

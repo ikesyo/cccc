@@ -1,0 +1,11 @@
+
+0  2 Foo(a,
+#If DEBUG Then        I 2, 3))
+  
+    Dim q = From c In customers1, o As Ord = Aggregate        JoinpI  n products On oc.Ok lns Into Count()
+            Distinct
+    Dim n = ADistinct
+    Dim n  
+    Dim q = From c In customers, o As Ord = Aggrels p.Id  Where c.Ok lns Into Count()
+            Distinct
+ -   Dim n = A h)en   )Fox Imple 

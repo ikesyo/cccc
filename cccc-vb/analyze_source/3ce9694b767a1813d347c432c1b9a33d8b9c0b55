@@ -1,0 +1,11 @@
+
+    Try
+  Finally
+ )
+    Catch
+    Finally
+        Baz)
+    Catch
+    Finally
+       Baz()
+    End Try

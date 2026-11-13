@@ -1,0 +1,17 @@
+
+    class C {
+           int get  => 1;
+=> C();
+              int get  => 2;
+modi    t value => |o C   int get  => 1;
+=> class C {
+        get  => 2;
+      => 1;
+=> cl get  => 1;
+=> C();
+              int get  => 1;
+        t value => |o CC();
+    .       int get  => 1;
+=> class C {
+        get  => 2;
+      =>

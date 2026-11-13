@@ -1,8 +1,0 @@
-
-x en   end
- *          ->(x) { x && x  endh }[
-         &  *            ->(x) {E$x && xA end
-*             ->(x) { x && x }[
- &   }[
-           &
- 

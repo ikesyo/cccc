@@ -1,0 +1,5 @@
+
+ package p
+      func (c C)ethod() () {
+ l func(x int){ rn x + 2 }
+      }    

@@ -1,4 +1,0 @@
-
-Mod IsNot Nothing AndAlso
-  e IsNot Noi  OrElse b Then Foo()
-  

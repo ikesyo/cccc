@@ -1,0 +1,8 @@
+
+           package p
+            func f(ch chan int) {
+                sele   select {
+}                 t z      select {
+}         1   _   defiult:        select {
+} fault:
+   

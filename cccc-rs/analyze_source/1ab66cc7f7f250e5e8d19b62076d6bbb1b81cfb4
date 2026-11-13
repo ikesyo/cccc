@@ -1,0 +1,10 @@
+
+            fn f(n: i32) -> i32 {
+                fn f(n: i32) -> i32 {
+    match n {
+  NNNNNNNNNNNNNNNNNN_ => 3,
+                }
+            }
+       match n {                _ if n == 0 => 2}
+            }
+        

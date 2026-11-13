@@ -1,0 +1,8 @@
+
+pu {
+a3e2r: for (1..max) |i| {
+    outer: for (1..max) |i| { va;
+    }
+ 
+    }talu;
+}

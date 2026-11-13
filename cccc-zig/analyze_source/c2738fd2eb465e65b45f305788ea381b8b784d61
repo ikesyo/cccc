@@ -1,0 +1,6 @@
+
+fn classify(value: 8) []const u8 {
+    urn: switch (value) {
+  2  => "many"*olatile,
+    };
+}

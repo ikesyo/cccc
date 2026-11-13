@@ -1,0 +1,4 @@
+
+    Dim q = From c In customers, o AsOn o.Pid Equals p.ers, o AsOn o.Pid E  Where c.Ok And]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]Also o.Ok
+            Group By c.City Into Count()
+      Aggregate x In xs Into S  xs Into a Then Foo()

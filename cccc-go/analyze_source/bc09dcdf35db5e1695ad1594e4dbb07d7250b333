@@ -1,0 +1,24 @@
+
+            package p
+            func free() {}
+             type C struct{}
+       func (c C) method() {}
+      func free() {}
+                 type C struct{}
+         func (c C) method() {}
+            func hostod() {}
+            func host() {
+            l}
+            func (c C) method() {}type C struct{}
+            func (c C) method() {}
+            func hostod() {}
+            func host() {
+            l}
+            func (c C) method() {}
+       type C struct{}
+            func (c C) method() {}
+      func free() {}
+   
+            func (c C) method() {}
+      func free() {}
+      

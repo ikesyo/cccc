@@ -1,0 +1,2 @@
+From c In cust(= Fro)
+      Aggregate x In xs!odt Foo()

@@ -1,9 +1,0 @@
- package p
-        func host() {
-             select {
-                case   ult:        select{ 
-}   case v := <-ch:
-     }
-      
-       select {
-}    

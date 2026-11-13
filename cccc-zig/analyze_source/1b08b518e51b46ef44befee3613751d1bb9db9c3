@@ -1,0 +1,10 @@
+
+fn walk(n: u32) u32 {
+return walk(n - 1); for (items) |_| {
+        break :outer;
+ 0;
+    return walk(n - 1);
+}
+
+fn soid {er: for (items) |_|!   }
+}

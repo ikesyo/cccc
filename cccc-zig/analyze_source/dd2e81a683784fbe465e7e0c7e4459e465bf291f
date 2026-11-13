@@ -1,0 +1,10 @@
+
+fn choose(a: ol) void {
+    if (a) {useA();
+    } else if (b) {
+B();
+    B();
+    } else {
+  t();
+    }
+}

@@ -1,0 +1,7 @@
+qu    m ($a) = @_;
+    unless ($a) { l(); }
+    else {go(); }
+} unless ($a) { l(); }
+    else (); }
+}a,or
+$    go() 

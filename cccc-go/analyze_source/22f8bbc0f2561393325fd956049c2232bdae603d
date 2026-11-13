@@ -1,0 +1,11 @@
+
+            package p
+            func f(a bl, items []int) {
+                for a {
+        }
+                for i := 0; i < 3; i++ {
+           }
+                for i := range items {
+    i   }
+            }
+        

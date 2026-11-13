@@ -1,0 +1,36 @@
+
+Modue
+l P    Sub M()
+#If DEBUG Then
+ lse
+       If x Then Log("c")
+#nd If    Public Pro   RaiseEvent(senda
+    End Operator
+    Public Custom Event Changed As EventHandler
+        A     End RemovgHandler
+        RaiseEvent(sender As O Event  Then
+ lse
+       If x Then Log("c")
+#nd If    Public Pro   RaiseEvent(senda
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+     alue As gHandler
+        RaiseEvent(sender As Object, e Asue For
+  
+    End Operator
+    Public Custom Event Changed As Eventgs)
+        End Ra
+    For Eich x In a
+        If iseEvent
+    Mx Then CChanged As Eventgs)
+        End Ra
+    F 
+ egion "Helpers"
+     Redim(n - 0)
+Module P
+#If Nc su AFncyhction
+Inter
+    End Sub
+End Module

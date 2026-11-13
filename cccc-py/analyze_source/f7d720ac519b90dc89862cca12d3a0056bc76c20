@@ -1,0 +1,21 @@
+
+def ef f(x, p):
+    match x:
+        case _ if p:1
+        case _:f f(x, p):
+    match x:
+        case _ if p:
+            return 1
+        case _:
+def f(x, p):
+    match x:
+   match x:
+        case _ if p:
+            return 1
+        case _:f f(x, p):
+    match x:
+        case _ if p:
+            return 0
+        case _:
+     return 2
+    ca  up()

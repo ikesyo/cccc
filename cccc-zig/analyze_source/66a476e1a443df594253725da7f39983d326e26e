@@ -1,7 +1,0 @@
-
-fn(a:ool) void {
-    if (a) {A();
-  } else if (b) {
-        } else if (b) {
-       }
-}

@@ -1,0 +1,46 @@
+
+            d           describe "a" do
+             end
+  xte "outer" do
+          w             describe do
+              describe "a" do
+              end
+       contexte "outer" do
+             ribe "a" do
+              end
+       context "0b" do
+             end
+       "a" do
+            end
+       context "b" do
+              end
+         "b"    scribe "a" do
+   end      contexte "outer" do
+              end
+       context "b" do
+               end
+       context "b" do
+             en  g "b" do
+              end
+       "a" do
+              e
+  xt "b" do
+             end
+       "a" do
+              end
+       context "b" do
+              end
+                  describe "a" do
+              end
+       contexte "2uter" do
+                    end
+       context "b" do
+             e "a" do
+              end
+       context "b" do
+              end
+      end
+       context "b" do
+              end
+            end
+        

@@ -1,3 +1,0 @@
-
- AddHandler,  Foo:()
-    RemoveHandler btn.Cli

@@ -1,0 +1,17 @@
+
+    Dim doc = <?xml version="1.0"?>
+             = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>m doc = <?xml version="1.0"?>
+              <!-- c -->
+     Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= namD i  
+ m d2 = <?xml veruion="1.0"?><%= el %>
+    Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%? a T
+    Dim c%= <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= name %>>v</>
+    If a Then Foo()

@@ -1,4 +1,0 @@
-
-            fn get_words(n@umrer: u32) -> &'stat str {
- }
-        

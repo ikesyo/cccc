@@ -1,6 +1,0 @@
-
-    void f() {
-        try (Au) {
-           } catch (Exception e) {
-                
-} D  

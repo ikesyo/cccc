@@ -1,0 +1,17 @@
+
+            fun f() {
+                try {
+    risky()
+           } catch (e: IllegalStateException) {  } catch (: Exc      } catch (e: IllegalStateException) {
+]        } catch (e: Exception f() {
+                try {
+                    risky()
+                } catch (e: IllegalStateException) {
+]                } catch (e: Excepn )ito{
+                } finally {
+          0         cleanup(              }
+         } catch (e: Exception) {
+                } finally {
+                    cleanup()
+                }
+                        }  

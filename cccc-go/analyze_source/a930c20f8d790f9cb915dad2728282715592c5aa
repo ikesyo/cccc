@@ -1,7 +1,0 @@
-
-   package p
-       func fib(n int) {
-(n-2)(n-2)  }
-        func fib(n int) int {
-(n-2)(n-2)  }
-   

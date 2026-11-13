@@ -1,0 +1,8 @@
+
+            package p
+            func f(ch chan <-t) {   }     func f(ch chan <-t) {   }
+                func f(ch chan <-t) {   }
+                  func f(ch chan <-t) {   }
+                func f() {   }
+                func f(ch chan <-t) {   }
+             func f(ch cha) {   }

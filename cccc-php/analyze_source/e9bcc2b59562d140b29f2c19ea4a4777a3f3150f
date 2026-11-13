@@ -1,0 +1,19 @@
+<?pht
+   <?php
+            namn$x) {       host          b ->( $c;
+    on host() {
+                $f = fn?? x;
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^$f = fn?? x;
+  b ->(= fn?? x;
+  b ->( $c;       host          b ->( $c;
+    on host() {
+                $f = fn?? x;
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^b^^^^^^^^^^^^^$f = fn?? x;
+  b ->( $c;
+       ho      st      $f = fn?? x;
+  b bost                             be) {
+   $c;
+       ho      st      $f = fn?? x  host          b ->( $c;
+    on host() {
+                $f = fn?? x;
+  ^^^^^^     bre

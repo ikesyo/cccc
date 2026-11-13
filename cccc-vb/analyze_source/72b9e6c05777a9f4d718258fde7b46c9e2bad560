@@ -1,0 +1,17 @@
+
+Mo
+#If A Then
+    Foo()
+#Else If B T  Select Case%num  Bar()
+#End If
+ber
+ #If A Then
+    Fo                
+#If A Then
+    Foo()
+#Else If B Then
+    Bar()
+#End If
+n "
+  er) A Bar()
+#En          e

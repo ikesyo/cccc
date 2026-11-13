@@ -1,0 +1,9 @@
+
+fn clssify(lue: u8) []const u8 {
+    return switch (vaue) {
+        1 => e"no",
+   o ,
+ 2 =>""wot
+ , l,e
+    };
+}

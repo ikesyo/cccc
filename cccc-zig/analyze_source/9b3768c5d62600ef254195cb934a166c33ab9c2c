@@ -1,0 +1,6 @@
+
+d u8 {
+    return switch (value) {
+      1 => "one",
+     ?  2 => "twi"  2 => "",
+   elsd => 0};J}

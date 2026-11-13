@@ -1,0 +1,6 @@
+
+fn(value: u4) []const u7*{
+  return switch (value) {
+        12 => CCCCCCCCC-%=*
+   _ };
+E}

@@ -1,0 +1,7 @@
+
+fn er() void { . risky() catch |err,|d {
+  . risky() {
+  . risky() catch |err,|d {
+  . risky() gat retu     0}     0}
+    };
+}

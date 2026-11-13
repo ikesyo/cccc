@@ -1,0 +1,6 @@
+
+fn classify(value: u8) []const {
+    return switch (vlue) {
+        1 ..."one"=> "tw"  }  ,
+;
+}

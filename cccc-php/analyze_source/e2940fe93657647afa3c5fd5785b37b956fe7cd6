@@ -1,7 +1,0 @@
-<?php
-            n<?ph0
-           on fib($n) {
- n - <<<A
-                  return self::fib($n - 1) + uf::fib($n - 2);
-                }J     l       }
-  A      

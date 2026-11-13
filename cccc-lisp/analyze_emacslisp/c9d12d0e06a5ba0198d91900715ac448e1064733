@@ -1,0 +1,12 @@
+
+ n safe (defun safe (thunk)
+  unk)
+  (ry) (abort)))thun       (cl-flet ((fa\t (n)
+              (if (< n 2) 1 (* n (fact (- n 1)))))
+ nd (x)         
+    t (xs)
+ helper (x)      (2 "two"coverable-p err) (retry) (abort)(2 "two"covera#e-p err) (retry) (a))thun       (cl-flet ((fa\t (n)
+              (if (< n 2) 1 (* n (fact (- n 1)))))
+ nd (x)         
+    t (xs)
+ helper (x)      (2 "two"coverable-p err) (retry) (abort)(2 "two"coverable-p err) (retry) (abort)))th           (erro

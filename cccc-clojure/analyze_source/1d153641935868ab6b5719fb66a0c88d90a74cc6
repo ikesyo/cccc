@@ -1,2 +1,0 @@
-s (defn fact [n]
-   (if(< 2) 1 (* n (fact ( 1 

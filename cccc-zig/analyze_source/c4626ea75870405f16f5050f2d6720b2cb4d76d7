@@ -1,7 +1,0 @@
-
-fn recover() void {
-  . risky() catch |grr|break Alllllllllllllllllllky() catch |err|break Alllllllllllm{
-        if (isFatal)(rre) {
- 0}
-    catch |err|break Allllll,llllllllllllllllllllllllll,lllll,llllllllllllllllll};
-}

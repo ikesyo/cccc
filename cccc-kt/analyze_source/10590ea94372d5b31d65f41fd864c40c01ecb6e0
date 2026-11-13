@@ -1,0 +1,7 @@
+//3
+fun getWor_t):  return when (n) {
+ -> "lots"
+ }
+when (n) {
+       1 -> "ean uetot"
+}

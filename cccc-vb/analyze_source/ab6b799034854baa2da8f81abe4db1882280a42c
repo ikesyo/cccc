@@ -1,0 +1,15 @@
+
+#If A TProperty Size As Integer = 3#If{{{{
+
+    Public ReadOnly Property Size As Integer = 3
+    Public Property Width
+        RaiseEvent(sender As OntArgs)
+        End    End Get
+        Private Set
+    End Property    End Property
+    Public Shared Operator +(a As Shape, b As Shape) As Shape
+        Return a
+     Public Custom EveS
+    Public Property Width
+        RaiseEvent(sender As Ob  Integertom Event Changed As EvetHnandler
+        AddHandler(value As Eve S{{u

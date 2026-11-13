@@ -1,0 +1,15 @@
+
+)
+    $         (cond ((n 0) 'neg)
+        (= n 0) 'zero)
+  2   )   $         (cond ((< n 0) 'neg)
+       )
+             (cond (        (else 'pos)))
+      (cond ((< n 1) 'neg)   n)
+   (cond (        (else 'pos)))
+               (cond ((< n 0) 'neg)
+       )
+          zeron)
+    (cond ((< n 0) 'neg)   n)
+   (cond (        (else 'pos)))
+        

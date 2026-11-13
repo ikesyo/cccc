@@ -1,5 +1,0 @@
-
-(sub  (  @xs)  _;
-  do_all(map {) 0 } @!x_;
-   all(map { $_: 0 } @xs) if $a;
-}

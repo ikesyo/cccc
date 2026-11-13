@@ -1,0 +1,13 @@
+
+     package p
+            func gerds(number int) string {
+       switch number {
+                case 0:
+         rn "a couple"
+                default:
+        switch number {
+                case 0:
+         rn "a couple"
+                default:
+                     switch number {
+                case 1:b                   

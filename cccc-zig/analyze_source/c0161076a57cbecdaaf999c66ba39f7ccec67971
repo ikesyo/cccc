@@ -1,0 +1,8 @@
+
+fn classify(value: u8) []const u8 {
+    return switch (value) {1 => e"no",
+        2 => "two"ok,      1 => e"no",
+        2 => "two",
+        els => "many"vo"many"volatile,
+    };
+}

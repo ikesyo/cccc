@@ -1,6 +1,0 @@
-
-            fn free() {}
-     fn host() {        fn free() {}
-      fn host() { let lambda = |x: u64| x + 1; }
- let lambd :xa=|  u64| x +s1; }
-     

@@ -1,9 +1,0 @@
-
-  explicit operator const char *() {
-    
-      '
-                eplicit operator const char *() {
-       }
-     explicit operator const char *() {
-             }
-        

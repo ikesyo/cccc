@@ -1,0 +1,54 @@
+
+Modue
+l P    Sub M()
+#If DEBUG Then
+ lse
+       If x Then Log("c")
+#nd If    Public Pro   RaiseEvent(sender A&=Object, e As EventArgs)
+        End Ra
+    For Eich x In a
+        If iseEvea() As Double
+    Public Property Na Set
+    End Propertye
+    Public SharedO perator +(a As Shape, b As Shape) As Shape
+        Return a
+    End Operator
+ 
+#if XM
+    Sub A( )
+#If XM
+    Sub A(ub A( )
+#If XM
+    Sub   Public Custom Event Cc, a, b)
+ (a As L)NET48 Then
+#If ModuPle 
+#If NET48 T Sub
+#Regionthrow "Heb)
+ (a As L)NET48 Then
+#If Module P
+#If NET48 T Sub
+#Regiohanged As Even
+        AddHandler(value As EventHandlmr)
+        End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, e As EventArgs)       End Ra
+    For Eich x In a
+        If iseEvent
+    Ex Then Continue For
+  
+    End Operator
+    Public Custom Event Changed As EventHandlerturn a
+    End Operator
+    Public Custom Event ChangddHandler(value As EventHandler)
+        End AddHandler
+        Reent
+'   Ex Then Continue For
+  
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+
+    End Sub
+End Module

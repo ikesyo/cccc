@@ -1,8 +1,0 @@
-
-Public MustInherit C
-  
-    End Operator
-    Public Custom Event Changed As Ever(value As EventHandler)
-        End RemoveHandler
-        RaiseEvent(sender As ObjeAe tcd , Operator
- If iseEvntil    Ex n

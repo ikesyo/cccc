@@ -1,9 +1,0 @@
-
-            package p
-                func (s S) walk(n int) int {
-  O              in n == 5 {
-       d    e   r turn 5X0
-    i '''/''''g'''''''''''''''''''''''''(n - 1)
-                }
-     }
- 

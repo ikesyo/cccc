@@ -1,5 +1,0 @@
-u32 {
-      return wr (tems) |_| {
-        break :outer;
-asm }
-}

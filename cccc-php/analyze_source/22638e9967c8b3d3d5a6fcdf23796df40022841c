@@ -1,0 +1,8 @@
+<?phf = 4
+function sumOfPrimes($max)({
+    $total = 0;
+    for ($i = 2<?php
+            match ($x) {
+  +       match ($x->1, 2 => "a",
+      match ($x->) {
+  +         on    f(

@@ -1,0 +1,5 @@
+
+` #if ddefined(B)
+        return  #if defined(A) && defi
+        #endif
+   

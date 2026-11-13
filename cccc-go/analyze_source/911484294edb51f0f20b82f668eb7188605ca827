@@ -1,0 +1,2 @@
+  package p
+       func (s S) walk(n in) nit {  rn       ^^^^^^^^^ fof

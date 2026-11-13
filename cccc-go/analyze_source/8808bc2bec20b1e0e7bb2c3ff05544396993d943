@@ -1,0 +1,8 @@
+
+
+package sample
+func getWords(n int) strg {
+	switch n {
+	case 1:
+  select {
+

@@ -1,0 +1,9 @@
+
+Module M
+   y(n As Integer)
+Again:  If n > 0 Then Call  Function(x As Integer
+               0)
+                End Function
+        ReDim buf(0 To n)
+    End Sub
+End Module

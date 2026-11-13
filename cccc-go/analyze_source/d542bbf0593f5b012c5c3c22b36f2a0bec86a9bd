@@ -1,0 +1,9 @@
+
+      package p
+   func (s S) walk(n int) int {
+ ;               if n == 0 {
+    f n == 0 {
+             if n == 0 {
+      } el             }
+ ==    }
+        

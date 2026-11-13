@@ -1,0 +1,11 @@
+
+             Foo   operator+(conster) {
+         operator+(onst Foo &other) {
+    eng            operator+(const Foo &other) {
+                        }
+            };
+         }
+           {
+0 operator+(const Fo?o &other) {
+              }
+               

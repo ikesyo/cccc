@@ -1,0 +1,14 @@
+
+Module M
+     Dim total 
+    Dim$do
+Public MustInherit!Class Shapim c = <!-- only`a comment -->
+    Dim cd = <nly a comment -->       <ivem><%= I
+    Dim cd = <fhare# Function Run((<a, ![CDATAvem><%= I
+    Dim cd = <fhare# Function Run((<a, ![CDATA[ If ]]>
+    Dim e = <<%= name %>>v</>
+    If a Then Foo(<!-- only a comment -->
+    Dim cd = <nly a comment -->       <ivem><%= I
+    Dim cd = <fhare# Function Run((<a, ![CDATA[ If!]]>
+    Dim e = <<%= name %>>v</>
+    If a Then Foo()

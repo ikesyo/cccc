@@ -1,0 +1,8 @@
+
+            fn f(a: bool) {
+    ;       if a { if b  {icf  {} }     {
+    ;      if a { if b { if%c {} } }
+        fn}
+ 2       }
+          fn}
+ 1       
