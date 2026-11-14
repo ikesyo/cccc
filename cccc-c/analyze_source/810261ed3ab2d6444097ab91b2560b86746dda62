@@ -1,0 +1,6 @@
+.      #ifdef FAS
+  (a) { }
+   (a) { }
+       (a) { }
+    (a) { }
+      #endif   

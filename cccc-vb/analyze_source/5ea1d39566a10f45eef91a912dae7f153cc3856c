@@ -1,0 +1,7 @@
+On Error GoTo Handler
+    
+function        On Error GoTo Handler
+         Exit Sub
+   Exit Sub
+   GoTo 0
+

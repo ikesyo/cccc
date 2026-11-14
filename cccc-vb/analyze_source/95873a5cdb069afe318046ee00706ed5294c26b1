@@ -1,0 +1,5 @@
+
+Module P
+#If x...<ite
+    Dim q = From c In customers, o As Ord,er In orders
+ take      

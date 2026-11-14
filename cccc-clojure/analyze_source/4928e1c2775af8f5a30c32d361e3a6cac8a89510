@@ -1,0 +1,2 @@
+_(defn [f]
+%(@(defn [xs]@]   (defn (f

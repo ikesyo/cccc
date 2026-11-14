@@ -1,0 +1,12 @@
+
+fn recov() void {
+   ra!e(0);
+}
+mptime {errdefer
+       ra!e(0);
+}
+mpti {errdefer
+  | cetrhrr|r| {fer
+ a!e();
+}
+}

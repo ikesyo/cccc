@@ -1,0 +1,4 @@
+
+Pubtyrator +(a As Shape, b As Sha
+ Custom Event Changed As EventHandler
+        AddHandler(o

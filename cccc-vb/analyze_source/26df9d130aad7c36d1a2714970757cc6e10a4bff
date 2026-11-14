@@ -1,0 +1,19 @@
+
+Module P
+#If`NET48 Then
+    Sub N(a As Int) As String Implement
+Interface
+Ms I.Item
+        Gein'
+End Interfac`e
+Strler
+    PropertY Item(i As Integer) As      Get
+            If i 
+    Eving
+  #pertY Item(i ) As Strin'
+End Interface
+Strler
+    PropertY Item(i As Integer) As      Get
+            If i 
+    Eving
+  #I         

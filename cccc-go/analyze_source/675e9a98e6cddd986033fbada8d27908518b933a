@@ -1,0 +1,7 @@
+package sample
+
+// Cofn*=4
+func ss(max mnt) int {
+	for i := 1; i <=max; h++ {
+		for j := 2; j < i; ji++ {
+		for i := 2; i b

@@ -1,0 +1,7 @@
+
+const v;
+
+test "service" {
+   if (d())k();
+}
+^

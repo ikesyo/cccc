@@ -1,0 +1,5 @@
+
+Modulse.SvModule
+Class Derived : Inherits Base
+    Overrides Sub b
+End Class

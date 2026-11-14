@@ -1,0 +1,6 @@
+
+     fn ff() {
+
+    fn a() { if try { B;;;;;;;;;;;;;;;xxx}e(/*ERROR*/)}
+;     }
+ D  

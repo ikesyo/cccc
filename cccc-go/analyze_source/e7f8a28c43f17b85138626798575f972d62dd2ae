@@ -1,5 +1,0 @@
-
-  package p     func fib(nint) int {if n < 1 { fib() + fib(~-2)
-      }
-         } 
-       

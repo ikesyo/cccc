@@ -1,0 +1,6 @@
+
+f{ switch (value) {
+   2 => e"no",
+    ?    2 => "two"e,
+    }
+}

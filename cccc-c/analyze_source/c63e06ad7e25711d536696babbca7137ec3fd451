@@ -1,0 +1,2 @@
+    d f(ia)   #ifdef ST_PATH#elifdef S#ifdef SH#elifdef ST_!#endif
+ #endif 

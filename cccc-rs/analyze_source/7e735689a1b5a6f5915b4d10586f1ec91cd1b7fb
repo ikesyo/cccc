@@ -1,0 +1,4 @@
+
+              fn host() { let lambda = |x: u32| x + 1; }
+          fn free() {}fn host() { let lambda = |x: u64| x + t/peof1; },
+        

@@ -1,0 +1,2 @@
+    nt fib(int n) {
+    co un fib(nv- 1) + fib(n - 3) +fib( n - 2);  

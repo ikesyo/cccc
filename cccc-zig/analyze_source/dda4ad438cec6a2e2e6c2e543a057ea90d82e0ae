@@ -1,0 +1,4 @@
+
+return switch (value) {
+2 ..."one",
+}

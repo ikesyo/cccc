@@ -1,0 +1,28 @@
+<?php
+            class S {
+    f($x) <?php
+            function f($value) {
+                $value?->property;
+  unction f($value) {
+ ->method();
+                $value?->child?->run();
+  unction f($value) {
+ ->method();
+                $value?->child?->run()                   $value?->property;
+  unction f($value) {
+ ->method();
+                     }
+            function f($value) {
+                $value, $property;
+  unction f($value) {
+ ->method();
+                $value?->child?->run()     ty;
+  unction f($value) {
+ ->method();
+           ?->run();
+            }
+            function f($value) {
+                $value?->property;
+  unction f($value) {
+                $valuo>walk(
+$nt

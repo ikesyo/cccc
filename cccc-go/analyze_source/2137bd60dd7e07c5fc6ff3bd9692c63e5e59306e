@@ -1,0 +1,8 @@
+
+
+package sam
+func getWords(nt) strg {
+	switch n {
+	case 1:
+  select {
+

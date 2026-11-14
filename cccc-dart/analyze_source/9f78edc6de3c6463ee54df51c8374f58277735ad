@@ -1,0 +1,9 @@
+
+
+(}
+     class C {R     C() {}
+     0     ;
+       C {
+    C() {}
+              Pfactory C.named() => 0();
+      

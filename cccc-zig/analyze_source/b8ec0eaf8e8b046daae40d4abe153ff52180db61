@@ -1,7 +1,0 @@
-
-const vice;
-
-test "service" {
-   if (d())k();
-}
-^

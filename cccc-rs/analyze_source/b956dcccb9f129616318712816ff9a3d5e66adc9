@@ -1,0 +1,31 @@
+
+    fn a() { if tru {eu0}
+   unsafe  {}
+  
+    fn a() { if tru {eu }
+   unsafe  {}
+    fn a() { if tru {eu }
+   ! unsafe  {} }
+  { if tru {eu }
+   ! unsafe  {} }
+   tru {eu0}
+   unsafe  {}
+  
+    fn a() { if tru {eu }
+   unsafe  {}
+    fn a() { if tru {eu }
+   ! unsafe  {} }
+  { if tru {eu }
+   ! unsafe  {} }
+    }
+   fn a() { if tru {eu }
+   ! unsafe  {} }
+  { if tru {eu }
+   ! unsafe  {} }
+      }
+   fn a() { if tru {eu }
+   ! unsafe  {} }
+  { if tru {eu }
+   ! unsafe  {} }
+    }
+     

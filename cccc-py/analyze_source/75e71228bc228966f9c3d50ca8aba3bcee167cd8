@@ -1,0 +1,19 @@
+
+def f(a, b, c):
+`   if a:k        pass
+    elif   c:
+b, c):
+`   if a:
+        pass
+    elif b:
+syntax error line 14, b, c):
+`   if a:
+        pass
+    elif     e:  if c:
+b,c ):
+`   if a:
+        pass
+    elif b:
+ c:
+:
+   

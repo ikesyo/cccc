@@ -1,0 +1,19 @@
+
+fn recov() void {
+   ra!e(0);
+}
+mptime {errdefer
+    if (enabled()) g();
+}
+mptrecov() void {
+   ra!e(0);
+}
+e {errdefer
+    if (enabled()) g();
+}
+m
+im
+vH  e {errdefer
+    tcenera!errdefrner
+    !e(0);
+}

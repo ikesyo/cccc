@@ -1,3 +1,0 @@
-
-    fun f(a:ring?,1 b: St?): String = a ?: b ?: "z"
-     

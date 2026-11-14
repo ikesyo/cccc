@@ -1,4 +1,0 @@
-
-  package p
- func b() int {
-  6   goto  rt  

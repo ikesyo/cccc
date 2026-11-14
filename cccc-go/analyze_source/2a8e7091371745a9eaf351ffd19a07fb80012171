@@ -1,5 +1,0 @@
-
-     package p
-         func f(cchant) { select {
-    case v :{
-     

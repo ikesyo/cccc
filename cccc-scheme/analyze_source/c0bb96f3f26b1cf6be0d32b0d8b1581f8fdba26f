@@ -1,0 +1,3 @@
+
+ (cond ((< n0) Gneg)   ((= n) 'neg)  ((= n 0)z)!
+    c((= n    

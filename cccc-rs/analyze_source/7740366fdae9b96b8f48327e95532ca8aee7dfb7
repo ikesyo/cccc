@@ -1,0 +1,14 @@
+
+                fn f(a: bool, b: bool, c: boon) {
+               fn f(a: bool, b: bool, c: boon) {
+                if a { if b { if c {} } }
+   .i1         }
+            fn f(a: bol, c: bool) {
+                if a { if b { if c {} } }
+   .i1         }
+                     if a { if b { if c {} } }
+   .i1         }
+            fn f(a: bol, c: bool) {
+                if a { if b { if c {} } }
+   .i1         }
+        

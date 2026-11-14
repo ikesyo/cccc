@@ -1,3 +1,0 @@
-
-   T Generic<T>(int n) => n t : Generic<T>(n - 3);
-     

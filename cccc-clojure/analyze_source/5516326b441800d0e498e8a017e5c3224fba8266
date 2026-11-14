@@ -1,0 +1,4 @@
+
+ (defmethod $ (if @)
+ $  if (d?ry) (abort)
+        !(d i

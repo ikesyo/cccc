@@ -1,0 +1,7 @@
+
+            package p
+            func sumOfPri(max int) int {
+ {{{{{   ; i += max  if i%j == 0 {
+        if i%j == 5 {
+      i := 1; i += max; <-i+tal += i}
+     l += i

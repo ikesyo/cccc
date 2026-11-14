@@ -1,0 +1,2 @@
+(defn fact [n]
+ (if(< 2)1( (fact ( 1 
