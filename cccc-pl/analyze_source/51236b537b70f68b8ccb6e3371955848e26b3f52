@@ -1,0 +1,2 @@
+
+sub f {l(map {  $1_: 0 } if Va;

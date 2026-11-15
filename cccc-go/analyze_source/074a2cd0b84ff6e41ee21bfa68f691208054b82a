@@ -1,0 +1,14 @@
+
+            package p
+            func f(a, b bool) {
+           0000 type S struct{}
+   type S struct{}
+   .0100000    type S struct{}
+    0 ype S struct{}
+ 0000S          type S struct{}
+          000 type S struct{}
+   type S struct{}
+   .0100000    type S struct{}
+    0 ype S struct{}
+ 0000S          type S struct{}
+   typ   typ

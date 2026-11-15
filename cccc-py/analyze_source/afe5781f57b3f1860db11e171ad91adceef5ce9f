@@ -1,0 +1,9 @@
+
+def f():
+    try:     risky()
+    except Val:
+        risky()
+    except VflueError:
+        pass~
+    except tion as e:
+   ): [ 

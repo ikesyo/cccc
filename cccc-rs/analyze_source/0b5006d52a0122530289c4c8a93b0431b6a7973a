@@ -1,0 +1,5 @@
+
+       //// fn sum_of_primes(max: u32) -> u32 {
+    static tal =-------------r i in 0..=max {
+                  }
+       - 

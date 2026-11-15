@@ -1,0 +1,37 @@
+
+           class C {
+                void f(boolean a, int[] items) {
+                           if (b&& (b && c)) {
+                    (b&& (b && c)) {
+                               if (b&&              (b&& (b && c)) {
+                               if (b&& (b && c)                            if (b&& (b && c)) {
+*
+                 *          if (c)          if (a && (b && c)) {
+     [  {      is;yntax error at line 50 (b && c)) {
+                    (b&& (b && c))(b&& (b && c)) {   if (b&& (b && c)) {
+                    (b&& (b && c)) {
+                              b&&              (b&& (b && c)) {
+                               if (b&& (b && c)                            if (b&& (b && c)) {
+*
+                 *               if (a && (b && c)) {
+  {
+               an a, int[] items) {
+                           if (b&& (b && c)) {
+                    (b&& (b && c)) {
+                               if (b&&                    if (b&& (b && c)) {
+*
+                 *          if (c)          if (a && (b && c)) {
+     [  {      is;yntax error at            if (b&& (b && c)                            if (b&& (b && c)) {
+*
+                 *          if (c)          if (a && (b && c)) {
+     [  {      is;yntax error at line 49 (b && c)) {
+                    (b&& (b && c))(b&& (b && c)) {   if (b&& (b && c)) {
+                    (b&& (b && c)) {
+                              b&&              (b&& (b && c)) {
+                               if (b     (b&& (b && c))(b&& (b && c)) {   if (b&& (b && c)) {
+                    (b&& (b && c)) {
+        )) {
+*
+             if (b&& (b && c)) {
+                                  if (a && (b && c)) {
+        items)  

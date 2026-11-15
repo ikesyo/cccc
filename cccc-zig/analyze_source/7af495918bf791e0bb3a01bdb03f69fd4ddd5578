@@ -1,0 +1,8 @@
+
+fn8 {
+    return switch (value) {
+ 1  => e"no",
+        2 => "two",
+        else => "m$any"*olatile}    ,
+;
+}

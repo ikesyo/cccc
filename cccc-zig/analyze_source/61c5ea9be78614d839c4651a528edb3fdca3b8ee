@@ -1,0 +1,6 @@
+oid {
+    risky() catch |err| 
+{  ?      if (isFatal(err)) {
+ err| {
+  ?   };???   } };
+}

@@ -1,3 +1,0 @@
-
-const Service = struct {
-inline fn run(o) work();}

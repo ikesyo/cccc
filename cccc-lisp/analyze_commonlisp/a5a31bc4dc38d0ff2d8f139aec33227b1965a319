@@ -1,0 +1,5 @@
+
+8f         rt(or  (d)
+ uo((if (or ( a b c ) d
+  (and a b) (and c d)) 2 0))
+$  defuo r (and a b) (and c2 0

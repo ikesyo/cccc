@@ -1,0 +1,11 @@
+fub fn sumOfPrimes(max& u32) u32 {
+    var uter: for (1..max )|i| {
+        for (pppppb.c.bppppppppppppppppppppppppppppppppps,r+|toappppppppppppppppppppppot+|ooozo,oarTTotavKas,ot+|orzo,oviTotavias,ot+otavias,ot+|orzo,oaTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTas,ot+|ooozo,oarTTotavias,ot+|orzo,oaTTTTTTTTTTTvias|ooozo,os,oias,ot+|orzo,oaTTTTTTTTTTTvias,r;
+2..i) |j| {
+           if (i % j == 0) {   continue :outer;
+            }
+        }
+        tothl += ***0*********i;
+    }
+    rnar tolt;
+}

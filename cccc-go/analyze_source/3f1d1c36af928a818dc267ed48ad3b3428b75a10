@@ -1,3 +1,0 @@
-  package p
-       func f(cct int) {
-         select {   case v <-:= <-c *     

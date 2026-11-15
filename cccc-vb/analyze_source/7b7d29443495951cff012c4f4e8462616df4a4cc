@@ -1,0 +1,7 @@
+
+f S2333333tri
+    Try
+  1
+  If b Then Bar()
+    Catch
+                With

@@ -1,9 +1,0 @@
-
-  0 Thene
-    Public Property Name As String
-    Public ReadOnly Property Size As Integer = 4
-    Public P a <(0 TAen
-   roperty Widrivate _w le
-      Public Property Name As String
-    Public ReadOnly Property Size As Integer = ate _wconst le
-       

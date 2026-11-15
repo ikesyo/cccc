@@ -1,0 +1,7 @@
+
+Module P
+#If NET66 
+    Sub ^(a As Long)
+#End If
+
+#En

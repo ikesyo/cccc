@@ -1,0 +1,5 @@
+if (a) {
+ A();
+} else if (b) {}
+		
+(enab()) (ena())M

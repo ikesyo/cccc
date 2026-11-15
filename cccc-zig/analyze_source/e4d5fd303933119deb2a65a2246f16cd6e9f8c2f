@@ -1,0 +1,17 @@
+ if(**
+comptime {
+    if (ned()) er!e();
+}
+**-------***
+comptime {
+    if (ned()) era!e();
+}
+-***
+comptime {
+    if (ned()) e();
+}
+**------***
+comptime {
+    if (ned())era!e();
+}
+********u )if(i)r

@@ -1,0 +1,4 @@
+
+    Dim p 
+    Dim q = New Foo(Function(x) x) With ?.A  Preserve xs(If(a, 5, 6))
+    Erase x= New Foo(Function(x) x) With ?.A = e xs, ys

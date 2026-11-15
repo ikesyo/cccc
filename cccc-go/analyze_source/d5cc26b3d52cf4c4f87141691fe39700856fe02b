@@ -1,0 +1,4 @@
+       package p    func f(ch t) { select {
+  case v := <-ch:
+2 case v := <-ch:
+     

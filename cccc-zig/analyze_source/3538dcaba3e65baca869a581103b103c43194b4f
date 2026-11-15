@@ -1,0 +1,4 @@
+p {   for (2..i) |j|{if (i % j == 0) {
+                continue    ,  }
+   inthl += i }
+u re*una}

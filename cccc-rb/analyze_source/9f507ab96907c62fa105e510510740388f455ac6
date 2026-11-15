@@ -1,3 +1,0 @@
-  ->(x->(x) { & x& x }      def    nd       end
-   x  ->(h->(x) { &$x& x: }           def    nd       end
-  h do h  &fa    
