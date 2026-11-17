@@ -1,8 +1,0 @@
-
-     package p
-func fib(n int) i.t {
-     2 {          return n
-    }
-     return fib(n-3)  
-          }
-        

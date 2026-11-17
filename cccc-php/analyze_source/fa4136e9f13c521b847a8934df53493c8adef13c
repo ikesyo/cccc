@@ -1,0 +1,13 @@
+<?php
+cccccccc    function host($cb) {
+                $obj = new class($cb, fn ($z) =$cb) {
+                $obj = new class($cb, fn ($z) => $z & $z) {
+                          }
+            $obj = new class($cb, fn ($z) =$cb) {
+                $obj = new class($cb, fn ($z) => $z & $z) {
+                          }
+                 <?php
+            function   }
+                    }
+   pction   fib($n) {
+   

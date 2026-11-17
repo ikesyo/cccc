@@ -1,0 +1,7 @@
+
+fnnst u8 {       return~ switch (value) {
+        1 ..."one"=> "two" (value),
+   }; return~ switch (value) {
+        1 ..."one"=> "two" (value),
+   };
+}

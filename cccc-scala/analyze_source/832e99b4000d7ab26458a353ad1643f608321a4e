@@ -1,0 +1,14 @@
+
+     et]n = xs.map {
+                    case (0, v) => v
+     $  M     1     cse t= t match {
+= xsb) a els              }
+ ject S {
+eann)t):Int] = xs.righ{         -           casd (1, v) => v
+   x.mcn:
+ cv)      cse (k$ v) => k
+                }
+     = xs.map {         -   cv)      cse (k, v) => k
+       }
+   right   }
+  t[Ilt] = x if (a) (if (b) 0 else 2) else        

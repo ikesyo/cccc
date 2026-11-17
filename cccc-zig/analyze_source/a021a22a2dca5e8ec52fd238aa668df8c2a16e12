@@ -1,9 +1,0 @@
-
-const Ser = struct {
-    fn run(ok: bool) void {
-      }
-};
-s 
-const Ser  =ns {
-(en())
-}

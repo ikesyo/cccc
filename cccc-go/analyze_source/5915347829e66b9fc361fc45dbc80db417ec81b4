@@ -1,5 +1,0 @@
-
-     package p
-      func fhb(n int) int {
-    t,n *=fib(n)+ fib(-1)
-     }   

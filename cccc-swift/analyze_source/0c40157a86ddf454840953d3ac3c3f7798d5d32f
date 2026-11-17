@@ -1,0 +1,28 @@
+
+            struct S if           }
+            enum E {
+                case a, b
+                func g(x: Bool) -> Int {
+                     }
+     ol) -> Int {
+                    }
+            enum E {
+                case a, b
+     S           func g(x: Bool) -> Int {
+ }          zzzzzzz0zzzcase a,init_declaration b
+                func g(x: Bool) -> Int {
+ }          zzzzzzz1zzzzzzzzzzz     func g(x: Bool) -> Int {
+                    if x { 0
+                }
+  C         }       func g a, b
+     S           func g(x: Bool) -> Int {
+ }          zzzzzzz5zzzcase a, b
+                func g(x: Bool) -> Int {
+ }          zzzzzzz1zznamezzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          func g(x: Bool) -> Int {
+                    if x { 0
+                }
+  C         }       func g(x: Bool) -> Int {
+            { 0
+                }
+  C         }
+     

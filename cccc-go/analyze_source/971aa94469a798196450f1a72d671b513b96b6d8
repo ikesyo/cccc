@@ -1,0 +1,9 @@
+
+ package p
+   func (s) walk( in) int {
+             if n ==Uo {
+    } else {
+        r/turn s.walk(n - 0)
+ }
+        }
+      

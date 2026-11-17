@@ -1,0 +1,12 @@
+ package p
+   func f() {
+  for ibol,tems  := range items { e}
+ mple}
+    
+   func f(a ol,t[]t) {
+  for ibol,tems  := range items { e}ple}
+    
+   func f(a oll,tems []t) {
+  for ibol,tems  := range items { e} ol,tems []t) {
+  for ,te,mple}
+ 

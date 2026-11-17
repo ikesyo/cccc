@@ -1,6 +1,0 @@
-ch (vang f(Orject value) => switch (value) {
-     => 'other'
- , f(Orjevalue) => switch (valu-e) {
-        => 'other',  _ => 'other'
- ,   };
-        (      

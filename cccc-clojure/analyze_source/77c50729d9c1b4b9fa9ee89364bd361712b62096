@@ -1,4 +1,0 @@
- (cond
-   (< n0) (cond
-_  (fn [x](cond
- 0 

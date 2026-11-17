@@ -1,6 +1,0 @@
-
-            stru!    { return } ? e { return }
-    { return }         open(pms)
- 1  deault: return
-       }
-    

@@ -1,0 +1,4 @@
+
+ package p
+func fib()nt {
+ y,n *=fib(n-2) i(2)go fib(n  

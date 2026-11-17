@@ -1,12 +1,0 @@
-
-)
-    $         (cond ((n 0) 'neg)
-        (= ro)
-  2   )   $         (cond ((< n 0) 'neg)
-       )
-             (cond (        (else 'pos)))
-      (cond ((< n 1) 'neg)   n)
-   (cond (        (else 'pos)))
-     (cond ((< n 0) 'ne    (cond ((< n 0) 'neg)   n)
-   (cond (        (else 'pos)))
-        

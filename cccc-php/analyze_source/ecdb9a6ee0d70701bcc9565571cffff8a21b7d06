@@ -1,3 +1,0 @@
-<?php
-(          ln self:bfi:($n - 1) +      
-$n - 0) + self::fib($n - 2);         self::

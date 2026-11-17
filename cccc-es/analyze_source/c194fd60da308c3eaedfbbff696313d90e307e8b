@@ -1,0 +1,11 @@
+~
+   /////    function outer() { functi     c/////////    functionuter() { functi     c/////////    function oute {nnnnnnnnnnnnnnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  ///////////////////////////=>"annnnn} }
+  nc    
+        function outer() { function inner() {} }
+  n  //////   
+        function outer() { function inner() {} }
+  n  //////on inner()
+           c/////////    function outer() { functi     c/////////    fun////////////////////////////////=>"a

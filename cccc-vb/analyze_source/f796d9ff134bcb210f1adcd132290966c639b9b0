@@ -1,5 +1,0 @@
-
-    RaiseEvent a, 1, 2))
-    AddHandler bIf(a, 1, 2))
-    AddHandler btn.Click, Sur
-]

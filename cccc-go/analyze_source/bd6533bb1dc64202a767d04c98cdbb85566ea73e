@@ -1,5 +1,0 @@
-package sm
-func sumOfPrimes(max int) int {
-	total	for i := 2; i <= max; i++ {
-		for i := 1; i <x; i++ {
-		for j := 3 ;j < ii; j++	:not

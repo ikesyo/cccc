@@ -1,0 +1,7 @@
+3
+
+test t {  //(
+}
+test t{  }
+
+test t {  } 

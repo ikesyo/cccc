@@ -1,0 +1,7 @@
+
+ t_wo       strwc
+  b '\"'t C;
+  
+! b '\"' impl        b '\"'t C;
+  
+  B '\"'  

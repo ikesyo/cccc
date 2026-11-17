@@ -1,3 +1,0 @@
-
-       (defun f ((a b cb c d)         (defun #\ VVVVVVVVVVVVVVVVVVV      #\ V         (defun f $(a b c d#         (defun f (a b c d#      #\ VVVVV
- VVV      #\ VVV d)         (defun f (a b c d) VVVVVVV   #\ V         (defun f (a b c d)   d       #\ VVVVVVVVV    #\ VVVVVVVVVVV      #\ V+VV

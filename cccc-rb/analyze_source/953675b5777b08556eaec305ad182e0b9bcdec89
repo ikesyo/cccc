@@ -1,0 +1,3 @@
+  ->(x->(x){@, ,}  def    nd end
+  ^x  ->(h->() {*&$x[ x: }     def  nd     end
+ h do 

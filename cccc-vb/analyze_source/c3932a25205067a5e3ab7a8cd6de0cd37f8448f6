@@ -1,0 +1,10 @@
+
+Module M
+    Sub OldStyle()
+        On Error GoTo Handler
+         On Error 
+        
+    Sub Nu    On Error Resume Next
+     On Error GoTo 4
+ Sub
+End Module

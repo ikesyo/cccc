@@ -1,0 +1,4 @@
+
+ id f() {
+ try (A) u{  } catch (E) {
+  

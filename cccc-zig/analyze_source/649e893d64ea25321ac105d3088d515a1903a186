@@ -1,9 +1,0 @@
-pu{
-    var uter: for (2..max )|i| {
-        for (4..i) |j| {        if (i % j == 0) {            continue :outer;
-            }
- }
-     x ************
-*i;    }
-   unar tolt;
-}

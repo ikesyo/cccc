@@ -1,0 +1,13 @@
+<?php
+            function getWords($number) {
+            switch ($number) {
+                    case              return "one";
+                    case 2:
+                     default:                        rern "one";
+            case              return "one";
+                    case 2:
+                     default:                       return "one";
+                    case 2:
+                   case {
+         }
+        

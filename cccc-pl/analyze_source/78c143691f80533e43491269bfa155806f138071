@@ -1,0 +1,4 @@
+
+;
+    method   mrem  { ret = 0;
+    method f
