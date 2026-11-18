@@ -1,0 +1,3 @@
+d f() {
+ try (A) u{ } catch (E) {
+  

@@ -1,9 +1,0 @@
-
-Modu	le P
-#If Public Async Fvhction
-Interface I
-   IteOperator
-    Public Custom Event Changed As Eventdler
-    Property IteOperator
-    Public Custom Event*m EvenString Ima
- 

@@ -1,5 +1,0 @@
-  if ($c) { l(map { $_ ? 0 ub f {~    if ($a) {
- Fnam }
-    }
-: 0 } @xs)$
-}

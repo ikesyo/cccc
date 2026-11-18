@@ -1,0 +1,8 @@
+package p
+     func host() {
+             select {
+      case lt:        select{ 
+}   case v := <-h:
+     }
+     select {
+} -   

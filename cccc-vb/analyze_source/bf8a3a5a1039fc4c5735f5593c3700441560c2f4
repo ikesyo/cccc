@@ -1,0 +1,8 @@
+
+Module P
+#If#If#Reg0i
+        Foo(&=Sub() Exit 
+Module M
+    Sub rsA()
+        Foo(&=Sub() Exit Su, 0)
+    End Sub evereturn

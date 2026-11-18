@@ -1,0 +1,13 @@
+
+       0    class Stack {
+    Stack() : top_(0) {}
+        ~Stack() {}
+t {
+                  }
+
+         ope  S t0) {}
+                !tack() {}pty() const {
+       /     return t= 0;
+  %             }
+           }
+   r {       

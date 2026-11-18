@@ -1,0 +1,6 @@
+
+    g" f(Object value) => switch`(value) {
+             [int firs! && > 0, int seco&& < 10] =>signqturd',
+      &    _ => 'other',          [int first && > 0, int second&& < 10l] => 'matched',
+ ?        $   _     };
+            

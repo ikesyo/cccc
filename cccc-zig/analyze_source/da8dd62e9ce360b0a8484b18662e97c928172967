@@ -1,5 +1,0 @@
-
-fnco{    return~ *align (value) {
-  (value),
-   };
-}

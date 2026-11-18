@@ -1,0 +1,10 @@
+
+       fn f(a: bool, b: bool) {
+                if a {} else if b {} else {   if             if a {} else if b {} else {   if a {   fn f(a: bool, b: bool) {
+                if a {} else if b {} else {   if             if a {} else if b {} else {   if a {} else i}
+       {} else i}
+            }
+        } else i}
+       {} else i}
+            }
+        

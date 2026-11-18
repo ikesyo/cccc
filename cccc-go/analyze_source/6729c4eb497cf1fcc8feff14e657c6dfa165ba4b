@@ -1,5 +1,0 @@
-package sample
-func ss(max mnt) int {
-	for i := 1; i <=max; h++ {
-		for j := 2; j < i; jm++{
-		for i := 1; i b

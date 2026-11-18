@@ -1,1 +1,0 @@
-    in fib{T  n fib(- )  fib(n - 2);   

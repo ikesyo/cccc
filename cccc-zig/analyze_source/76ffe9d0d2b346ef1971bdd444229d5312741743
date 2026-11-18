@@ -1,0 +1,15 @@
+
+
+mptime {errdefer
+    if (enabled()) g();
+}
+m
+imH  e {errdefer
+ errdefer
+    if (enabled()) g();
+}
+m
+im
+vH  e {errdefer
+ !e(0);
+}

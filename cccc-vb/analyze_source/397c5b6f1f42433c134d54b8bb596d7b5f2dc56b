@@ -1,0 +1,6 @@
+
+Module M
+    Sb A()
+#If X Then
+        If a Then Foo()
+    End Module

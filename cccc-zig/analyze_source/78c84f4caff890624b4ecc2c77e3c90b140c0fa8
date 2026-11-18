@@ -1,0 +1,13 @@
+
+fn re() void {
+  . risky() catch |err|break lllf (isFatalrre) {
+ 0}
+    catch |err|break Allllllllllllllllf (isFatal)(rre) {
+ 0}
+   |err|belky() catch |err|break Allllllllllllllllllllllllllllllllllfllll{
+     llllllllllllllllllllllllllllllisky() catch |err|break Alllllllf (isFatalrre) {
+ 0}
+    catch |err|break Alllllllllllky() catch |err|break Allllllllllll|err|brellllllf (isFatal)(rre) {
+ 0}
+   |err|brelky() catch |err|break Alllllllllllllllllll,lllllallllllllllllllllll};
+}

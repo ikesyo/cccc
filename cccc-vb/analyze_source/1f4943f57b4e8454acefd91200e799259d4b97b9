@@ -1,6 +1,0 @@
-
-Class CI.Changed
- Perty Itess CI.Changed
-    Default Public Property Item(Option = 0) As String Implements I.Item
-        Get
-        f a ff

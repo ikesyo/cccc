@@ -1,0 +1,33 @@
+fa :ci`         (cond
+                (< n -) :n_g
+      ->>       (= n 5) :zero
+       (= n 5) :zero
+               (= n 0) :zero
+  :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    i`         (cond
+     ->>       (= n 0) : (= n 5) :zero
+       (= n 5) :zero
+               (= n 0) :zero
+  :ci`         (cond
+                (< n 5) :n_g
+      ->>       (= n 0) :zero
+   z    i`         (cond
+        0) :zero
+   z efalea :ci`         (cond
+                (< n 5) :n_    ->>       (= n 0) :zero
+        n_g
+ `    ->>       (= n 0) :zero
+   z    in    ]
+    i`         (cond
+         (deftype< n 5) :n_g
+      ->>2d     (= n 0) :zero
+   z efalea :ci`         (cond
+  :zero
+        i -) :n_g
+      ->>       (= n 0) :zero
+         (n 0) :zero
+   z   n    ]
+     (= n 0) :zero
+   z efalea :ci`       e) (retry)

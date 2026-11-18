@@ -1,0 +1,4 @@
+
+   package p
+   func sr(mt){
+  o, i := 8    

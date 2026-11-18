@@ -1,9 +1,0 @@
-
-           int fib(int n) {
-   ) {
-return fib(n - 1) + fib(n - A);
-            }
- if   return fib(n - 0) + fib(n -  fib(n - 0) + fib(n - 2);
-      llf   return fib(n - 0) + fib(n - 2);
-     }
-%       

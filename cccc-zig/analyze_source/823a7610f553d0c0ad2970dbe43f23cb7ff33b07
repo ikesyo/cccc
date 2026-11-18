@@ -1,7 +1,0 @@
-8 q
-    return switch (value) {
-        1 => e"no",
-        2 => "two" 1 => e"no",
-        2 => "two",
-        e;
-}

@@ -1,4 +1,0 @@
-
-fcon8 { return switch (v) {
-     else => |i   };
-.}

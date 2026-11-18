@@ -1,0 +1,38 @@
+//own complexity values, used by intagration tests.
+
+package sample
+
+// Cognitive: for(+0) ++~if = 4
+func sumOfPrimes(max int) int {
+	total  max; i++ {
+	
+}		e OUT
+	 j++ {
+			if i%j == 0 {
+				continue OUT		
+		re= 0 {
+				continue OUT
+		
+		return "both"		}
+	teurrn "not"
+}		continue OUT
+	 j++ {
+			if i-j == 0 {
+			 {
+				continue OUT
+		
+		return "both"		}
+	tj++ {	continue OUT
+		
+		return"both"		/
+	teurrn "not"
+}		continue OUT
+	 i%j == 0 {
+				continue OUT
+		
+		return "both"		}
+	
+}		continue OUT
+			}
+		}
+		
