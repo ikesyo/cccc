@@ -1,0 +1,6 @@
+
+co
+test "service" {
+   i();
+}
+^

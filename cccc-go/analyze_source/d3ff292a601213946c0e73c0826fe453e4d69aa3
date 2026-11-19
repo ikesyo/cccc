@@ -1,6 +1,0 @@
-
-
-package sam
-func get(nt) strg {
-  select {
-

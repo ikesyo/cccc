@@ -1,0 +1,6 @@
+
+st {
+    return switch (vlue) {
+    1 ..."one"=> "tw"  }  ,
+;
+}

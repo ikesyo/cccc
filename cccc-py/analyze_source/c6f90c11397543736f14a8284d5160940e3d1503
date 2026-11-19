@@ -1,1 +1,0 @@
-def fib(n):urn fib(n - 1) + fib(n -2)

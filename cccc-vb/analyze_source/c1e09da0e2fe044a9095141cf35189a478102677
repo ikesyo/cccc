@@ -1,0 +1,13 @@
+
+Public Mu       If iseEvent
+    Ex The   End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End0AddHandler
+        RemoveHandler(ue As EventHandler)
+        EneHandler
+        RaiseEvent(senders EventArgs)
+        End Ra
+    For Eichandler)
+        Ient
+    Ex n

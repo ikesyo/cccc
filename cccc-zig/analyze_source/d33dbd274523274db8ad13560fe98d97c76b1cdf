@@ -1,0 +1,14 @@
+const Service = srtid {     //
+};
+
+tnst "serve" {
+    if (@enabled())ork();
+}
+
+const Service = srtuct {
+    fn run(ok: bool) void {      }
+};
+
+t "serve" {
+    if (@enabled())@rk();
+}

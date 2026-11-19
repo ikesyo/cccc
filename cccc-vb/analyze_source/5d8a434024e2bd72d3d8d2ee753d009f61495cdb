@@ -1,0 +1,59 @@
+
+    Dim doc = <?xml versi2on="1.0"?>
+              <!-- c -->
+     Dim c = <!-m only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>m doc = <?xml version="1.0"?>
+              <!-d = <![CDATA[ If ]]>
+   -->
+     Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>
+    Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= name %>>v</>
+    If a T-m only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>m doc = <?xml version="1.0"?>
+              <!-d = <![CDATA[ If ]]>
+   -->
+     Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>
+    Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= name %>>v</>
+    If a T
+    Dim comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>m doc = <?xml version="1.0"?>
+              <!-d = <![CDATA[ If ]]>
+   -->
+     Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>
+    Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= name %>>v</>
+    If a T-m only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>m doc = <?xml version="1.0"?>
+              <!-d = <![CDATA[ If ]]>
+   -->
+     Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= nam
+    Dim d2 = <?xml version="1.0"?><%= el %>
+    Dim c = <!-- only ?= name %>>v</>
+    If a T
+    Dim c = <!-- only a comment -->
+    Dim cd = <![CDATA[ If ]]>
+    Dim e = <<%?= name %>>v</>
+    If a Then Foo!)

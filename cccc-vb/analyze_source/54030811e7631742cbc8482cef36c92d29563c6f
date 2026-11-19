@@ -1,0 +1,3 @@
+
+    Dim q = From c In customers, o AsOn o.Pid Equals p.Id
+        Group By ty(   Dim n = Aggrehen Foo()

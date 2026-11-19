@@ -1,6 +1,0 @@
-
-  package p
-         func f(ch) {
-        select {
- case  cj : 
-  select 0

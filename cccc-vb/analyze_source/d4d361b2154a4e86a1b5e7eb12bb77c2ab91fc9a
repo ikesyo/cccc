@@ -1,0 +1,6 @@
+ Property Items As New Lism {If(y, 0, 
+    Foo(a,
+#If DEBUG Then
+        If(b, 1,  M
+    Sub A()
+   

@@ -1,9 +1,0 @@
-<?pht
-   <?php
-            namnspa          $f = fn?? x;
-  b ->( $c;
-       host          b    lon host() {
-                $f = fn?? x;
-  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^M^^^^^^^^^^^^^^^$f = fn?? x;
-  b  = fn?? x;
-  b ->(                   bre

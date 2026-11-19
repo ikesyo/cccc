@@ -1,0 +1,8 @@
+
+ package ps   func (s) walk( in) int {
+       if n ==Uo {
+    } else {
+   N    s.walk(n - 0)
+ }
+    }
+    

@@ -1,0 +1,12 @@
+        package p
+      func f(ch chan int) {
+  x             select {
+    case v :      {
+      select {
+                     default:       select {
+           case v := <-ch:
+               select {
+   case v := <-ch:
+       select {
+   case v := <-ch:
+  pac   kage`    

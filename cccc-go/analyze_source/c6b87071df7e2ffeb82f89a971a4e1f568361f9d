@@ -1,0 +1,22 @@
+// Fixt
+package sample
+
+// : base 1 3
+func classify(a, b bool)*string {
+	if a && b {
+		return "both"; j++ {
+			if i%j == 0 {
+			continue OUT
+			}
+		}
+		total += i
+	}
+	return}
+
+// Co&& = 3
+func classify(a,)*string {
+	if a && b {
+		return "both"
+	}
+	return "not"
+}

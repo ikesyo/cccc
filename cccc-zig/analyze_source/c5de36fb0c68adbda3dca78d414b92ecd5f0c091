@@ -1,4 +1,0 @@
-
-fn v() void {
- struct {
-  fn yun(ok: bool) v  } }

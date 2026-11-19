@@ -1,0 +1,15 @@
+
+Module M    SubA( )
+#If XM
+    Sub A( )
+#If XMAs Shapator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As EventHandler)
+        End AddHandler
+        RemoveHandler(value As EventHaeldnr)
+        End RemoveHandler
+        RaiseEvent(sender As O]    Sub
+M(n As Integer) As IntegA( )
+#If XM
+    Su Dim {
+   s  ^

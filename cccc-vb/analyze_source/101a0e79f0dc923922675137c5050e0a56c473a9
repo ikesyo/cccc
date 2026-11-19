@@ -1,8 +1,0 @@
-
-Module P
-#If NET96 Then
-    Sua, 0, /))d FSet
-  A   End Operator
-    Public Custom Event Changed As EventHandler
-    , 1, 2))
-     RaiseEvent Changed(If(      Ad AddH     

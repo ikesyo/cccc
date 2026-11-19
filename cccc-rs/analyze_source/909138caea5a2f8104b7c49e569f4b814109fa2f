@@ -1,0 +1,13 @@
+
+
+         macro a() { if tru{} }
+   macro a() { if true {} }
+   macro a() { if tru{} }
+   macro a() { if true {} }
+            macro a() { if tru{} }
+   macro a() { if true {} }
+   macro a() { if          fn fkb(n: u64) -tru{} }
+   macro a() { if true {} > u65 {
+    |||||mb ||bool||||MMMMM@Ms|||||(n / 2)
+  %=}coZZZ  b||Gt|||||mb ||bool||||MMMMM@Ms|||||(n / 2)
+  %=  ZZZ    r}       

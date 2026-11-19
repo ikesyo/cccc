@@ -1,0 +1,14 @@
+
+            package p
+             func f(a bool, items []int) {
+                for  range items {
+         
+[ ]bbbb              c [  [][]A]or a {
+  }
+  bb1        c[      [][]A]for a {
+        c[      [][]A]or a {
+  }    
+    }
+    bbbb1-999999999 a && b   }^^^^888888888888887
+ge t  typ   }
+         

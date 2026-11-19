@@ -1,0 +1,17 @@
+
+Module P
+#If NET48 Then
+   Public Custom Event CAhanged dle  End AddHandler
+        RemoveHandler(value As EventHandler)
+        End RemoveHandl-r
+      tI:
+        f
+   H RemoveHandl-r
+      tI:
+        Next
+        R 
+     Rai:seEven3 Changed(If(a, 0`, 2))
+  sofI:
+        Nse If = Then'a]r()
+#Enixt
+d I 

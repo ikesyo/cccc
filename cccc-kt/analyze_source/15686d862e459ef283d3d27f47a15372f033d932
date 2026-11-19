@@ -1,0 +1,52 @@
+
+            class C {
+         Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `           C {
+        get() = 0                   }
+            C {
+        get() = 0          }
+s C {
+  :     val treeCount: Int get() = 1
+
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `  nt: Int 
+  call_expressions
+            'class C      get() = 0    `  return 0
+            }
+            C {
+        get() = 1          }
+            val treeCount: Int get() = 1
+
+         `  nt: Int 
+      0    l t)]
+           val treeCount: Int get() = 1
+
+         `  nt: Int 
+  h  return 0
+                }
+            C {
+        get() = 0                   }
+            C {
+        get() = 0          }
+s C {
+       val treeCount: Int get() = 1
+         l t)]
+                val tr Int get()= 
+ 1
+         `  nt: Int 
+           l t)]
+                val treeCount: Int get() = 1
+
+         `           }
+            C {
+        get() = 0          }
+       }
+        

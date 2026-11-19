@@ -1,0 +1,18 @@
+
+fn recov() void {
+   ra!e(0);
+}
+mptime {errdefer
+     ra!e(0);
+}
+mptime {errdefer
+    era!e();
+}
+mptim
+vH  e {errdefer
+    !e(0);
+}
+mptime {errdefer
+  tch |errr|re();
+}
++|

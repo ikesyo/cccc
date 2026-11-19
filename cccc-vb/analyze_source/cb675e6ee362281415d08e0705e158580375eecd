@@ -1,5 +1,0 @@
-
-   Try
-        If a &hen Foo()
-    Catch ex
-    Catch e End Try

@@ -1,6 +1,0 @@
-
-    package p
-           func f(gh chan int) {
-            select {  default:      select {
-       case v := <-ch:  }    
- N }    (    

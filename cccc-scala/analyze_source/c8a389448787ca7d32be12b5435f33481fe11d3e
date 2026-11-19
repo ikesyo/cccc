@@ -1,7 +1,0 @@
-
-            object S {
-  n: I~t)t =    s2 v @ _ => v
-  }
-     }
-        given Ordering[Int] with
-    def ompare(a: Int, b: In1): Int = if a < b en -1 e 

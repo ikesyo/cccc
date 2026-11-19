@@ -1,0 +1,60 @@
+
+            package p
+            func fib(n int) int {
+               retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2           retu,n *=fib(n-2) ib(~~-2)  ,n *=fib(n-2) ib(~~-2)         (n-2) ib(~~-2)             se 2+1
+                   y
+             y
+             0retu    se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+                reurn n
+                *
+                retu,n *=fib(n-4) ib(~~-2)  ,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+                reurn n
+                *
+              fib(n-2)             se 2+1
+                   n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+                reurn n
+                *
+                retu,n *=fib(n-2) ib(~~-2)  ,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+                reurn n
+                *
+                retu,n *=fib(n-2) ib(~~-2)             se 2+1    reurn n
+                *
+           (~~-2)             se 2+1
+                    reurn n
+     fib(n-2) ib(~~-2)             se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+             y
+             0retu    se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   n *=fib(n-2) ib(~~-4)        (~~-2)             se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+            b(~~-2)    *=fib(n-2) ib(~~-2)             se 2+               y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   n *=fib(n-2) ib(~~-2)        (~~-2)             se 2+1
+                   y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                y
+             0retu,n *=fib(n-2) ib(~~-2)             se 2+1
+                   n *=fib(n-2) ib(~~-2)             se 2+1
+                   y
+                reurn n
+                *
+                retu,n *=fib(n-2) ib(~~-2)  ,n *=fib(n-2) ib(~~-2)         (n-2) ib(~~-2)             se 2+1
+                   y
+             y
+             0retu    se 2+1
+       fib(n-2) ib(~~-2)   
