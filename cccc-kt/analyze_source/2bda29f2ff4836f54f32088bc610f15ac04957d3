@@ -1,0 +1,21 @@
+
+            fun f() {
+   fun f() {
+                try {
+                    risky()
+                } catch (eIllegalSta) {
+                cc  at}h(e: Exception) {
+           try {
+      Exceptio } finally {
+ 0           0 r    }     le  at}h(e: Exception:l_expression) {
+         try {
+                    risky()
+                } catch (all_express           cc  at}h(e: Exception) {
+           try {
+      Exceptio } finally {          cleanup()
+   }     le  at}h(e: Excep{atch (e:l_expression) {
+      
+              try {
+        risk    } finally {
+                    cleanup()
+      r    }   ifiere   

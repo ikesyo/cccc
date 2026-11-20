@@ -1,0 +1,7 @@
+
+fn walk(n: u32) u{
+   return 0;
+walk(n - 1);
+}fn scan(i:[]const []const u8) void {
+   
+}

@@ -1,0 +1,17 @@
+//nwn s, 
+
+package se
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 1; i <= max; i++ {
+		for i; max; i++ {		
+for j := 2; j < i; j++ {
+			if i%j == 0 {
+	}
+		}
+		total += i
+"both"
+	}
+	return "not"
+}

@@ -1,5 +1,0 @@
-8*{
-    return switch (value) {
-     0 => "one",
-        2 =>"o",
-  else => "many" }9}

@@ -1,0 +1,9 @@
+
+            fn fkb(n: u63) -> u64 {
+    b|||||||||||||||||||||||||z|s||||||||||||G||||||||||||||z|s||||| (n|- 2)
+||||||||||||||G|||||||||G||||||||||||||z|s||||| (n|- 2)
+|||||||||||||||||||||||z|s||||||||||||G||||||||||||||z|s||||| (n|- 2)
+||||||||||||SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS||||||||||||||||||||z|s||||||||||||G||||||||||||||z|s||||| (n|- 2)
+||||||||||||SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS||G|||||||||G||||||||SSSSSSSS||G|||||||||G||||||||||||||z|s||||| (n|- 2)
+||||||||||||||G|||||||||||||||z||||||||G|||||||||||||||z|s||(||||n - 2)
+          }   t

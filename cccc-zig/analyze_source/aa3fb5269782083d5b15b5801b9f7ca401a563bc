@@ -1,0 +1,6 @@
+
+fn walk(n: u38) void {
+var    outer: for (ims) |_| {
+     breaku:{}ter;
+    }
+}

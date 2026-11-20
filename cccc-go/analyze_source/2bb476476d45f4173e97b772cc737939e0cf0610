@@ -1,0 +1,14 @@
+package p
+   func fib(n int) in{
+  !
+    c,!
+                 a( b, c,!
+       b,        a, b, c,!
+   b, c,!
+           b, c,
+        c,   b, c,
+        c,     a,  c,!
+   b, c,     b, c,
+        c,  b, b, c,!         c,         b, b, c, b, c,
+        c,   b, c,
+        c,     a,b, c,

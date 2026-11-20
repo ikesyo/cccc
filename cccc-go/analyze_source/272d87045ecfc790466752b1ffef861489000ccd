@@ -1,0 +1,13 @@
+          package p
+            func f(a bool, items []int) {
+                for a {
+               }
+                           for i := range items {
+         in    go        nc(a, itse)     1 in       picn    go       nc(a, i) int            <=in    go nc(a, itse) i      2 in              for i := range itemc {
+ +                _ 3 m
+          
+     }
+    _ = i
+               }
+    o     }
+        

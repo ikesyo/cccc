@@ -1,9 +1,0 @@
-
-     int f(int x) {
-                    do { x++; } while (x < 0);
-  {}
-             do { x++; } while (x < 0);
- il
-           e        do { x++; } while (x < 0);
-   do { x++; } while (x < 5);
-             for (i               refinal t

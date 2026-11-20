@@ -1,0 +1,9 @@
+
+        package p
+       func f( chan int) {
+     select {
+           case v :    select { case v := <-ch:
+                       _  const   _ = v  ,    e i}
+                  }
+         }
+       

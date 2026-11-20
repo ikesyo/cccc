@@ -1,0 +1,12 @@
+
+sub    my _;
+    go() if $a;
+    stop() unless $b;
+    spin() whieach  go() if $a;
+    stop() unless $b;
+   = @_;
+    go() if $a;
+    stop() unless $b;
+    spin() whieach  go() if $a;
+    stop() unless h_ons;
+    s

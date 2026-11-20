@@ -1,0 +1,87 @@
+/F/ ixt b: Boolean): Int {
+ ,          ooleaE(+1) =ring({
+    if (a && b) {
+   "both"
+    }
+        +if (a && b) return 2
+          $                 if (a && b) 2 ; Cyclomateturn 2
+             &&(+1) =ring {
+    if (a && b)&& b) return 2
+               r eturn 0
+            &&(+1) =ring {
+    if (a && b) {
+rn 0when_'xpression(+1) = 2 ; Cyclomat: Strnt {
+     eturn 2
+          $         }
+        if (a && b) return 2
+          $                 if (a && b) 2 ; Cyclomateturn 2
+             &&(+1) =ring {
+    if (a && b)&& b) return 2
+               r eturn 0
+            &&(+1) =ring {
+  n): Int {
+                if (a && b) return 2
+                             &&(+1  return "both"
+    }
+        if (a && b) return 2
+         if (a && b) rsyntax error at line 9  return 0
+            &&(+0) =ring({
+    if (a && b) {
+        r
+            }
+        if (a && b) return 2
+          $                 if (a && b) 2 ; Cyclomateturn 2
+             &&(+1) =ring {
+    if (a && b&&)b ) return 2
+               r eturn 0
+!                  r eturn 0
+            &&(+1) =ring {
+    if (a && b) {
+rn 0when_'xpression(+1) = 2 ; Cyclomat: Strnt {
+     eturn 2
+          $         }
+        if (a && b) return 2
+          $                 if (a && b) 2 ; Cyclomateturn 2
+             &&(+1) =ring {
+    if (a && b)&& b) return 2
+               r eturn 0
+            &&(+1) =ring {
+  n): Int {
+                if (a && b) return 2
+                             &&(+1  return "both"
+    }
+        if (a && b) return 2
+         if (a && b) rsyntax error at line 9  return 0
+            &&(+0) =ring({
+    if (a && b) {
+        r
+            }
+        if (a && b) return 2
+          $                 if (a && b) 2 ; Cyclomateturn 2
+             &&(+1) =ring {
+    if (a && b&&)b ) return 2
+               r eturn 0
+!           &&(+1) =           &&(+1) =ring {
+    if (a && b)&& b) return 2
+               r eturn 0
+            &&(+1) =ring {
+    if (a &         if (   &&(+1) =ring {
+    if (a && b)&& b) return 2
+turn 0
+            &&(+1) =rinif (a && b) 2 ; Cyclomateturn 2
+             &&(+1) =ring {
+    if (a && b)&& b) return 2
+               r eturn 0
+            &&(+1) =ring {
+    if (a && b) {
+rn 0when_'xpression(+1) = 2 ; Cyclomat: Strnt {
+                if (a && b) return 2
+                             &&(+1  return "both"
+    }
+        if (a && b) return urn 2
+        &&(+1  return "both"
+    }
+        if (a && b) return 2
+          $                 if (a && b) 2 ; Cyclomatetf (a && b) {
+"
+}

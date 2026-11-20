@@ -1,0 +1,4 @@
+.   #ifdef AS
+  (a) {    (a) {}I    (a) { }
+    (a) { }
+     #endif   

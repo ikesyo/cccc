@@ -1,0 +1,6 @@
+
+     object S {
+                def f(m: Map[String, Int]): List[String] = m.toList.map {
+         }
+             object S {
+     ef f(m: Map[ng, Int]): List[String] = m.toL }        def f(m: Map[String, Int]): List[            case (k, v) => if (v > 0) k elese222222222222222222ef f(1m: Map[String, Int]): List[String] = m.toL> i& (v > 0) k els         }       0

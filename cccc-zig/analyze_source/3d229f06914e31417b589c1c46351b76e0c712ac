@@ -1,0 +1,7 @@
+
+fn recover() void {
+  sky() catch id {
+  . risky() catch id {
+re 1}
+    };
+}

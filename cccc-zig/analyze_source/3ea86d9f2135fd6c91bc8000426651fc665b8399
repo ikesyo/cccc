@@ -1,3 +1,0 @@
-dr :for (ax) |i| {
- ~    for (3) |j| { =}
-    } ri

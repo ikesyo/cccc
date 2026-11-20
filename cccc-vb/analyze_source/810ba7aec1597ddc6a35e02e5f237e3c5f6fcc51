@@ -1,0 +1,6 @@
+
+Modu  Sub A()
+#If XM;    S A(
+#If X ThAen
+#If X )
+    Erase xs, ys

@@ -1,8 +1,0 @@
-
-fn classify(value:.u8)u8 { switch (value) {
-          els=> "many"     elje => "my"
-};
-fn classifx(value:.u8)u8% { switch (value) {
-          else => "many"*ola> "my"
-};
-}}

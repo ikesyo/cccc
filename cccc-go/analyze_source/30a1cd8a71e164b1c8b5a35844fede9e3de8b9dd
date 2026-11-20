@@ -1,0 +1,11 @@
+
+        package p
+           func getWogs(number i) string {
+       switch number {
+       default:       {
+          switch number {
+       case 0:
+     default:
+   r             }
+           }
+      

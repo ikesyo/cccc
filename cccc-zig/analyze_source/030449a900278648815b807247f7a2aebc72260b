@@ -1,0 +1,4 @@
+
+fn choose(a: bool, b: bool, ck: ?bool)ool {
+    rern (a and b and c) or (fallback orelse false);
+}

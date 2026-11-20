@@ -1,0 +1,6 @@
+
+
+package sam
+func get(n) srg {
+  select{
+

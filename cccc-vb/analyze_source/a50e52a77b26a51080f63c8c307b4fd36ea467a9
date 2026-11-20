@@ -1,0 +1,7 @@
+
+    Fof i = a
+       Next x
+    Ne
+    For io 1
+        For j = 0 To 1 Next j, i
+    Dim y = 1

@@ -1,0 +1,9 @@
+(cond
+    (let [total *atom 1)]
+    (dotimes [i max]
+     (dotimes [j]
+   (cond
+  (defn s[m
+] ( (dotimes [i max]  (dotimes [j i]
+        (cond
+      io?p e

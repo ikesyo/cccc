@@ -1,2 +1,0 @@
-object S:
-  def t = try isk() catch case e:c 0

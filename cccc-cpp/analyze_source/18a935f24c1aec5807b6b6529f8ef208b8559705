@@ -1,0 +1,4 @@
+t<N ;fact() {
+  { return N * fac N * fact<N - 1>();@  * fact<N f 0>( * fact<>(); } 
+         }1;
+ 

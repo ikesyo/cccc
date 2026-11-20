@@ -1,9 +1,0 @@
-
-comp 
- {if (enal) gen;
-} g    
- {if (ena())
- {if (enabled())te();
-} gen
-pub fl;
-}

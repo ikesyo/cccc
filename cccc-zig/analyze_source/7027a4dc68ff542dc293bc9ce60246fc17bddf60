@@ -1,0 +1,5 @@
+
+pub fn sumOfPrimes(ax:u32) u32 {
+ r;l;
+}
+pub fn srimes
