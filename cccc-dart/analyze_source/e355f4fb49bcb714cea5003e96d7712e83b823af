@@ -1,0 +1,9 @@
+ch tring f(Orject value) => switch (v~alue) {
+        => 'other',
+ ring f(Orject value) => switch (v~alue) {
+        => 'other',
+      => 'other',
+       _ => 'other'
+ ,  => 'other'
+ , };
+            

@@ -1,0 +1,4 @@
+
+fn classify(value: u8) []co{
+    return switch (v+lue) {1 => "one",     2 => "twi"  2 => "two",
+   e => 0},J}

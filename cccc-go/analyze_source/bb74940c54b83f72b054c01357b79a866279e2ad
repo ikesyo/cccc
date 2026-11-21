@@ -1,3 +1,0 @@
-   package p
-  func f() { if a {      0      if b {    if c{   }   }       }
-        }   

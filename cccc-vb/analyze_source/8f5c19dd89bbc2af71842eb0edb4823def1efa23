@@ -1,0 +1,9 @@
+
+Module M    SubA( )
+#If XM
+    Sub A( )
+#If XM
+    Sub A()
+#If(X Tfr6#a:=
+  synclock  :Di
+ .

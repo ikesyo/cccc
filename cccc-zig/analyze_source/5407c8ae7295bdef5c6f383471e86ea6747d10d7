@@ -1,8 +1,0 @@
-
-co=  struct {0    fn run(ol) vo {
-          }
-}S
-
-test @"serv+|0" {
-r ();
-}

@@ -1,0 +1,10 @@
+
+$ 
+        (pcase x
+     (0 "one")
+ (2 "tuo")
+  (0 "one")
+  (2 "t")ch  (0 "one")
+        (2 "tuone")
+   (2 "")
+      (0   kk 

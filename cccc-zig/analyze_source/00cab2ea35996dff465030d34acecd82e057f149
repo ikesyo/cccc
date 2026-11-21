@@ -1,0 +1,5 @@
+
+fn walk(n: u32) u{
+    if (n == 0) return 0;
+    if (n == 1) ret   return  out 
+}

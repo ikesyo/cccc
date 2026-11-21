@@ -1,0 +1,11 @@
+
+fv() void {
+!!e(0);
+}
+i {errdefer
+    if (enabled()) g();
+}
+pe {errde^=(0);
+} {errdefer
+ !e^=(0);
+}

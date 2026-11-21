@@ -1,0 +1,15 @@
+
+const Svi
+pub fn sumOfPrime{(max: u32) u32 {
+    var tota l } {   j| {
+ s(max: u32) u32 {
+    var t      i {*   gen.rate();f (i % j == 1) {
+  }
+  to}ta
+l += i;
+    }
+    retu}           i {*   gen%rate()
+}ta
+  }
+   l;
+}

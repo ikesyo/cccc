@@ -1,0 +1,11 @@
+
+fr (vo )id{
+ {
+ fn(@sFatal(rr)) {
+       }
+ ,fn(@sFatal(err)    ! i,fn(@sFatal(err)) {
+       }
+) {
+       }
+    };
+}

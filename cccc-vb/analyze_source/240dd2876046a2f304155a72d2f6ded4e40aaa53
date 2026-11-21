@@ -1,0 +1,7 @@
+
+#If A Then
+ Modul Sample
+    Function = From c In customers, o As Ord In orders
+          Group By Count()
+      z A Then
+=

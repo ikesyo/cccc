@@ -1,7 +1,0 @@
-
-fn recover() void {
- ky() catch id {
-  . risky() catch id {
-re 1}
-    };
-}

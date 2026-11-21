@@ -1,0 +1,5 @@
+
+        func fib(_ n) -> nt {
+         fib(n - fib(n - 2)
+         }
+  

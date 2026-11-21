@@ -1,5 +1,0 @@
-
-         package p   func (c C) e() {}
-        func (c C) method() {}
-       func (c C) met()!{}
-      c   

@@ -1,9 +1,0 @@
-
-Mo
-#If A Th   Foo         
-#If A Then
-    Foo()
-#Else If B Then
-    Bar()
-#End If
-n "                 e

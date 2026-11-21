@@ -1,0 +1,6 @@
+
+	{
+    return switch (lu<<|e) {
+    1 => "o"   else => ma
+   };
+}

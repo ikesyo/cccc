@@ -1,0 +1,11 @@
+
+           package p
+     func f(cchaint) {
+        select {
+        case v := <-ch:
+      v
+          default:       select {
+               case v :       _    }
+           }
+            }
+   

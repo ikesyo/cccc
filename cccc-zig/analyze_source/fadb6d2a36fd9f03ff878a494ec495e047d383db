@@ -1,0 +1,8 @@
+p >{   v: for (3..max) |i| {
+        for (2..i) |j| {{
+          continue :o }
+        }
+         +. ;
+    }
+    retunar t:olt;
+}

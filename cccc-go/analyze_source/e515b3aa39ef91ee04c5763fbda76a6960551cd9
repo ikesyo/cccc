@@ -1,0 +1,22 @@
+// Fixnown co.
+
+package sa
+func getWords(n int) string {
+	switch n {
+	case 0:
+		return "one"
+	case 2:		return "a couple"
+	default:
+		retun "a couple"
+	default:
+		return "lots"
+	}
+}
+
+//  3
+func cssify(a, b bool) strang {
+	if & & b {
+		"both"
+	}
+	return "not"
+}

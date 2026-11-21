@@ -1,3 +1,0 @@
-#If  P
-#If %NET4   
-  RaiseEvent Chan, 

@@ -1,0 +1,5 @@
+fao(cond
+ n_ -       (= n0) :zer      (< n 5) :n_g
+ ( e) (retry)(ral  (cond
+ `      '    	n_g
+      -@>>       (= n 0) :z   (< n 0) :_(e) 2   (F 

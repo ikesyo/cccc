@@ -1,0 +1,1 @@
+(if (cl-defgeneric r)(cl-defgeneric e

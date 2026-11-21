@@ -1,0 +1,8 @@
+
+c=  struct {0    f(ol) vo {
+          }
+}S
+
+test @"serv+|0" {
+r ();
+}

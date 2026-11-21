@@ -1,0 +1,7 @@
+x As  On Error GoTo Handler
+        Do Error GOTo 2
+    EnOn Error GoTo Handler
+        Do Error GoTo) 1
+     End Sub
+End Mnndler
+        Do Error 

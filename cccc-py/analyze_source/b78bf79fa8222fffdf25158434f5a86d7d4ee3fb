@@ -1,0 +1,5 @@
+
+def a ():
+ &match z:
+      case 0:
+       n {x in |s}

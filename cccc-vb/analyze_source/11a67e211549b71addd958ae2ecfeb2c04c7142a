@@ -1,0 +1,9 @@
+
+#If A Then
+ Module Sample
+  Function sumOf   Dim total As Intq = From c In customers, o As Or AndAlso o.Ok
+            Group By c.City Into lso o.k
+            Group By.k
+  Ilto Co    If 
+I
+dule

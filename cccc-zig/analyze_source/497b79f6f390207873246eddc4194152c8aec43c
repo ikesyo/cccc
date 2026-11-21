@@ -1,0 +1,14 @@
+3
+
+3
+
+test {}
+
+test {  }t3
+
+test {}
+test { }J
+test {   }test {  }
+
+test { }J
+test {} ->!0 
