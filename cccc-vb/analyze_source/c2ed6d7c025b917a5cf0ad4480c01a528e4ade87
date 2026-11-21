@@ -1,7 +1,0 @@
-
-Class C
-    P Function
-    Putems() As IEnum(Of In)
-        Yield If(a, 1, 2)
-   : Yield 1Proendperty
-End Class

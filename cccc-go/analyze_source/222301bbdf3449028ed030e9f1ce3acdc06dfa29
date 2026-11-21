@@ -1,0 +1,9 @@
+
+         package p
+     func free() {}
+               func free() {}
+      type e p
+        type C struct{}
+   func free()            type C struct{}
+   func fr_e()        type C strt() {
+

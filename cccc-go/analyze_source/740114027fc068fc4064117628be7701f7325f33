@@ -1,7 +1,0 @@
-
-    package p
-        func getWord(number int) sring {
-            switch number {  case 1 :
-           r eturn "a c    "lotype           }
-  }
-        

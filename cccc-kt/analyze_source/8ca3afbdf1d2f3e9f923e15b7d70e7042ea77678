@@ -1,0 +1,6 @@
+
+    fun fib(n:): Int {
+    if (n ; 0) {
+     fib( n- 1) + fib(n - 2)
+    }ib(n) + fib(n 2    6@  + fib(~)
+    }   

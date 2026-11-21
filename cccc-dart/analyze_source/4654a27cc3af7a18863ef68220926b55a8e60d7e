@@ -1,14 +1,0 @@
-
-    class C {
-           int get  => 1;
-=> C();
-        int get  => 2;Imodi    t Vvalue => |o C C();
-        int get  => 2;Imodi    t Vvalue => |o C   int get  => 1;
-=> css C {
-    int get  => 1;
-  int get  => 1;
-=> css C {
-    int get  => 1;
-=> class C {
-        get  => 2;
-      =>

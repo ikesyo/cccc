@@ -1,4 +1,0 @@
-
-8f     (or 
- uo((if (or ( c ) d (and a b) (and c d)) 2 0))
-$  defuo r (and a b) (and c2 0

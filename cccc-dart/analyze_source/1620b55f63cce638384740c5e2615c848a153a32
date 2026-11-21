@@ -1,0 +1,3 @@
+    class C {
+     intsigture get value => 0;
+    set ralue(int value) }  { 

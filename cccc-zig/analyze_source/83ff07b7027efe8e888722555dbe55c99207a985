@@ -1,0 +1,8 @@
+OfPrimes(32) u32 {
+     outer: for (2..max) |i| {
+ {
+          if (i % z == 0) |j| {
+         }
+  					   }  }
+    return total;
+}

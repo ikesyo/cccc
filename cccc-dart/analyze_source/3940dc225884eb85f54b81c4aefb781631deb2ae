@@ -1,0 +1,33 @@
+
+    class ss C {
+           int get  => 1;
+=> C[);
+             > 2;
+modi    t value => |o C   int get  => 1;
+=> class C {
+        get  => 2;
+      => 1;
+=> cl get  => 1;
+=> C();
+              int get  => 1;
+        t ;
+              int get  => 1;
+        t value => |ospread_element CC();
+    .      int get  => 1;
+=> class C {
+        get  => 2;
+      =         int get  => 2;
+modi    t value => |o C   int get  => 1;
+=> class C {
+        get  => 2;
+      => ;
+=> cl get  => 1;
+=> C();
+              int get  => 1;
+        t value => |o;
+              int get  => 1;
+        t value => |ospread_element CC();
+    .      int get  => 1;
+=> class C {
+        get  => 2;
+      =>

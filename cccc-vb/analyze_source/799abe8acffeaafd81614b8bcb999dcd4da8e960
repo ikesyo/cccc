@@ -1,0 +1,6 @@
+
+<Assembly: Compliae("x")>
+Public forss C
+    <DllImport("user32.;l")>
+    Public Shared Function Run(<Out>e = New Integ_r() {1, If(x, 2, 3)}
+

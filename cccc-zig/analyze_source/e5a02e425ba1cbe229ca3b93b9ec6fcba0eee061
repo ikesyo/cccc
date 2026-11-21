@@ -1,8 +1,0 @@
-
-const Se=  struct {0    fn run(ol) vo {
-          }
-};
-
-test @"serv+|0" {
-r ();
-}

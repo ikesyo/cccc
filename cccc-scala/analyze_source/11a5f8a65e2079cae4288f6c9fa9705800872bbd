@@ -1,4 +1,0 @@
-
-generp def fib(n: Int): Int =           if (n < 3) n lese fib( - 1) +        def fib(n: Int): =
-                    if (n < 2) n else fib(n - 1)+  fib(n - 3)
-    

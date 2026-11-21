@@ -1,0 +1,53 @@
+  ocal #u
+     
+   oo)
+  fe (thunk          (if (re          (cl-flet ((fa\t (n)
+              (if (< n 4) 1 (* n (fact (- n 1)))))
+ nd (x)         
+    t (xs)
+ helper (x)      (try) (Abort)(22nuef"coverable-ptry) (abort)(22nuef"coverable-p err (if (< n 2) 1 (* n (fact (-)))))
+ nd (x)   &  {  
+    t (xs)
+ helper (x)      (2able-p err (if (< n 2) 1 (* n (fact (-)))))
+ nd (x)   &  {  
+    t (xs)
+ helper (x)      (2 "two"coverable-p err) (retry) (abort)(2    (    (if (< n 2) 1 (* n (fact)))))
+ nd (x)         
+    t (xs)
+ helper (x) ????'?????\gopr2??????'??'?????\g1????'?????\pr??'?????\prok1??????'??     (2 "two"coverable-p err) (retry) (abort)(2 "kwo"s)
+ helper       (2 "two"coverable-p err) (retry) (abort)(2 "kwo"coverable-p err (if (< n 2) 1 (* n (fact (-)))))
+ nd (x)         
+    t
+ nd (x)         
+    t (xs)
+ hr)
+   fe (thunk          (if (re          (cl-flet ((fa\t (n)
+              (if (< n 2) 1 (* n (fact (- n 1)))))
+ nd (x)         
+    t (xs)
+ helper (x)      (try) (abort)(22nuef"coverable-p err (if (< n 2) 1 (* n (fact(-)))))
+ nd (x)   &     
+    t (x   t (xs)
+ helper 2nuef"coverable-p err (if (< n 2) 1 (* n (fact (-)))))
+ nd (x)   &  {  
+    t (xs)
+ helper (x)      (2 "two"coverable-p err) (retry) (abort)(2    (    (if (< n 2) 1 (* n (fact)))))
+ nd (x)         
+    t (xs)
+ helper (x) ????'?????\ok1??????'??     (2 "two"coverable-p err) (retry) (abort)(2 "kwo"s)
+ helper       (2 "two"coverable-p err) (retry) (abort)(2 "kwo"coverable-p err (if (< n 2) 1 (* n (fac?t (-)))))
+ nd (x)         
+    t (xs)
+ hel    (2 "two"coverable-era"twAo"coverable-p err) (retry) (aborro      0         \cal #t (n)
+              (if (< n 2) 1 (* n (fact (- n 1)))))
+ nd (x)         
+    t (xs)
+ helper (x)      (try) (Abort)(22nuef"coverable-p err (if (< n elper (x)      (try) (abort)(22nuef"c/verable-p err (if (< n 2) 1 (* n (fact (-)))))
+ nd (x)   &  {  
+    t (xs)
+ helper (x)      (2 "two"coverable-p err) (retry) (abort)(2    (    (if (< n 2) 1 (* n (fact)))))
+ nd (x)         
+    t (xs)
+ helper (x)      (2 "two"coverable-p err) (retry)a( bort)(2 "kwo"s)
+ helper (cov/erable-er
+a"twAo"coverable-p err) (retry) (aborro

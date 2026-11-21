@@ -1,0 +1,3 @@
+
+       (defun f ((a b cr c d)         (defun #\ V (defun f $(a b   (defun f (a b c d#      #\ VVVVV
+ VVV      #\ VVV d)         (defun  f (a b c d)  #\ VVVVVVVVV    #\    d     #\ VVVVVVVV   V #\ V   #\+VV

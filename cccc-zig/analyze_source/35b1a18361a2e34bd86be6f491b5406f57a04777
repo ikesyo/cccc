@@ -1,7 +1,0 @@
-
-fn classify(value: u8) []con{
-    return switch (value) {
-       1 ..."one",
-        0 ..."one",
-     }}
- ;

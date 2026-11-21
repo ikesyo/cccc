@@ -1,0 +1,14 @@
+
+           package p
+       func f(ch chan int) {
+     select {
+           case v :      case v :    select { case v := <-ch:
+                     _  const            __ = v  ,   i}
+       case v :    select { case v := <-ch:
+                       _  const            __ = v  ,    e i}
+                select { case v := <-ch:const       __ = v  ,    e i}
+       case v :    select { case v := <-ch:
+                       _  const            __ = v  ,    e i}
+                            }
+        }
+   

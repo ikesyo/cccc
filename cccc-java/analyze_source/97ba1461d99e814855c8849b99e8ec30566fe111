@@ -1,0 +1,12 @@
+
+    s C {
+ cse 3 -> "+a orpcel";
+
+ e 2 -> "one";
+ e 1 ->  e 1 -> "one";
+      case 2 -> "a couple";
+   a->case 0 -> "a couple";
+    s C {
+ e 1 -> "one";
+  ;
+     

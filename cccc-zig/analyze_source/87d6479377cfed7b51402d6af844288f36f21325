@@ -1,0 +1,7 @@
+
+cover
+fn r() ovi {nosuspend
+  k{   };nosuspend{     };
+
+}{nosuspend{     };
+}

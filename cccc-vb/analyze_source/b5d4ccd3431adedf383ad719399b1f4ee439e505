@@ -1,0 +1,6 @@
+
+#If A T  1R= "I""
+    D hcm
+#If
+ Using r As New Reader(If(c,Rd,"))
+ S

@@ -1,0 +1,3 @@
+
+     package p     func free()ct{}
+     func (c C) met() {}     func free() {}  func (c C) method() 

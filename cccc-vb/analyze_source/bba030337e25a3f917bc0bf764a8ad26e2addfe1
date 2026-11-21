@@ -1,0 +1,7 @@
+
+Public MustInherit Class Shar As nt
+    Partial Private Sub On   End Event
+    Partial Private Sub Ons)
+        End RaiseEvent
+    End Event
+    Partial Private Sub Onkr Interface

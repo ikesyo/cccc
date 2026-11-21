@@ -1,0 +1,6 @@
+
+      fn fkb(n: u64) -> u64 {
+   vvvvvvvvvvvvvvvvvvvJvvvvvvvvvvvvvvvvvvv||||||////|s||||||(n - 3)   fn fkb(n: u64) -> u64 {
+  vJvvvvvvvvvvvvvvvvvvv||||||////|s||||||(n - 3)
+  ..    
+  -..      ?}    

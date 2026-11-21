@@ -1,0 +1,4 @@
+ [[[  switch (n% 1) {
+   }
+ switch (1) {     } switch ( 3){
+     

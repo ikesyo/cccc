@@ -1,0 +1,67 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+                bbbbb              if a && b {
+             if a && b {
+           }}
+               for a {
+            }
+                for i := 0; i < 3; i++ {
+                }
+      {
+ }
+      {
+                }
+                for i := range items {
+              for a {
+      }
+                 }
+                for i := range items {
+              for a {
+      }
+             }
+                f     for a {
+                }
+               for a {
+                }
+        bbbbbbbbbbbbbbb              for i := 1; i < 3; i++ {
+                }
+                for i := range items {
+              for a {
+      }
+           
+                }
+                f     for a {
+                }
+               for a {
+            }
+                for i := 0; i < 3; i++ {
+                }
+      {
+                }
+                for i := range items {
+              for a {
+   }
+           
+                }
+                f     for a {
+                }
+            default:        select {
+}                    select {
+                case v := <-ch:
+                    _ = v
+     {
+} ault:
+                }
+             select {
+}                    select {
+                case v := <-ch:
+                     ca     _ = v
+         default:
+                }
+          
+                }
+            }
+        

@@ -1,2 +1,0 @@
- (defun fa(n)
- (if (<) 1 (* n (f( n)

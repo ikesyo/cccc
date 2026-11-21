@@ -1,9 +1,0 @@
-
-def f(m: M[St): Lis= m.toList.m#p {
-         case (k, v) =>map {         case (k, v) => ielse ""
-        ?}
-  {
-        case (k, v) => if (   (}
-  .map {
-         case (k, v) => if (v > 5) k            |  &}
-          

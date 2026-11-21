@@ -1,6 +1,0 @@
-
-co
-test "service" {
-   i();
-}
-^

@@ -1,26 +1,0 @@
-2    Try
-        If a Then Foo( Catcar()
-    Catch
-    Finally   Catch
-    Finally
- hhhhhh b    Catcar()ch
-    Finally
- hhhhhhhhhhhhhhhhhhhhh b    Catcar()
-    Catch
-    Finally
-  b Then B  Cat       B.a)tcar()
-    Catch
-    Catch
-    Finally
-  b Then B  Cat       B.a)tcar()
-    Catch
-    Finally   Catch
-    F
-    tcar()
-    Catch
-    Finally
-  b Then B  Cat       B.a)tcar()
-    Catch
-    Finally   Catch
-    F
-    End Try

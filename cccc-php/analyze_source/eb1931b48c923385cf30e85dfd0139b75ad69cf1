@@ -1,0 +1,6 @@
+<?php
+          foreach ($items as $i) {
+             }
+     function f($items) {
+                foreach ($items as $i) {
+            }

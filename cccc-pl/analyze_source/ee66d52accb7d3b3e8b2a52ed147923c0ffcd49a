@@ -1,3 +1,0 @@
-
-(sub;
-  ub  (  @xs)do_all(map {) 0 } map { $_ } @xs) i }

@@ -1,9 +1,0 @@
- 
-    
- enum E {(x: Bool)   { retu  enum E {
-     func g(x: Bool) -> Int {
-}
-            } func g(x: Bool) -> Int {
-}
-            }
-     

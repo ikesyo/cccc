@@ -1,0 +1,5 @@
+
+   rif(Object value) => switch (v@lue) {
+      [i&& > 0, > 'matced',
+         t      _ => 'other',
+0       };i        
