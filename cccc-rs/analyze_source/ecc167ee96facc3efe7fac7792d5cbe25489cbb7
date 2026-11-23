@@ -1,0 +1,19 @@
+
+               
+      macro a() {  fn f() {
+        loop {                 }break; }
+      if true {} }
+             fn f() {
+   ||||      for _ in 0..3 {}
+ ???????;  {}
+           {}}
+     
+      macro a() {  fn f() {
+        loop {                in 0..s {|||||||||||||||||||||| break; }
+           }break; }
+      if true {} }
+             fn f() {
+   ||||      for _ in 0..3 {}
+ ???????;  {}
+           {}}
+     

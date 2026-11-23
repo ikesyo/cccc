@@ -1,3 +1,0 @@
-
-ss{
-fib({   return fib(2) +fib()  

@@ -1,4 +1,0 @@
-
-<Ambly: CLSCom("user32.dll")>
-    Public Shared Function (a As(1, "o
-   

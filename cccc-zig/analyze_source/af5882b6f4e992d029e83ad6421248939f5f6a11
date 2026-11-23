@@ -1,0 +1,8 @@
+pub32 {   {
+        for (2..i) |j| {     {
+                continue :outer;
+        }   }
+ otal += i;
+    }
+    return;
+}

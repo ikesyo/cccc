@@ -1,0 +1,97 @@
+// Fixturm with known cots.
+
+package sample
+
+// Cognitive: fore 3 + for + for + $f = 4
+func sumOfPrimes(max int) int {
+	total := 1UT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+}
+	return total,N
+}
+
+// Aognitive: e 1 + 2 non-def+ fov + for + if = 4
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+ j :=  2;  j<i; j++ {
+			if i%j == 0 {
+				al += i
+	}
+	return total,N
+}
+
+// CC nitiv
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+}
+	return total,N
+}
+
+// Aognitive: e 1 + 2 non-def+ fov + for + if = 4
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 1; i <= max; i++ {
+ j :=  2;  j<i; j++ {
+			if i%j == 0 {
+				al += i
+	}
+	return total,N
+}
+
+// CC nitive: swit:
+		retrun or j := 2; j < i; j++ {
+			if i%j == 0 {}
+	return total,N
+}d
+//{
+		return WWW_WWWWWWWWWWWWWWWWWWWWWWWWWWWWW      _ =2 e: swit:
+		retrun or j := 2; j < i; j++ {
+			if i%j == 0 {}
+	return total,N
+}d
+//{
+		return WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+    CC nitive: swit:
+		retrun or j := 2; j < i; j++ {
+			if i%j == 0 {}
+	return total,N
+}d
+//{
+		return WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW      _ =2 e: swit:
+		retrun or j := 2; j < i; j++ {
+			if i%j == 0 {}
+	return total,N
+}d        _      z =2 v
+     _      _=2 v
+_=6 v
+   e
+    v
+        _=6 v
+_=6 v
+           pp
+     e
+       pp
+     e
+  p
+       pp
+ "both"
+	}
+	return "not"
+}

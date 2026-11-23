@@ -1,0 +1,6 @@
+{
+    return switch (value) {
+ !     "one",t=> "two",
+       se => "many"*
+   _ };
+}

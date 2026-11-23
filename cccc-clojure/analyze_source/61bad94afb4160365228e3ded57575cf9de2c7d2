@@ -1,0 +1,2 @@
+      (defn a [x]    (defn a [x 1 2))
+   (defn a(1 2))   (defn b (:f y >f x 1 2))  (defn b x 1 2

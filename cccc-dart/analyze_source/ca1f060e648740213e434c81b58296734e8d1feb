@@ -1,0 +1,4 @@
+
+    f(bject value) => switch (value) {
+          [inrst && > 0, int second0&& < 10] => 'matched',;
+   

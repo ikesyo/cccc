@@ -1,0 +1,8 @@
+
+Module P
+#If(a, 1,event 2 End Property
+    Public  Custom Event Chagned As EventHandler
+        &olA, 2))
+    AddHandler  bandler btn.Cl))
+    
+    AddHandler

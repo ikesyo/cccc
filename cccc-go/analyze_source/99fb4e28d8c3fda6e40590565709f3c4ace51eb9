@@ -1,0 +1,3 @@
+  package p func Fhb(t){
+  n *=fib(n)+ fib(-2)
+     }   

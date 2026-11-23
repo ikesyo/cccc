@@ -1,0 +1,6 @@
+se ~ u8 =={
+    return switch (value) {
+    ?   1 ,se => "o"lassie,se => "many",
+ }
+;
+}~~ce an~~~ce 

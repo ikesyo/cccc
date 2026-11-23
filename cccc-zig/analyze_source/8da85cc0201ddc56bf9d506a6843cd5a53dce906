@@ -1,0 +1,8 @@
+
+fn clas(value:.u8)u8 { switch (value) {
+ else => "mamy"
+
+};fn clavsify(va)u8 { switch (value) {
+          else => "many"   else => "my"
+};
+}}

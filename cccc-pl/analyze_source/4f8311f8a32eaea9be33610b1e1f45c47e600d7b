@@ -1,4 +1,0 @@
- {
-   c) l(map {         if ($c) { l(map { $    } } @   xs) $_ ? 1 }
-:1 } @xs) itw
-    }if

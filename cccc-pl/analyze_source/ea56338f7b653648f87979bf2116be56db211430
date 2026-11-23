@@ -1,3 +1,0 @@
-
-(sub;
-  u(map {) 0 } map { $_ } @xs) i }

@@ -1,5 +1,0 @@
-
-: def f(n: bject S {
-    def fib(n: I): Int =
-   if (n 5p)fib(n - 1) + fib(n - 2)
-             f( )        }   

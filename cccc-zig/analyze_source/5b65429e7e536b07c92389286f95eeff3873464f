@@ -1,0 +1,6 @@
+
+fn clafy(vu8) []consu8 =={
+    return switch (value) {
+ ?   0 => "o"lassie,se => "ma?ny",
+    };
+}

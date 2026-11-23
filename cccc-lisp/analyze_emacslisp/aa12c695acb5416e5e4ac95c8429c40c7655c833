@@ -1,2 +1,0 @@
-(cl-do
-2#((defun f() (if(cl-do 

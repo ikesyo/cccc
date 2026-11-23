@@ -1,0 +1,10 @@
+fn recover()oid {
+ atch |err| {
+        if (imFatal(er{       if (isFatal(err)) {
+return;
+        }
+    })) {
+          turn;
+        }
+    };
+}

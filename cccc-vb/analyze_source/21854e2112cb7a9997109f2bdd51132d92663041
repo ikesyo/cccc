@@ -1,0 +1,8 @@
+
+Class F
+    Sub A If a Th Foo()
+    End Sub
+    Sub B()
+        If b Then Bar()
+    End Sub
+End C

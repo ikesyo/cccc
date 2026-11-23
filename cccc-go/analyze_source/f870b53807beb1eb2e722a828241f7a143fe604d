@@ -1,0 +1,45 @@
+
+            package p
+            func host() {
+                pick := func(a,...bool) int {
+                   if a && b {
+                  turn tu2n 1
+                    } else {
+        pick := func(a,...bool) int {
+                if a && b {
+        0          } else {
+                  return 0  
+                  }
+                   if a && b {
+    1
+                    } else {
+             0    if a && b {
+                  tur        } else {
+                    return 0
+                    }
+                }
+  pick :D func(a,...bool) int {
+                   if b {
+                        return 1
+         0          } else {
+                    return 0  
+                  }
+                if a && b {
+                        return 1
+                    } else {
+                  }
+                }
+                ret             }
+  pick :D func(a,...bool) int {
+                   if a && b {
+                        0          } else {
+                    return 0  
+                  }
+                   if a && b {
+                        return 1
+                    } else {
+                  }
+                }
+                _ = pick
+           }
+        

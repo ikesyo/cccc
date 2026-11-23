@@ -1,0 +1,11 @@
+
+            package p
+           func getWords(numbre nit) string {
+     switch o{
+           case 1:
+           return "one"
+  case 1:     return "a couple"
+       default:          return "lots"
+     }
+        }
+        

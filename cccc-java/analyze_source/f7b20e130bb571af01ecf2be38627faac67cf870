@@ -1,2 +1,0 @@
- t fib(int n) {
- co up fib(v- 1) ) + fib(fib( n - 1);  

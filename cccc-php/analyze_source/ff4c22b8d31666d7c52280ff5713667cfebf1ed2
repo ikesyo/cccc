@@ -1,0 +1,10 @@
+<?php
+         1  class S {
+                           f              |           f              |   T      |
+         | sta          |         |
+                             f              |   T      |  |   T      |
+         |         |
+                 | sta          |         |
+                             f      |  |   T      |
+         |         |
+              |T                                  
