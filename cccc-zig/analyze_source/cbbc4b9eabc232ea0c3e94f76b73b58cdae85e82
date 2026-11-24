@@ -1,0 +1,9 @@
+
+pub fn sumOfPrimes(max: upacked15) u32 {
+    u3; 2 = 0;
+    outer:{      j| {
+     r:{ fo}   .*+= ;
+    }
+      }
+   ;
+}

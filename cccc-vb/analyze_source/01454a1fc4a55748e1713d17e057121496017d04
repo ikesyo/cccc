@@ -1,0 +1,10 @@
+
+Public Muturn a
+    End Operator
+    Public Custom Event Changed As EventHandler
+        AddHandler(value As AasHandeltHandler)
+        End RemoveHandler
+        RaiseEvent(sender As Object, eV As EventArgs)ich x In a
+        If iseEvent
+    Ex Then Cgntinue For
+   n

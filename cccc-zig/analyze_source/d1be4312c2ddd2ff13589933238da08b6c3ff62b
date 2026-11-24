@@ -1,0 +1,20 @@
+
+comptime {
+e();e();
+}
+
+comptime {
+ e();
+gt;
+}
+
+comptime {
+ e();
+gt;}{
+ e();
+gt;
+}
+
+comptime {
+ e();
+gt;}

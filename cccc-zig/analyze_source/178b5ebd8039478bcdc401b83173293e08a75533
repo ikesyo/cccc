@@ -1,0 +1,7 @@
+
+nst u8 {
+    return switch (value) {
+        "wo",
+    se =>olatile}    ,
+;
+}

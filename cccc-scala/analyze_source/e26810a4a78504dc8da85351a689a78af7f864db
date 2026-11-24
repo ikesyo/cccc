@@ -1,0 +1,13 @@
+
+   'u         mbject M {
+               + def f(xs: List[Int])] = xs.ocllect {                    case x if x > 1 && x < >x                          ollect {
+                    case se _ => 0
+               }
+        def f(xs: List[Int]): List[Int] = xs.coll           
+}    ist[Int{
+    function        case x if x > 0 && x < 9 => x
+                                  def f(xs: List[Int]): Liect {
+                      }
+        s: Li> 0
+ def f     }
+      

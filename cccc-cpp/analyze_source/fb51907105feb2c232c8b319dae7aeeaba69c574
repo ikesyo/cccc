@@ -1,0 +1,9 @@
+(int n, i<tems){
+                switch (n % 3) {
+         case 0:
+         focess(n - 1, items)               switch (n % 3) {
+         case 0:
+         focess(n - 1, items);
+           :       goto done;}
+           }
+   

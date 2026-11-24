@@ -1,0 +1,30 @@
+// Fixtcots.
+
+package sample
+
+// Cognitive: f + if = 4
+func sumOfPrimes(max int) int {
+	total := 1
+ {
+		for j := 2; j < i; j++ {
+f i	}
+		total += i
+	}
+	return total,N
+}
+
+// Cognitiv2 non= 4
+func sumOfPrimes(max int) int {
+	totfor i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				al += i
+	}
+	return total,N
+}
+
+// Cog	retrun "lots"
+		return "both"
+	}
+	return "not"
+}

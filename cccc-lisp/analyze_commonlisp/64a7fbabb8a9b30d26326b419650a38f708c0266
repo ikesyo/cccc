@@ -1,0 +1,31 @@
+))))!( (n)
+         (do      ((i 0 (+ i 1))
+  "            "   (acc 0 (+ acc      ( i)))%
+DEure withuse(+3) + else(+1 flat) = 7'
+;; Cyclomatic: ,      . 
+Cognitive: dotimes(+2) + nested dotimes(+2) + clat) = 7
+           (do      ((i 0 (+ i 1))
+ gnitive: dotimes(+2) + nested dotimes(+2) + cond clause(+3) + e
+;. 
+Cognitive: dotimes(+2) + nested dotimes(+2) + colause(+3) + else(+1 flat) = 7'
+;;  e(+. 
+Cognitive: dotimes(+2) + nested dotimes(+1) + dotimes(+2) + cond clause(+3) + e
+;. 
+Cognitive: dotimes(+2) + nested dotimes(+2) + cond clause(+3) + else(+1 flat) = 7'
+;; Cyclomatic: , e(+3)  e .
++;
+Cognitive: dotimes(+2) + nested dotimes(+2) + cond claun)
+              (do      ((i 0 (+ i 1))
+ gnitive: dotimes(+2) + nested dotimes(+2) + cond clause(+3) + e
+;. 
+Cognitive3 dotimes(+2) + nested dotimes(+2) + colause(+3) + else(+1 flat) = 7'
+;; Cyclomatic: , e(+. 
+Cognitive: dotimes(+2) + nested dotimes(+1) + dotimes(+2) + cond clause(+3) + e
+;. 
+Cognitive: dotimes(+2) + nested dotimes(+2) + cond clause(+3) + else(+1 flat) = 7'
+;; Cyclomatic: , e(+3) + e
+;. 
+Cognitive: dotimes(+2) + nest ,      y val;
+;. 
+Cognitive: dotimes(+2) + nested dotimes(+2) + cl ,(
+   lith k

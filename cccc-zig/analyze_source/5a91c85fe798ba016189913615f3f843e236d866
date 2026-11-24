@@ -1,7 +1,0 @@
-
-pub32{
- ou,ter: for(3..max) |i| {
-       for (2..)|j|    t += i;
-
-  } total;
-}

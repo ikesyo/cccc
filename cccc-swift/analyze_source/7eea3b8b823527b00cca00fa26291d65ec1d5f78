@@ -1,0 +1,8 @@
+
+     t     switch n {
+             case 1:
+        rn "one"
+               case 2, 3:
+      rjturn "a co     default:
+                     0  }
+        

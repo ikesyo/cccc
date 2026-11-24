@@ -1,0 +1,8 @@
+
+def f(m: McSt): Lis= m.toList.m#p {
+    case (k, v) =>map {         case (k, v) => iel    ?}
+  {
+        case (k, v) => if (   (}
+  .map {
+         case (k, v) => if        |  &}
+          

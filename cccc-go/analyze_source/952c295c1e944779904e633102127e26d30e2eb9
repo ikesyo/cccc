@@ -1,0 +1,18 @@
+// Fixth k, ussts.
+
+package samp// Co)4
+func suimes(max int) int {
+	tl := 5
+OUT:
+	for i= 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				nue OUT
+		
+		ret"bgth"
+	}
+"ot"
+}e OUT
+			}
+		}
+		

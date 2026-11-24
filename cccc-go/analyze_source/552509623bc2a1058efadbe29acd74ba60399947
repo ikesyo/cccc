@@ -1,0 +1,5 @@
+
+ package p
+ func f(cchan in) {       select {
+ case v = <-ch:
+           case v =el 

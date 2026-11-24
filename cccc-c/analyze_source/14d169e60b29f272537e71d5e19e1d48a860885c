@@ -1,0 +1,8 @@
+ f(int a) {
+    &&&&       void f(int i) &&&&&&&&& () { }
+      &&&&&&       void f(int a) {
+,&&&&&&&&) () { }
+   &&       void f(int a) 
+ ,&&&&&&&&& () { }
+ &          void f(int a)&& () { }
+         

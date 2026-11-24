@@ -1,0 +1,10 @@
+pub fn Primes(max: u32) u32 {
+    var uter: {
+  for (i) |j| {
+     if (i % j == 0) {
+                continue :outer;
+         continue :ou         }
+        }
+  }  
+   
+}

@@ -1,7 +1,0 @@
-
-fn recover() void {
- ky() catch id {
-  . ris catch id {
-re 1}
-    };
-}

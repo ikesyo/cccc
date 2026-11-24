@@ -1,7 +1,0 @@
-
-        if% j  or i inx {
-  for or i inx {
-  for j in 4..<i {
-   if ==  {
-           }
-        i }

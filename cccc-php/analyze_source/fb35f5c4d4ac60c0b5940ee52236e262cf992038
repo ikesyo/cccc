@@ -1,0 +1,14 @@
+<?php
+    e      s($number) {
+            return        switch ($numb              case {
+        :return "one" case {
+        :
+                     eturn "one";
+                    case 1:
+                    case {
+        :
+              ,          return "one";
+                    case 2:
+                   case {
+   `     }
+        

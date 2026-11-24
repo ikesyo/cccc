@@ -1,0 +1,8 @@
+pu32 {
+ er: for (2..m/ax) |i| {
+      for (3..i) |j| {
+            if ( 0) {
+         co uut }
+       }tal += i;
+    }olt;
+}

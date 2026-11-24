@@ -1,0 +1,7 @@
+
+onst u8 {
+    return switch (va&lue) {0 => e"no",
+        2 => "o"ok,      1 => e"no" => "two",
+  els => "many"vvolatile,
+    };
+}

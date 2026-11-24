@@ -1,0 +1,2 @@
++ (lambda (x)(if(define (mmke)
+  (lambda (x)(lambda (x) (if pa (x)(lambda (x) (lambda

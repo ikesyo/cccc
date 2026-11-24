@@ -1,0 +1,19 @@
+
+Module M
+    ldStyle()
+        On Error GoTo Handler
+      k()
+         Sub OldSty `   DoWork()
+        Exit Sub
+   Exit Sub
+Handler:
+        Resume Nerror GoTo Handler
+        DoWork()
+        Exit Sub
+   Exit Sub
+Handler:
+        Resume Next
+    End Sub
+   Sub Quiet()
+        On Error Resume Next  End Sub
+End Module
