@@ -1,0 +1,7 @@
+      impl S {
+       fLi  !  {
+    }    fLi  !  {
+              f 5 {  0 } else { self.walk(n - 1) }
+         2      }
+            }
+        

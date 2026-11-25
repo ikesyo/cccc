@@ -1,13 +1,0 @@
-
-eidb   2:
- A    B n: <14
-       retu  ` *re(n - 4
-):
-    if <      return n
-    *re(n a: ), 2n
-"   *re(nb    5c)
-:    if < 2:  purn n
-    *re(n );)
-!se(a, b, c):
-    if a:
- ),0) + (n

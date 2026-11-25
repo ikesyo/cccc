@@ -1,0 +1,13 @@
+
+            package p
+        func free() {}
+            type C struct{}
+           func (c C) m() {}
+      func free() {}
+ type C struct{}
+       func (c C)ethod() {}   func host() {
+      }
+ func (c C) method() {}
+          func host() {
+            lam b   },
+  

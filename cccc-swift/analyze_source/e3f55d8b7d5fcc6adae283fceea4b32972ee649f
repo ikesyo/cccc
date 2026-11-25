@@ -1,12 +1,0 @@
-: Int) -> String {
-        !       switch n{
-        default:
- rn "a couple"
-           default:
-      
-e 0:
-                default:
-   eturn "a couple"
-                default:
-                  }
-        

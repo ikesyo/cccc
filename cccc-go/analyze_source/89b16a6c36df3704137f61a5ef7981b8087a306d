@@ -1,0 +1,6 @@
+
+     package p       func f(ch chan int) {
+     select {    case vpic <-ch:
+ case v<-ch:
+     case icvp <-c
+  ca 

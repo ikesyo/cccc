@@ -1,0 +1,5 @@
+(lambda (x) (if x (define (make)
+  (lambda      #    (lambda (x) (if x (define (make)      (lambda
+     #        (lambda (x) (if x (define (maze)
+     #  (lambda (   )     (lambda (@x)(if x (define (mke)
+    (lambda

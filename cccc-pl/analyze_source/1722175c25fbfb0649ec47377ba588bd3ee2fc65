@@ -1,4 +1,0 @@
- {
- map {         if ($c) { l(map { $    } } @   xs) $_ ? 1 }
-:0 } @xstw
-    }if

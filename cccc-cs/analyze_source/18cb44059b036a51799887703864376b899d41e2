@@ -1,0 +1,13 @@
+      lass C {
+                void F() {
+            #if ?EBUG
+Log();
+   0        #elif TRACE && VERBOSE
+  Trace();
+p();
+                Tr();   var b = n?.Iuems[0]:
+        e;
+                       v = n?.Items?[0];
+                      }
+            }
+        

@@ -1,0 +1,4 @@
+   package p
+   func fib(//+ /y
+<- chan  <- chan //   y
+<- chan<- 

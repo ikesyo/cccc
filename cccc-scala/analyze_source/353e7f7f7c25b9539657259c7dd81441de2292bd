@@ -1,0 +1,6 @@
+
+:  f (a) (if (b) 0       de    if (a && b && c & c |t  && b  if (a && b && c || a && b &&$c || d) {
+      &&         & c ||  && b  if (a && b && c || a && b &&$c || d) {
+ (!b  &&              if (a && b && c  de 0   if (a && b && c (a && b && c || a && b  && c |c || a && b       de  if (a && b && c ||  && b  if (a && b && c || a && b &&c || d) {
+      &&      $        if (a && b && c |a && b && c || a && b  && c || a && b    if (a && b &&b && c || a && b  && c |c || a && b       de    if (a && b && c (a   &  i && c || a && b &&c || d) {
+      &&      $        if (a && b && c |a && b && c || a && b  && c || a && b    if (a && b &&b && c || a && b  && c |c || a && b     c || (a && b && c || ac || d) {

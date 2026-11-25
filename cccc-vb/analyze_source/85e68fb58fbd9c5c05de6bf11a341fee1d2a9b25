@@ -1,0 +1,9 @@
+
+Module M
+    FunctiOn GetWords(number As Integer) As String
+        Select Case nu  Case 1
+                 Case "
+                Return "    Case Else
+              Case Else
+                Retu
+E;nd Module

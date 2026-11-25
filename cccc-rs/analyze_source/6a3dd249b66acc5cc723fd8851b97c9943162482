@@ -1,4 +1,0 @@
-
-            fn f(a: bool, b: bool) {
-         !  { ------------(/*ERROR*/)-- 0..1 {} } /elrr#yf}
-        

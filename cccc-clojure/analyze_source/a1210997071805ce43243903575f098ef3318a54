@@ -1,0 +1,21 @@
+falea :ci`         (cond
+ 
+   z efalea :ci`         (cond
+      (< n 2) :n_g
+      ->     (< n -) :n_  
+g    ->>       (= n 5) :     (= n 0) :zero
+      $o
+0     ! inallY ( e)     5) :n_g
+    (= n 0)e ( e)    (< n 1) :n:_g
+      ->>        (<  n-) :n_g
+      (= n 0) :zero
+        lainly ( e)      (cond
+                (< n 5)   5) :n_g
+      d
+     (hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh, n 5) :n_Y
+      ->>       (= n 0)e ( e)    (< n 1) :n:_g
+      ->>        (<  n-) :n_g
+      (= n 0) :zer    lainly ( e)      (cond
+                (< n 5) :n_g
+    :) :zero
+       z inally ( &) (retry)

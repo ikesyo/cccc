@@ -1,0 +1,3 @@
+if (or (and a b) (and c d ))& (and  ((or (and a b) (and cd 1 0)	
+) (and c 0))
+ d

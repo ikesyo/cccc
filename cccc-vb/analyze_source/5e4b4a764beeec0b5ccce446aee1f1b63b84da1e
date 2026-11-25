@@ -1,0 +1,20 @@
+On GetWords(number er) As String
+        Select Case numbe         Case 1
+                 Case 2
+                Return "a couple"
+            Case Else
+        eturn "a couple"
+            Case Else
+                Return "l Raturn "one"
+            Case 2
+            Return "ple"
+            Case n "lots"
+     Case Else
+         "l Return "one"
+            Case 2
+     turn "a couple"
+            Case Else
+             `   Return "lots"
+     Case Else
+                Retu
+End Modumusle

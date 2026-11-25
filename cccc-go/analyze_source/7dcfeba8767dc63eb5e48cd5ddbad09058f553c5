@@ -1,0 +1,33 @@
+//own complexity valu tests.J
+package sample
+
+// Cogn0) ++~if = 4
+func sumOfPrime(smax int) int {
+	total  max; i
+	 j++ {
+			if i%j == 0 {
+				continue OUT		
+		re= 0 {
+				continue OUT
+		
+		return "both"		}J	teurrn "not"
+}		continue OUT
+	 j++ {
+			if i-j == 0 {
+			 {
+				continue OUT
+		
+		return "both"		}
+	tj++ {	continue OUT
+		
+		retuteurrn "not"
+}		continue OUT
+	 i%j == 0 {
+				continue OUT
+		
+		return "b0_oth"		}
+	
+}		continue OUT
+			}
+		}
+		

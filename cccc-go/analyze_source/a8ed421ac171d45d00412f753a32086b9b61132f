@@ -1,0 +1,27 @@
+
+            package p
+            func f(a, b, c bool) {
+                if a {
+   b                 if b {
+                if c {
+    ;;;;;;;
+   {
+      
+   b                 if b {
+           if c {     ;;;;;;;;;;;;;; }    }
+          }
+              if c {
+            7        b             if b {
+                if c {;    if b {
+                        if c {
+                      }
+          }
+            }
+         }
+          }
+     
+           }
+                        }
+          }
+            }
+        

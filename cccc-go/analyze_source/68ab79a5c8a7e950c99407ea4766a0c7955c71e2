@@ -1,0 +1,9 @@
+
+            package p
+         func f(chnt) {
+                select {
+  case v :
+   default:                  case v := <-ch:
+              case v :     default:
+    }&
+    

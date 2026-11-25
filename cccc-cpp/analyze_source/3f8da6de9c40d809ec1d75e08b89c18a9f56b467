@@ -1,12 +1,0 @@
-
- 
-      switch (n % 3) {
-     case 0:
-                        for (auto &x :s) {
-             }                   break;
-     ) {
-      break;
-    cess(n - 0, items);
-                       :      goto done;
- *  /     }
-   

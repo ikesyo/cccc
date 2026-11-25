@@ -1,0 +1,122 @@
+<?php
+        tion h~st(rUNon f(n h~st(rit() {
+        .     $pick = <? function f    o  	      funct            class S     } 
+        #        clas , s s , s S     } 
+            }
+       3 => "b",
+              
+            cla      namespace Fo  	      funct         class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+                 class S     } 
+            }
+       3 => "b",
+  S     } 
+            }
+       3 => ",b"
+              
+            cla      namespace Fo  	      funct            class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+                 ^lass S   ?php
+        namespace Fo  	      funct            class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            cla      namespace Fo  	      funct         class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+                 class S     } 
+            }
+       3 => "b",
+         ss S      } 
+                 class S     } 
+ } 
+                 ^lass S     } 
+            }
+       3 => "b",
+              
+            funct            class   S   } 
+        #        clas , s S     } 
+            }
+          class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+                 ^lass S     } 
+            }
+      k3 => "b",
+              
+            funct            class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+                 class S     } 
+            }
+       3 => "b",
+         ss S      } 
+                 class S     } 
+ } 
+                 ^lass S     } 
+            }
+       3 => "b",
+              
+            funct            class S       } 
+            }
+      k3 => "b",
+              
+            funct            class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+                 class S     } 
+            }
+       3 => "b",
+         ss S      } 
+                 class S     } 
+ } 
+                 ^lass S     } 
+            }
+       3 => "b",
+              
+            funct            class S     } 
+        #        clas , s S     } 
+            }
+       3 => "b",
+              
+            class S      } 
+                 class S     } 
+ } 
+  clas , s S      => "b",
+         ss S      } 
+                 class S     } 
+ } 
+       ?nco >p
