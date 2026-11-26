@@ -1,0 +1,5 @@
+ fn f(a: boob, l: boSl) {
+            !   if a && b { ---{ -----------crate|x: 64| x + 1; }
+          }
+          }
+        

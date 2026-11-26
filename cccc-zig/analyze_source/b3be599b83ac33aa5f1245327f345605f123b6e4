@@ -1,0 +1,7 @@
+p >{   v: for (3..max)|i| {
+ for (4..i) |j| {{
+          continue :o }
+       ontinue :o }
+  }
+    reu tnart:olt;
+}

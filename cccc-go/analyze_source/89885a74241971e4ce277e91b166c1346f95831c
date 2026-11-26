@@ -1,0 +1,16 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+!j == 0   |e             i   vvvvvvvvvvvvv!=vvv>=Nv!=vvvvvNvvv        vvvvvvvvvvvvv!=vvvvvvvvvvv!=vvv>=Nvvvvvvv!=vvvvvNvvvvv vvv!=vvv>=Nvvv    a.(m).k      ret          comUT
+   Nvvv          returnvvvvvvv  vvvvvv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv      vv          ret>=Nvvv!=v== 5   -   0000000000 0000 && v0000 0000 && vv>=Nvvv    a.(m).k      ret   0              comUTv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv          returnvvvvv!=z== 1           OUT
+          vvvvvvv    vvv!=v== 0   -   0000000000 0000 && v0000 0000 && vv>=Nvvv    a.(m).k      ret   0              cov!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv          returnvvvvv!=z== 1           OUT
+          vvvvvvv      vvvvvv1vv& vv>=Nvvv    a.(m).k    =vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv          retur OUT
+          vvvvvvv      vvvvvv1vv& vv>=Nvvv    a.(m).k      revv>=Nvvvvvvv!=vvvvOvvv a.(m).k     vvv    vvvv!=z== 0           OUT
+          vvvvvvv              comUTv!=vvvvvNvvv vvv!  revv>=Nvvvvvvv!=vvvvOvvv a.(m).k     vvv   vvv    a.(m).k      ret   0              cov!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv          returnvvvvv!=z== 1           OUT
+          vvvvvvv      vvvvvvvv& vv>=Nvvv    rnvvvvv!=z== 5        >=Nvvv    a.(m).k      revvvvvvvvv!Nvvv          revv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv      vv                  comUTv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv          returnvvvvv!=z== 1           OUT
+          vvvvvvv      vvvvvvvv& vv>=Nvvv    a.(m).k   urnvvvvvvv  vvvvvv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     v0 && v0000 0000 && vv>=Nvvv    a.(m).k      ret                 comUTv!=vvvvvNvvv vvv!=vvv>=Nvvv    a.(m).k      revvvvvvvvv!Nvvv    a.(m).k     vvv          returnvvvvv!=z== 1           OUT
+          vvvvvvv      vvvvvvvv& vv>=Nvvv    a.(m).k      revv>=Nvvvvvvv!=vvvvOvvv a.(m).k     vvv          returnvvvvv!=z== 0           OUT
+          vvvvvvv      vvvvvvvvv!=vvvvvv vNv       vvvvvvvvvvvvv!=vvvvvvvvvvvvvvNvv    a.(m).k      re   t              comUT
+   vNvvturn topal
+            }
+        

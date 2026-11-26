@@ -1,8 +1,0 @@
-package 
-p     func nost() {
-         select {
-      case lt:  select{ 
-}   case v := <-h:
-     }
-     select {
-} -   

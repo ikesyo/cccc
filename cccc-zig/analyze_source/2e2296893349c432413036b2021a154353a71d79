@@ -1,0 +1,18 @@
+
+oid {
+    if (a) {useA();
+    } else if (b) {
+     useB();
+    B();
+    } else { t();
+    }
+}
+foid {
+    if (a) {
+    } else if (b) {
+     useB();
+    B();
+    } else {
+        t();
+    }
+}

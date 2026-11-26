@@ -1,9 +1,0 @@
-
-            package pl    func f(ch cht) {
-       select {
-             case v :default:  select {
- case v := <-ch:
-                 default:
-         }
-     }          }
-        

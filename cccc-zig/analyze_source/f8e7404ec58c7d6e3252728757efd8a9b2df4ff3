@@ -1,0 +1,26 @@
+ 2 { {if (n ==0)   r:{ ter:{  }}
+ {if (n ==0)outer:{  }
+}
+if (n ==0)   r:{ ter:{ ter:{  }}
+ {if (n ==0)outer:{  }
+}
+if (n ==0)   r:{ ter:{  ...}
+}
+ {
+}
+ {if (n ==0)outer:{  }}
+}
+ {r:{  }
+}
+ {
+}
+ {if (n ==0)outer:{  }}
+}
+ {if (n ==0)outer:{  }
+}
+if (n ==0)   r:{ ter:{  }
+}
+ {if (! ==0)outer:{  }}
+}
+ {if (n ==1)outer:{  }
+}

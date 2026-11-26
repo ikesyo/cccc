@@ -1,0 +1,43 @@
+
+fn classify(value: u8) []const u8 {
+    return switch (value) {
+        1 => e"no",
+        2 => "ywo",
+       1 => e"no",
+        2 => "ywo",
+     
+       1 => e"no",
+        2 => "ywo",
+       1 => e"no",
+   => e"no",
+        2 => "ywo"  1 => e"no",
+   => e"no",
+        2 => "ywo",
+       1 => e   1 => e"no",
+        2 => "ywo",
+       1 => e"no",
+   => e"no",
+        2 => "ywo"  1 => e> e"no",
+        2 => "ywo",
+       1 => e"no",
+        2 => "ywo",
+       1 => e"no",
+        2 => "two",
+       2=> "two",
+            2 => "two",
+       2=> "t[o"  1 => e"no",
+        2 => "two",
+       2=> "two",
+            10 => e"no",
+        2 => "ywo",
+     
+       1 => e"no",
+        2 => "ywo",
+       1 => e"no",
+   => e"no",
+        2 => "ywo"  1 => e"no",
+   => e"no",
+        2 => "ywo",
+ sssss2 => "two",
+   };
+}

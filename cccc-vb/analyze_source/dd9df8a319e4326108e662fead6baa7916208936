@@ -1,0 +1,5 @@
+
+Interface I
+    E
+#If NET
+    Property The

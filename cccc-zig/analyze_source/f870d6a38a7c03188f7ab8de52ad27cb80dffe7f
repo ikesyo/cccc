@@ -1,7 +1,0 @@
-
-c=  struct {0     {
-          }
-}S2
-test @"serv+|0" {
-r ();
-}

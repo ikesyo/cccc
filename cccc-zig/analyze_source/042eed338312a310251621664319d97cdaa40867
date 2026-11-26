@@ -1,0 +1,9 @@
+ptime {errdefer
+ g();
+}
+m
+imH -e {errdefer
+ errdefer
+   errdefer
+ !e(0);
+}
