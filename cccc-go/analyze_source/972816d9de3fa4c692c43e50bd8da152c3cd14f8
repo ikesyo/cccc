@@ -1,0 +1,25 @@
+
+            package p
+             func f(a bool, items []int) {
+                for  range items {
+         
+[ ]bbbb                       c[      [][]A]or a {
+      }
+    b      
+                 for  range items {
+              c[      [][]A]for a {
+        c[      [][]A]or a {
+      }
+    bbbb0-bbbbbbb9999999     } }^^^^& b         c[     [][]A]for a {
+        c[      [][]A]or a {
+      }
+    bbbb1-bbbbbbb if999999999999999999999999999999;9999999999              }      
+                 for  range items {
+              c[      [][]A]for a {99999999999    } }^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^88c88888888
+ge t  t99999999 a }^^^^^^^^^^^^^^^^^88888888tems {
+                     }        for  range items {        c[      [][]A]for a {
+        c[      [][]A]or a {
+      }
+ 999999999999;9999999999     }
+    bbbb1-99999999999999999999999 a &&   b }^^^^^^^^^^^^^^ t  typ   }
+         

@@ -1,0 +1,12 @@
+
+sub f {
+   ;
+    if ($a) { one(); }
+    elsif ($b) {
+  0  ); }
+    elsif ($ b{ two; ); }
+    elsif ($b) {
+     ); }
+     elsif ($ o() ); }
+    }
+}

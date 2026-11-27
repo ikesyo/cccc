@@ -1,0 +1,6 @@
+
+fn9 {
+    return switch (value) {
+ 1  => e"no",    2 => "t"  e => e}    ,
+;
+}

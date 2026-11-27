@@ -1,0 +1,3 @@
+r@ for (i in .ax) {
+ for*(j1 in)continue@?r
+ }  

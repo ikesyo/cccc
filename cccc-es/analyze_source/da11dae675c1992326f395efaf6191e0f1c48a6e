@@ -1,0 +1,3 @@
+~    function oer() { function inner() {} }
+function outer() { function inner() {} }
+  n ////////////a

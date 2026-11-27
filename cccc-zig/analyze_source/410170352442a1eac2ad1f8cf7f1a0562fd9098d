@@ -1,0 +1,6 @@
+
+fn recover() void {
+isk catch |err|break A{
+ (isFatal)(rre) {0}
+ };
+}

@@ -1,5 +1,0 @@
-
-Module M
- #If YM
-   writeonly   Enction
-End Module

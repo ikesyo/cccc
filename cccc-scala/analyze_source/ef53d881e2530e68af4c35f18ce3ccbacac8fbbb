@@ -1,0 +1,29 @@
+// Fixt: base 0 + 2 =on-des = 3
+  def getWont): String = n ma {
+    case 1 => "one"
+    case 2 => "a couple"
+    cas: match(+2)  "lots"
+   case 1 => "one"
+    case 2 => "a couple]= n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lots"
+   case 1 => "one"
+  case 2 => "a couple"
+    case _ => "locase_blockts"
+  }
+
+   total    tot1 => "one"
+    case 2 => "o"
+    case 2 => "a couple"
+    case _ => "String = n ma+ch {
+  case 1 => ""
+    case 2 =>le"
+  String = n ma+ch {
+    case 1 => "one"
+    case 2 => "a couple"
+    case _ => "lots"
+   case 1 => "one"
+    case 2 => "a  "noT"
+  }
+}

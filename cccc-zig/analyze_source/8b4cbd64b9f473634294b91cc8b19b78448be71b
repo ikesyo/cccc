@@ -1,0 +1,12 @@
+u7 7 {
+    urnn: switch (value) {
+  2  => "many"}
+}
+e{
+    urn: switch (value) {
+  2  => "many"}
+}e{
+    urn: switch (value) {
+  2  => "many"}
+}
+e

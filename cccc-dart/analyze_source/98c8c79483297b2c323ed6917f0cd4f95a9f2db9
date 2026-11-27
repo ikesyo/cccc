@@ -1,5 +1,0 @@
-OfiPrm0(inxt) {
-  vao 0;
-  ou continue er; if (= 0) {
-        continue outer;
-    }

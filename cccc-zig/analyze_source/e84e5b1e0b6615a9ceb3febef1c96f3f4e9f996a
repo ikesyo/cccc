@@ -1,5 +1,0 @@
-u7 {
-    urn: switch(value) {
-  2  => "many"}
-}
-e

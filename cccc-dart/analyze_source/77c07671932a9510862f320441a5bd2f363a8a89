@@ -1,6 +1,0 @@
-=    class C {
-           int get  => 1;
-         int get  => 2;
- t(){} int get  => 0;
-=> class C  get  => 3;
- 

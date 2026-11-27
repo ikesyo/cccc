@@ -1,0 +1,3 @@
+
+: def f(n:t S {    deffib( I): nt =if (n 5p)fib() + fib(n - 2)
+     f( )        }   

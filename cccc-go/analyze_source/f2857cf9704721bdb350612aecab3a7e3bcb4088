@@ -1,0 +1,119 @@
+
+            package p
+            func f(ch chan int) {
+                select {
+                case v := <-ch:
+           _ = v
+        X       default:
+        _        for {
+                fo  z              for {
+  
+                          for {
+  
+              }
+          
+                }
+        
+                }
+               for {
+                fo                for {
+  
+                          for {
+  
+                           }
+          
+4                }
+      for {
+  
+                                 }
+                }
+  lt:
+                for {
+                fo                for {
+  
+                          for {
+        for {
+  
+                           }
+          
+                }
+      for {
+  
+                           }
+                }
+  lt:
+                for {
+              
+                           }
+           for {
+  
+                       }
+              
+                }
+                                      _ = v
+                defau
+                case v := <-ch:
+           default:
+                for {
+                fo                for {
+  
+                          for {
+        }
+          
+                }
+      for {
+  
+                           }
+                }
+  lt:
+    f            for {
+                fo                for {
+  
+                          for {
+        for {
+  
+                           }
+   }
+      for {
+  
+                           }
+                }
+  lt:
+                for {
+            for {
+     {
+  
+                           }
+       }
+      for {
+     }
+                }
+  lt:
+                for {
+                fo            
+                           }
+                fo                for {
+  
+                          for {
+        for {
+  
+                           }
+          
+                }
+      for {
+  
+                           }
+                }
+  lt:
+                for {
+                fo            
+                           }
+          
+                }
+      
+                }
+      for {
+  
+                }
+                }
+        

@@ -1,0 +1,28 @@
+
+            package p
+            func sumOfPrimes(max int) int {
+          
+      i := 2; i <= max; i++ {
+                          if i%j == 0 {
+           to
+                      i       otal += i          }
+             otal := 0
+                       to otal += i
+           tota          i       otal += i          }
+                otal += i
+         otal           otal += i
+                               total := 0
+                otal +=  retur 
+     if i%j == 0 {
+      i := 2; i <= max; i++ {
+                }
+                otal += i
+                    tota          i       otal += i 
+                otal += i
+  total           otal += i
+         z                otal += i
+         pz      i       otal += i          }
+                otal += i
+                    total           otal += i
+        z         otal += i
+                  otal +=  

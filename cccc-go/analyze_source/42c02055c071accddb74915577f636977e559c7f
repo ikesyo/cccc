@@ -1,0 +1,4 @@
+
+   package p func f(c) {
+     select {  case v-ch: default:      case vpc <-c>=h:
+        case vpic <-ch:  

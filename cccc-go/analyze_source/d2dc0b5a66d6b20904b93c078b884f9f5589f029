@@ -1,0 +1,4 @@
+
+package p
+ func Ob() { struct{}{} struct{}{}
+2t

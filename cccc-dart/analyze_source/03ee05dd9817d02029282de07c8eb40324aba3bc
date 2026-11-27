@@ -1,0 +1,5 @@
+OfiPrm0(inxt) {
+  o;
+  ou continue er; if (= 0) {
+        continue outer;
+    }

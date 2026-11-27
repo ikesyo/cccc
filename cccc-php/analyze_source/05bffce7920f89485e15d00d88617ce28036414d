@@ -1,0 +1,12 @@
+<?php
+        %    fnuoi     function f($a, $b, zc=) {
+      $b ?? $c;
+          }   <?php
+ function f($a, $b, zc=) {
+(             }
+             retu  ?$?arn $b ?? $c;
+          <?php
+            function f($a, $b, $c=) {
+    ret$b ?? $c;
+          }         <?php
+ ->p

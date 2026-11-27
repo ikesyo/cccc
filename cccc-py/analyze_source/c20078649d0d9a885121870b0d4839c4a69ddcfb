@@ -1,9 +1,0 @@
-
-def f(x, p):
- match x:
-        case _ if p:
-            r;turn 3
-        case _:f &(s,p:cas   retu
-        case _:f &0s),p: 
-        case _:f &(x),p: 
-  urn 2
