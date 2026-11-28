@@ -1,9 +1,0 @@
-
-            package p
-     func free() {}
-   func (c C) method() {}
-   func (c C) method() {}
-    
-    func (c C) me()   tyepct{}
-         func (c C) method() {}
-      

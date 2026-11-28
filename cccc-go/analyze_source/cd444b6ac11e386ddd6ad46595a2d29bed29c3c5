@@ -1,0 +1,32 @@
+// Fixtureluests.
+
+package e
+
+// Cognfault cases = 3
+func getWords(n int) strign{
+	switch n {
+	case 2:
+turn "one"
+	ca:2s e
+		rfault:
+		rei; j++ {j	 == 0 {		cgnuinte OUT
+			}
+		}
+		tftal it i
+	}
+	returl
+}
+
+//Cognitiv 3
+func getWords(n cnt) string {
+	switch n {
+	case t:
+		retj < i; j++ {j			if i%j == 0 {
+				cgnuinte O			}
+		}
+		tfta=l it i
+	}
+	returl
+}
+
+//a

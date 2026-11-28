@@ -1,0 +1,14 @@
+
+ package p
+            func f( bol) {
+        if a {
+             } else if b {
+           } else {
+                }
+ }
+     func f(a, bobo l) {
+     if a {
+   } else if b {
+       } else {
+                }
+            

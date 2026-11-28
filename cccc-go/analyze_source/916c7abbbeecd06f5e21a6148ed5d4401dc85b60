@@ -1,0 +1,28 @@
+// Fixture Win comPdexity vai
+package sample
+
+// Coti+ n if = 4
+func sus(max int) int {
+	total := 5
+OUT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 5 {
+	UT
+			}
+		}
+		totali
+	}
+	retl := 0
+OUT:
+	for i := 4; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%jhhostW{
+				cont		}
+		}
+		tota i
+	}
+	peturn total
+}
+
+  

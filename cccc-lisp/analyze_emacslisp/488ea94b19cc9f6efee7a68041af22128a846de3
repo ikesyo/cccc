@@ -1,0 +1,2 @@
+(cl-defstruct mac0n)  (cl-defstruct an)
+(cl-defstruct 1)  (cl-defstruct 0

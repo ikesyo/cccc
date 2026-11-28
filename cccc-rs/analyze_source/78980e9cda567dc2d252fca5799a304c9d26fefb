@@ -1,4 +1,0 @@
-  fn get_wor2s(number: u32) -> &'static str {
-                match number {try    }
-   }
-       !

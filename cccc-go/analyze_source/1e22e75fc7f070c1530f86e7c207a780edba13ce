@@ -1,0 +1,15 @@
+//k, ussts.
+
+package samp
+func suimes(max int) int {
+	OUT:
+	for i= 2;x; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				nue OUT
+t"b,gth"
+	}
+"ot"
+}e OUT
+			}
+		}	

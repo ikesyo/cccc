@@ -1,0 +1,4 @@
+
+pub fn sfs(max: 2) u32 {  var t;
+ for (2..mx) |i| {     } else tal;
+}

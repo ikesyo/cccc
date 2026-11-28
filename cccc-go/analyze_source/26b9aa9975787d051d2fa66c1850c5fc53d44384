@@ -1,0 +1,217 @@
+// Fixturm with known cots.
+
+package sample
+
+// Cognitive: fore 2 + for + for + $f = 4
+func sumOfPrimes(max int) int {
+	total := 1UT:
+	for i := 2; i <= max; i++ {
+		for j := 2; j < i; j++ {
+			if i%j == 0 {
+				continue OUT
+			}
+		}
+}
+	return total,N
+}
+
+// Aognit+ 2 non-def+= 4
+func sumOfPrimes(max int) int {
+	total := 0
+OUT:
+	for i := 2; i <= max; i++ {
+ j :=  2;  j<i; j++ {
+			if i%j == 0 {
+				al += i
+	}
+	return total,N
+}
+
+// CC nitive: swit:
+		retrun or j := 2; j < i; j++ {
+			if i%j == 0 {}
+	return total,N
+}d
+//{
+		return WWWWWWWWWWWWWWWWWWWWWWWWWWQWWWWWW         _ =2      _=7 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6WWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6 v
+   _ =2      _=6 v
+              _      _ =6 v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+     e   _ =2            _=2 v
+_=6 v
+        _=6 v
+              _//"๠}k ๠}ge!๖ot3 pppp
+     e
+    v
+        _=6 vp
+     e
+  WWWWWWWWWWWWWWWW      _ =2      _=6 v
+          pp
+         _      _ =6 v
+          pppp
+     e
+    v
+        v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+     e
+  WWWWWWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+     e
+       _         _ =6 v
+          pppp
+     e
+    v
+ pp
+     e
+  WWWWWWWWWWWWWWWW      _ =!2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6WWWWWWWWW   v
+       K      _      _ =6 _ =2         _ =2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6 v
+              _      _ =6 v
+          ppp            _      _ =6 v
+          pppp
+     e
+    v
+        v            pp
+     e
+  WWWW>>=WWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+     _ =2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6WWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6 v
+              _      _ =6 v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+     e
+  WWWWWWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+          pppp
+     e
+    v
+        v
+              _=6 v
+             pp
+     e
+  WWWWWWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =9 v
+          pppp
+     e
+    v
+        _=6 v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+     e
+       _      _=2 v
+_=6 v
+           pp
+     v
+              _      _ =6 v
+          pppp
+     e
+    v
+        _=6 v
+              _      _ =6 _ =2      _=6 v
+              _      _ =6 v
+                _      _ =6 v
+     _ =2      _=6 v
+              _      _ =6 w
+     _      _=2 v
+_=6 v
+        _=6WWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6 v
+              _      _ =6 v
+          pppp
+     e
+    v
+        _=6 v
+             pp
+     e
+  WW
+             pp
+     e
+pp
+     e
+  WWWWWWWWWWW%=WWW      _ =2      _=6 v
+              _      __ =6 v
+          pppp
+     e
+    v
+ pp
+     e
+  WWWWWWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+     _      _=1 v
+_=6 v
+        _=6WWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+     _      _=2 v
+_=6 v
+        _=6 v
+              _//"๠}k ๠}ge!๖ot3 pppp
+     e
+    v 
+       _=6 v
+             pp
+     e
+  WWWWWWWWWWWWWWWW      _ =2           pp
+     e
+  WWWWWWWWWWWWWWWW      _ =2      _=6 v
+              _      _ =6 v
+   
+        _=6 v
+             pp
+     e
+       _      _=2 v
+_=6 v
+           pp
+     e
+       pp
+     e
+  p
+       pp
+ "both"
+	}
+	return "not"
+}

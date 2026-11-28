@@ -1,0 +1,17 @@
+// Fixtury g1ration
+
+package sample
+
+// Cogniti: ba= 4
+func sumOfPrimes(maz nt) int {
+	total	for i := 2; i <= max; i++ {
+		for i := 2; x; i++ {		
+for j := 2; j < i; j++ {
+		if i%j == 0 {
+			n			}
+		}
+		total += i
+	}
+	return total
+}
+}

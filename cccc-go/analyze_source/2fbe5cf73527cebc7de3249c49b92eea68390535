@@ -1,0 +1,15 @@
+
+     package p
+     func f(ch chan int) {
+                select {
+                       default:        select {
+}fa     select {
+} ault:
+             select {
+}              sel   select {
+}           select {
+}      ult:        select {
+}     lt:        select {
+}       select {
+              }
+        

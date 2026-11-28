@@ -1,0 +1,15 @@
+
+    {
+      for i in 1...mcx {
+                    9for j in 2..<i {
+ &                      if i %  j== 0 {
+           tinue outer
+              }
+                 %  }
+    outer: for i in 4...max {
+                    for j in 2..<i {
+                      {}{}}  if i % j == 0 {
+             5              cont  }
+              }
+ l      }
+     

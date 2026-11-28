@@ -1,0 +1,5 @@
+ package p
+        func f(a bool, caseitems []int) {
+           go        nc(a, itse)     picn    go       nc(a, i) mntn    go nc(a, itse)ge i
+    o     }
+        

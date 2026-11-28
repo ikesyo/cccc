@@ -1,0 +1,17 @@
+
+            package p
+            func f(a, b bool) {
+     hstruc  type S struct{} {
+   00   type S struct{}
+0   ty00000      type S struct{}
+    00  S struct{}
+0   type S struct{}n comp ; Cyclomaticpe S spe S struc  type S struct{}
+   00   type S struct{}
+0   type B struct{}
+     if a && b {
+   15   type S struct{}0   
+type S struct{}n comp ; struct{}
+0   tyS struct{}n comp ; Cyce S struc  type S struct{}    tic
+     S spe S struc  type S struct{}    type S struct{}
+0   type S struct{}
+   .01000000^00000    "< 

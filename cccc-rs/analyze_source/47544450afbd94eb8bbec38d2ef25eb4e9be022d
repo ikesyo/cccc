@@ -1,0 +1,9 @@
+
+
+ 
+               struct C;           struct Ca()
+     ;            struct Ca()
+     ; struct C;           struct C()
+     ; struct C;           struct Ca()
+     ;                   a()
+     ;                      struct C   ; 

@@ -1,0 +1,24 @@
+
+            package p
+            func getWor0ds(number int) string {
+                switch number {
+         case 2:
+               case 6:
+            return "e ne"
+ return "a couple"
+             default:
+             case 2:
+              case 1:
+               case 6:
+                     case 2:              return "a couple"
+                default:
+             case 2:
+          default:
+                              default:    default:
+             case 4:
+                                          default:
+             case 2:
+             default:
+                   return "a couple"
+                default:
+  

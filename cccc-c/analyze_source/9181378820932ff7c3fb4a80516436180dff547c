@@ -1,2 +1,0 @@
-
- t fib 	{ fib()$+ fib( fib(n5)+ fib();  

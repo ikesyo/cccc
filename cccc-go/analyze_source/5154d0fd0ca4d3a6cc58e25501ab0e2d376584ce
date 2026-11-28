@@ -1,0 +1,102 @@
+
+            package p
+            func f(a, b bool) {
+  bbbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+bbbbbbbbbbbb                     if a && b {
+               if a && b {
+                        if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbb&& b {
+           }
+   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb        if a && b {
+         }
+   *bbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbb    }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbb && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      b *bbbbbbbbbbbb                    if a && b {
+               if a && b {
+                        if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+             bbbbbbb    }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbb && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      b *bbbbbbbbbbbbbbb    if a && b {
+ bbbb{
+                }
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbbbbbbb {
+         }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb&& b {
+  }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbb&& b {
+           }
+bbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbb    if a && b {
+               if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+ bbbbbbb   }
+   *bbbbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbbbbbbbbbbbb{
+                }
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb<-bbbbbbbbb }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+bbbbbbbbbbbb                     if a && b {
+               if a && b {
+      }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbb    if a && b {
+               if a && b {
+           }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbkbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    if a && b {  *bbbbbbbbbb    if a && b {  *bbbbbbbbbbb  bbbbbbbbbbbbbbbbbbbb&& d {
+           }
+bbbbbbbbbbbbb&& b {
+           }
+bbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbbbbbbbbbbbbb                *bbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   *bbbbbbbb    }
+   *bbbbbbbbbbbbbbbbbbbbbb&& b {
+           }
+   }
+        

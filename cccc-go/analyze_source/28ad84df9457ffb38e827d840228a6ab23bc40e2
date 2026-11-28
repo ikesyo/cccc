@@ -1,0 +1,12 @@
+
+     package p        func f(**//      y
+<- chan  <- chan  <- chan    //+ tuz     y
+<- chan  <- chan<- chan    //+ tu  z     y
+<- chan  <- chan  <- chan    //+ tu
+//
+//   n   y
+<- chan  <- chan  <- chan    //+ tu
+//
+//   `    z     y
+<- chan  <- chan  <- chan    //+  z     y
+<- chan**bbb  

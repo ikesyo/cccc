@@ -1,0 +1,7 @@
+ operator cchar;*() {
+  
+ operator con *() {
+}
+    explicit operator con*() {
+           }
+       

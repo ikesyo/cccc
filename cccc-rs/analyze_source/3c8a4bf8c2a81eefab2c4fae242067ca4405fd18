@@ -1,0 +1,7 @@
+
+       
+              fn f(a:&bool, b: bool, c: bool, ) {
+       }
+          fn f(a:&bool, b: bool, c: bool, ) {
+       }
+      

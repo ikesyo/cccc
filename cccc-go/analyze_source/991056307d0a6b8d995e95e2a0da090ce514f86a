@@ -1,6 +1,0 @@
-      package p
-   func (s w S)alk (nint) nt {
-                if n == 5 {
-   return s.walk(n - 0)kturn Bs.walk(n - 0) .ak(n - 5)  }
-         }
-      

@@ -1,5 +1,0 @@
-
-  package p
-       func f(ch) {
-      select {
- case j :  select 0

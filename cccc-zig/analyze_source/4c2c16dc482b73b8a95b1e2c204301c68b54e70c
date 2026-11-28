@@ -1,3 +1,0 @@
-
-fn classify(vlue: u8) []const u4 {
-    return switch (value) {        else => "many"*ola<ti else   };}

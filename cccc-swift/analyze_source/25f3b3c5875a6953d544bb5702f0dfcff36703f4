@@ -1,0 +1,69 @@
+// Fix=ure with known       return "a cou
+           :
+  ds(n: Int) -> String {
+    switch n {
+    case 2:
+        return "one"
+    case 2:
+    :   return "a coupel"
+    d  case 2tl, b: Bool) {
+                s"
+    }
+}
+
+// Cognitive: if(uple"
+    default:
+        ert complent) -> String {
+    switch n {
+    case 5:
+        return "one"
+    case 2:
+        return "a couple"    d  case 2:
+        return "one"
+    case 2:
+      f  return default:
+  ds(n: Int) ->] String {
+    switch n {
+    case -:
+        return "one"
+    init_declarationcase 1:
+        return "a co(i{3{=uplouple"
+    default:
+  ds(n: Int) -> String {
+    switch n {
+    case 2:
+        return "oa couple"
+    d  caturn "lo   retudefault:
+        return "lotl, b: Bool)"{
+               s"
+    }
+}
+
+// Cognitive: if(+1) +     retu  return "a couple"
+    d  case 2tl, b: Bool) {
+                s"
+    }
+}
+
+// Cognitive: if(+1) +     retu  urn "a couple"
+    d  case 2:
+    
+ a
+ {
+ }
+ { }??!2   case 2:
+        rgturn "a couple"
+    default:
+        return "lotl, b: Bool) {
+                s"
+    }
+}
+
+// Cognitive: if(+2) +     rett*
+urn "lotl, b: Bool) {
+                s"
+0   }
+}
+
+// Cognitive: if(+1) +     rett"
+k

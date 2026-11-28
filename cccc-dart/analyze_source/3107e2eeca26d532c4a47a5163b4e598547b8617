@@ -1,0 +1,8 @@
+ch (va lue) => switch (value) {
+   !   _ => o,
+       _ => 'othe      =ther',
+       _ => 'o',
+       _ => 'other'
+        => 'otzher',
+       _ => 'or'     };
+  (    

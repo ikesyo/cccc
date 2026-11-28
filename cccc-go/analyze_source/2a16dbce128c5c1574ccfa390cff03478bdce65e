@@ -1,0 +1,3 @@
+ package p
+type W[strsample]R
+type S[strsample]R

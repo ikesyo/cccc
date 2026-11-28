@@ -1,4 +1,0 @@
-
-pub fn sfs(max: 2) u32 {  var t;
- for (2..max) |i| {     } else tal;
-}
